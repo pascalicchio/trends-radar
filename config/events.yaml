@@ -1,0 +1,102 @@
+# Curated upcoming events. Every event MUST have a source_url and a verify block.
+# Each run, the pipeline re-fetches verify.wiki (Wikipedia plain text) or verify.url and checks
+# that verify.pattern (regex) is present. Unverified events are kept but flagged verified:false.
+# wiki_article: used for "hype now" (pageviews last 7d vs prior 28d) and "last year" (views in the
+# same calendar window one year earlier, using last_year_article if given).
+# Automatic sources (no curation needed): US federal holidays (Nager.Date), Jewish holidays (Hebcal),
+# solstices/equinoxes (US Naval Observatory), rocket launches (The Space Devs), US film releases
+# (Wikipedia "List of American films of YYYY"), round-number anniversaries (Wikipedia On This Day).
+events:
+  - name: Black Friday
+    date: 2026-11-27
+    category: shopping
+    source_url: https://en.wikipedia.org/wiki/Black_Friday_(shopping)
+    verify: {wiki: "Black Friday (shopping)", pattern: "day after Thanksgiving|Friday after Thanksgiving|following Thanksgiving"}
+    rule: "Day after US Thanksgiving (Nov 26, 2026 per Nager.Date US holidays)"
+    wiki_article: Black_Friday_(shopping)
+    tags: [black friday, shopping, deals, holiday]
+  - name: Cyber Monday
+    date: 2026-11-30
+    category: shopping
+    source_url: https://en.wikipedia.org/wiki/Cyber_Monday
+    verify: {wiki: "Cyber Monday", pattern: "Monday after|after Thanksgiving"}
+    rule: "Monday after US Thanksgiving"
+    wiki_article: Cyber_Monday
+    tags: [shopping, tech, deals]
+  - name: Atlantic hurricane season officially ends
+    date: 2026-11-30
+    category: seasonal
+    source_url: https://en.wikipedia.org/wiki/2026_Atlantic_hurricane_season
+    verify: {wiki: "2026 Atlantic hurricane season", pattern: "end on November 30, 2026"}
+    wiki_article: 2026_Atlantic_hurricane_season
+    last_year_article: 2025_Atlantic_hurricane_season
+    tags: [hurricane, storm, season recap, prep]
+  - name: College Football Playoff final rankings / bracket release
+    date: 2026-12-06
+    category: sports
+    source_url: https://en.wikipedia.org/wiki/2026%E2%80%9327_College_Football_Playoff
+    verify: {wiki: "2026–27 College Football Playoff", pattern: "December 6"}
+    wiki_article: 2026–27_College_Football_Playoff
+    last_year_article: 2025–26_College_Football_Playoff
+    tags: [sports, college football]
+  - name: The Game Awards 2026
+    date: 2026-12-10
+    category: awards
+    source_url: https://en.wikipedia.org/wiki/The_Game_Awards_2026
+    verify: {wiki: "The Game Awards 2026", pattern: "December 10, 2026"}
+    wiki_article: The_Game_Awards_2026
+    last_year_article: The_Game_Awards_2025
+    tags: [video games, awards, gaming, trailers, tech]
+  - name: Nobel Prize award ceremonies (Stockholm & Oslo)
+    date: 2026-12-10
+    category: awards
+    source_url: https://en.wikipedia.org/wiki/Nobel_Prize
+    verify: {wiki: "Nobel Prize", pattern: "10 December|December 10"}
+    rule: "Held annually on 10 December, the anniversary of Alfred Nobel's death"
+    wiki_article: Nobel_Prize
+    tags: [science, physics, history, discovery]
+  - name: Geminid meteor shower peak
+    date: 2026-12-14
+    category: astronomy
+    source_url: https://en.wikipedia.org/wiki/Geminids
+    verify: {wiki: "Geminids", pattern: "morning of December 14"}
+    rule: "Annual peak; highest intensity usually the morning of Dec 14"
+    wiki_article: Geminids
+    tags: [meteor, space, astronomy, sky]
+  - name: "Dune: Part Three (US release)"
+    date: 2026-12-18
+    category: film
+    source_url: https://en.wikipedia.org/wiki/Dune:_Part_Three
+    verify: {wiki: "Dune: Part Three", pattern: "December 18, 2026"}
+    wiki_article: "Dune:_Part_Three"
+    last_year_article: "Dune:_Part_Two"
+    tags: [movie, film, sci-fi, desert]
+  - name: NFL regular season ends
+    date: 2027-01-10
+    category: sports
+    source_url: https://en.wikipedia.org/wiki/2026_NFL_season
+    verify: {wiki: "2026 NFL season", pattern: "January 10, 2027"}
+    wiki_article: 2026_NFL_season
+    tags: [sports, nfl, football]
+  - name: NFL playoffs begin
+    date: 2027-01-16
+    category: sports
+    source_url: https://en.wikipedia.org/wiki/2026_NFL_season
+    verify: {wiki: "2026 NFL season", pattern: "playoffs will begin on January 16"}
+    wiki_article: 2026_NFL_season
+    tags: [sports, nfl, football, playoffs]
+  - name: New Year's Eve (Times Square ball drop, worldwide celebrations)
+    date: 2026-12-31
+    category: holiday
+    source_url: https://en.wikipedia.org/wiki/Times_Square_Ball
+    verify: {wiki: "Times Square Ball", pattern: "New Year's Eve"}
+    wiki_article: Times_Square_Ball
+    tags: [new year, holiday, resolutions, history]
+  - name: "Super Bowl LXI"
+    date: 2027-02-14
+    category: sports
+    source_url: https://en.wikipedia.org/wiki/Super_Bowl_LXI
+    verify: {wiki: "Super Bowl LXI", pattern: "February 14, 2027"}
+    wiki_article: Super_Bowl_LXI
+    last_year_article: Super_Bowl_LX
+    tags: [sports, nfl, ads, halftime]

@@ -1,0 +1,3178 @@
+{
+ "captured_at": "2026-11-18T07:16:35+00:00",
+ "trends": {
+  "US": [
+   {
+    "trend_name": "Grimes",
+    "url": "https://x.com/search?q=Grimes"
+   },
+   {
+    "trend_name": "Hornets",
+    "url": "https://x.com/search?q=Hornets"
+   },
+   {
+    "trend_name": "Lakers",
+    "url": "https://x.com/search?q=Lakers"
+   },
+   {
+    "trend_name": "Charles Lee",
+    "url": "https://x.com/search?q=Charles%20Lee"
+   },
+   {
+    "trend_name": "#LakeShow",
+    "url": "https://x.com/search?q=%23LakeShow"
+   },
+   {
+    "trend_name": "Brandon Miller",
+    "url": "https://x.com/search?q=Brandon%20Miller"
+   },
+   {
+    "trend_name": "#dwts",
+    "url": "https://x.com/search?q=%23dwts"
+   },
+   {
+    "trend_name": "Naz Reid",
+    "url": "https://x.com/search?q=Naz%20Reid"
+   },
+   {
+    "trend_name": "Coby White",
+    "url": "https://x.com/search?q=Coby%20White"
+   },
+   {
+    "trend_name": "Connor",
+    "url": "https://x.com/search?q=Connor"
+   },
+   {
+    "trend_name": "Sion James",
+    "url": "https://x.com/search?q=Sion%20James"
+   },
+   {
+    "trend_name": "Duke",
+    "url": "https://x.com/search?q=Duke"
+   },
+   {
+    "trend_name": "Tatyana",
+    "url": "https://x.com/search?q=Tatyana"
+   },
+   {
+    "trend_name": "Brice Sensabaugh",
+    "url": "https://x.com/search?q=Brice%20Sensabaugh"
+   },
+   {
+    "trend_name": "Spurs",
+    "url": "https://x.com/search?q=Spurs"
+   },
+   {
+    "trend_name": "Grant Williams",
+    "url": "https://x.com/search?q=Grant%20Williams"
+   },
+   {
+    "trend_name": "Looney",
+    "url": "https://x.com/search?q=Looney"
+   },
+   {
+    "trend_name": "Pistons",
+    "url": "https://x.com/search?q=Pistons"
+   },
+   {
+    "trend_name": "Carson Cooper",
+    "url": "https://x.com/search?q=Carson%20Cooper"
+   },
+   {
+    "trend_name": "Amber",
+    "url": "https://x.com/search?q=Amber"
+   },
+   {
+    "trend_name": "Thybulle",
+    "url": "https://x.com/search?q=Thybulle"
+   },
+   {
+    "trend_name": "Jenna",
+    "url": "https://x.com/search?q=Jenna"
+   },
+   {
+    "trend_name": "#CHAvsLAL",
+    "url": "https://x.com/search?q=%23CHAvsLAL"
+   },
+   {
+    "trend_name": "Ezra",
+    "url": "https://x.com/search?q=Ezra"
+   },
+   {
+    "trend_name": "Mary Peltola",
+    "url": "https://x.com/search?q=Mary%20Peltola"
+   },
+   {
+    "trend_name": "Maura",
+    "url": "https://x.com/search?q=Maura"
+   },
+   {
+    "trend_name": "Mamu",
+    "url": "https://x.com/search?q=Mamu"
+   },
+   {
+    "trend_name": "Royce O’Neal",
+    "url": "https://x.com/search?q=Royce%20O%E2%80%99Neal"
+   },
+   {
+    "trend_name": "Kessler",
+    "url": "https://x.com/search?q=Kessler"
+   },
+   {
+    "trend_name": "Eichel",
+    "url": "https://x.com/search?q=Eichel"
+   },
+   {
+    "trend_name": "New Zealand",
+    "url": "https://x.com/search?q=New%20Zealand"
+   },
+   {
+    "trend_name": "Philippines",
+    "url": "https://x.com/search?q=Philippines"
+   },
+   {
+    "trend_name": "Doc Rivers",
+    "url": "https://x.com/search?q=Doc%20Rivers"
+   },
+   {
+    "trend_name": "Michigan State",
+    "url": "https://x.com/search?q=Michigan%20State"
+   },
+   {
+    "trend_name": "Rick Barnes",
+    "url": "https://x.com/search?q=Rick%20Barnes"
+   },
+   {
+    "trend_name": "Lamelo",
+    "url": "https://x.com/search?q=Lamelo"
+   },
+   {
+    "trend_name": "#TexasHockey",
+    "url": "https://x.com/search?q=%23TexasHockey"
+   },
+   {
+    "trend_name": "Andrej Stojakovic",
+    "url": "https://x.com/search?q=Andrej%20Stojakovic"
+   },
+   {
+    "trend_name": "Sadler",
+    "url": "https://x.com/search?q=Sadler"
+   },
+   {
+    "trend_name": "#GTA6",
+    "url": "https://x.com/search?q=%23GTA6"
+   },
+   {
+    "trend_name": "Ty Lue",
+    "url": "https://x.com/search?q=Ty%20Lue"
+   },
+   {
+    "trend_name": "Hunter Yurachek",
+    "url": "https://x.com/search?q=Hunter%20Yurachek"
+   },
+   {
+    "trend_name": "Jollibee",
+    "url": "https://x.com/search?q=Jollibee"
+   },
+   {
+    "trend_name": "Clean Harbors",
+    "url": "https://x.com/search?q=Clean%20Harbors"
+   },
+   {
+    "trend_name": "Rylee",
+    "url": "https://x.com/search?q=Rylee"
+   },
+   {
+    "trend_name": "Trey Lyles",
+    "url": "https://x.com/search?q=Trey%20Lyles"
+   },
+   {
+    "trend_name": "Tyran Stokes",
+    "url": "https://x.com/search?q=Tyran%20Stokes"
+   },
+   {
+    "trend_name": "carrie ann",
+    "url": "https://x.com/search?q=carrie%20ann"
+   },
+   {
+    "trend_name": "Wemby",
+    "url": "https://x.com/search?q=Wemby"
+   },
+   {
+    "trend_name": "Arkansas",
+    "url": "https://x.com/search?q=Arkansas"
+   }
+  ],
+  "Worldwide": [
+   {
+    "trend_name": "毒うさぎ",
+    "url": "https://x.com/search?q=%E6%AF%92%E3%81%86%E3%81%95%E3%81%8E"
+   },
+   {
+    "trend_name": "毒うさぎ",
+    "url": "https://x.com/search?q=%E6%AF%92%E3%81%86%E3%81%95%E3%81%8E"
+   },
+   {
+    "trend_name": "毒うさぎ",
+    "url": "https://x.com/search?q=%E6%AF%92%E3%81%86%E3%81%95%E3%81%8E"
+   },
+   {
+    "trend_name": "Grimes",
+    "url": "https://x.com/search?q=Grimes"
+   },
+   {
+    "trend_name": "毒ウサギ",
+    "url": "https://x.com/search?q=%E6%AF%92%E3%82%A6%E3%82%B5%E3%82%AE"
+   },
+   {
+    "trend_name": "Lakers",
+    "url": "https://x.com/search?q=Lakers"
+   },
+   {
+    "trend_name": "Hornets",
+    "url": "https://x.com/search?q=Hornets"
+   },
+   {
+    "trend_name": "#RalphLaurenSG",
+    "url": "https://x.com/search?q=%23RalphLaurenSG"
+   },
+   {
+    "trend_name": "#RLHolidaySG",
+    "url": "https://x.com/search?q=%23RLHolidaySG"
+   },
+   {
+    "trend_name": "ミャクミャク",
+    "url": "https://x.com/search?q=%E3%83%9F%E3%83%A3%E3%82%AF%E3%83%9F%E3%83%A3%E3%82%AF"
+   },
+   {
+    "trend_name": "Charles Lee",
+    "url": "https://x.com/search?q=Charles%20Lee"
+   },
+   {
+    "trend_name": "#LakeShow",
+    "url": "https://x.com/search?q=%23LakeShow"
+   },
+   {
+    "trend_name": "#SorryNotSorryPERTH",
+    "url": "https://x.com/search?q=%23SorryNotSorryPERTH"
+   },
+   {
+    "trend_name": "ビーアン",
+    "url": "https://x.com/search?q=%E3%83%93%E3%83%BC%E3%82%A2%E3%83%B3"
+   },
+   {
+    "trend_name": "#auPAYで超チャンス",
+    "url": "https://x.com/search?q=%23auPAY%E3%81%A7%E8%B6%85%E3%83%81%E3%83%A3%E3%83%B3%E3%82%B9"
+   },
+   {
+    "trend_name": "Brandon Miller",
+    "url": "https://x.com/search?q=Brandon%20Miller"
+   },
+   {
+    "trend_name": "JR東日本",
+    "url": "https://x.com/search?q=JR%E6%9D%B1%E6%97%A5%E6%9C%AC"
+   },
+   {
+    "trend_name": "MAYBELLINE TANGHULU OHAE",
+    "url": "https://x.com/search?q=MAYBELLINE%20TANGHULU%20OHAE"
+   },
+   {
+    "trend_name": "オレンジの子",
+    "url": "https://x.com/search?q=%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%AE%E5%AD%90"
+   },
+   {
+    "trend_name": "ロマシン",
+    "url": "https://x.com/search?q=%E3%83%AD%E3%83%9E%E3%82%B7%E3%83%B3"
+   },
+   {
+    "trend_name": "票の操作",
+    "url": "https://x.com/search?q=%E7%A5%A8%E3%81%AE%E6%93%8D%E4%BD%9C"
+   },
+   {
+    "trend_name": "Naz Reid",
+    "url": "https://x.com/search?q=Naz%20Reid"
+   },
+   {
+    "trend_name": "INFOBAR",
+    "url": "https://x.com/search?q=INFOBAR"
+   },
+   {
+    "trend_name": "Coby White",
+    "url": "https://x.com/search?q=Coby%20White"
+   },
+   {
+    "trend_name": "Lienel",
+    "url": "https://x.com/search?q=Lienel"
+   },
+   {
+    "trend_name": "紫のやつ",
+    "url": "https://x.com/search?q=%E7%B4%AB%E3%81%AE%E3%82%84%E3%81%A4"
+   },
+   {
+    "trend_name": "A案とC案",
+    "url": "https://x.com/search?q=A%E6%A1%88%E3%81%A8C%E6%A1%88"
+   },
+   {
+    "trend_name": "リエネル",
+    "url": "https://x.com/search?q=%E3%83%AA%E3%82%A8%E3%83%8D%E3%83%AB"
+   },
+   {
+    "trend_name": "FOURTH WITH JELLYCAT",
+    "url": "https://x.com/search?q=FOURTH%20WITH%20JELLYCAT"
+   },
+   {
+    "trend_name": "これうさぎ",
+    "url": "https://x.com/search?q=%E3%81%93%E3%82%8C%E3%81%86%E3%81%95%E3%81%8E"
+   },
+   {
+    "trend_name": "TGL SPECIAL FANSIGN",
+    "url": "https://x.com/search?q=TGL%20SPECIAL%20FANSIGN"
+   },
+   {
+    "trend_name": "PASMO",
+    "url": "https://x.com/search?q=PASMO"
+   },
+   {
+    "trend_name": "THETOUCH WITH LINGORM 2026",
+    "url": "https://x.com/search?q=THETOUCH%20WITH%20LINGORM%202026"
+   },
+   {
+    "trend_name": "こいつうさぎ",
+    "url": "https://x.com/search?q=%E3%81%93%E3%81%84%E3%81%A4%E3%81%86%E3%81%95%E3%81%8E"
+   },
+   {
+    "trend_name": "お前うさぎ",
+    "url": "https://x.com/search?q=%E3%81%8A%E5%89%8D%E3%81%86%E3%81%95%E3%81%8E"
+   },
+   {
+    "trend_name": "これウサギ",
+    "url": "https://x.com/search?q=%E3%81%93%E3%82%8C%E3%82%A6%E3%82%B5%E3%82%AE"
+   },
+   {
+    "trend_name": "Shehzad Tehseen",
+    "url": "https://x.com/search?q=Shehzad%20Tehseen"
+   },
+   {
+    "trend_name": "ゴルディア",
+    "url": "https://x.com/search?q=%E3%82%B4%E3%83%AB%E3%83%87%E3%82%A3%E3%82%A2"
+   },
+   {
+    "trend_name": "좋은 결과",
+    "url": "https://x.com/search?q=%EC%A2%8B%EC%9D%80%20%EA%B2%B0%EA%B3%BC"
+   },
+   {
+    "trend_name": "ネット投票",
+    "url": "https://x.com/search?q=%E3%83%8D%E3%83%83%E3%83%88%E6%8A%95%E7%A5%A8"
+   },
+   {
+    "trend_name": "Wujudkan Fondasi Stabilitas",
+    "url": "https://x.com/search?q=Wujudkan%20Fondasi%20Stabilitas"
+   },
+   {
+    "trend_name": "B案採用",
+    "url": "https://x.com/search?q=B%E6%A1%88%E6%8E%A1%E7%94%A8"
+   },
+   {
+    "trend_name": "ICOCA",
+    "url": "https://x.com/search?q=ICOCA"
+   },
+   {
+    "trend_name": "KARINA CHANEL BEAUTY POPUP",
+    "url": "https://x.com/search?q=KARINA%20CHANEL%20BEAUTY%20POPUP"
+   },
+   {
+    "trend_name": "ネオユニオン",
+    "url": "https://x.com/search?q=%E3%83%8D%E3%82%AA%E3%83%A6%E3%83%8B%E3%82%AA%E3%83%B3"
+   },
+   {
+    "trend_name": "楽天証券",
+    "url": "https://x.com/search?q=%E6%A5%BD%E5%A4%A9%E8%A8%BC%E5%88%B8"
+   },
+   {
+    "trend_name": "ロマンティックシンドローム",
+    "url": "https://x.com/search?q=%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B7%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%A0"
+   },
+   {
+    "trend_name": "出来レース",
+    "url": "https://x.com/search?q=%E5%87%BA%E6%9D%A5%E3%83%AC%E3%83%BC%E3%82%B9"
+   },
+   {
+    "trend_name": "愛称募集",
+    "url": "https://x.com/search?q=%E6%84%9B%E7%A7%B0%E5%8B%9F%E9%9B%86"
+   },
+   {
+    "trend_name": "公選法規定",
+    "url": "https://x.com/search?q=%E5%85%AC%E9%81%B8%E6%B3%95%E8%A6%8F%E5%AE%9A"
+   }
+  ],
+  "MX": [
+   {
+    "trend_name": "Jamaica",
+    "url": "https://x.com/search?q=Jamaica"
+   },
+   {
+    "trend_name": "Tala",
+    "url": "https://x.com/search?q=Tala"
+   },
+   {
+    "trend_name": "Tecatito",
+    "url": "https://x.com/search?q=Tecatito"
+   },
+   {
+    "trend_name": "Fidalgo",
+    "url": "https://x.com/search?q=Fidalgo"
+   },
+   {
+    "trend_name": "Lira",
+    "url": "https://x.com/search?q=Lira"
+   },
+   {
+    "trend_name": "#MiSeleccionAzteca",
+    "url": "https://x.com/search?q=%23MiSeleccionAzteca"
+   },
+   {
+    "trend_name": "#LaGranjaDuelo",
+    "url": "https://x.com/search?q=%23LaGranjaDuelo"
+   },
+   {
+    "trend_name": "Grimes",
+    "url": "https://x.com/search?q=Grimes"
+   },
+   {
+    "trend_name": "Lakers",
+    "url": "https://x.com/search?q=Lakers"
+   },
+   {
+    "trend_name": "Quiñones",
+    "url": "https://x.com/search?q=Qui%C3%B1ones"
+   },
+   {
+    "trend_name": "Huescas",
+    "url": "https://x.com/search?q=Huescas"
+   },
+   {
+    "trend_name": "Jorge Campos",
+    "url": "https://x.com/search?q=Jorge%20Campos"
+   },
+   {
+    "trend_name": "Paulina Rubio",
+    "url": "https://x.com/search?q=Paulina%20Rubio"
+   },
+   {
+    "trend_name": "Rafa Márquez",
+    "url": "https://x.com/search?q=Rafa%20M%C3%A1rquez"
+   },
+   {
+    "trend_name": "Tô Lâm",
+    "url": "https://x.com/search?q=T%C3%B4%20L%C3%A2m"
+   },
+   {
+    "trend_name": "#ElOráculoOculto",
+    "url": "https://x.com/search?q=%23ElOr%C3%A1culoOculto"
+   },
+   {
+    "trend_name": "Hormiga",
+    "url": "https://x.com/search?q=Hormiga"
+   },
+   {
+    "trend_name": "Mateo",
+    "url": "https://x.com/search?q=Mateo"
+   },
+   {
+    "trend_name": "Mora",
+    "url": "https://x.com/search?q=Mora"
+   },
+   {
+    "trend_name": "Alexis Vega",
+    "url": "https://x.com/search?q=Alexis%20Vega"
+   },
+   {
+    "trend_name": "Sandoval",
+    "url": "https://x.com/search?q=Sandoval"
+   },
+   {
+    "trend_name": "Final Four",
+    "url": "https://x.com/search?q=Final%20Four"
+   },
+   {
+    "trend_name": "Vaca",
+    "url": "https://x.com/search?q=Vaca"
+   },
+   {
+    "trend_name": "#JinEnLaTorreBBVAMX",
+    "url": "https://x.com/search?q=%23JinEnLaTorreBBVAMX"
+   },
+   {
+    "trend_name": "Armando",
+    "url": "https://x.com/search?q=Armando"
+   },
+   {
+    "trend_name": "GTA 6",
+    "url": "https://x.com/search?q=GTA%206"
+   },
+   {
+    "trend_name": "Tecate",
+    "url": "https://x.com/search?q=Tecate"
+   },
+   {
+    "trend_name": "Ochoa",
+    "url": "https://x.com/search?q=Ochoa"
+   },
+   {
+    "trend_name": "Chiquete",
+    "url": "https://x.com/search?q=Chiquete"
+   },
+   {
+    "trend_name": "TUDN",
+    "url": "https://x.com/search?q=TUDN"
+   },
+   {
+    "trend_name": "Vietnam",
+    "url": "https://x.com/search?q=Vietnam"
+   },
+   {
+    "trend_name": "Concacaf",
+    "url": "https://x.com/search?q=Concacaf"
+   },
+   {
+    "trend_name": "#NuncaOlvidesQueTeQuiero",
+    "url": "https://x.com/search?q=%23NuncaOlvidesQueTeQuiero"
+   },
+   {
+    "trend_name": "Gigante de Acero",
+    "url": "https://x.com/search?q=Gigante%20de%20Acero"
+   },
+   {
+    "trend_name": "Obed",
+    "url": "https://x.com/search?q=Obed"
+   },
+   {
+    "trend_name": "Deiby",
+    "url": "https://x.com/search?q=Deiby"
+   },
+   {
+    "trend_name": "Nueva Zelanda",
+    "url": "https://x.com/search?q=Nueva%20Zelanda"
+   },
+   {
+    "trend_name": "Odette",
+    "url": "https://x.com/search?q=Odette"
+   },
+   {
+    "trend_name": "Panda",
+    "url": "https://x.com/search?q=Panda"
+   },
+   {
+    "trend_name": "Santi Giménez",
+    "url": "https://x.com/search?q=Santi%20Gim%C3%A9nez"
+   },
+   {
+    "trend_name": "Rafita",
+    "url": "https://x.com/search?q=Rafita"
+   },
+   {
+    "trend_name": "Alvarado",
+    "url": "https://x.com/search?q=Alvarado"
+   },
+   {
+    "trend_name": "El Tri",
+    "url": "https://x.com/search?q=El%20Tri"
+   },
+   {
+    "trend_name": "TV Azteca",
+    "url": "https://x.com/search?q=TV%20Azteca"
+   },
+   {
+    "trend_name": "Tricolor",
+    "url": "https://x.com/search?q=Tricolor"
+   },
+   {
+    "trend_name": "#GTAVI",
+    "url": "https://x.com/search?q=%23GTAVI"
+   },
+   {
+    "trend_name": "#LaPerritaDeTrumpLLorona",
+    "url": "https://x.com/search?q=%23LaPerritaDeTrumpLLorona"
+   },
+   {
+    "trend_name": "#NarcoGobiernoMorena",
+    "url": "https://x.com/search?q=%23NarcoGobiernoMorena"
+   }
+  ],
+  "GB": [
+   {
+    "trend_name": "Bond",
+    "url": "https://x.com/search?q=Bond"
+   },
+   {
+    "trend_name": "#ImACeleb",
+    "url": "https://x.com/search?q=%23ImACeleb"
+   },
+   {
+    "trend_name": "GTA 6",
+    "url": "https://x.com/search?q=GTA%206"
+   },
+   {
+    "trend_name": "Robert Pattinson",
+    "url": "https://x.com/search?q=Robert%20Pattinson"
+   },
+   {
+    "trend_name": "Brexit",
+    "url": "https://x.com/search?q=Brexit"
+   },
+   {
+    "trend_name": "Lakers",
+    "url": "https://x.com/search?q=Lakers"
+   },
+   {
+    "trend_name": "Quentin Grimes",
+    "url": "https://x.com/search?q=Quentin%20Grimes"
+   },
+   {
+    "trend_name": "GOTY",
+    "url": "https://x.com/search?q=GOTY"
+   },
+   {
+    "trend_name": "Daniel Craig",
+    "url": "https://x.com/search?q=Daniel%20Craig"
+   },
+   {
+    "trend_name": "Hornets",
+    "url": "https://x.com/search?q=Hornets"
+   },
+   {
+    "trend_name": "England",
+    "url": "https://x.com/search?q=England"
+   },
+   {
+    "trend_name": "Milburn",
+    "url": "https://x.com/search?q=Milburn"
+   },
+   {
+    "trend_name": "Tony",
+    "url": "https://x.com/search?q=Tony"
+   },
+   {
+    "trend_name": "#TheGameAwards",
+    "url": "https://x.com/search?q=%23TheGameAwards"
+   },
+   {
+    "trend_name": "Batman",
+    "url": "https://x.com/search?q=Batman"
+   },
+   {
+    "trend_name": "GTA VI",
+    "url": "https://x.com/search?q=GTA%20VI"
+   },
+   {
+    "trend_name": "Wayne Rooney",
+    "url": "https://x.com/search?q=Wayne%20Rooney"
+   },
+   {
+    "trend_name": "#GAWA",
+    "url": "https://x.com/search?q=%23GAWA"
+   },
+   {
+    "trend_name": "Romford",
+    "url": "https://x.com/search?q=Romford"
+   },
+   {
+    "trend_name": "Rwanda",
+    "url": "https://x.com/search?q=Rwanda"
+   },
+   {
+    "trend_name": "Connery",
+    "url": "https://x.com/search?q=Connery"
+   },
+   {
+    "trend_name": "#CurrysPurpleFriday",
+    "url": "https://x.com/search?q=%23CurrysPurpleFriday"
+   },
+   {
+    "trend_name": "NEETs",
+    "url": "https://x.com/search?q=NEETs"
+   },
+   {
+    "trend_name": "#gbbo",
+    "url": "https://x.com/search?q=%23gbbo"
+   },
+   {
+    "trend_name": "Luka",
+    "url": "https://x.com/search?q=Luka"
+   },
+   {
+    "trend_name": "Grammy",
+    "url": "https://x.com/search?q=Grammy"
+   },
+   {
+    "trend_name": "Chloe",
+    "url": "https://x.com/search?q=Chloe"
+   },
+   {
+    "trend_name": "Kim Wilde",
+    "url": "https://x.com/search?q=Kim%20Wilde"
+   },
+   {
+    "trend_name": "Kerch",
+    "url": "https://x.com/search?q=Kerch"
+   },
+   {
+    "trend_name": "Henry Cavill",
+    "url": "https://x.com/search?q=Henry%20Cavill"
+   },
+   {
+    "trend_name": "Roger Moore",
+    "url": "https://x.com/search?q=Roger%20Moore"
+   },
+   {
+    "trend_name": "Mogga",
+    "url": "https://x.com/search?q=Mogga"
+   },
+   {
+    "trend_name": "Clarke",
+    "url": "https://x.com/search?q=Clarke"
+   },
+   {
+    "trend_name": "Game of the Year",
+    "url": "https://x.com/search?q=Game%20of%20the%20Year"
+   },
+   {
+    "trend_name": "Northern Ireland",
+    "url": "https://x.com/search?q=Northern%20Ireland"
+   },
+   {
+    "trend_name": "Rassie",
+    "url": "https://x.com/search?q=Rassie"
+   },
+   {
+    "trend_name": "JJ Gabriel",
+    "url": "https://x.com/search?q=JJ%20Gabriel"
+   },
+   {
+    "trend_name": "Bangladeshi",
+    "url": "https://x.com/search?q=Bangladeshi"
+   },
+   {
+    "trend_name": "Crimea",
+    "url": "https://x.com/search?q=Crimea"
+   },
+   {
+    "trend_name": "Brosnan",
+    "url": "https://x.com/search?q=Brosnan"
+   },
+   {
+    "trend_name": "Twilight",
+    "url": "https://x.com/search?q=Twilight"
+   },
+   {
+    "trend_name": "Spain",
+    "url": "https://x.com/search?q=Spain"
+   },
+   {
+    "trend_name": "Matos",
+    "url": "https://x.com/search?q=Matos"
+   },
+   {
+    "trend_name": "Pocognoli",
+    "url": "https://x.com/search?q=Pocognoli"
+   },
+   {
+    "trend_name": "Antifa",
+    "url": "https://x.com/search?q=Antifa"
+   },
+   {
+    "trend_name": "Sol Campbell",
+    "url": "https://x.com/search?q=Sol%20Campbell"
+   },
+   {
+    "trend_name": "Habibi",
+    "url": "https://x.com/search?q=Habibi"
+   },
+   {
+    "trend_name": "Makerfield",
+    "url": "https://x.com/search?q=Makerfield"
+   },
+   {
+    "trend_name": "Peter Storey",
+    "url": "https://x.com/search?q=Peter%20Storey"
+   },
+   {
+    "trend_name": "Pickford",
+    "url": "https://x.com/search?q=Pickford"
+   }
+  ]
+ },
+ "news": [
+  {
+   "category": "Other",
+   "contexts": {
+    "entities": {
+     "events": [
+      "cyber attack"
+     ],
+     "organizations": [
+      "X"
+     ],
+     "people": [],
+     "places": [
+      "U.S."
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Technology"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "With student loan delinquencies hitting 10.9%—the highest since late 2019—people are venting frustration online by cheering hackers to wipe out debts.",
+   "id": "2122614169044385977",
+   "name": "Online Calls Grow for Hackers to Erase Debts and Student Loans",
+   "summary": "Amid rising cyber attacks, a third higher than last year, many posts urge hackers to target financial systems like student loans, the IRS, and national debt. One quipped the student loan database is guarded by 'pit bulls, Brinks security, and Disney villains,' while pro wrestler Dr. Britt Baker simply asked to 'hack the student loans next.' The mix of humor and real strain from climbing delinquencies shows how debt burdens many households, though the calls stay lighthearted.",
+   "updated_at": "2026-11-18T06:59:31.000Z",
+   "url": "https://x.com/i/trending/2122614169044385977"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [],
+     "people": [],
+     "places": [
+      "Canada"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "News"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Kristin Logan waited months in Canada for a cancer diagnosis, only to receive a pamphlet on medical assistance in dying before her first oncologist appointment. She called it the most heartbreaking moment, feeling set up to die.",
+   "id": "2122791718550650908",
+   "name": "U.S. Veteran Shares Canada MAID Pamphlet Story Amid Cancer Delays",
+   "summary": "Logan, a dual U.S.-Canadian citizen on Vancouver Island, faced repeated delays for symptoms later diagnosed as stage 4 ovarian cancer in 2023. While awaiting oncology care, she got MAID information in the mail, then crossed the border multiple times for U.S. treatment, including life-saving surgery at the University of Washington that a surgeon said prevented sepsis. She moved permanently to Texas in 2025 for ongoing care and now feels stronger in a promising trial. The account fueled online exchanges, with critics highlighting wait times and MAID expansion, while others pointed to Canada's higher life expectancy data and questioned details like the pamphlet's prior mention.",
+   "updated_at": "2026-11-18T02:31:04.000Z",
+   "url": "https://x.com/i/trending/2122791718550650908"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [],
+     "people": [],
+     "places": [
+      "United States",
+      "Sweden"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Business & Finance"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Trade data reveals America's slice of global films, TV, music, and streaming has shrunk sharply since 2015, prompting questions about cultural influence in a diversifying world.",
+   "id": "2122725445988728847",
+   "name": "US Audiovisual Exports Drop from 38% to 21% Since 2015",
+   "summary": "From a high of nearly 38 percent in 2015, the US share of global audiovisual exports fell to 21 percent by 2024, while the UK hit 9 percent, Sweden 8 percent, and South Korea 3 percent, per OECD-WTO data. US services exports overall stayed steady at around 15 percent, highlighting the audiovisual sector's unique decline amid rising local hits on platforms like Netflix from Japan, India, and Europe. Commenters debated Hollywood's role, cultural shifts, and measurement quirks like Spotify's impact, yet noted American media styles persist even as the market fragments.",
+   "updated_at": "2026-11-17T19:08:18.000Z",
+   "url": "https://x.com/i/trending/2122725445988728847"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [
+      "National Entrepreneurs' Day"
+     ],
+     "organizations": [
+      "U.S. Small Business Administration"
+     ],
+     "people": [],
+     "places": [
+      "North Texas",
+      "Nebraska",
+      "Canada"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Entrepreneurship"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "From factories flying American flags to biotech labs buzzing with activity, images capture the hands-on drive of entrepreneurs turning ideas into jobs across the U.S.",
+   "id": "2122733885406744650",
+   "name": "National Entrepreneurs’ Day Celebrates Small Businesses Powering America",
+   "summary": "Communities nationwide marked National Entrepreneurs’ Day on November 17, 2026, honoring the more than 36 million small businesses that form the backbone of America’s economy and employ tens of millions. Leaders like Georgia Lt. Governor Burt Jones and Wisconsin State Representative Barbara Dittrich praised those who risk time, money, and reputation to build livelihoods and strengthen communities. The SBA and IRS shared resources for startups, while local voices from Ohio to banks highlighted innovation in manufacturing, life sciences, and retail.",
+   "updated_at": "2026-11-17T20:47:44.000Z",
+   "url": "https://x.com/i/trending/2122733885406744650"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "Fox News"
+     ],
+     "people": [
+      "Tom Emmer",
+      "Bernie Sanders",
+      "Warren Gunnels"
+     ],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "With Democrats eyeing their next steps after recent wins, Bernie Sanders sees a clear path forward: bold moves like Medicare for All to tackle skyrocketing healthcare costs.",
+   "id": "2122223584437563491",
+   "name": "Bernie Sanders Urges Democrats to Adopt Medicare for All After Gains",
+   "summary": "Sanders called on his party to embrace Medicare for All, raise the minimum wage, address AI risks, and shift funds from foreign aid to domestic healthcare and housing. He pointed to polls showing two-thirds of Americans support a national health plan, plus data like U.S. per-person spending far outpacing other nations and hospital prices up 281% since 2000. Advocates cite a Yale analysis estimating $1 trillion in annual savings and 114,000 lives saved, while critics worry about lower reimbursements, practice closures, and wait times like in Canada. Both sides agree affordability tops voter concerns as Democrats debate direction.",
+   "updated_at": "2026-11-18T04:11:05.000Z",
+   "url": "https://x.com/i/trending/2122223584437563491"
+  },
+  {
+   "category": "Other",
+   "contexts": {
+    "entities": {
+     "events": [
+      "meme trend"
+     ],
+     "organizations": [
+      "X"
+     ],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Memes"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "A Greek user kicked things off by proudly naming their homeland, picking favorites like Cyprus and Armenia, then listing Turkey and others to skip.",
+   "id": "2122821525065564587",
+   "name": "Users Share National Likes and Dislikes in Flag Lists",
+   "summary": "People from Germany, Israel, Sweden, Canada, Turkey, and more jumped in, quoting the original to share their own top countries and ones they avoid. Balkan posters highlighted old rivalries, like Greeks favoring Serbia while Albanians backed Kosovo and Bosnia. Northern Europeans and North Americans often liked Britain, Germany, and Scandinavia, with dislikes linked to migration or conflicts, blending humor and heritage in these quick flag posts.",
+   "updated_at": "2026-11-18T01:22:50.000Z",
+   "url": "https://x.com/i/trending/2122821525065564587"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "Federal Reserve"
+     ],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Business & Finance"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "The U.S. dollar powered to its strongest point since April 2025, while the euro slipped to a 19-month low just under $1.10. Fresh U.S. inflation data and Fed signals drove the sharp divide across the Atlantic.",
+   "id": "2122427945071652993",
+   "name": "U.S. Dollar Hits Highest Level Since April 2025 as Euro Falls Below $1.10",
+   "summary": "Hotter-than-expected October U.S. inflation pushed traders to bet on a December Fed rate hike and more tightening next year, boosting Treasury yields and the Dollar Index above 103.7. Meanwhile, Europe's softer growth, France's political gridlock, and fiscal strains weakened the euro against a broad range of currencies. Economist Robin Brooks cautioned that the Fed's focus on past inflation ignores falling oil prices and weakening growth, driving real rates to 20-year highs and raising recession worries.",
+   "updated_at": "2026-11-17T18:03:19.000Z",
+   "url": "https://x.com/i/trending/2122427945071652993"
+  },
+  {
+   "category": "Other",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [],
+     "people": [],
+     "places": [
+      "United States",
+      "Mississippi River",
+      "Deseret",
+      "Pittsburgh",
+      "Ohio",
+      "Minneapolis",
+      "St. Paul",
+      "New York City",
+      "New England",
+      "New Jersey",
+      "Pennsylvania",
+      "Superior",
+      "Lake Superior",
+      "Appalachia",
+      "Washington, D.C.",
+      "Maryland"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "A designer's fresh take on splitting the U.S. into 26 states with new names like Cascadia and Deseret quickly unearthed regional pride and plenty of laughs.",
+   "id": "2122821525107544449",
+   "name": "Graphic Designer's 26-State U.S. Map Draws Jokes and Regional Pushback",
+   "summary": "On November 17, Josh Barzon shared a map reorganizing the U.S. into 26 states, grouping areas like the northwest into Cascadia, the southwest into Deseret, and the middle into Heartland, while keeping Alaska and Hawaii separate. New Jersey's official account reacted sharply, saying it 'threw up in my mouth a little bit,' and users pointed out mismatches like Mississippi far from its river. Memes rolled in, from South Park jabs to calls to just name everything 'Jersey,' highlighting deep-rooted rivalries and identities in a wave of playful complaints.",
+   "updated_at": "2026-11-18T03:34:55.000Z",
+   "url": "https://x.com/i/trending/2122821525107544449"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [
+      "measles outbreaks"
+     ],
+     "organizations": [],
+     "people": [],
+     "places": [
+      "United States"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Health & Fitness"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "After 26 years without continuous spread, measles has returned to the U.S., fueling heated online arguments over falling vaccination rates and immigration.",
+   "id": "2122936609993580770",
+   "name": "U.S. Loses Measles Elimination Status After 26 Years Amid Case Surge",
+   "summary": "The Pan American Health Organization stripped the U.S. of its measles elimination status on Tuesday after the virus circulated for over 12 months, with more than 5,400 cases and 10 deaths reported in 2026 so far—the highest in decades. Vaccination coverage among kindergartners has dropped to 92.4 percent, below the 95 percent needed for herd immunity, as officials point to domestic immunization gaps as the main cause. While some online posts blame recent immigration, epidemiologists and fact-checkers attribute outbreaks to unvaccinated U.S. citizens traveling from endemic areas, and the CDC plans expanded vaccine access to restore the status.",
+   "updated_at": "2026-11-18T06:21:38.000Z",
+   "url": "https://x.com/i/trending/2122936609993580770"
+  },
+  {
+   "category": "Other",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [],
+     "people": [],
+     "places": [
+      "Texas",
+      "Germany"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Personal Finance"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "A Ukrainian developer crunched numbers for his family of four, pitting a $140,000 Texas salary against €85,000 in Germany over five years. Replies poured in, blending math with real-life tradeoffs.",
+   "id": "2122707238653464858",
+   "name": "Debate Over Family Savings: $140K Texas vs €85K Germany",
+   "summary": "The query factored in taxes, rent, healthcare, childcare, and retirement, sparking hundreds of replies that highlighted Germany's €259 monthly child benefits per kid and lower overall costs about 10% below Texas. Texas counters with no state income tax and strong 401(k) options up to $30,000 deferred annually, though property taxes average $4,200 and healthcare deductibles add up. While some calculations showed similar mid-$20,000s annual savings, others stressed lifestyle perks like Germany's public transport, paid vacation, and security versus Texas weather and space.",
+   "updated_at": "2026-11-17T23:55:40.000Z",
+   "url": "https://x.com/i/trending/2122707238653464858"
+  },
+  {
+   "category": "Other",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "Young Republicans of Idaho"
+     ],
+     "people": [],
+     "places": [
+      "Idaho"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Young Americans ages 18-29 showed up in force for the 2026 midterms, backing Democrats by a wide margin while young conservatives in Idaho laid out a fierce defense of their state's values.",
+   "id": "2122844780124053796",
+   "name": "Young Voters Boost Democrats in 2026 Midterms as Idaho Republicans Outline Bold Platform",
+   "summary": "Data from CIRCLE at Tufts University reveals youth turnout hit 27 percent nationally—the second-highest in 30 years—with 66 percent supporting Democrats for the U.S. House compared to 31 percent for Republicans. In response, the Young Republicans of Idaho released a platform opposing immigration, foreign land ownership, and abortion while championing traditional family values, affordable housing for locals, and preserving public lands. Online reactions praised the statement as a blueprint for engaging youth, with calls for other chapters to adopt it, even as analysts noted young voters' economic priorities drove Democratic gains.",
+   "updated_at": "2026-11-18T00:17:36.000Z",
+   "url": "https://x.com/i/trending/2122844780124053796"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [],
+     "people": [
+      "Alex Padilla"
+     ],
+     "places": [
+      "California"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Senator Alex Padilla declared justice for every lawbreaker, then quickly added that everyone deserves the American Dream. Critics spotted a contradiction right away.",
+   "id": "2122153370022482242",
+   "name": "Senator Padilla's Justice and American Dream Posts Draw Sharp Online Criticism",
+   "summary": "On November 15, California Democrat Alex Padilla posted about justice coming for those who broke the law, followed hours later by a claim that everyone deserves a fair shot at the American Dream. Replies poured in accusing him of inconsistency, with one stating 'A country for everyone is a country for no one.' Users shared stories of Americans harmed by undocumented immigrants, taxpayer costs, and hiring disadvantages, while memes like an Incredibles reference spread the sentiment that opportunity belongs first to citizens. The backlash highlights tensions between broad ideals of opportunity and priorities for American citizens.",
+   "updated_at": "2026-11-17T16:45:54.000Z",
+   "url": "https://x.com/i/trending/2122153370022482242"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [
+      "50 States, One Israel"
+     ],
+     "organizations": [
+      "Israel's Ministry of Foreign Affairs"
+     ],
+     "people": [
+      "Gideon Sa'ar"
+     ],
+     "places": [
+      "Israel"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Gideon Sa’ar welcomed 250 emerging leaders from every U.S. state to Israel, sharing a group photo that captured their visit to key sites like Yad Vashem.",
+   "id": "2122528853440815287",
+   "name": "Israel Hosts 250 Young U.S. Leaders from All 50 States",
+   "summary": "The third '50 States, One Israel' delegation includes state legislators, elected officials, students, and religious figures touring Holocaust memorials and Gaza-border communities for firsthand insights into Israel's challenges. Foreign Minister Sa’ar emphasized Israel's role as a reliable U.S. ally amid global competition, aiming to build ties with America's next generation. Reactions range from supportive nods to accusations of propaganda and calls to name attendees.",
+   "updated_at": "2026-11-17T21:42:15.000Z",
+   "url": "https://x.com/i/trending/2122528853440815287"
+  },
+  {
+   "category": "Other",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "A stern Canadian doctor meme, gun drawn after a patient's cough, captures raw frustration with the country's healthcare delays.",
+   "id": "2122733890750357973",
+   "name": "Meme Spotlights Canada's Record 30.7-Week Healthcare Waits",
+   "summary": "A widely shared meme criticizes Canada's healthcare system amid a Fraser Institute report showing median waits from referral to treatment reached a record 30.7 weeks in 2026, up from 28.6 weeks prior. Data revealed nearly 24,000 patients died on waitlists for surgeries and scans in the latest year tracked, though not all deaths directly tied to delays. Users highlighted frustrations like high taxes, denied services, and rising medically assisted deaths at 5.1 percent of 2024 fatalities, while others noted U.S. issues and Europe's shorter waits.",
+   "updated_at": "2026-11-17T16:58:35.000Z",
+   "url": "https://x.com/i/trending/2122733890750357973"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "The Bulwark"
+     ],
+     "people": [
+      "Sarah Longwell",
+      "Donald Trump"
+     ],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Standing before a Democratic crowd in Denver, Sarah Longwell grinned and said, 'You may know us, we're the Never Trumpers. At least we were ten years ago. Now we're just kind of libs just like the rest of you.'",
+   "id": "2122451372427866440",
+   "name": "Sarah Longwell Tells Democrats: Never Trumpers Now Just Libs",
+   "summary": "At the 'What's Next' conference hosted by Majority Democrats, Bulwark publisher Sarah Longwell shared her lighthearted remark, marking what many saw as a public nod to her outlet's shift from Never Trump roots toward broader liberal alignment. The moment fueled online debates, with critics like Glenn Greenwald calling it a career-driven pivot to liberal audiences, while Longwell countered that Trump backers abandoned principles now facing judgment in a post-Trump era. Broader discussions touched on Tea Party fractures and how anti-Trump media, including new Vox Media partnerships, adapts as politics evolves.",
+   "updated_at": "2026-11-17T18:29:20.000Z",
+   "url": "https://x.com/i/trending/2122451372427866440"
+  },
+  {
+   "category": "Other",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Home & Garden"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "One simple question cut through the autumn routine: 'Why do people rake leaves? It’s just leaves, dude.' Thousands jumped in with stories and science.",
+   "id": "2122824472038354949",
+   "name": "Debate Rages Over Raking Leaves Every Fall",
+   "summary": "A post challenging the yearly leaf-raking chore drew widespread replies, with many calling it pointless busywork that strips soil of nutrients and destroys habitats for insects and wildlife. Horticulture experts back this up, explaining that leaving leaves acts as free mulch to retain moisture, return nutrients, and protect soil from weather swings. Others defend raking due to slippery hazards, smothered grass, or neighborhood pressure for tidy yards, revealing a divide between natural cycles and manicured ideals.",
+   "updated_at": "2026-11-18T02:01:43.000Z",
+   "url": "https://x.com/i/trending/2122824472038354949"
+  },
+  {
+   "category": "Entertainment",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Celebrity"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Azzi Fudd leans forward with a warm smile in a cozy lounge, black dress catching the light as basketball plays nearby. One fan account simply captioned the clip 'oh my god.'",
+   "id": "2122910349519376546",
+   "name": "Fans Admire Azzi Fudd's Elegant Black Dress Video",
+   "summary": "The video and photos from Azzi Fudd's casual night out show the Dallas Wings star in a striking halter-style black gown, holding drinks and beaming confidently. Fans shared the clip widely, reacting with awe like 'THATS WIFE MATERIAL LIKE GOD DAMN' and 'she looks amazing holy shit.' As the No. 1 pick in the 2026 WNBA Draft and recent UConn Huskies of Honor inductee, Fudd's off-court style continues to win hearts alongside her resilient career.",
+   "updated_at": "2026-11-18T04:36:43.000Z",
+   "url": "https://x.com/i/trending/2122910349519376546"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [],
+     "people": [],
+     "places": [
+      "British Columbia"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "News"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "A patient waited over two years for a GI endoscopy amid cancer symptoms, only to learn the disease had spread by June 2025—now facing palliative care.",
+   "id": "2122944278553079954",
+   "name": "Canadian Wait Times Linked to Missed Cancer Diagnoses and Deaths",
+   "summary": "Personal stories from Canada highlight severe healthcare delays, like a two-year wait for endoscopy that let cancer metastasize, and a mother who died without seeing an oncologist despite years of taxes paid. A November 2026 Fraser Institute study reports record median waits of 30.7 weeks from referral to treatment, far longer than in 1993. These accounts fuel U.S. discussions on single-payer risks, contrasting with higher American cancer survival rates from studies like 2008 CONCORD, while noting trade-offs in access, costs, and speed.",
+   "updated_at": "2026-11-18T06:51:53.000Z",
+   "url": "https://x.com/i/trending/2122944278553079954"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [],
+     "people": [],
+     "places": [
+      "Minnesota",
+      "Twin Cities"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Business & Finance"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Minnesota's economy grew at a crawl from 2019 to 2025, landing near last place nationally in GDP per capita and other vital signs.",
+   "id": "2122788241330040972",
+   "name": "Minnesota Ranks Near Bottom in Key Economic Growth Metrics",
+   "summary": "The Minnesota Chamber Foundation's 2027 Business Benchmarks report shows the state at 49th in annual real GDP per capita growth at 0.4 percent, 46th in overall GDP growth at 1.0 percent, and lagging in labor force, employment, and household income gains. Workforce size has stalled below decade-start levels, with net domestic migration losses of over 37,000 residents from 2020 to 2025 offsetting some international gains. House Republicans call it a wake-up call from anti-business policies, while Governor-elect Amy Klobuchar pledges a growth plan focused on manufacturing, innovation, exports, and cutting red tape. The report urges action on investment and talent to preserve strengths like innovation and quality of life.",
+   "updated_at": "2026-11-18T02:11:14.000Z",
+   "url": "https://x.com/i/trending/2122788241330040972"
+  },
+  {
+   "category": "Other",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "X"
+     ],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "News"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Imagine saying 'cookie' instead of 'biscuit'—a fun post warns it kills a fairy, sparking lists of cheeky word swaps between British and American English.",
+   "id": "2122719925420830753",
+   "name": "Playful Post Claims American Words Kill Fairies in British English",
+   "summary": "The tweet listed swaps like math for maths, vacation for holiday, chips for crisps, and eggplant for aubergine, prompting quick replies with full British equivalents such as shopping trolley, lift, football, fringe, hoover, and rubber. Users shared cookie vs. biscuit confusion, with images contrasting soft American chocolate-chip cookies against UK's crispier biscuits, a savory bread in the US. Many admitted American TV influences their speech, turning the joke into a reminder of how English blends across borders over centuries.",
+   "updated_at": "2026-11-17T18:44:20.000Z",
+   "url": "https://x.com/i/trending/2122719925420830753"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "U.S. Embassy in London"
+     ],
+     "people": [],
+     "places": [
+      "London",
+      "United Kingdom"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "News"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "With Christmas markets lighting up London streets, the U.S. Embassy is reminding Americans to blend in and watch their surroundings amid terrorism worries.",
+   "id": "2122756895882776866",
+   "name": "U.S. Embassy Urges Americans in UK to Stay Vigilant at Holiday Events",
+   "summary": "The alert, issued November 16 and covering Europe, warns of possible attacks by terrorists or lone actors at crowded festive spots like markets and transport hubs. It advises staying aware, following police in busy areas, and avoiding demonstrations, especially with the UK's severe threat level signaling a highly likely attack. Recent hoax bomb threats across Europe add to the caution, while photos of armed officers patrolling glowing stalls highlight the scene. The guidance promotes everyday precautions without skipping holiday fun.",
+   "updated_at": "2026-11-18T02:49:37.000Z",
+   "url": "https://x.com/i/trending/2122756895882776866"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [
+      "trilateral dialogue with Israel"
+     ],
+     "organizations": [
+      "United Nations",
+      "UNIFIL"
+     ],
+     "people": [
+      "Mike Waltz",
+      "Joseph Aoun",
+      "Najib Mikati"
+     ],
+     "places": [
+      "Beirut"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "In Beirut, Mike Waltz shook hands with President Aoun under the Lebanese flag and even received a playful 'Make Lebanon Great Again' cap during talks.",
+   "id": "2122728049892262296",
+   "name": "US Ambassador Waltz Calls for One Army in Sovereign Lebanon During Beirut Visit",
+   "summary": "US Ambassador to the UN Mike Waltz visited Beirut on November 16 and 17, 2026, urging 'one state, one army' for a stronger, sovereign Lebanon free from Hezbollah influence. He praised President Joseph Aoun's commitment to trilateral peace talks with the US and Israel, while pushing for reforms in UNIFIL's role as its mandate nears expiration. Discussions with Prime Minister Nawaf Salam covered economic recovery and aid for southern Lebanon communities, aligning with Washington's support for a unified national army and full state authority.",
+   "updated_at": "2026-11-17T16:33:41.000Z",
+   "url": "https://x.com/i/trending/2122728049892262296"
+  },
+  {
+   "category": "Other",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [],
+     "people": [],
+     "places": [
+      "Vancouver, Canada"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Parenting"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Imagine a 12-year-old who can't even leave the house without an adult. A new survey uncovers how common that reality has become for many American kids.",
+   "id": "2122009720500474027",
+   "name": "Survey Shows American Parents Severely Limit Kids' Independence",
+   "summary": "The Institute for Family Studies' late 2025 survey of nearly 24,000 parents revealed tight restrictions on children's freedom: at age 12, 19% can't leave home and 25% can't leave the yard, while even at 17, 8% remain housebound and only 39% roam freely. These patterns coincide with heavy screen time and persist despite falling crime rates, including a 25% drop in non-fatal violent crime from 2024 to 2025 per Bureau of Justice Statistics. The findings have fueled widespread conversation about overprotective parenting versus real-world risks and the value of building kids' independence.",
+   "updated_at": "2026-11-17T07:35:28.000Z",
+   "url": "https://x.com/i/trending/2122009720500474027"
+  },
+  {
+   "category": "Other",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "In-N-Out",
+      "Culver's",
+      "Wendy's"
+     ],
+     "people": [],
+     "places": [
+      "California",
+      "LA",
+      "Inglewood",
+      "Texas",
+      "Arizona",
+      "Idaho"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Food"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "One bold tweet promised an In-N-Out binge until the consequences hit hard, kicking off a fun clash between die-hard fans and doubters.",
+   "id": "2122910346361160174",
+   "name": "In-N-Out Burger Sparks Heated Fan vs Skeptic Debate",
+   "summary": "In-N-Out, the family-owned California chain started in 1948, draws raves for fresh beef patties, hand-cut fries, and shakes that top national fast-food rankings. Fans rave about its addictive freshness and affordability, while skeptics call it overhyped with thin patties and long lines, preferring spots like Culver’s or even Wendy’s. With about 400 locations across 10 states and steady expansion, the lively back-and-forth keeps growing as more share their takes on this burger icon.",
+   "updated_at": "2026-11-18T07:13:16.000Z",
+   "url": "https://x.com/i/trending/2122910346361160174"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [],
+     "people": [],
+     "places": [
+      "Canada",
+      "United States",
+      "United Kingdom",
+      "South Africa"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Health & Fitness"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "A Canadian man requested an endoscopy in April 2023 after cancer symptoms appeared. Two years later, in June 2025, he learned his esophageal cancer had spread, landing him in palliative care.",
+   "id": "2122869177811697772",
+   "name": "Canadian Man Waits Over Two Years for Cancer Diagnosis",
+   "summary": "His story details canceled referrals, repeated denials, and a specialist dropping him as a patient, turning an initial seven-to-eight-month wait into over two years. National data from the Fraser Institute's 2026 report shows median waits from referral to treatment hit a record 30.7 weeks, with diagnostic scans adding more delays. Thousands shared similar frustrations online, contrasting Canada's public system with faster U.S. options, while highlighting tensions over access, speed, and early detection for better survival.",
+   "updated_at": "2026-11-18T01:53:53.000Z",
+   "url": "https://x.com/i/trending/2122869177811697772"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [],
+     "people": [
+      "Sam Altman",
+      "Paul Christiano"
+     ],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "AI"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "AI safety researcher Paul Christiano shared a sobering estimate on the Dwarkesh Podcast: a one-in-three chance of superintelligent AI arriving within the next year.",
+   "id": "2121983479747355023",
+   "name": "Paul Christiano Warns of Superintelligence Risk in One Year",
+   "summary": "In the November 16 episode, Christiano, head of the Alignment Research Center and recent OpenAI board member, pegged the odds of AI vastly surpassing humans at about 33% without slowdowns, with a 10% risk of it disempowering humanity in the next 12 months. He pointed to METR's November 5 report showing Anthropic's capabilities doubling in speed since October 2025, driven by AI aiding its own development, and urged labs to pause advances until securing models and secrets against theft. Reactions split sharply, with some calling for urgent safeguards and others dismissing the fears as speculative, highlighting divides among experts on AI's fast-approaching risks.",
+   "updated_at": "2026-11-17T07:22:26.000Z",
+   "url": "https://x.com/i/trending/2121983479747355023"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [],
+     "people": [
+      "Casey Handmer"
+     ],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Technology",
+     "AI",
+     "Science"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Physicist Casey Handmer tasked an AI with combing through 150,000 astrophysics papers, unearthing nearly 1,000 major errors that had slipped through for years.",
+   "id": "2122652647824228432",
+   "name": "AI Audits Expose 1,000 Errors in Astrophysics Papers",
+   "summary": "Handmer used Claude Opus 5.5 to index 150,000 papers and deeply review 50,000, spotting errors repeatedly cited without correction and surfacing dozens of open questions for others to pursue. Economists Jesús Fernández-Villaverde and Dario Caldara warn journals now receive mostly AI-written submissions and shallow referee reports, urging checks on AI use to refocus humans on big ideas. In fields like photonics, AI builds atlases of device specs showing explosive growth, signaling science's shift from slow papers to dynamic, AI-assisted systems that speed error fixes and knowledge queries.",
+   "updated_at": "2026-11-18T05:24:47.000Z",
+   "url": "https://x.com/i/trending/2122652647824228432"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [
+      "Working Theory podcast"
+     ],
+     "organizations": [
+      "a16z",
+      "OpenAI",
+      "Thinking Machines Lab"
+     ],
+     "people": [
+      "Sarah Wang",
+      "Mark Chen",
+      "John Schulman"
+     ],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Podcasts",
+     "Technology",
+     "AI"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "AI researchers like OpenAI's Mark Chen ponder how close we are to machines that improve themselves, turning sci-fi into real lab work.",
+   "id": "2122784946641150244",
+   "name": "a16z Podcast Explores AI's Path to Self-Improvement",
+   "summary": "a16z's new 'Working Theory' podcast series kicks off with interviews featuring OpenAI's Mark Chen and Thinking Machines Lab's John Schulman, who explain recursive self-improvement—where AI drives its own research. Chen estimates OpenAI is 80% toward AGI but only 25-50% to full RSI, with 'research taste' from human experience as a major hurdle. A recent Google paper advances this by adding memory to optimizers, boosting scores in coding tasks from 68 to 85. Experts emphasize human-AI teamwork remains key for now.",
+   "updated_at": "2026-11-17T23:31:40.000Z",
+   "url": "https://x.com/i/trending/2122784946641150244"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "Trinity College"
+     ],
+     "people": [],
+     "places": [
+      "Trinity College"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Education"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Philosophy thrives on sharpening our own thinking, reading, and reasoning skills. Now, one college department has drawn a firm line against AI tools that could shortcut those essentials.",
+   "id": "2122659527564890298",
+   "name": "Trinity Philosophy Department Bans AI in All Courses",
+   "summary": "Trinity College's Philosophy Department unanimously voted to prohibit deliberate AI use across all its courses, barring it for summarizing readings, brainstorming, research, writing, or editing. The policy aims to protect the discipline's core focus on developing human abilities to think, reason, and live ethically, marking the first such blanket ban at the college. Supporters praise it for genuine intellectual growth, while critics call it unrealistic amid enforcement hurdles and AI's growing role in education.",
+   "updated_at": "2026-11-17T20:34:10.000Z",
+   "url": "https://x.com/i/trending/2122659527564890298"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "OpenAI",
+      "Alibaba",
+      "Nvidia",
+      "Reuters"
+     ],
+     "people": [],
+     "places": [
+      "China",
+      "Beijing"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": [
+      "NVDA"
+     ]
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Technology",
+     "AI"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Chinese developers are querying top U.S. AI models like GPT-4 to create training data for their own systems, a move that's raising eyebrows in Washington.",
+   "id": "2122615723902259648",
+   "name": "China Uses U.S. AI Outputs to Train Domestic Models Amid Chip Curbs",
+   "summary": "Through a technique called distillation, Chinese entities generate answers, code, and solutions from models such as OpenAI's GPT-4 and o1 to train smaller, efficient domestic rivals like Alibaba's Qwen2.5. A Reuters review of over 300 papers, patents, and documents reveals this method's shift from labs to widespread industry use, with companies automating data collection and Beijing promoting it via national policies. U.S. officials warn it borders on IP theft and could weaken new chip restrictions announced November 16, though distillation falls short of fully matching leading models and remains a legal practice elsewhere.",
+   "updated_at": "2026-11-17T09:05:29.000Z",
+   "url": "https://x.com/i/trending/2122615723902259648"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "Antigravity"
+     ],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Technology",
+     "AI"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Vamsi Batchu typed one detailed prompt, and a swarm of over 20 AI agents built a full AAA-level tactical FPS browser game from scratch.",
+   "id": "2122588364734083575",
+   "name": "Google Antigravity Redesigns Interface for Multi-Agent AI Swarms",
+   "summary": "Google's Antigravity team launched a complete interface overhaul, rebuilt to let users run multiple AI agents in parallel with clear visibility through live boards, rosters, and graphs. Powered by Gemini 4 Carbon and the new /swarm feature, it enables coordinator agents to manage specialized workers in isolated spaces while verifiers check progress. The demo game featured rainy industrial worlds, gunplay, squad AI, and over 30,000 lines of code—all generated without external assets. Users praised the impressive results, with some requesting tweaks for even smoother autonomous workflows.",
+   "updated_at": "2026-11-17T07:17:18.000Z",
+   "url": "https://x.com/i/trending/2122588364734083575"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [
+      "GPT-6.2 Astra and GPT-6.2 Sol Launch"
+     ],
+     "organizations": [
+      "OpenAI"
+     ],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Technology",
+     "AI"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "OpenAI's fresh GPT-6.2 models promise real-world efficiency for work tasks, but early testers like developer Theo are voicing real frustrations after hands-on trials.",
+   "id": "2122749560661360835",
+   "name": "OpenAI Launches GPT-6.2 Astra and Sol Amid Mixed Early Feedback",
+   "summary": "The new GPT-6.2 Astra targets complex projects like science and 3D design, while Sol handles faster everyday tasks, both now live for Plus, Pro, Enterprise, and Edu users in ChatGPT Work, Codex, and the API. They top cost-efficiency charts with lower pricing—Astra at $8 per million input tokens—and rank high on benchmarks, with Astra second on the Artificial Analysis Intelligence Index. Yet developers report issues like poor long-task coherence and regressions in coding, prompting OpenAI team member Tibo Sottiaux to note recent tweaks and ongoing improvements based on feedback.",
+   "updated_at": "2026-11-18T06:43:11.000Z",
+   "url": "https://x.com/i/trending/2122749560661360835"
+  },
+  {
+   "category": "Other",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "Google"
+     ],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Technology",
+     "AI"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Developers testing Anthropic's new Fable 5.2 are impressed by its sharp focus on complex coding tasks, skipping distractions that tripped up older models.",
+   "id": "2122228246209302591",
+   "name": "Anthropic's Fable 5.2 Leads AI Coding Benchmarks Amid Rival Strengths",
+   "summary": "Anthropic launched Claude Fable 5.2 on November 9, 2026, touting it as the top model for technical work like coding and research, with 30% faster speeds, a 1M-token context window, and lower pricing at $8 per million input tokens. Benchmarks show it topping agentic coding tests at 49.1% on FrontierCode 2.0 and 69.9% on FrontierSWE v2, though some prefer Opus 5.5 for reliability or Gemini 4 for clever, thorough solutions. Users mix models by task, with Fable excelling in multi-step projects, highlighting a diverse AI landscape without a single leader.",
+   "updated_at": "2026-11-18T04:04:07.000Z",
+   "url": "https://x.com/i/trending/2122228246209302591"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [
+      "Starship Flight 15"
+     ],
+     "organizations": [
+      "SpaceX"
+     ],
+     "people": [
+      "Bret Johnsen"
+     ],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Space"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "SpaceX's latest push for orbital data centers has people looking back at the Space Shuttle's trailblazing reusability across 135 missions from 1981 to 2011.",
+   "id": "2122946457896472831",
+   "name": "Space Shuttle Legacy Meets SpaceX Orbital Data Center Vision",
+   "summary": "The Space Shuttle recovered its orbiters and boosters for reuse, making low-Earth orbit routine and aiding the International Space Station's construction, though critics note its high refurbishment costs and slow turnaround. SpaceX CFO Bret Johnsen highlighted Starship's progress toward fully reusable flights, targeting orbital compute satellites in 2027, a ramp-up in 2028, and gigawatt-scale capacity by 2029 to leverage constant sunlight and easy cooling. Fans and analysts see this as building on the Shuttle's foundation, potentially slashing costs for AI infrastructure in space compared to Earth-bound data centers.",
+   "updated_at": "2026-11-18T06:59:09.000Z",
+   "url": "https://x.com/i/trending/2122946457896472831"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [
+      "SID-2 Launch"
+     ],
+     "organizations": [
+      "SID Labs"
+     ],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Technology",
+     "AI"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Max Rumpf unveiled SID-2 amid a custom film set with server racks and 100 origami cranes folded from printed documents, showcasing AI's creative boost.",
+   "id": "2122795325932937673",
+   "name": "SID.ai Launches SID-2: Faster, Cheaper AI Search Swarms",
+   "summary": "SID.ai released SID-2 on November 17, a search model using coordinated swarms of AI agents that outperform Anthropic’s Opus and Google’s Astra while running 8x faster and at 20x lower cost. It tackles the data explosion from AI generating an internet’s worth of text daily by 2030 and enterprises hitting petabyte scales. The launch video, built in 12 hours with AI tools, drew positive reactions in the AI community, with the technical report praised as one of the year's strongest. SID-2 is now available via API for testing on tough queries.",
+   "updated_at": "2026-11-18T03:34:42.000Z",
+   "url": "https://x.com/i/trending/2122795325932937673"
+  },
+  {
+   "category": "Other",
+   "contexts": {
+    "entities": {
+     "events": [
+      "Token Factory launch"
+     ],
+     "organizations": [
+      "Sarvam AI",
+      "DeepSeek"
+     ],
+     "people": [],
+     "places": [
+      "India"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Technology",
+     "AI"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Sarvam AI just launched Token Factory, a platform hosting AI models on Indian GPUs—but critics say it feels more like a hosting service than the cutting-edge research India funded.",
+   "id": "2122824473443475471",
+   "name": "Sarvam AI's Token Factory Draws Mixed Reactions on Sovereign Goals",
+   "summary": "Chosen in April 2025 under the IndiaAI Mission, Sarvam received a ₹98.68 crore subsidy for 4,096 H100 GPUs and raised $234 million in June 2026 at a $1.5 billion valuation. On November 16, 2026, it opened Token Factory to the public, offering its Sarvam 105B model plus open-weight options like DeepSeek and Google's Gemma via an OpenAI-compatible API, all running on Indian clusters with rupee pricing and data residency. Critics call it a letdown for relying on Chinese models despite subsidies, while supporters like investor Hemant Mohapatra argue it builds essential inference infrastructure and revenue alongside ongoing frontier model work.",
+   "updated_at": "2026-11-18T05:57:08.000Z",
+   "url": "https://x.com/i/trending/2122824473443475471"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "Voyage Labs"
+     ],
+     "people": [
+      "Manik Gupta",
+      "Yogesh Jain"
+     ],
+     "places": [
+      "Menlo Park, California"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Technology",
+     "AI",
+     "Travel"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Ever text a friend about that dream beach getaway, only to let it fade? Atlas steps in as your personal AI agent, turning casual ideas into booked trips.",
+   "id": "2122912374449713154",
+   "name": "Atlas AI Travel Agent Launches with $12 Million Seed Funding",
+   "summary": "Voyage Labs co-founder Manik Gupta, formerly of Google Maps and Uber, and Yogesh Jain unveiled Atlas this week after raising $12 million led by Kleiner Perkins. Users message the agent with trip ideas like ski escapes or dinner plans; it researches, personalizes options, books flights and hotels via partners, and monitors prices or disruptions. The private beta is open now on web and text, with plans to expand the team and supplier network for dining and experiences.",
+   "updated_at": "2026-11-18T04:45:00.000Z",
+   "url": "https://x.com/i/trending/2122912374449713154"
+  },
+  {
+   "category": "Other",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "Hugging Face"
+     ],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Technology",
+     "Software Development"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Developers now have a compact adapter that nearly doubles coding benchmark scores in the pi agent setup, cutting tool calls by more than half.",
+   "id": "2122805420435648541",
+   "name": "Hugging Face Releases Qwen3.8 Adapter Boosting Coding Agent Performance",
+   "summary": "Hugging Face launched Qwen3.8-27B-pi-adapted, a small LoRA adapter trained with reinforcement learning to enhance Alibaba's Qwen3.8-27B model for the pi coding agent. It jumps SWE-bench Pro pass@1 from 29.4% to 62.7% and Terminal-Bench 2.1 from 39.5% to 55.8%, while using 55-62% fewer tool calls to speed up tasks. Part of the 'harness adapters' initiative, the 640 MB adapter works alongside base model weights, with open files for easy testing—developers praise the efficiency for local workflows, though some note results tie to specific pi conditions.",
+   "updated_at": "2026-11-18T03:43:41.000Z",
+   "url": "https://x.com/i/trending/2122805420435648541"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [
+      "NeurIPS 2026"
+     ],
+     "organizations": [
+      "Output Labs AI"
+     ],
+     "people": [
+      "Adi Mashiach",
+      "Mirella Mashiach"
+     ],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Technology",
+     "Biotech"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Output Labs unveiled Bonbon, a biology AI that spots hidden molecular links on its own—and it just delivered a 61.5% hit rate in real lab tests, dwarfing traditional methods.",
+   "id": "2122766842573828535",
+   "name": "Bonbon AI Model Transforms Drug Discovery with Lab-Validated Success",
+   "summary": "The 1.6-billion-parameter model, trained on 3.2 trillion protein-ligand tokens, predicts drug mechanisms, binding sites, and engagement types without structural data or fine-tuning. In external wet-lab tests across nine disease targets, Bonbon-prioritized molecules succeeded at a 61.5% rate—versus 0.1% for standard screening—with many structurally novel and effective on untrained targets. Team members and investors praised its 50,000x speed boost and rigorous approach, earning it a top NeurIPS 2026 presentation slot.",
+   "updated_at": "2026-11-17T19:07:44.000Z",
+   "url": "https://x.com/i/trending/2122766842573828535"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "Genesis AI",
+      "Premji Invest",
+      "Khosla Ventures",
+      "Eclipse",
+      "Durable Capital Partners",
+      "Nvidia",
+      "AMD",
+      "Bpifrance",
+      "LG CNS"
+     ],
+     "people": [
+      "Zhou Xian",
+      "Théophile Gervet",
+      "Eric Schmidt"
+     ],
+     "places": [
+      "Paris",
+      "San Carlos, California",
+      "South Korea"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": [
+      "NVDA",
+      "AMD"
+     ]
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Technology",
+     "Robotics",
+     "Business & Finance",
+     "Entrepreneurship"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Genesis AI's CEO Zhou Xian dreams of robots that erase the physical limits holding back human ambition, turning today's human labor into tomorrow's automated workflows.",
+   "id": "2122746522672718297",
+   "name": "Genesis AI Raises $500M for Dexterous Robots at $3.5B Valuation",
+   "summary": "The Paris-based robotics startup announced a $500 million Series A round on November 17, led by Khosla Ventures, Premji Invest, and Eclipse, with backers including Nvidia Ventures, AMD Ventures, and Eric Schmidt. This brings total funding to $605 million since their seed round less than 18 months ago. Their Eno robot, with human-like dexterous hands for tasks like wire routing and packaging, uses sensor gloves, a custom AI model, and simulator to tackle manufacturing, logistics, and lab work. Plans call for U.S. mass production and deployments in 2027.",
+   "updated_at": "2026-11-18T04:44:51.000Z",
+   "url": "https://x.com/i/trending/2122746522672718297"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [
+      "Tumor Context Benchmark Launch"
+     ],
+     "organizations": [
+      "CellType",
+      "Inventia Life Sciences"
+     ],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Technology",
+     "Biotech"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Cancer isn't just one rogue cell—it's a bustling neighborhood of interacting cells. CellType and Inventia just launched a benchmark to test if AI can predict what happens when those neighbors change.",
+   "id": "2122737053750202486",
+   "name": "CellType and Inventia Launch Tumor Context AI Benchmark for Cancer",
+   "summary": "Tumor Context, built on the BioSimBench platform, uses real 3D tumor models from Inventia's RASTRUM system to challenge AI models on forecasting gene expression shifts in varied cellular environments. Early tests show top AI models hitting a 0.76 correlation with lab results, compared to 0.97 from repeated experiments, highlighting clear room for improvement. The benchmark helps AI labs train better models and drug developers study specific tumors, grounded in actual biology from controlled lab setups. Observers praise it as a practical step toward AI understanding complex cancer systems.",
+   "updated_at": "2026-11-17T20:06:29.000Z",
+   "url": "https://x.com/i/trending/2122737053750202486"
+  },
+  {
+   "category": "Other",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Technology",
+     "Software Development"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "A developer merges AI-built features in minutes, but understands only a sliver of the code. This gap, called 'comprehension debt,' is prompting real talk in dev communities.",
+   "id": "2122635023169859999",
+   "name": "Developers Face 'Comprehension Debt' from AI Code Generation",
+   "summary": "AI agents now create full features—databases, APIs, frontend, tests—in minutes, letting teams ship fast. Yet few grasp the details, creating risks when modifying code later, much like onboarding to complex projects. Developers suggest fixes like AI summaries, quizzes before merging, and small changes for human review. The discussion weighs AI's speed against the need for lasting understanding and maintenance.",
+   "updated_at": "2026-11-17T10:20:24.000Z",
+   "url": "https://x.com/i/trending/2122635023169859999"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "White House"
+     ],
+     "people": [
+      "Nate Silver"
+     ],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "AI"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Nate Silver points out how AI tools have surged in coding speed and skill, outpacing other fields. Yet he warns one big mishap in banking or aviation could spark widespread skepticism.",
+   "id": "2122548648017875436",
+   "name": "Nate Silver Notes AI's Rapid Coding Gains Amid Rising Trust Concerns",
+   "summary": "Silver highlights AI's clear progress on programming tasks, even topping tools from just months ago like FLIPR, while developers face hurdles on larger projects that demand more guidance and fresh sessions. He predicts with medium confidence that a single major disruption could push for stricter oversight, echoing polls where more Americans view AI negatively due to job fears and risks. Benchmarks show coding agents excel in tests but falter on complex real-world tasks, fueling talks of backlash and the need for human checks in critical areas.",
+   "updated_at": "2026-11-17T07:22:20.000Z",
+   "url": "https://x.com/i/trending/2122548648017875436"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [
+      "Starfish Prime test"
+     ],
+     "organizations": [
+      "University of Wisconsin–Madison",
+      "Princeton",
+      "arXiv"
+     ],
+     "people": [
+      "Zachary Petersen",
+      "Hong Qin",
+      "Sébastien Philippe",
+      "Sarah Thiele"
+     ],
+     "places": [
+      "South Atlantic Anomaly"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Science"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Imagine a single nuclear blast high above Earth knocking out nearly all satellites in low orbit within a week. That's the stark warning from a new study drawing real lessons from a 1962 U.S. test.",
+   "id": "2122912375703789675",
+   "name": "Study Warns One Orbital Nuclear Blast Could Wipe Out Most LEO Satellites",
+   "summary": "Researchers simulated a 1-megaton explosion at 500 kilometers over the South Atlantic Anomaly, where an X-ray flash and trapped electrons would form a damaging radiation belt. The model predicts 98 percent of low-Earth orbit satellites failing in seven days, even with triple radiation shielding, within two weeks. It factors in lost maneuverability causing 20 collisions over two years, plus years of lingering radiation, hitting modern networks like Starlink hard and disrupting global navigation, communications, and weather systems.",
+   "updated_at": "2026-11-18T04:44:57.000Z",
+   "url": "https://x.com/i/trending/2122912375703789675"
+  },
+  {
+   "category": "Other",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "AI"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "A woman dances with a tray through a sleek cafe, challenging 'AI will replace us' with her lively moves and smile.",
+   "id": "2122286282525004109",
+   "name": "Dancing Cafe Server Sparks AI Job Debate",
+   "summary": "The video shows her serving amid modern tables and a Coca-Cola machine, asking if AI can match that energy and physical flair. It fuels talks on AI's workplace limits, with views split between skeptics noting developers now mostly review AI code and optimists like Ben Sage calling AI underhyped. Gartner predicts a net gain of 1.7 million jobs by 2030 despite short-term losses in customer service and data entry, highlighting how human interaction remains tough for machines.",
+   "updated_at": "2026-11-17T17:47:52.000Z",
+   "url": "https://x.com/i/trending/2122286282525004109"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "SpaceX",
+      "OpenAI"
+     ],
+     "people": [
+      "Elon Musk",
+      "Sam Altman"
+     ],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Technology",
+     "Space"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Rumors of an imminent GPT-6.2 release lit up feeds, but OpenAI hit pause to bolster safeguards on its cutting-edge models.",
+   "id": "2122072308038639850",
+   "name": "OpenAI Delays GPT-6.2 Amid Safety Push and Leaks",
+   "summary": "On November 17, OpenAI announced it was slowing reinforcement learning training and delaying its largest frontier model run to strengthen safety measures, following internal tests where models showed unexpected capabilities. This came amid leaks claiming insider sources said GPT-6.2 Astra and Sol were rolling out soon, against months of delays and frustration over past holds. While Anthropic released its Claude Fable 5.2 and Mythos 5.2 on November 9 with advances in coding and reasoning, OpenAI faces scrutiny for shifting toward security, as one deleted engineer post called it a 'security company.' Users remain divided between eagerness for new features and support for caution.",
+   "updated_at": "2026-11-17T16:14:34.000Z",
+   "url": "https://x.com/i/trending/2122072308038639850"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "Anduril",
+      "Oculus",
+      "Facebook"
+     ],
+     "people": [
+      "Palmer Luckey"
+     ],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Technology",
+     "Business & Finance"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Palmer Luckey turned Oculus sale money into helicopter lessons and a massive floating platform designed to last 1,000 years amid ocean waves.",
+   "id": "2122916502424690825",
+   "name": "Palmer Luckey Unveils SLAB Seastead for U.S. Industries",
+   "summary": "The Oculus founder and Anduril co-founder detailed SLAB, a seastead project funded partly from his 2014 Facebook sale, aimed at hosting regulated industries like metal processing, desalination, and medical research outside state and local rules. Valued at $1 billion in 2017, it seeks cheaper sites than land to boost American expansion and update outdated regulations, distinct from escape-focused seasteading. Reactions ranged from supportive flag emojis and excitement over bold engineering to skepticism about practicality, with concept art showing vast concrete platforms topped by factories and helipads.",
+   "updated_at": "2026-11-18T05:01:14.000Z",
+   "url": "https://x.com/i/trending/2122916502424690825"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "Alibaba"
+     ],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Technology",
+     "AI"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Alibaba just unveiled Qwen4-Max, a powerhouse AI model that slashes costs by over 60% on real tasks while handling text, images, and video with ease.",
+   "id": "2122182546100261250",
+   "name": "Alibaba Launches Qwen4-Max with Massive Efficiency Gains",
+   "summary": "Built on a 2.4-trillion-parameter mixture-of-experts setup, Qwen4-Max activates just 71 billion parameters per token and supports a 1-million-token context window for pro workflows like coding, finance, and research. It shines in benchmarks, topping Chinese models on coding leaderboards and scoring high on intelligence indexes, often matching rivals at lower prices starting at $1.50 per million input tokens. Smaller open-weight versions are coming soon, promising local runs on everyday hardware, with the API already live on QwenCloud.",
+   "updated_at": "2026-11-17T20:33:47.000Z",
+   "url": "https://x.com/i/trending/2122182546100261250"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [
+      "SWE-CoWork benchmark release"
+     ],
+     "organizations": [
+      "TokenWave AI"
+     ],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Technology",
+     "AI",
+     "Software Development"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Imagine handing off a half-done coding task to an AI teammate—can it pick up the threads, ask the right questions, and deliver a working patch? A new benchmark tests exactly that in simulated workplaces.",
+   "id": "2122733884710477985",
+   "name": "SWE-CoWork Benchmark Reveals AI Coding Agents' Teamwork Struggles",
+   "summary": "TokenWave.AI launched SWE-CoWork, a realistic test using 101 real open-source tasks across 11 languages where AI agents must query simulated teammates, search docs, write code, and pass hidden checks in one run. Top models like Claude-Opus-5.5 hit 63.84% on partial tests but only 6.93% full completion, with GPT-6 Astra close behind at 7.92%. Experts note agents falter on handoffs and revisions despite having info, as 82% of requirements come from 'colleagues,' showing they still need human oversight for full engineering workflows. The public benchmark, released November 15 on arXiv, traces failures to highlight gaps in long tasks.",
+   "updated_at": "2026-11-17T16:57:16.000Z",
+   "url": "https://x.com/i/trending/2122733884710477985"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "Google Brain",
+      "OpenAI",
+      "Meta",
+      "Meta's TBD Lab",
+      "Mercor"
+     ],
+     "people": [
+      "Jason Wei"
+     ],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Technology"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Jason Wei stepped into his new role at Mercor with a photo alongside CEO Brendan Foody and co-founder Adarsh, capturing the tight-knit team ready to tackle AI's data challenges.",
+   "id": "2122844779801170214",
+   "name": "AI Researcher Jason Wei Joins Mercor as Chief Scientist",
+   "summary": "After a year at Meta’s TBD lab, prominent AI researcher Jason Wei has joined Mercor as Chief Scientist to lead efforts in data, evaluations, and research. Known for creating key benchmarks like SimpleQA, BrowseComp, and HealthBench during his time at Google Brain, OpenAI, and Meta, Wei will build Mercor’s research team amid the company's rapid growth. Mercor, which connects experts for high-quality AI training data, recently raised $750 million in Series D funding at a $20 billion valuation. Colleagues like Edward Hu praised the hire as a sign of strong research momentum in data and benchmarks.",
+   "updated_at": "2026-11-18T04:52:01.000Z",
+   "url": "https://x.com/i/trending/2122844779801170214"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "National Weather Service"
+     ],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "News"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Right in the middle of the morning, users across the East Coast found National Weather Service sites and data feeds suddenly unavailable.",
+   "id": "2122774388684562505",
+   "name": "National Weather Service Websites Down for 40 Minutes Due to Maintenance",
+   "summary": "The outage hit around 11:05 a.m. to 11:45 a.m. ET on Tuesday, stemming from routine network maintenance that disrupted websites, APIs, and radar feeds. The agency quickly resolved the issues and advised checking NOAA Weather Radio, wireless alerts, broadcast media, and trusted accounts for updates. While some linked it to broader U.S. infrastructure glitches, officials confirmed it was just scheduled upkeep with no signs of cyber threats.",
+   "updated_at": "2026-11-18T01:35:40.000Z",
+   "url": "https://x.com/i/trending/2122774388684562505"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [
+      "Tornado Warning"
+     ],
+     "organizations": [],
+     "people": [],
+     "places": [
+      "San Francisco Bay",
+      "San Bruno Mountain",
+      "Highway 101",
+      "Candlestick Point",
+      "Bay Area"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Natural Disasters"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Twin waterspouts swirled over San Francisco Bay on Monday, a rare sight amid the storm onslaught gripping the West Coast.",
+   "id": "2122087115576246402",
+   "name": "Powerful Atmospheric Rivers Slam California with Rain and Snow",
+   "summary": "A series of intense atmospheric river storms, fueled by a strong El Niño, are pounding California with heavy rain, up to 5 feet of snow in the Sierra Nevada peaks, and flooding risks along the coast. Meteorologist Ryan Maue called it an 'onslaught' that could bring decades-high precipitation, with systems lined up for months and more possible into Thanksgiving. Florida faces its own heavy rain threat, with over 5 million under a Flood Watch and up to 10 inches possible in spots.",
+   "updated_at": "2026-11-17T09:36:49.000Z",
+   "url": "https://x.com/i/trending/2122087115576246402"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [],
+     "people": [],
+     "places": [
+      "California",
+      "Los Angeles",
+      "Sierra Nevada"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Natural Disasters"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "A powerful Pacific storm rolls into California this week, promising heavy rain along the coast and several feet of snow in the Sierra Nevada.",
+   "id": "2122932711669334058",
+   "name": "California Prepares for Atmospheric River Storm with Heavy Rain and Snow",
+   "summary": "The National Weather Service warns of widespread impacts from late Tuesday through Friday, driven by an atmospheric river that could dump 1-3 inches of rain in Southern California and up to 6 feet of snow in the mountains. Flash flooding threatens coastal and valley areas, especially near recent burn scars in Santa Barbara, Ventura, and Los Angeles counties, while blizzard conditions and whiteouts loom over Sierra passes like Donner Pass. Officials urge residents to avoid mountain travel, secure outdoor items, and monitor forecasts closely as the storm offers drought relief but brings hazardous travel and flooding risks.",
+   "updated_at": "2026-11-18T06:04:42.000Z",
+   "url": "https://x.com/i/trending/2122932711669334058"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [
+      "CrowdStrike update"
+     ],
+     "organizations": [
+      "X",
+      "CrowdStrike"
+     ],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Technology"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "A string of major tech glitches this week left millions offline, from flights grounded to banking apps down. People are asking: are these failures hitting more often, or just harder to ignore?",
+   "id": "2122855932212224163",
+   "name": "Recent Tech Outages Spark Debate on Frequency and Visibility",
+   "summary": "High-profile disruptions hit Microsoft 365 due to network issues, the FAA from a router upgrade, JPMorgan Chase from a software bug, United Airlines, and Apple services. Data from Downdetector shows nearly six million U.S. reports in the week ending November 16, the highest in a year, though trailing counts match past peaks without breaking records. Companies say no cyberattacks were involved; experts point to infrastructure fragility, rushed AI patches, and how single issues ripple through interconnected systems, fueling talks on whether visibility stems from media amplification or real upticks.",
+   "updated_at": "2026-11-18T01:01:28.000Z",
+   "url": "https://x.com/i/trending/2122855932212224163"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [
+      "Steam outage"
+     ],
+     "organizations": [
+      "Steam"
+     ],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Gaming"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Gamers everywhere hit a wall when Steam suddenly went dark on November 17, sparking a wave of frantic posts like 'THE WORLD IS ENDING, STEAM IS DOWN!'",
+   "id": "2122833441242652874",
+   "name": "Steam Outage Disrupts Gamers Worldwide on November 17",
+   "summary": "The outage blocked downloads, friends lists, and cloud saves across Steam's store, community features, and game services, even for those with solid internet. Players shared Downdetector spikes up to 48,000 reports, with Deadlock queues failing and error messages like bad gateways popping up. It lasted about an hour before services recovered, leaving the community relieved and back to gaming.",
+   "updated_at": "2026-11-18T01:36:08.000Z",
+   "url": "https://x.com/i/trending/2122833441242652874"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [],
+     "people": [],
+     "places": [
+      "South East Queensland",
+      "Brisbane",
+      "Gold Coast",
+      "Caboolture",
+      "Ipswich",
+      "Maroochydore",
+      "Tweed Heads",
+      "Byron Bay"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Natural Disasters"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Residents braced as massive hailstones up to 10 cm pounded areas like Mt Tarampa, while wind gusts hit 91 km/h near Toowoomba.",
+   "id": "2122175228134498311",
+   "name": "Severe Thunderstorms Slam Southeast Queensland with Giant Hail and Floods",
+   "summary": "The Bureau of Meteorology issued urgent warnings Monday for very dangerous thunderstorms across Brisbane, Sunshine Coast, Gold Coast, and inland spots like Lockyer Valley. Radar tracked intense cells bringing giant hail near Gatton and Helidon, heavy rain sparking flash floods, and thousands of power outages from Noosa to Brisbane. People shared tense updates online, urging each other to stay safe indoors, as authorities warned against driving through floodwater and advised securing outdoor items amid ongoing storm risks into the evening.",
+   "updated_at": "2026-11-16T12:08:56.000Z",
+   "url": "https://x.com/i/trending/2122175228134498311"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "Amazon Services",
+      "Audible"
+     ],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Technology"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Right in the middle of holiday shopping, thousands of Amazon users are staring at frustrating error screens when trying to check orders or browse recommendations.",
+   "id": "2122938474852716910",
+   "name": "Amazon App and Website Hit by Widespread Outage",
+   "summary": "Problems started around midday Eastern time on November 18, with Downdetector logging over 1,000 reports in the last hour alone—eight times the usual amount. Users see messages like 'There is a problem loading your information' on orders, 'Buy Again,' and 'Your Interests,' plus 'Oops, something went wrong' elsewhere; the mobile app bears the brunt, though the website works partially for some. Audible shows errors too, and while some can still buy items, core features remain locked for many—no word yet from Amazon on the cause.",
+   "updated_at": "2026-11-18T06:28:02.000Z",
+   "url": "https://x.com/i/trending/2122938474852716910"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [
+      "MySpace Outage"
+     ],
+     "organizations": [
+      "MySpace"
+     ],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Technology"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "A simple 'Hey MySpace millennials… I ♥ U' post unlocked floods of memories about endless nights coding custom profiles with GIFs, HTML, and personal flair.",
+   "id": "2122892660025504216",
+   "name": "MySpace Outage Revives Millennial Customization Memories",
+   "summary": "Users reported trouble accessing MySpace on November 17, prompting nostalgic replies about its 2003-launched heyday of highly customizable pages where teens taught themselves HTML and CSS for backgrounds, animations, and embedded music. Leah shared spending hours in Photoshop crafting graphics and layouts, while others recalled moms scolding them for time on the site or drama over 'top friends.' Though status checks showed the now read-only platform mostly reachable after a 2019 data loss, the outage moment highlighted how MySpace sparked early online creativity for many.",
+   "updated_at": "2026-11-18T03:26:47.000Z",
+   "url": "https://x.com/i/trending/2122892660025504216"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "Network Rail",
+      "LNER",
+      "TransPennine Express",
+      "ScotRail"
+     ],
+     "people": [],
+     "places": [
+      "Berwick-upon-Tweed",
+      "Newcastle",
+      "East Coast Main Line"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "News"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Passengers heading between Edinburgh and Newcastle found their weekend plans derailed by damaged overhead wires and a fresh signalling fault.",
+   "id": "2122061884614693013",
+   "name": "East Coast Main Line Disruptions Hit Edinburgh-Newcastle Routes",
+   "summary": "Overhead line damage between Edinburgh and Berwick-upon-Tweed on November 15 blocked all lines, with repairs completed by Monday. A new signalling fault between Newcastle and Berwick-upon-Tweed then halted northbound and southbound trains, prompting LNER to run rail replacement services and extend ticket validity through November 18. ScotRail faced separate issues, including line damage affecting North Berwick services and a Kirkcaldy signalling fault disrupting routes to Fife, Dundee, and Aberdeen, with buses as alternatives. Lines reopened by mid-morning on November 16, but delays up to 60 minutes lingered as services recovered.",
+   "updated_at": "2026-11-16T10:16:45.000Z",
+   "url": "https://x.com/i/trending/2122061884614693013"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [
+      "Nationwide Ground Stop"
+     ],
+     "organizations": [
+      "Federal Aviation Administration"
+     ],
+     "people": [],
+     "places": [
+      "Rural Arkansas",
+      "Texas",
+      "JFK",
+      "LaGuardia",
+      "Newark",
+      "Philadelphia International",
+      "Hartsfield-Jackson Atlanta International",
+      "Chicago O'Hare"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Aviation"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "A routine router swap in remote Arkansas suddenly halted thousands of flights nationwide on November 13, stranding travelers for hours.",
+   "id": "2121617908182741496",
+   "name": "FAA Router Failure Sparks Nationwide Ground Stop, Fuels Air Traffic Overhaul Push",
+   "summary": "The FAA traced the five-hour ground stop, which affected over 3,500 flights, to a newly installed router at an El Dorado site that flooded the network with data during contractor L3Harris's fiber optic upgrade. Transportation Secretary Sean Duffy defended the response on Sunday shows, blaming decades of underinvestment, while the Trump administration calls for Congress to approve up to $50 billion to modernize the 50-year-old system in places. Democrats push back on funding needs and cite DOGE cuts, as disruptions lingered at hubs like Chicago O’Hare and Dallas-Fort Worth into the weekend.",
+   "updated_at": "2026-11-16T12:40:23.000Z",
+   "url": "https://x.com/i/trending/2121617908182741496"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [
+      "Hailstorm"
+     ],
+     "organizations": [],
+     "people": [],
+     "places": [
+      "Johannesburg",
+      "Soweto",
+      "Braamfontein",
+      "Jabulani Mall",
+      "M2 highway",
+      "Orlando Stadium"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Natural Disasters"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "One moment drivers cruised through sweltering heat, the next hailstones pounded cars and floods blocked highways, forcing many to huddle under bridges.",
+   "id": "2122717387619541089",
+   "name": "Hailstorm and Heavy Rains Halt Johannesburg After Heatwave",
+   "summary": "A sudden hailstorm hit Johannesburg on Tuesday, turning streets in areas like Braamfontein into flooded chaos and stopping traffic on the M2 highway. The South African Weather Service had warned of severe thunderstorms with hail, winds, and flooding, which also paused the afternoon session of the South Africa versus Bangladesh Test at the Wanderers. Road crews cleared drains amid rising water, while some drivers drew criticism for blocking lanes under overpasses; authorities advised caution on slippery roads and avoiding low-lying areas.",
+   "updated_at": "2026-11-17T19:26:33.000Z",
+   "url": "https://x.com/i/trending/2122717387619541089"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [],
+     "people": [],
+     "places": [
+      "Hollywood",
+      "Broward County",
+      "South Florida",
+      "Pembroke Pines",
+      "Davie",
+      "Fort Lauderdale",
+      "North Miami",
+      "Coral Springs",
+      "Florida Turnpike",
+      "US-441",
+      "Brevard County",
+      "Volusia County",
+      "Flagler County",
+      "Florida's East Coast"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Natural Disasters"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Soils still soaked from recent historic floods now face waves of heavy rain, with meteorologists warning of flash floods that could strand cars and overwhelm streets.",
+   "id": "2122869177815900546",
+   "name": "Heavy Rain Brings Renewed Flood Threat to Florida's East Coast",
+   "summary": "Repeated heavy downpours are expected through Friday, with forecasts showing 8 to 12 inches widespread along Florida's east coast from the Space Coast northward, including Brevard, Volusia, and Flagler counties, and up to 24 inches in spots. South Florida already sees flooding, with nearly 10 inches in Hollywood stranding vehicles and narrowing the Florida Turnpike. Officials like Senator Rick Scott urge residents to turn around, don't drown, avoid flooded roads, and follow local alerts amid moderate flash flood risks.",
+   "updated_at": "2026-11-18T05:57:20.000Z",
+   "url": "https://x.com/i/trending/2122869177815900546"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [],
+     "people": [],
+     "places": [
+      "United Kingdom",
+      "Brampton, Cumbria"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "News",
+     "Natural Disasters"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "A chilly November morning brought heavy downpours instead of the hoped-for snow, leaving gardens soaked and outdoor plans washed out.",
+   "id": "2122650956613685594",
+   "name": "Heavy Rain Replaces Snow Across UK on Cold Tuesday Morning",
+   "summary": "Forecasters issued a yellow warning for snow in northern England and southern Scotland overnight, but rain took over by Tuesday morning, with sleet lingering on higher hills. Rainfall hit around 20mm in many spots, prompting flood alerts and commuters to brave torrential conditions while many stayed indoors under duvets. Temperatures hovered at 6-10°C amid clouds, strong winds, and a damp mood, with more rain expected midweek before drier weather arrives.",
+   "updated_at": "2026-11-17T11:25:36.000Z",
+   "url": "https://x.com/i/trending/2122650956613685594"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [],
+     "people": [],
+     "places": [
+      "Chicago",
+      "Norway"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "News",
+     "Natural Disasters"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Phillygirl shivered through Tuesday evening, posting 'I cannot warm up I hate this cold. Anyone ?!!!!' as unseasonable chill hit hard across regions.",
+   "id": "2122871560591868107",
+   "name": "Early Cold Snap Sparks Widespread Chill Complaints",
+   "summary": "A record-early weakening of the Arctic polar vortex in early November sent frigid air southward, causing sharp temperature drops like 17°C plunges in northern China and record lows near Jacksonville, Florida. People from Chicago to the UK shared frustrations over sore throats, flu, and failed attempts to stay warm with pajamas, fluffy socks, and cozy sweaters. While some reluctantly enjoyed pretty winter scenes, most hunkered down, layering up and cranking heaters amid ongoing lake-effect snow and blizzards.",
+   "updated_at": "2026-11-18T02:02:49.000Z",
+   "url": "https://x.com/i/trending/2122871560591868107"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "Spotify"
+     ],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Technology"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Just as fans geared up for their yearly Spotify Wrapped recap, the app started cutting out songs after half a second and refusing to load properly.",
+   "id": "2122739994695442554",
+   "name": "Spotify App Glitches Frustrate Users Before Wrapped Reveal",
+   "summary": "On November 17, Spotify users reported widespread playback issues, excessive ads, and app failures that persisted despite restarts and reinstalls, right when excitement built for the personalized Wrapped summaries expected in early December. Complaints spiked on Downdetector from 1:46 PM GMT, with one listener joking their recap would feature 'bullshit.' SpotifyCares offered troubleshooting like logging out or reinstalling, and later directed users to direct support, even as official status pages showed all systems normal.",
+   "updated_at": "2026-11-17T17:24:47.000Z",
+   "url": "https://x.com/i/trending/2122739994695442554"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [],
+     "people": [],
+     "places": [
+      "lakeshores"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Natural Disasters"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Waking up to frosty mornings and mid-30s lows, people bundled up with extra blankets and shared their honest takes on the sudden cold.",
+   "id": "2122528857274425693",
+   "name": "Early Winter Chill Prompts Cozy Complaints and Joys",
+   "summary": "Overnight on November 17, sharp temperature drops across the U.S. and UK led to shared stories of chilly starts, from freezing feet and seasonal blues to the peace of winter mornings. In Nashville, frost formed under clear skies, while the UK faced yellow snow warnings in the north. Not all saw downsides—some welcomed jacket season and cozy layers amid the complaints.",
+   "updated_at": "2026-11-17T18:28:50.000Z",
+   "url": "https://x.com/i/trending/2122528857274425693"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [
+      "Grindr outage"
+     ],
+     "organizations": [
+      "Grindr",
+      "FOX News"
+     ],
+     "people": [
+      "Benny Johnson"
+     ],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Technology"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Users filled feeds with laughs on November 17, 2026, pretending Grindr crashed and pinning 'confirmation' on figures like JD Vance and Benny Johnson.",
+   "id": "2122805423560335488",
+   "name": "Grindr Outage Jokes Credit Conservative Commentators",
+   "summary": "Playful posts claimed the LGBTQ+ dating app Grindr was down, with gags like 'BREAKING: JD Vance confirms Grindr is also down' and memes of suited men celebrating failed logins. References to Nick Fuentes, Harry Sisson, and even Fox News added to the satire, riffing on old memes about app spikes at conservative events. In truth, Grindr's status page and trackers like Outage.com showed everything running smoothly, with no real outage on that date.",
+   "updated_at": "2026-11-17T21:41:22.000Z",
+   "url": "https://x.com/i/trending/2122805423560335488"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [
+      "Nationwide Air Traffic Communications Outage"
+     ],
+     "organizations": [
+      "FAA",
+      "FBI Cyber Branch",
+      "Department of Transportation",
+      "L3Harris",
+      "HPE",
+      "Juniper Networks"
+     ],
+     "people": [],
+     "places": [
+      "Arkansas"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": [
+      "LHX",
+      "HPE"
+     ]
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Aviation"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Customers stared at frozen screens Monday, unable to log in or move money at major banks like Chase and Bank of America. It was the latest in a string of unexpected disruptions.",
+   "id": "2122053952724435033",
+   "name": "Bank Outages Hit Chase, Others Amid Tech Glitch Wave",
+   "summary": "Widespread outages struck Chase, Bank of America, Wells Fargo, and U.S. Bank on Monday, with thousands reporting login failures and Zelle delays. Chase blamed a software bug in its hardware that slowed transactions, insisting funds remained accessible and no cyberattack occurred; other banks saw indirect effects from Chase-linked activity. Service normalized by evening, but the problems followed close on the heels of Microsoft's global outage on November 12, an FAA flight ground stop on the 13th, and United Airlines' system issues the same day. These back-to-back glitches have people worried about vulnerabilities in critical systems.",
+   "updated_at": "2026-11-17T18:44:40.000Z",
+   "url": "https://x.com/i/trending/2122053952724435033"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "Airtel Nigeria",
+      "MTN"
+     ],
+     "people": [],
+     "places": [
+      "Nigeria",
+      "Uganda"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "News"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "One user vented that MTN ruined their entire day with spotty service, while another slammed Airtel for wasting their paid data on unreliable connections.",
+   "id": "2122435028151890151",
+   "name": "Widespread Frustration Over MTN and Airtel Network Failures",
+   "summary": "Customers in Nigeria, Kenya, Uganda, India, and beyond shared stories of dropped calls, slow internet, and fast-draining data from providers like MTN and Airtel. In Nigeria, the Communications Commission recorded 16 telecom disruptions from November 9-15, with MTN linked to seven and Airtel to three, often due to fibre cuts and power issues. Lawmakers are demanding answers from executives amid over 413,000 complaints in early 2026, as regulators push for better service and compensation.",
+   "updated_at": "2026-11-16T21:11:23.000Z",
+   "url": "https://x.com/i/trending/2122435028151890151"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [
+      "Nationwide Emergency Alert System Test"
+     ],
+     "organizations": [
+      "Federal Emergency Management Agency",
+      "Federal Communications Commission"
+     ],
+     "people": [],
+     "places": [
+      "United States"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "News"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "At 2:20 p.m. Eastern Time on Tuesday, TVs and radios nationwide paused for a quick, one-minute test of the Emergency Alert System. FEMA assured everyone upfront: this was just routine—no emergencies here.",
+   "id": "2122511208402342190",
+   "name": "Nationwide Emergency Alert System Test Runs Smoothly Across U.S.",
+   "summary": "The Federal Emergency Management Agency conducted a legally required test, interrupting broadcasts for about a minute with a clear message stating 'This is only a test. No action is required.' Officials from FEMA, the White House, and the FCC confirmed it went smoothly in most areas, debunking online rumors of hacks, blackouts, or secret issues. Public reactions ranged from capturing the blue-screen alert on TV to wondering if they missed it, while FEMA noted the next test comes in three years.",
+   "updated_at": "2026-11-18T06:42:52.000Z",
+   "url": "https://x.com/i/trending/2122511208402342190"
+  }
+ ]
+}

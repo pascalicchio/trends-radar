@@ -1,0 +1,75 @@
+# Channels the radar scores topics against. Add a channel by appending a block.
+# fit score = sum of matched keyword weights (capped 100) minus excluded matches.
+# angle: first matching "angles" rule wins; {topic} is replaced with the topic label.
+# Fit is informational only: ranking is by heat.
+channels:
+  - id: plan-not-panic
+    name: Plan Not Panic
+    format: calm, practical survival/prep shorts
+    keywords:
+      30: [hurricane, tropical storm, storm, blizzard, winter storm, snowstorm, ice storm, tornado, wildfire, flood, flooding, earthquake, tsunami, power outage, outage, blackout, grid, heat wave, cold snap, freeze, evacuation, emergency, disaster, fema]
+      20: [generator, water, food, recall, shortage, supply, camping, gear, first aid, carbon monoxide, space heater, travel, thanksgiving travel, road, drought, volcano, eruption, weather, nws, noaa, boil water, contamination, outbreak, salmonella, e. coli, bird flu, measles, flu]
+      10: [preparedness, prep, prepper, safety, survival, battery, flashlight, cyberattack, hack, internet outage, cloudflare, aws, holiday, black friday, winter, solstice]
+    exclude: [zombie, doomsday, apocalypse, nuclear war]
+    angles:
+      - match: [hurricane, tropical storm, storm, blizzard, winter storm, snowstorm, ice storm, tornado, flood, wildfire, freeze, cold snap, heat wave, weather]
+        angle: "Calm 60-second checklist: what {topic} means for your home and the 3 things to do before it hits"
+      - match: [outage, blackout, grid, power, cloudflare, aws, internet outage, cyberattack]
+        angle: "If {topic} happened to you tonight: the no-panic outage kit (light, heat/cool, water, phone power)"
+      - match: [recall, outbreak, salmonella, contamination, boil water, flu, measles]
+        angle: "{topic}: what to check in your pantry/fridge today and when to actually worry"
+      - match: [camping, gear, generator, battery, flashlight, space heater]
+        angle: "Explainer: picking the right {topic} for real-life emergencies (and the safety mistake people make)"
+      - match: []
+        angle: "Practical prep angle on {topic}: what normal households should actually do"
+  - id: shrink-down
+    name: Shrink Down
+    format: "explainers for curious people: how things work"
+    keywords:
+      30: [space, rocket, launch, nasa, spacex, starship, meteor, comet, eclipse, solstice, telescope, physics, chemistry, biology, engineering, invention, technology, ai, chip, quantum, battery, nuclear, reactor, science, scientists, study finds, discovery]
+      20: [phone, iphone, android, robot, robotics, car, ev, tesla, airplane, plane, ship, bridge, dam, satellite, internet, cloudflare, aws, outage, virus, vaccine, brain, sleep, weather, volcano, earthquake, dinosaur, fossil, paleontology, ocean, deep sea, animal, species, mars, moon, sun, black hole, galaxy]
+      10: [record, "world's largest", first ever, research, explained]
+    exclude: []
+    angles:
+      - match: [rocket, launch, starship, spacex, nasa, satellite]
+        angle: "How {topic} actually works: the physics of getting it off the ground, in 60 seconds"
+      - match: [meteor, comet, eclipse, solstice, moon, sun, mars, black hole, galaxy, telescope]
+        angle: "What's really happening during {topic} (and why it looks the way it does)"
+      - match: [ai, chip, quantum, technology, phone, iphone, android, robot, internet, cloudflare, aws, outage]
+        angle: "Under the hood: how {topic} works, explained with one simple model"
+      - match: []
+        angle: "The 'how does that even work?' explainer behind {topic}"
+  - id: silver-paradox
+    name: Silver Paradox
+    format: premium documentary (long-form ~8+ min, needs real footage)
+    keywords:
+      30: [mystery, mysterious, unexplained, paradox, ancient, archaeolog, discovered, discovery, lost, hidden, secret, history, historic, anniversary, war, empire, ufo, uap, shipwreck, expedition, dinosaur, paleontology, fossil, extinction, deep sea, pyramid, tomb, artifact]
+      20: [space, nasa, moon, mars, black hole, physics, collapse, disaster, assassination, heist, scandal, investigation, documentary, biography, legend, record, first ever, world war, cold war, nuclear, volcano, earthquake, tsunami]
+      10: [death, dies, died, rise and fall, billion, empire, dynasty, trial]
+    exclude: []
+    angles:
+      - match: [ancient, archaeolog, pyramid, tomb, artifact, lost, hidden, shipwreck]
+        angle: "Documentary: the story behind {topic} and the question nobody has answered"
+      - match: [anniversary, history, historic, war, world war, cold war, assassination]
+        angle: "Documentary retrospective: {topic}, what really happened and why it still matters"
+      - match: [ufo, uap, mystery, unexplained, paradox]
+        angle: "The paradox of {topic}: evidence, explanations, and what doesn't add up"
+      - match: []
+        angle: "Long-form doc angle: the bigger story behind {topic}"
+  - id: intern-broke-it
+    name: The Intern Broke It
+    format: comedic AI/tech-fail shorts
+    keywords:
+      30: [ai, chatgpt, openai, claude, anthropic, gemini, grok, llm, chatbot, agent, outage, down, bug, glitch, crash, hack, breach, leak, rce, vulnerability, exploit, deepfake, robot, robotaxi, waymo, tesla, autopilot]
+      20: [apple, google, microsoft, meta, amazon, aws, cloudflare, github, windows, update, app, software, code, coding, developer, startup, tech, iphone, android, smart home, alexa, siri, password, cyberattack]
+      10: [fail, mistake, oops, fired, lawsuit, recall, layoffs, viral]
+    exclude: [died, death, killed, shooting]
+    angles:
+      - match: [outage, down, crash, bug, glitch, update, aws, cloudflare]
+        angle: "Skit: the intern pushed one tiny change and caused {topic}"
+      - match: [ai, chatgpt, openai, claude, gemini, grok, llm, chatbot, agent, deepfake]
+        angle: "Skit: the intern lets the AI handle {topic}... what could go wrong"
+      - match: [hack, breach, leak, rce, vulnerability, exploit, password]
+        angle: "Skit: the intern's 'security fix' for {topic}"
+      - match: []
+        angle: "Comedic tech-fail take on {topic}"
