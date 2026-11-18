@@ -1,7 +1,7 @@
 {
  "schema": "trends-radar/v1",
- "generated_at": "2026-11-18T07:19:36+00:00",
- "generated_at_et": "2026-11-18 02:19 AM ET",
+ "generated_at": "2026-11-18T07:21:27+00:00",
+ "generated_at_et": "2026-11-18 02:21 AM ET",
  "urls": {
   "dashboard": "https://trends-radar.pascalicchio.workers.dev/",
   "json": "https://trends-radar.pascalicchio.workers.dev/trends.json",
@@ -22,7 +22,7 @@
   },
   "googlenews": {
    "status": "ok",
-   "items": 245,
+   "items": 246,
    "note": ""
   },
   "googletrends": {
@@ -79,7 +79,7 @@
   },
   "wikipedia_onthisday": {
    "status": "ok",
-   "items": 23,
+   "items": 27,
    "note": ""
   }
  },
@@ -111,15 +111,15 @@
    "topic": "Grand Theft Auto VI",
    "heat": 94.0,
    "best_channel": "shrink-down",
-   "angle_hint": "How Grand Theft Auto VI actually works: the physics of getting it off the ground, in 60 seconds",
+   "angle_hint": "How Grand Theft Auto VI is actually built: the tech behind the game/film everyone is talking about",
    "footage_confidence": "medium"
   },
   {
    "rank": 2,
    "topic": "James Bond",
-   "heat": 80.6,
-   "best_channel": null,
-   "angle_hint": null,
+   "heat": 79.9,
+   "best_channel": "shrink-down",
+   "angle_hint": "The 'how does that even work?' explainer behind James Bond",
    "footage_confidence": "high"
   },
   {
@@ -141,7 +141,7 @@
   {
    "rank": 5,
    "topic": "Nvidia",
-   "heat": 58.7,
+   "heat": 59.5,
    "best_channel": "shrink-down",
    "angle_hint": "Under the hood: how Nvidia works, explained with one simple model",
    "footage_confidence": "high"
@@ -169,7 +169,9 @@
     "n_sources": 4,
     "n_regions": 2
    },
-   "paradox_signals": [],
+   "paradox_signals": [
+    "how"
+   ],
    "best_channel": "shrink-down",
    "channel_fit": {
     "plan-not-panic": {
@@ -178,11 +180,16 @@
      "angle_hint": null
     },
     "shrink-down": {
-     "score": 30,
+     "score": 100,
      "matched": [
-      "launch"
+      "launch",
+      "video game",
+      "game",
+      "gta",
+      "playstation",
+      "ps5"
      ],
-     "angle_hint": "How Grand Theft Auto VI actually works: the physics of getting it off the ground, in 60 seconds"
+     "angle_hint": "How Grand Theft Auto VI is actually built: the tech behind the game/film everyone is talking about"
     },
     "silver-paradox": {
      "score": 10,
@@ -222,7 +229,7 @@
      "source": "googlenews",
      "title": "The Game Awards Nominations 2026: ‘GTA 6’ Lands Game of the Year Nom Ahead of Thursday Release",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNT0JTUFlEMy1QZ3FfekNuQWFlTW5Uc2lLMXVYOWU2dnVtTTlvX2dsZnlVZl9sQ3pCelhZcUkyYmhIUnIwVmNVTVF2MEhmbERJSGVDRzFXSUZ6YWlPczRNLU91cW9YVG1xZjZCTHN5WFE4RGxveThFY2E1cXRFU1BSMnNBQ2VzX0JWRHc?oc=5",
-     "metric": "Technology #7, 5 outlets in cluster"
+     "metric": "Technology #8, 5 outlets in cluster"
     },
     {
      "source": "x",
@@ -234,7 +241,7 @@
      "source": "googlenews",
      "title": "GTA VI Is Finally Here. Should the Streamers Be Worried?",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObWxFd3NORjhSR2tMZC1DeXF4eU9QOUJsZ0pPY25kUUhaSFFMaTNZRE1abk13UHZzQVVjaC1HRDRzeDcxandCNTNwQUgtUnBmb01mc0Q2WG9kM195S3dwSmxVazIzUXlTMXcxQ2RrdTgyX1VOM21UMTRZUkdJbTR3N3hrTkNNbzlaS180NGtURThjMlZi?oc=5",
-     "metric": "Technology #14, 5 outlets in cluster"
+     "metric": "Technology #15, 5 outlets in cluster"
     },
     {
      "source": "x",
@@ -244,9 +251,9 @@
     },
     {
      "source": "googlenews",
-     "title": "Miami embraces its Vice City alter ego, seizing buzz around ‘GTA VI’ release",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRGwyOFZDZlJ3ZFdiWWZHUi0ydFU5Z2xDSDZWV2pZeE1wWTV2cS1DT1J2Q0ljTEpCTXIyNkZfQ3plbTBvTmZWYzB3cFNnenBSN1lEU3FPb1VHTUJEMWJPR3VIZTg2TklvTzR0VEFpZXhDR0lCSEdDNDFNdTVNS2hTMEp3MUkwdzI2WUNsbGNpeTN1VUxsMWM4dGJEZw?oc=5",
-     "metric": "Technology #21, 5 outlets in cluster"
+     "title": "Sony squeezes out a PlayStation 5 firmware update before the release of GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwbkFidHJBSFFYcW9xcHpkTC1ZcVpOMXlhRnRpaTJieVBmaGtjVVZKbGZRSWJHQ2tkRDVHclA2SDZsOUVYeXQzbkU5WjFBQkdMWUZQZGdOeHNTMG1xOGdpXw?oc=5",
+     "metric": "Technology #20, 5 outlets in cluster"
     }
    ],
    "keys": [
@@ -289,10 +296,10 @@
   {
    "rank": 2,
    "topic": "James Bond",
-   "heat": 80.6,
+   "heat": 79.9,
    "status": "steady",
    "velocity": 0.59,
-   "why_hot": "3 source(s): googlenews, wikipedia, x; Wikipedia views 3.2x vs prior 4-day avg; Wikipedia views 3.4x vs prior 4-day avg; 120,511 views, 3.2x vs prior 4-day avg; X trend GB #1; Top #25, 5 outlets in cluster",
+   "why_hot": "3 source(s): googlenews, wikipedia, x; Wikipedia views 3.2x vs prior 4-day avg; Wikipedia views 3.4x vs prior 4-day avg; 120,511 views, 3.2x vs prior 4-day avg; X trend GB #1; Top #26, 5 outlets in cluster",
    "sources": [
     "googlenews",
     "wikipedia",
@@ -306,7 +313,7 @@
     "n_regions": 1
    },
    "paradox_signals": [],
-   "best_channel": null,
+   "best_channel": "shrink-down",
    "channel_fit": {
     "plan-not-panic": {
      "score": 0,
@@ -314,9 +321,11 @@
      "angle_hint": null
     },
     "shrink-down": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
+     "score": 15,
+     "matched": [
+      "film"
+     ],
+     "angle_hint": "The 'how does that even work?' explainer behind James Bond"
     },
     "silver-paradox": {
      "score": 0,
@@ -352,7 +361,7 @@
      "source": "googlenews",
      "title": "Shaken and stirred: Jeff Bezos says he was ‘heavily involved’ in picking new James Bond",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQemhQejJUdmR0c0daNndYVWJKQ09COVVPaC1ERW9TeFlXUHhOa3hQbDVnMkdSei02NEI1TW9Dc0JuN0hLbUVRTnlpY0tSWmRxSENDVUVyQjZrMU4wMk54YWpPSEI4T2lpU3ZHZUw1akNRczFUREVpUUtKX2pfa2dwdy0tSWpNUUpCYUhTWmUtalZ4QQ?oc=5",
-     "metric": "Top #25, 5 outlets in cluster"
+     "metric": "Top #26, 5 outlets in cluster"
     },
     {
      "source": "wikipedia",
@@ -407,9 +416,9 @@
    "rank": 3,
    "topic": "Robert Pattinson",
    "heat": 77.2,
-   "status": "rising",
+   "status": "steady",
    "velocity": 0.37,
-   "why_hot": "3 source(s): googlenews, wikipedia, x; Wikipedia views 2.3x vs prior 4-day avg; Wikipedia views 2.5x vs prior 4-day avg; 840,972 views, 2.3x vs prior 4-day avg; X trend GB #4; Entertainment #6, 5 outlets in cluster",
+   "why_hot": "3 source(s): googlenews, wikipedia, x; Wikipedia views 2.3x vs prior 4-day avg; Wikipedia views 2.5x vs prior 4-day avg; 840,972 views, 2.3x vs prior 4-day avg; X trend GB #4; Entertainment #7, 5 outlets in cluster",
    "sources": [
     "googlenews",
     "wikipedia",
@@ -463,7 +472,7 @@
      "source": "googlenews",
      "title": "The Next Bond Villain: From Idris Elba to Kristen Stewart, 22 Actors Who Should Face Off Against Robert Pattinson",
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbTNOUnZCQmxDSUdveXlwX1VKM0h2TEt6M2dfUVdnaTYwdkJCWklHTlkxOUltc21xcl9sTmJwaVFybmJBYWhnbXZpV04yX3EzNFVvNTVNQ0dJVDVNSHdvUnpuaURUSmYzLTViUjdHWnZkQ1kwYU1ibC1EV0NDOWhQeWt3?oc=5",
-     "metric": "Entertainment #6, 5 outlets in cluster"
+     "metric": "Entertainment #7, 5 outlets in cluster"
     },
     {
      "source": "wikipedia",
@@ -603,10 +612,10 @@
   {
    "rank": 5,
    "topic": "Nvidia",
-   "heat": 58.7,
+   "heat": 59.5,
    "status": "steady",
    "velocity": 0.0,
-   "why_hot": "3 source(s): googlenews, hackernews, wikipedia; Wikipedia views 0.4x vs prior 4-day avg; 52,812 views, 0.4x vs prior 4-day avg; Business #5, 5 outlets in cluster; 499 pts, 224 comments, 14h old",
+   "why_hot": "3 source(s): googlenews, hackernews, wikipedia; Wikipedia views 0.4x vs prior 4-day avg; 52,812 views, 0.4x vs prior 4-day avg; Business #3, 5 outlets in cluster; 499 pts, 224 comments, 14h old",
    "sources": [
     "googlenews",
     "hackernews",
@@ -649,15 +658,15 @@
    "links": [
     {
      "source": "googlenews",
-     "title": "Interim Nvidia CEO Says It’s No Longer Sending AI Chips to China",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVk5ZV2dpR3EyVEtJcVdSZTBCVGl6UE1qZ1gzNWdiaHJ3WGR1S3NUd2VRcWVzUWhjanFicXVzNi1zRWZNel9EdlVOaC1uMUFCckRXMkRGWkRZeHdZUnE4VTdtUkZ2N0dITkRYa040X29HanoxODdGVXV3NzEyOGhnR1VOb2VwcFNIcHFJQlFrNXM3T1hqQlN5WnB0MHJTU0R2cTZOUnBNbV9Ubm81clFKM0x5cHRxdw?oc=5",
-     "metric": "Business #5, 5 outlets in cluster"
+     "title": "Nvidia bought itself a little breathing room in the Jensen Huang comeback fight",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbFA2UGFkWVYwZ0lxQkFybS1NX0hlM29jZXIyTjRFOG9NWGFnelJndkJ0XzhQMF9xaDFvUjVBZXNRTWJVamZCOEJSbjl4ZTBXSU9yejFCUkxWckpZbmU0X19nVl9vODh2U0JsOTZuT2taTHl5LV84cnNrWTdVd3hzbi1INFVUS3VsYVhwY0hKTDNod1lQbDZIanU0UGRFNmMw?oc=5",
+     "metric": "Business #3, 5 outlets in cluster"
     },
     {
      "source": "googlenews",
      "title": "Nvidia Hires Heidrick & Struggles in Hunt for New CEO",
      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOc09iSnppSk1kS3NpYTNYSG9rSGQyS2pfRGlYTlFBLXo4NTctbjFsTTFTQWVYd3N0VUs3T0FhdzlNQXpITmI4VFZWMXI1RVlUUWxIb2NuaHhlWGhkVWNWcXU4dno2dmk4cG9oekJhSUZZRFhrRE1PSlhPQ2Y0Sk5HTW9neUFaejNfbnJFblljUmNwQ3pHRmdzUUd6d2JOV2FreWZ0VWNUSTZKZ3FXN0dwWTV6cDVtS3ZhU2dQZXBjMzRMRjVUbXloQlZRSVdxTld1cV92dEd0Q0lvbnJFcnB4VW5pejFad3NMdTdR?oc=5",
-     "metric": "Business #6, 5 outlets in cluster"
+     "metric": "Business #5, 5 outlets in cluster"
     },
     {
      "source": "hackernews",
@@ -667,21 +676,21 @@
     },
     {
      "source": "googlenews",
-     "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcDRWN3ZsWTVWNkNia01rdTdxR0c4bnVsTS0xUFBWbG9EUWZCWnFKQVhWV0dXVUdVNmJhM3VpTFM4UWJDOGYxUVl2LTd5ZUlWWGVFX0RubWFRYThfV2lVU0tpWDJJM0V2cHljbUVqR3dBRE5yb2hscXBmU0I2NzRhRjBDS3dONmNCYnZrelRDWFRoNTFNS0t3cXRvVXRIcVBEa25YVjAxWHJ6ek56cERNbEFGY2I?oc=5",
-     "metric": "Business #9, 5 outlets in cluster"
-    },
-    {
-     "source": "googlenews",
      "title": "Stock futures rise as Nvidia gains on earnings beat and solid outlook: Live updates",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwTDVScDA1ZzNHQi1GT1RaRFVzYTJPa2lHVVJyVzR6RlhfaGZNbG5Va1BFblNtYm54eG82YWl4dlA3SkltcC1WSmdCVEUtMlVKNXlCVDNVcG8wRnBaNkc0UVctakctUDdZUDJsNEp4dWN0Z0Vsczlv?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwTDVScDA1ZzNHQi1GT1RaRFVzYTJPa2lHVVJyVzR6RlhfaGZNbG5Va1BFblNtYm54eG82YWl4dlA3SkltcC1WSmdCVEUtMlVKNXlCVDNVcG8wRnBaNkc0UVctakctUDdZUDJsNEp4dWN0Z0Vsczlv0gF8QVVfeXFMT014TXpKZ2hKbVhJT0dVekl1Z2tCbjE3MnMtLWhMUG1DaUc3UUd0emE1R2xPd2pDZXMzVXhGbHFVRmdWRm1iRWJnejN6YjJJYlpDWkxJOVhDS3RuRGUyQkhHZ2wzSzJJdnVrNDVqcHQxb2ZXVkUwSVRJcjE4RA?oc=5",
      "metric": "Top #15, 5 outlets in cluster"
     },
     {
      "source": "googlenews",
-     "title": "Nvidia bought itself a little breathing room in the Jensen Huang comeback fight",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbFA2UGFkWVYwZ0lxQkFybS1NX0hlM29jZXIyTjRFOG9NWGFnelJndkJ0XzhQMF9xaDFvUjVBZXNRTWJVamZCOEJSbjl4ZTBXSU9yejFCUkxWckpZbmU0X19nVl9vODh2U0JsOTZuT2taTHl5LV84cnNrWTdVd3hzbi1INFVUS3VsYVhwY0hKTDNod1lQbDZIanU0UGRFNmMw?oc=5",
+     "title": "Interim Nvidia CEO Says It’s No Longer Sending AI Chips to China",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVk5ZV2dpR3EyVEtJcVdSZTBCVGl6UE1qZ1gzNWdiaHJ3WGR1S3NUd2VRcWVzUWhjanFicXVzNi1zRWZNel9EdlVOaC1uMUFCckRXMkRGWkRZeHdZUnE4VTdtUkZ2N0dITkRYa040X29HanoxODdGVXV3NzEyOGhnR1VOb2VwcFNIcHFJQlFrNXM3T1hqQlN5WnB0MHJTU0R2cTZOUnBNbV9Ubm81clFKM0x5cHRxdw?oc=5",
      "metric": "Top #16, 5 outlets in cluster"
+    },
+    {
+     "source": "googlenews",
+     "title": "\"We will remain thoughtful\": Nvidia says it will continue to backstop AI ecosystem",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUWN3cy1RSFFyUGNyT3FrY0o4QmdrVWhHN0d3cXN3MlVuU2lFN282RGRWTkhWbTFvTlFMd2Q5bzhyTE1qWnVzMjBnWlpjeVp1LVlCeENTNkplU1NickVnTXpLVWNDQUVweXhrSmR5X0ZnUTFtZ09oeUktRDVkaDQ3VHVXSG8?oc=5",
+     "metric": "Business #19, 5 outlets in cluster"
     },
     {
      "source": "googlenews",
@@ -739,10 +748,10 @@
   {
    "rank": 6,
    "topic": "Ray Tintori",
-   "heat": 57.6,
+   "heat": 56.9,
    "status": "steady",
    "velocity": 1.0,
-   "why_hot": "2 source(s): googlenews, wikipedia; Wikipedia views 626.4x vs prior 4-day avg; 98,033 views, 626.4x vs prior 4-day avg; Entertainment #13, 5 outlets in cluster",
+   "why_hot": "2 source(s): googlenews, wikipedia; Wikipedia views 626.4x vs prior 4-day avg; 98,033 views, 626.4x vs prior 4-day avg; Entertainment #14, 5 outlets in cluster",
    "sources": [
     "googlenews",
     "wikipedia"
@@ -789,7 +798,7 @@
      "source": "googlenews",
      "title": "Ray Tintori, filmmaker and boyfriend of ‘SNL’ alum Heidi Gardner, dies at 43",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeUVSb1h1d2ljcWF4Z0hHcXhvNHRfbkxYd2hBSk11Q2pyZmQwdWtjeG5ySktXYlAyZ0pkQm00NXo0SWNNWlh4MFowTHg1cDRoRVVwdjRLOWYwa0ZFN0Q0NlpweE5xVnJYX0FnTFZsd2RERlhONEhhd2hwWVczLURqQmdEaFZFNGROaXRadE15UWF3YjY3ZFVSSkgtakVFVmd2THl5bnFlNUlydjFsOXkwaW9UUG9FRjZlVnhhUnFKWXdydVk5?oc=5",
-     "metric": "Entertainment #13, 5 outlets in cluster"
+     "metric": "Entertainment #14, 5 outlets in cluster"
     }
    ],
    "keys": [
@@ -1075,9 +1084,11 @@
      "angle_hint": null
     },
     "shrink-down": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
+     "score": 15,
+     "matched": [
+      "game"
+     ],
+     "angle_hint": "How Thybulle is actually built: the tech behind the game/film everyone is talking about"
     },
     "silver-paradox": {
      "score": 30,
@@ -1149,7 +1160,7 @@
   {
    "rank": 10,
    "topic": "Jacoby Brissett",
-   "heat": 52.7,
+   "heat": 52.5,
    "status": "steady",
    "velocity": 1.0,
    "why_hot": "2 source(s): googlenews, wikipedia; Wikipedia views 21.4x vs prior 4-day avg; 95,821 views, 21.4x vs prior 4-day avg; Sports #20, 5 outlets in cluster",
@@ -1238,11 +1249,11 @@
   },
   {
    "rank": 11,
-   "topic": "Duke",
-   "heat": 50.0,
-   "status": "steady",
+   "topic": "#Dwts",
+   "heat": 51.6,
+   "status": "new",
    "velocity": 0.0,
-   "why_hot": "2 source(s): googlenews, x; X trend US #12; Sports #6, 5 outlets in cluster",
+   "why_hot": "2 source(s): googlenews, x; X trend US #7; Entertainment #6, 5 outlets in cluster",
    "sources": [
     "googlenews",
     "x"
@@ -1255,7 +1266,7 @@
     "n_regions": 1
    },
    "paradox_signals": [],
-   "best_channel": "silver-paradox",
+   "best_channel": null,
    "channel_fit": {
     "plan-not-panic": {
      "score": 0,
@@ -1268,11 +1279,9 @@
      "angle_hint": null
     },
     "silver-paradox": {
-     "score": 30,
-     "matched": [
-      "history"
-     ],
-     "angle_hint": "Documentary retrospective: Duke, what really happened and why it still matters"
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
     },
     "intern-broke-it": {
      "score": 0,
@@ -1282,51 +1291,48 @@
    },
    "links": [
     {
-     "source": "googlenews",
-     "title": "Andrej Stojaković makes history with 46-point effort at Cameron Indoor while No. 10 Illinois throttles No. 5 Duke",
-     "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNbWhpMHhHVjRFSGhLOGlkWU01cEw4cFRfeXk3OU9FSmRMZGhwZmQ4TkRUSFAxcHhBeFhxRVFiLWY2TndOOWFhZXFCaENBVGVReVlLYXFqdFpLWG1lanhaNnNWa2cxS1kzanB4N2l4N3dnQ2pTSUtrd3h0bUxVTzZVTlNaeVJ5aUdla0hXMVdnN0MxQWxESVFJd0tlc0wzS0dCZFFEa2JaVHF1ZC1qUEZXak9sUzBaTjFGYm15MWFkV0JKVlFwVlpXT3R3MW0zaURneURPaGN1cTI4NUlER09lT1ExcWxseXlPc3BHXzM5QUxhZERORHU2ZXZLTkpmWWJyUW5OTEloUjRsUEtsRTdzZTNLQmZFRFhUN3VMUlV4RTdMczA?oc=5",
-     "metric": "Sports #6, 5 outlets in cluster"
+     "source": "x",
+     "title": "#dwts",
+     "url": "https://x.com/search?q=%23dwts",
+     "metric": "X trend US #7"
     },
     {
-     "source": "x",
-     "title": "Duke",
-     "url": "https://x.com/search?q=Duke",
-     "metric": "X trend US #12"
+     "source": "googlenews",
+     "title": "Harry Shum Jr. confirms DWTS ‘Valerie’ performance will be Glee arrangement: ‘It’s gonna be beautiful’",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbFg2ZmJRMnZaVEpHWkgyckFRYXBtLTNRLUNCVGN3OTdCUzRnaEtzNGhuVVFWY0d6VUpqbjlzdHZObDliSEhSMENwd25CYjNMTzJEc0hrZml5LXFZSEtHTndUdGFjUTdrU0lGSmRTRFlhTlNpYlRFRVh2T0x4ei1QMUwtT3Z0VC04bDY1STlkZ1NGemlJaVYxZ1FVYU8?oc=5",
+     "metric": "Entertainment #6, 5 outlets in cluster"
     }
    ],
    "keys": [
-    "duke"
+    "dwts"
    ],
    "related_topics": [],
    "footage": {
-    "query": "Duke",
+    "query": "Dwts",
     "checked": [
      {
       "source": "Wikimedia Commons (video)",
-      "hits": 220,
-      "url": "https://commons.wikimedia.org/w/index.php?search=Duke%20filetype%3Avideo&ns6=1",
+      "hits": 24,
+      "url": "https://commons.wikimedia.org/w/index.php?search=Dwts%20filetype%3Avideo&ns6=1",
       "examples": [
-       "https://commons.wikimedia.org/wiki/File:The_Grand_Duke_(RAGSPT_2012).webm",
-       "https://commons.wikimedia.org/wiki/File:Duchess_and_Duke_of_Cambridge_leaving_the_Holocaust_Memorial.webm"
+       "https://commons.wikimedia.org/wiki/File:Earth_Hour_28-03-15.webm",
+       "https://commons.wikimedia.org/wiki/File:Screencast_sobre_problema_com_importação_de_JSON_do_Unlock.webm"
       ]
      },
      {
       "source": "Internet Archive (movies)",
-      "hits": 3221,
-      "url": "https://archive.org/search?query=title%3A%28Duke%29&and[]=mediatype%3A%22movies%22",
+      "hits": 35,
+      "url": "https://archive.org/search?query=title%3A%28Dwts%29&and[]=mediatype%3A%22movies%22",
       "examples": [
-       "https://archive.org/details/duke-university-chapel-2023-christmas-eve-lessons-and-carols-2023-12-24",
-       "https://archive.org/details/duke-university-chapel-choral-evensong-worship-service-2022-04-17"
+       "https://archive.org/details/archiveteam_videobot_twitter_com_779085396105830400",
+       "https://archive.org/details/youtube-pBH7gsZmrLU"
       ]
      },
      {
       "source": "NASA Image & Video Library (video)",
-      "hits": 4,
-      "url": "https://images.nasa.gov/search?q=Duke&page=1&media=video",
-      "examples": [
-       "https://images.nasa.gov/details/jsc2026m000070-Artemis_II_Receive_Special_Message_from_Apollo_16_Astronaut_Charlie_Duke",
-       "https://images.nasa.gov/details/jsc2026m000072_ArtemisIIFlightDay5Highlights_NoLowerThirds"
-      ]
+      "hits": 0,
+      "url": "https://images.nasa.gov/search?q=Dwts&page=1&media=video",
+      "examples": []
      }
     ],
     "to_verify": [
@@ -1933,7 +1939,7 @@
   {
    "rank": 19,
    "topic": "The Hunger Games: Sunrise on the Reaping",
-   "heat": 40.2,
+   "heat": 40.1,
    "status": "steady",
    "velocity": 0.42,
    "why_hot": "2 source(s): googlenews, wikipedia; Wikipedia views 2.7x vs prior 4-day avg; 92,631 views, 2.7x vs prior 4-day avg; Top #23, 5 outlets in cluster",
@@ -1947,7 +1953,7 @@
     "n_regions": 0
    },
    "paradox_signals": [],
-   "best_channel": null,
+   "best_channel": "shrink-down",
    "channel_fit": {
     "plan-not-panic": {
      "score": 0,
@@ -1955,9 +1961,11 @@
      "angle_hint": null
     },
     "shrink-down": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
+     "score": 15,
+     "matched": [
+      "film"
+     ],
+     "angle_hint": "The 'how does that even work?' explainer behind The Hunger Games: Sunrise on the Reaping"
     },
     "silver-paradox": {
      "score": 0,
@@ -1991,8 +1999,132 @@
   },
   {
    "rank": 20,
+   "topic": "Andrej Stojakovic",
+   "heat": 39.5,
+   "status": "new",
+   "velocity": 0.0,
+   "why_hot": "2 source(s): googlenews, x; X trend US #38; Sports #5, 5 outlets in cluster",
+   "sources": [
+    "googlenews",
+    "x"
+   ],
+   "regions": [
+    "US"
+   ],
+   "broad_appeal": {
+    "n_sources": 2,
+    "n_regions": 1
+   },
+   "paradox_signals": [],
+   "best_channel": "silver-paradox",
+   "channel_fit": {
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "shrink-down": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 30,
+     "matched": [
+      "history"
+     ],
+     "angle_hint": "Documentary retrospective: Andrej Stojakovic, what really happened and why it still matters"
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    }
+   },
+   "links": [
+    {
+     "source": "googlenews",
+     "title": "Andrej Stojakovic Makes History in Illinois' Win vs. Duke, Full Box Score, Top Highlights",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcUdTckt1Q3psRU9fWHlzeEZEZ0hIOTVMMXVQRlVmTG9qQmw0QTNOSW4xMzgtMFlKRmwwQk8tLTg0WDFXQlMxbTJsZnFnX19WSklEN3hJQVZ2UG5DeGRWWFFjYlVKaVlrRlFzcTlDWnBCR1pDSzhNZWlBbkN5T1BIcUFJeWFhQ3ZHSzNhTUMtU2xzMzZHU1dUX215R0VZOWRMRVhvTUlBV0lJTXl0V2tTMXIzTFB5aVk3aERkOG1BRmp0SlFMU3c?oc=5",
+     "metric": "Sports #5, 5 outlets in cluster"
+    },
+    {
+     "source": "x",
+     "title": "Andrej Stojakovic",
+     "url": "https://x.com/search?q=Andrej%20Stojakovic",
+     "metric": "X trend US #38"
+    }
+   ],
+   "keys": [
+    "andrej stojakovic"
+   ],
+   "related_topics": []
+  },
+  {
+   "rank": 21,
+   "topic": "Grammy",
+   "heat": 38.9,
+   "status": "steady",
+   "velocity": 0.0,
+   "why_hot": "2 source(s): googlenews, x; X trend GB #26; Entertainment #15, 5 outlets in cluster",
+   "sources": [
+    "googlenews",
+    "x"
+   ],
+   "regions": [
+    "GB"
+   ],
+   "broad_appeal": {
+    "n_sources": 2,
+    "n_regions": 1
+   },
+   "paradox_signals": [],
+   "best_channel": null,
+   "channel_fit": {
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "shrink-down": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    }
+   },
+   "links": [
+    {
+     "source": "googlenews",
+     "title": "Women lead Grammy nominations as Noah Kahan gets snubbed",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMGItY2hHbm9nbTRIbGttX0lrTURkNHllS3k1QlExUklDQVN1clA0YWNWR3VrYnp3czhkeGZkdVc5ZHpEa0xPcmFZNGhscFVjc0RkVjNtdkFGZUUzRWdxdmY4OTJrdVd0Y0wyLU8wNi0xdHgza2g4anVEWlNIYVlzYmVlSjdDNFJ4ZWxWel9saFVPQzk4aFNZUXRDZGJWcG1XTElyRHlja0tPX3BBRlRkcHpNVTBSMWsy?oc=5",
+     "metric": "Entertainment #15, 5 outlets in cluster"
+    },
+    {
+     "source": "x",
+     "title": "Grammy",
+     "url": "https://x.com/search?q=Grammy",
+     "metric": "X trend GB #26"
+    }
+   ],
+   "keys": [
+    "grammy"
+   ],
+   "related_topics": []
+  },
+  {
+   "rank": 22,
    "topic": "Kerch",
-   "heat": 39.1,
+   "heat": 38.9,
    "status": "steady",
    "velocity": 0.0,
    "why_hot": "2 source(s): googlenews, x; X trend GB #29; Top #12, 5 outlets in cluster",
@@ -2053,70 +2185,9 @@
    "related_topics": []
   },
   {
-   "rank": 21,
-   "topic": "Grammy",
-   "heat": 39.0,
-   "status": "steady",
-   "velocity": 0.0,
-   "why_hot": "2 source(s): googlenews, x; X trend GB #26; Entertainment #15, 5 outlets in cluster",
-   "sources": [
-    "googlenews",
-    "x"
-   ],
-   "regions": [
-    "GB"
-   ],
-   "broad_appeal": {
-    "n_sources": 2,
-    "n_regions": 1
-   },
-   "paradox_signals": [],
-   "best_channel": null,
-   "channel_fit": {
-    "plan-not-panic": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "shrink-down": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    }
-   },
-   "links": [
-    {
-     "source": "googlenews",
-     "title": "Women lead Grammy nominations as Noah Kahan gets snubbed",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMGItY2hHbm9nbTRIbGttX0lrTURkNHllS3k1QlExUklDQVN1clA0YWNWR3VrYnp3czhkeGZkdVc5ZHpEa0xPcmFZNGhscFVjc0RkVjNtdkFGZUUzRWdxdmY4OTJrdVd0Y0wyLU8wNi0xdHgza2g4anVEWlNIYVlzYmVlSjdDNFJ4ZWxWel9saFVPQzk4aFNZUXRDZGJWcG1XTElyRHlja0tPX3BBRlRkcHpNVTBSMWsy?oc=5",
-     "metric": "Entertainment #15, 5 outlets in cluster"
-    },
-    {
-     "source": "x",
-     "title": "Grammy",
-     "url": "https://x.com/search?q=Grammy",
-     "metric": "X trend GB #26"
-    }
-   ],
-   "keys": [
-    "grammy"
-   ],
-   "related_topics": []
-  },
-  {
-   "rank": 22,
+   "rank": 23,
    "topic": "Tatyana",
-   "heat": 38.7,
+   "heat": 38.6,
    "status": "steady",
    "velocity": 0.0,
    "why_hot": "2 source(s): googlenews, x; X trend US #13; World #23, 5 outlets in cluster",
@@ -2171,65 +2242,6 @@
    ],
    "keys": [
     "tatyana"
-   ],
-   "related_topics": []
-  },
-  {
-   "rank": 23,
-   "topic": "Rod-Shaped Bacterium",
-   "heat": 38.2,
-   "status": "rising",
-   "velocity": 0.48,
-   "why_hot": "2 source(s): googlenews, hackernews; Science #15, 5 outlets in cluster; 114 pts, 23 comments, 40h old",
-   "sources": [
-    "googlenews",
-    "hackernews"
-   ],
-   "regions": [],
-   "broad_appeal": {
-    "n_sources": 2,
-    "n_regions": 0
-   },
-   "paradox_signals": [],
-   "best_channel": null,
-   "channel_fit": {
-    "plan-not-panic": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "shrink-down": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    }
-   },
-   "links": [
-    {
-     "source": "googlenews",
-     "title": "Check Out the First Photos of the Poles of a Rod-Shaped Bacterium",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcFd3VDNfeUdzck12cDl2ejdST3FaRV9RUEZwbV85NTJscDd1bFJXaWFDaGJBU2RtLU5WV1lLZ21BVUxvNFhUQlZqRi1jR3ZpM0dmaVVWRUJjVklISDVHRkk5Nnk4VWM4cHk3d242bjcxZ1o2bENnb1pFU2gwV1hqR19mMnNBTTU3TVZKVlRqN2V3QVNYV2c?oc=5",
-     "metric": "Science #15, 5 outlets in cluster"
-    },
-    {
-     "source": "hackernews",
-     "title": "First Photos of the Poles of a Rod-Shaped Bacterium",
-     "url": "https://news.ycombinator.com/item?id=50518328",
-     "metric": "114 pts, 23 comments, 40h old"
-    }
-   ],
-   "keys": [
-    "rod shaped bacterium"
    ],
    "related_topics": []
   },
@@ -2304,10 +2316,10 @@
   {
    "rank": 25,
    "topic": "Waymo",
-   "heat": 35.4,
+   "heat": 35.9,
    "status": "steady",
    "velocity": 0.0,
-   "why_hot": "2 source(s): googlenews, googletrends; GB: 100+ searches; Business #8, 5 outlets in cluster",
+   "why_hot": "2 source(s): googlenews, googletrends; GB: 100+ searches; Business #7, 5 outlets in cluster",
    "sources": [
     "googlenews",
     "googletrends"
@@ -2350,7 +2362,7 @@
      "source": "googlenews",
      "title": "Waymo suspends all driverless taxi rides on freeways after ban in California",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWDB2R0RQRGVXUFMtd0M3YUoyRXlSaDZVWVBWRVBKT3gwc3MxQjN3a01fREpMdDFwWXRJaFZuQ0sxTUJzYXkyMGMwOGs5YVUxeUwwd2owRnRuRFl0NWxuT0VHZ2k0eHF1Q0tTc0NoVi1mYTQtM1NrQUUyZ0VzcngzQjZ1M1d6QWRwNzlnQm5qQ0JUVmNXN2NEQ3U5eFpJN3pGSTVUTmRtN1VHc1E?oc=5",
-     "metric": "Business #8, 5 outlets in cluster"
+     "metric": "Business #7, 5 outlets in cluster"
     },
     {
      "source": "googletrends",
@@ -2428,126 +2440,6 @@
   },
   {
    "rank": 27,
-   "topic": "The Body (TV series)",
-   "heat": 35.0,
-   "status": "steady",
-   "velocity": 0.05,
-   "why_hot": "2 source(s): googlenews, wikipedia; Wikipedia views 1.2x vs prior 4-day avg; 127,281 views, 1.2x vs prior 4-day avg; Entertainment #30, 5 outlets in cluster",
-   "sources": [
-    "googlenews",
-    "wikipedia"
-   ],
-   "regions": [],
-   "broad_appeal": {
-    "n_sources": 2,
-    "n_regions": 0
-   },
-   "paradox_signals": [],
-   "best_channel": null,
-   "channel_fit": {
-    "plan-not-panic": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "shrink-down": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    }
-   },
-   "links": [
-    {
-     "source": "wikipedia",
-     "title": "The Body (TV series)",
-     "url": "https://en.wikipedia.org/wiki/The_Body_(TV_series)",
-     "metric": "127,281 views, 1.2x vs prior 4-day avg"
-    },
-    {
-     "source": "googlenews",
-     "title": "‘The Body’ Debuts With 5.1 Million Views in Five Days",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaURVMXdfMUVKb2w3ekFQSnQ0d3dZcUkxOEhNM25ORmJWaXQtSkVhdkdMZHdCU3hxOWtjSlMtRFFSTC1zN2tIUmFOWVJneDJGYXFxMlpFQjhRN2hFX2c4RElmU2tlenZnekRLcVU3VXg3OWhsSXlXOFdnbnB5Nmd0aA?oc=5",
-     "metric": "Entertainment #30, 5 outlets in cluster"
-    }
-   ],
-   "keys": [
-    "the body tv series"
-   ],
-   "related_topics": []
-  },
-  {
-   "rank": 28,
-   "topic": "Russell Brand",
-   "heat": 34.6,
-   "status": "steady",
-   "velocity": 0.0,
-   "why_hot": "2 source(s): googlenews, wikipedia; Wikipedia views 0.8x vs prior 4-day avg; 86,201 views, 0.8x vs prior 4-day avg; Entertainment #22, 5 outlets in cluster",
-   "sources": [
-    "googlenews",
-    "wikipedia"
-   ],
-   "regions": [],
-   "broad_appeal": {
-    "n_sources": 2,
-    "n_regions": 0
-   },
-   "paradox_signals": [],
-   "best_channel": "silver-paradox",
-   "channel_fit": {
-    "plan-not-panic": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "shrink-down": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
-     "score": 20,
-     "matched": [
-      "investigation"
-     ],
-     "angle_hint": "Long-form doc angle: the bigger story behind Russell Brand"
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    }
-   },
-   "links": [
-    {
-     "source": "wikipedia",
-     "title": "Russell Brand",
-     "url": "https://en.wikipedia.org/wiki/Russell_Brand",
-     "metric": "86,201 views, 0.8x vs prior 4-day avg"
-    },
-    {
-     "source": "googlenews",
-     "title": "Russell Brand sparks prison investigation after wife reads defiant message following rape conviction",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOY3VyZ3hvM0NLTW9KZUZKSjBkOU1mQ01EUFotQ29MaDRnZ21jSExCU2dQcGVTZ21KT1E1U1ctb0VPUDJBTDdxR2ZoSVVHTFJJalVHLWFORlJZaGhFaE1vX09uckZzdDZYQW9saG1EcUUxV3VhN09QT2xpaFNlTTgtNUdURGVxTm1ZdHZYREZXdm5JR3c4OURiVVVBNG1YbmJGdXFUOUx3SzZrbzJzOUVwWGtjRjVaS21CSWJOeWwwUDhIcEtweU1sQWktY2tPaGhHQ3FxS9IB2gFBVV95cUxOdUpObDlfaGhoVXU1VHNfWXNRNXlVUllyTnU2b1U2cm4zSG15NkVNMFhqTms2NWMzVFZVV0JtV3BSVTZDejluTGtIeDNMQmN4QkEyUDlOSUdIZ18xc0VkQ3dmMUVJS1JNXzJxdUhSaTh4WTFiSFNQMzRaZ2YwWHhjN0dKN1c2ekgyZ21UYldaTEQzRUFEdkdHenRRbkJjZWdSZ2NFUnE4amZxTXpaZlhINThBdjFaUWY3aFlOejBQajZTbUR1anRHaVlFWk1IVjhZSDd3eG96Z0Eydw?oc=5",
-     "metric": "Entertainment #22, 5 outlets in cluster"
-    }
-   ],
-   "keys": [
-    "russell brand"
-   ],
-   "related_topics": []
-  },
-  {
-   "rank": 29,
    "topic": "Pierce Brosnan",
    "heat": 34.6,
    "status": "steady",
@@ -2608,9 +2500,70 @@
    "related_topics": []
   },
   {
-   "rank": 30,
+   "rank": 28,
+   "topic": "Russell Brand",
+   "heat": 34.3,
+   "status": "steady",
+   "velocity": 0.0,
+   "why_hot": "2 source(s): googlenews, wikipedia; Wikipedia views 0.8x vs prior 4-day avg; 86,201 views, 0.8x vs prior 4-day avg; Entertainment #22, 5 outlets in cluster",
+   "sources": [
+    "googlenews",
+    "wikipedia"
+   ],
+   "regions": [],
+   "broad_appeal": {
+    "n_sources": 2,
+    "n_regions": 0
+   },
+   "paradox_signals": [],
+   "best_channel": "silver-paradox",
+   "channel_fit": {
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "shrink-down": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 20,
+     "matched": [
+      "investigation"
+     ],
+     "angle_hint": "Long-form doc angle: the bigger story behind Russell Brand"
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    }
+   },
+   "links": [
+    {
+     "source": "wikipedia",
+     "title": "Russell Brand",
+     "url": "https://en.wikipedia.org/wiki/Russell_Brand",
+     "metric": "86,201 views, 0.8x vs prior 4-day avg"
+    },
+    {
+     "source": "googlenews",
+     "title": "Russell Brand sparks prison investigation after wife reads defiant message following rape conviction",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOY3VyZ3hvM0NLTW9KZUZKSjBkOU1mQ01EUFotQ29MaDRnZ21jSExCU2dQcGVTZ21KT1E1U1ctb0VPUDJBTDdxR2ZoSVVHTFJJalVHLWFORlJZaGhFaE1vX09uckZzdDZYQW9saG1EcUUxV3VhN09QT2xpaFNlTTgtNUdURGVxTm1ZdHZYREZXdm5JR3c4OURiVVVBNG1YbmJGdXFUOUx3SzZrbzJzOUVwWGtjRjVaS21CSWJOeWwwUDhIcEtweU1sQWktY2tPaGhHQ3FxS9IB2gFBVV95cUxOdUpObDlfaGhoVXU1VHNfWXNRNXlVUllyTnU2b1U2cm4zSG15NkVNMFhqTms2NWMzVFZVV0JtV3BSVTZDejluTGtIeDNMQmN4QkEyUDlOSUdIZ18xc0VkQ3dmMUVJS1JNXzJxdUhSaTh4WTFiSFNQMzRaZ2YwWHhjN0dKN1c2ekgyZ21UYldaTEQzRUFEdkdHenRRbkJjZWdSZ2NFUnE4amZxTXpaZlhINThBdjFaUWY3aFlOejBQajZTbUR1anRHaVlFWk1IVjhZSDd3eG96Z0Eydw?oc=5",
+     "metric": "Entertainment #22, 5 outlets in cluster"
+    }
+   ],
+   "keys": [
+    "russell brand"
+   ],
+   "related_topics": []
+  },
+  {
+   "rank": 29,
    "topic": "2026–27 UEFA Nations League",
-   "heat": 32.4,
+   "heat": 32.3,
    "status": "steady",
    "velocity": 0.11,
    "why_hot": "2 source(s): googlenews, wikipedia; Wikipedia views 1.4x vs prior 4-day avg; Wikipedia views 1.3x vs prior 4-day avg; 93,874 views, 1.4x vs prior 4-day avg; Top #30, 5 outlets in cluster",
@@ -2673,68 +2626,7 @@
    "related_topics": []
   },
   {
-   "rank": 31,
-   "topic": "Philippines",
-   "heat": 31.0,
-   "status": "steady",
-   "velocity": 0.0,
-   "why_hot": "2 source(s): googlenews, x; X trend US #32; Entertainment #23, 5 outlets in cluster",
-   "sources": [
-    "googlenews",
-    "x"
-   ],
-   "regions": [
-    "US"
-   ],
-   "broad_appeal": {
-    "n_sources": 2,
-    "n_regions": 1
-   },
-   "paradox_signals": [],
-   "best_channel": null,
-   "channel_fit": {
-    "plan-not-panic": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "shrink-down": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    }
-   },
-   "links": [
-    {
-     "source": "x",
-     "title": "Philippines",
-     "url": "https://x.com/search?q=Philippines",
-     "metric": "X trend US #32"
-    },
-    {
-     "source": "googlenews",
-     "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHX0FIQW16YUNkMVZrZXBWM3ozZm5rZGt3OVo5ek5yTW9CTGZoS0hXQzBRZ2htMXphbXRPdmk2cEZIZHFpUmJYdEk4NXZ6S2NFZU9GS3VXODhSaG8?oc=5",
-     "metric": "Entertainment #23, 5 outlets in cluster"
-    }
-   ],
-   "keys": [
-    "philippines"
-   ],
-   "related_topics": []
-  },
-  {
-   "rank": 32,
+   "rank": 30,
    "topic": "Hornets",
    "heat": 30.9,
    "status": "steady",
@@ -2802,7 +2694,68 @@
    "related_topics": []
   },
   {
-   "rank": 33,
+   "rank": 31,
+   "topic": "Philippines",
+   "heat": 30.9,
+   "status": "steady",
+   "velocity": 0.0,
+   "why_hot": "2 source(s): googlenews, x; X trend US #32; Entertainment #23, 5 outlets in cluster",
+   "sources": [
+    "googlenews",
+    "x"
+   ],
+   "regions": [
+    "US"
+   ],
+   "broad_appeal": {
+    "n_sources": 2,
+    "n_regions": 1
+   },
+   "paradox_signals": [],
+   "best_channel": null,
+   "channel_fit": {
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "shrink-down": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    }
+   },
+   "links": [
+    {
+     "source": "x",
+     "title": "Philippines",
+     "url": "https://x.com/search?q=Philippines",
+     "metric": "X trend US #32"
+    },
+    {
+     "source": "googlenews",
+     "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHX0FIQW16YUNkMVZrZXBWM3ozZm5rZGt3OVo5ek5yTW9CTGZoS0hXQzBRZ2htMXphbXRPdmk2cEZIZHFpUmJYdEk4NXZ6S2NFZU9GS3VXODhSaG8?oc=5",
+     "metric": "Entertainment #23, 5 outlets in cluster"
+    }
+   ],
+   "keys": [
+    "philippines"
+   ],
+   "related_topics": []
+  },
+  {
+   "rank": 32,
    "topic": "Charles Lee",
    "heat": 30.2,
    "status": "steady",
@@ -2863,7 +2816,7 @@
    "related_topics": []
   },
   {
-   "rank": 34,
+   "rank": 33,
    "topic": "Brandon Miller",
    "heat": 29.6,
    "status": "steady",
@@ -2924,7 +2877,7 @@
    "related_topics": []
   },
   {
-   "rank": 35,
+   "rank": 34,
    "topic": "Naz Reid",
    "heat": 28.9,
    "status": "steady",
@@ -2985,7 +2938,7 @@
    "related_topics": []
   },
   {
-   "rank": 36,
+   "rank": 35,
    "topic": "Mariella Frostrup",
    "heat": 27.4,
    "status": "steady",
@@ -3037,7 +2990,7 @@
    "related_topics": []
   },
   {
-   "rank": 37,
+   "rank": 36,
    "topic": "Heidi Gardner",
    "heat": 27.0,
    "status": "steady",
@@ -3089,7 +3042,7 @@
    "related_topics": []
   },
   {
-   "rank": 38,
+   "rank": 37,
    "topic": "Suki Waterhouse",
    "heat": 26.4,
    "status": "steady",
@@ -3141,7 +3094,7 @@
    "related_topics": []
   },
   {
-   "rank": 39,
+   "rank": 38,
    "topic": "Nationwide Ground Stop",
    "heat": 25.6,
    "status": "steady",
@@ -3200,7 +3153,7 @@
    "related_topics": []
   },
   {
-   "rank": 40,
+   "rank": 39,
    "topic": "John Christ",
    "heat": 24.7,
    "status": "steady",
@@ -3250,6 +3203,60 @@
     "john christ"
    ],
    "related_topics": []
+  },
+  {
+   "rank": 40,
+   "topic": "List of songs recorded by the Beatles",
+   "heat": 24.2,
+   "status": "steady",
+   "velocity": 1.0,
+   "why_hot": "1 source(s): wikipedia; Wikipedia views 35.1x vs prior 4-day avg; 68,112 views, 35.1x vs prior 4-day avg",
+   "sources": [
+    "wikipedia"
+   ],
+   "regions": [],
+   "broad_appeal": {
+    "n_sources": 1,
+    "n_regions": 0
+   },
+   "paradox_signals": [
+    "record"
+   ],
+   "best_channel": null,
+   "channel_fit": {
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "shrink-down": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    }
+   },
+   "links": [
+    {
+     "source": "wikipedia",
+     "title": "List of songs recorded by the Beatles",
+     "url": "https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles",
+     "metric": "68,112 views, 35.1x vs prior 4-day avg"
+    }
+   ],
+   "keys": [
+    "list of songs recorded by the beatles"
+   ],
+   "related_topics": []
   }
  ],
  "coming_up": [
@@ -3292,9 +3299,11 @@
      "angle_hint": null
     },
     "shrink-down": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
+     "score": 15,
+     "matched": [
+      "game"
+     ],
+     "angle_hint": "How The Game Awards 2026 is actually built: the tech behind the game/film everyone is talking about"
     },
     "silver-paradox": {
      "score": 0,
@@ -3315,7 +3324,11 @@
     "checked": [
      {
       "source": "Wikimedia Commons (video)",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "hits": 1,
+      "url": "https://commons.wikimedia.org/w/index.php?search=The%20Game%20Awards%202026%20filetype%3Avideo&ns6=1",
+      "examples": [
+       "https://commons.wikimedia.org/wiki/File:Medal_awarding_after_a_football_game.webm"
+      ]
      },
      {
       "source": "Internet Archive (movies)",
@@ -3337,7 +3350,7 @@
      "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
      "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
     ],
-    "confidence": "medium",
+    "confidence": "high",
     "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
    }
   },
@@ -3370,9 +3383,12 @@
      "angle_hint": null
     },
     "shrink-down": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
+     "score": 30,
+     "matched": [
+      "movie",
+      "film"
+     ],
+     "angle_hint": "The 'how does that even work?' explainer behind Film release: The Hunger Games: Sunrise on the Reaping"
     },
     "silver-paradox": {
      "score": 0,
@@ -3385,13 +3401,15 @@
      "angle_hint": null
     }
    },
-   "best_channel": null,
+   "best_channel": "shrink-down",
    "footage": {
     "query": "The Hunger Games Sunrise on the",
     "checked": [
      {
       "source": "Wikimedia Commons (video)",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "hits": 0,
+      "url": "https://commons.wikimedia.org/w/index.php?search=The%20Hunger%20Games%20Sunrise%20on%20the%20filetype%3Avideo&ns6=1",
+      "examples": []
      },
      {
       "source": "Internet Archive (movies)",
@@ -3414,6 +3432,341 @@
      "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
     ],
     "confidence": "medium",
+    "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
+   }
+  },
+  {
+   "name": "Film release: Focker-in-Law",
+   "date": "2026-11-25",
+   "category": "film",
+   "source_url": "https://en.wikipedia.org/wiki/List_of_American_films_of_2026",
+   "verified": true,
+   "verify_note": "listed in Wikipedia List of American films of 2026 release table",
+   "tags": [
+    "movie",
+    "film",
+    "box office"
+   ],
+   "origin": "wikipedia-films",
+   "hype_now": {
+    "article": "Focker-in-Law",
+    "avg_daily_views_7d": 18547,
+    "avg_daily_views_prior_28d": 7852,
+    "trend_ratio": 2.36,
+    "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Focker-in-Law&range=latest-60"
+   },
+   "days_until": 7,
+   "likely_heat": 80.2,
+   "channel_fit": {
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "shrink-down": {
+     "score": 30,
+     "matched": [
+      "movie",
+      "film"
+     ],
+     "angle_hint": "The 'how does that even work?' explainer behind Film release: Focker-in-Law"
+    },
+    "silver-paradox": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    }
+   },
+   "best_channel": "shrink-down",
+   "footage": {
+    "query": "Focker-in-Law",
+    "checked": [
+     {
+      "source": "Wikimedia Commons (video)",
+      "hits": 0,
+      "url": "https://commons.wikimedia.org/w/index.php?search=Focker-in-Law%20filetype%3Avideo&ns6=1",
+      "examples": []
+     },
+     {
+      "source": "Internet Archive (movies)",
+      "hits": 2,
+      "url": "https://archive.org/search?query=title%3A%28Focker-in-Law%29&and[]=mediatype%3A%22movies%22",
+      "examples": [
+       "https://archive.org/details/youtube-7QxgqEo3ajY",
+       "https://archive.org/details/youtube-oCZyg2H45co"
+      ]
+     },
+     {
+      "source": "NASA Image & Video Library (video)",
+      "hits": 0,
+      "url": "https://images.nasa.gov/search?q=Focker-in-Law&page=1&media=video",
+      "examples": []
+     }
+    ],
+    "to_verify": [
+     "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
+     "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
+    ],
+    "confidence": "low",
+    "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
+   }
+  },
+  {
+   "name": "Film release: Elsinore",
+   "date": "2026-11-20",
+   "category": "film",
+   "source_url": "https://en.wikipedia.org/wiki/List_of_American_films_of_2026",
+   "verified": true,
+   "verify_note": "listed in Wikipedia List of American films of 2026 release table",
+   "tags": [
+    "movie",
+    "film",
+    "box office"
+   ],
+   "origin": "wikipedia-films",
+   "hype_now": {
+    "article": "Elsinore_(film)",
+    "avg_daily_views_7d": 9813,
+    "avg_daily_views_prior_28d": 3698,
+    "trend_ratio": 2.65,
+    "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Elsinore_(film)&range=latest-60"
+   },
+   "days_until": 2,
+   "likely_heat": 80.0,
+   "channel_fit": {
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "shrink-down": {
+     "score": 30,
+     "matched": [
+      "movie",
+      "film"
+     ],
+     "angle_hint": "The 'how does that even work?' explainer behind Film release: Elsinore"
+    },
+    "silver-paradox": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    }
+   },
+   "best_channel": "shrink-down",
+   "footage": {
+    "query": "Elsinore film",
+    "checked": [
+     {
+      "source": "Wikimedia Commons (video)",
+      "hits": 0,
+      "url": "https://commons.wikimedia.org/w/index.php?search=Elsinore%20film%20filetype%3Avideo&ns6=1",
+      "examples": []
+     },
+     {
+      "source": "Internet Archive (movies)",
+      "hits": 0,
+      "url": "https://archive.org/search?query=title%3A%28Elsinore%20film%29&and[]=mediatype%3A%22movies%22",
+      "examples": []
+     },
+     {
+      "source": "NASA Image & Video Library (video)",
+      "hits": 0,
+      "url": "https://images.nasa.gov/search?q=Elsinore%20film&page=1&media=video",
+      "examples": []
+     }
+    ],
+    "to_verify": [
+     "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
+     "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
+    ],
+    "confidence": "none-found",
+    "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
+   }
+  },
+  {
+   "name": "Film release: Avengers: Doomsday",
+   "date": "2026-12-18",
+   "category": "film",
+   "source_url": "https://en.wikipedia.org/wiki/List_of_American_films_of_2026",
+   "verified": true,
+   "verify_note": "listed in Wikipedia List of American films of 2026 release table",
+   "tags": [
+    "movie",
+    "film",
+    "box office"
+   ],
+   "origin": "wikipedia-films",
+   "hype_now": {
+    "article": "Avengers:_Doomsday",
+    "avg_daily_views_7d": 50647,
+    "avg_daily_views_prior_28d": 26897,
+    "trend_ratio": 1.88,
+    "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Avengers:_Doomsday&range=latest-60"
+   },
+   "days_until": 30,
+   "likely_heat": 76.3,
+   "channel_fit": {
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [
+      "(excluded keyword)"
+     ],
+     "angle_hint": null
+    },
+    "shrink-down": {
+     "score": 30,
+     "matched": [
+      "movie",
+      "film"
+     ],
+     "angle_hint": "The 'how does that even work?' explainer behind Film release: Avengers: Doomsday"
+    },
+    "silver-paradox": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    }
+   },
+   "best_channel": "shrink-down",
+   "footage": {
+    "query": "Avengers Doomsday",
+    "checked": [
+     {
+      "source": "Wikimedia Commons (video)",
+      "hits": 0,
+      "url": "https://commons.wikimedia.org/w/index.php?search=Avengers%20Doomsday%20filetype%3Avideo&ns6=1",
+      "examples": []
+     },
+     {
+      "source": "Internet Archive (movies)",
+      "hits": 115,
+      "url": "https://archive.org/search?query=title%3A%28Avengers%20Doomsday%29&and[]=mediatype%3A%22movies%22",
+      "examples": [
+       "https://archive.org/details/httpsen.wikipedia.orgwikiavengers_doomsday_20261110_2353",
+       "https://archive.org/details/httpsen.wikipedia.orgwikiavengers_doomsday_20261108_1617"
+      ]
+     },
+     {
+      "source": "NASA Image & Video Library (video)",
+      "hits": 0,
+      "url": "https://images.nasa.gov/search?q=Avengers%20Doomsday&page=1&media=video",
+      "examples": []
+     }
+    ],
+    "to_verify": [
+     "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
+     "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
+    ],
+    "confidence": "medium",
+    "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
+   }
+  },
+  {
+   "name": "Black Friday",
+   "date": "2026-11-27",
+   "category": "shopping",
+   "source_url": "https://en.wikipedia.org/wiki/Black_Friday_(shopping)",
+   "verified": true,
+   "verify_note": "date text found on source",
+   "rule": "Day after US Thanksgiving (Nov 26, 2026 per Nager.Date US holidays)",
+   "tags": [
+    "black friday",
+    "shopping",
+    "deals",
+    "holiday"
+   ],
+   "origin": "curated",
+   "hype_now": {
+    "article": "Black_Friday_(shopping)",
+    "avg_daily_views_7d": 6822,
+    "avg_daily_views_prior_28d": 4471,
+    "trend_ratio": 1.53,
+    "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Black_Friday_(shopping)&range=latest-60"
+   },
+   "last_year": {
+    "article": "Black_Friday_(shopping)",
+    "window": "2025-11-24..2025-11-30",
+    "peak_daily_views": 82814,
+    "total_views": 237769,
+    "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Black_Friday_(shopping)&start=2025-11-24&end=2025-11-30"
+   },
+   "days_until": 9,
+   "likely_heat": 75.7,
+   "channel_fit": {
+    "plan-not-panic": {
+     "score": 20,
+     "matched": [
+      "holiday",
+      "black friday"
+     ],
+     "angle_hint": "Practical prep angle on Black Friday: what normal households should actually do"
+    },
+    "shrink-down": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    }
+   },
+   "best_channel": "plan-not-panic",
+   "footage": {
+    "query": "Black Friday shopping",
+    "checked": [
+     {
+      "source": "Wikimedia Commons (video)",
+      "hits": 15,
+      "url": "https://commons.wikimedia.org/w/index.php?search=Black%20Friday%20shopping%20filetype%3Avideo&ns6=1",
+      "examples": [
+       "https://commons.wikimedia.org/wiki/File:Black_Friday_brasileira.webm",
+       "https://commons.wikimedia.org/wiki/File:Black_Friday-drukte_bij_PostNL_--_RN7_REGIONIEUWS.webm"
+      ]
+     },
+     {
+      "source": "Internet Archive (movies)",
+      "hits": 45,
+      "url": "https://archive.org/search?query=title%3A%28Black%20Friday%20shopping%29&and[]=mediatype%3A%22movies%22",
+      "examples": [
+       "https://archive.org/details/youtube-zhTS9pjEa9E",
+       "https://archive.org/details/tampa-black-friday-mall-protest-11-29-2024-540p"
+      ]
+     },
+     {
+      "source": "NASA Image & Video Library (video)",
+      "hits": 0,
+      "url": "https://images.nasa.gov/search?q=Black%20Friday%20shopping&page=1&media=video",
+      "examples": []
+     }
+    ],
+    "to_verify": [
+     "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
+     "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
+    ],
+    "confidence": "high",
     "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
    }
   },
@@ -3475,7 +3828,12 @@
     "checked": [
      {
       "source": "Wikimedia Commons (video)",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "hits": 173,
+      "url": "https://commons.wikimedia.org/w/index.php?search=Thanksgiving%20United%20States%20filetype%3Avideo&ns6=1",
+      "examples": [
+       "https://commons.wikimedia.org/wiki/File:Thanksgiving_explained_by_simpleshow_foundation.webm",
+       "https://commons.wikimedia.org/wiki/File:Learning_English_Podcast_-_Battery_Production,_Thanksgiving_Holiday.webm"
+      ]
      },
      {
       "source": "Internet Archive (movies)",
@@ -3496,7 +3854,91 @@
      "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
      "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
     ],
-    "confidence": "low",
+    "confidence": "high",
+    "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
+   }
+  },
+  {
+   "name": "Film release: Behemoth!",
+   "date": "2026-12-04",
+   "category": "film",
+   "source_url": "https://en.wikipedia.org/wiki/List_of_American_films_of_2026",
+   "verified": true,
+   "verify_note": "listed in Wikipedia List of American films of 2026 release table",
+   "tags": [
+    "movie",
+    "film",
+    "box office"
+   ],
+   "origin": "wikipedia-films",
+   "hype_now": {
+    "article": "Behemoth!",
+    "avg_daily_views_7d": 6611,
+    "avg_daily_views_prior_28d": 2872,
+    "trend_ratio": 2.3,
+    "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Behemoth!&range=latest-60"
+   },
+   "days_until": 16,
+   "likely_heat": 74.2,
+   "channel_fit": {
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "shrink-down": {
+     "score": 30,
+     "matched": [
+      "movie",
+      "film"
+     ],
+     "angle_hint": "The 'how does that even work?' explainer behind Film release: Behemoth!"
+    },
+    "silver-paradox": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    }
+   },
+   "best_channel": "shrink-down",
+   "footage": {
+    "query": "Behemoth!",
+    "checked": [
+     {
+      "source": "Wikimedia Commons (video)",
+      "hits": 13,
+      "url": "https://commons.wikimedia.org/w/index.php?search=Behemoth%21%20filetype%3Avideo&ns6=1",
+      "examples": [
+       "https://commons.wikimedia.org/wiki/File:BEHEMOTH_-_Ora_Pro_Nobis_Lucifer_-_Official_Video.webm",
+       "https://commons.wikimedia.org/wiki/File:BEHEMOTH_-_Once_Upon_A_Pale_Horse_(Official_Music_Video).webm"
+      ]
+     },
+     {
+      "source": "Internet Archive (movies)",
+      "hits": 101,
+      "url": "https://archive.org/search?query=title%3A%28Behemoth%21%29&and[]=mediatype%3A%22movies%22",
+      "examples": [
+       "https://archive.org/details/youtube-9lCrpbKhvEw",
+       "https://archive.org/details/enormousbehemothcavernousASL"
+      ]
+     },
+     {
+      "source": "NASA Image & Video Library (video)",
+      "hits": 0,
+      "url": "https://images.nasa.gov/search?q=Behemoth%21&page=1&media=video",
+      "examples": []
+     }
+    ],
+    "to_verify": [
+     "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
+     "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
+    ],
+    "confidence": "high",
     "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
    }
   },
@@ -3529,9 +3971,12 @@
      "angle_hint": null
     },
     "shrink-down": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
+     "score": 30,
+     "matched": [
+      "movie",
+      "film"
+     ],
+     "angle_hint": "The 'how does that even work?' explainer behind Film release: The Further Mis-Adventures of Cliff Booth"
     },
     "silver-paradox": {
      "score": 0,
@@ -3544,13 +3989,15 @@
      "angle_hint": null
     }
    },
-   "best_channel": null,
+   "best_channel": "shrink-down",
    "footage": {
     "query": "The Further Mis-Adventures of Cliff Booth",
     "checked": [
      {
       "source": "Wikimedia Commons (video)",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "hits": 0,
+      "url": "https://commons.wikimedia.org/w/index.php?search=The%20Further%20Mis-Adventures%20of%20Cliff%20Booth%20filetype%3Avideo&ns6=1",
+      "examples": []
      },
      {
       "source": "Internet Archive (movies)",
@@ -3570,6 +4017,177 @@
      "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
     ],
     "confidence": "none-found",
+    "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
+   }
+  },
+  {
+   "name": "Film release: Hexed",
+   "date": "2026-11-25",
+   "category": "film",
+   "source_url": "https://en.wikipedia.org/wiki/List_of_American_films_of_2026",
+   "verified": true,
+   "verify_note": "listed in Wikipedia List of American films of 2026 release table",
+   "tags": [
+    "movie",
+    "film",
+    "box office"
+   ],
+   "origin": "wikipedia-films",
+   "hype_now": {
+    "article": "Hexed_(2026_film)",
+    "avg_daily_views_7d": 11595,
+    "avg_daily_views_prior_28d": 6875,
+    "trend_ratio": 1.69,
+    "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Hexed_(2026_film)&range=latest-60"
+   },
+   "days_until": 7,
+   "likely_heat": 71.2,
+   "channel_fit": {
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "shrink-down": {
+     "score": 30,
+     "matched": [
+      "movie",
+      "film"
+     ],
+     "angle_hint": "The 'how does that even work?' explainer behind Film release: Hexed"
+    },
+    "silver-paradox": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    }
+   },
+   "best_channel": "shrink-down",
+   "footage": {
+    "query": "Hexed 2026 film",
+    "checked": [
+     {
+      "source": "Wikimedia Commons (video)",
+      "hits": 48,
+      "url": "https://commons.wikimedia.org/w/index.php?search=Hexed%202026%20film%20filetype%3Avideo&ns6=1",
+      "examples": [
+       "https://commons.wikimedia.org/wiki/File:Ronnie_O’Sullivan_at_German_Masters_Snooker_Final_(DerHexer)_2012-02-05_2.ogv",
+       "https://commons.wikimedia.org/wiki/File:Ronnie_O’Sullivan_at_German_Masters_Snooker_Final_(DerHexer)_2012-02-05_6.ogv"
+      ]
+     },
+     {
+      "source": "Internet Archive (movies)",
+      "hits": 0,
+      "url": "https://archive.org/search?query=title%3A%28Hexed%202026%20film%29&and[]=mediatype%3A%22movies%22",
+      "examples": []
+     },
+     {
+      "source": "NASA Image & Video Library (video)",
+      "hits": 0,
+      "url": "https://images.nasa.gov/search?q=Hexed%202026%20film&page=1&media=video",
+      "examples": []
+     }
+    ],
+    "to_verify": [
+     "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
+     "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
+    ],
+    "confidence": "medium",
+    "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
+   }
+  },
+  {
+   "name": "Cyber Monday",
+   "date": "2026-11-30",
+   "category": "shopping",
+   "source_url": "https://en.wikipedia.org/wiki/Cyber_Monday",
+   "verified": true,
+   "verify_note": "date text found on source",
+   "rule": "Monday after US Thanksgiving",
+   "tags": [
+    "shopping",
+    "tech",
+    "deals"
+   ],
+   "origin": "curated",
+   "hype_now": {
+    "article": "Cyber_Monday",
+    "avg_daily_views_7d": 658,
+    "avg_daily_views_prior_28d": 352,
+    "trend_ratio": 1.87,
+    "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Cyber_Monday&range=latest-60"
+   },
+   "last_year": {
+    "article": "Cyber_Monday",
+    "window": "2025-11-27..2025-12-03",
+    "peak_daily_views": 12096,
+    "total_views": 37946,
+    "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Cyber_Monday&start=2025-11-27&end=2025-12-03"
+   },
+   "days_until": 12,
+   "likely_heat": 70.0,
+   "channel_fit": {
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "shrink-down": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "intern-broke-it": {
+     "score": 20,
+     "matched": [
+      "tech"
+     ],
+     "angle_hint": "Comedic tech-fail take on Cyber Monday"
+    }
+   },
+   "best_channel": "intern-broke-it",
+   "footage": {
+    "query": "Cyber Monday",
+    "checked": [
+     {
+      "source": "Wikimedia Commons (video)",
+      "hits": 1,
+      "url": "https://commons.wikimedia.org/w/index.php?search=Cyber%20Monday%20filetype%3Avideo&ns6=1",
+      "examples": [
+       "https://commons.wikimedia.org/wiki/File:Internet_cafe_shut_down_-_1004_Derbyshire.webm"
+      ]
+     },
+     {
+      "source": "Internet Archive (movies)",
+      "hits": 68,
+      "url": "https://archive.org/search?query=title%3A%28Cyber%20Monday%29&and[]=mediatype%3A%22movies%22",
+      "examples": [
+       "https://archive.org/details/Scottevest-NewsletterEmailCyberMonday374",
+       "https://archive.org/details/g4tv.com-video50077"
+      ]
+     },
+     {
+      "source": "NASA Image & Video Library (video)",
+      "hits": 0,
+      "url": "https://images.nasa.gov/search?q=Cyber%20Monday&page=1&media=video",
+      "examples": []
+     }
+    ],
+    "to_verify": [
+     "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
+     "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
+    ],
+    "confidence": "high",
     "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
    }
   },
@@ -3661,6 +4279,181 @@
    }
   },
   {
+   "name": "New Year's Day (US federal holiday)",
+   "date": "2027-01-01",
+   "category": "holiday",
+   "source_url": "https://date.nager.at/api/v3/PublicHolidays/2027/US",
+   "verified": true,
+   "verify_note": "from Nager.Date API",
+   "tags": [
+    "holiday",
+    "new year's day"
+   ],
+   "origin": "nager",
+   "hype_now": {
+    "article": "New_Year's_Day",
+    "avg_daily_views_7d": 322,
+    "avg_daily_views_prior_28d": 293,
+    "trend_ratio": 1.1,
+    "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=New_Year's_Day&range=latest-60"
+   },
+   "last_year": {
+    "article": "New_Year's_Day",
+    "window": "2025-12-29..2026-01-04",
+    "peak_daily_views": 225008,
+    "total_views": 345966,
+    "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=New_Year's_Day&start=2025-12-29&end=2026-01-04"
+   },
+   "days_until": 44,
+   "likely_heat": 69.0,
+   "channel_fit": {
+    "plan-not-panic": {
+     "score": 10,
+     "matched": [
+      "holiday"
+     ],
+     "angle_hint": "Practical prep angle on New Year's Day (US federal holiday): what normal households should actually do"
+    },
+    "shrink-down": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    }
+   },
+   "best_channel": "plan-not-panic",
+   "footage": {
+    "query": "New Year s Day",
+    "checked": [
+     {
+      "source": "Wikimedia Commons (video)",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+     },
+     {
+      "source": "Internet Archive (movies)",
+      "hits": 2,
+      "url": "https://archive.org/search?query=title%3A%28New%20Year%20s%20Day%29&and[]=mediatype%3A%22movies%22",
+      "examples": [
+       "https://archive.org/details/youtube-_9eL38ukwvg",
+       "https://archive.org/details/youtube-F37pfSSX5Bo"
+      ]
+     },
+     {
+      "source": "NASA Image & Video Library (video)",
+      "hits": 3,
+      "url": "https://images.nasa.gov/search?q=New%20Year%20s%20Day&page=1&media=video",
+      "examples": [
+       "https://images.nasa.gov/details/NHQ20230413ARMD01",
+       "https://images.nasa.gov/details/JPL-20240425-VOYAGEf-0001-Voyager 1 Team Reacts to Receiving Engineering Data From Spacecraft"
+      ]
+     }
+    ],
+    "to_verify": [
+     "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
+     "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
+    ],
+    "confidence": "medium",
+    "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
+   }
+  },
+  {
+   "name": "Dune: Part Three (US release)",
+   "date": "2026-12-18",
+   "category": "film",
+   "source_url": "https://en.wikipedia.org/wiki/Dune:_Part_Three",
+   "verified": true,
+   "verify_note": "date text found on source",
+   "rule": null,
+   "tags": [
+    "movie",
+    "film",
+    "sci-fi",
+    "desert"
+   ],
+   "origin": "curated",
+   "hype_now": {
+    "article": "Dune:_Part_Three",
+    "avg_daily_views_7d": 17151,
+    "avg_daily_views_prior_28d": 11066,
+    "trend_ratio": 1.55,
+    "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Dune:_Part_Three&range=latest-60"
+   },
+   "last_year": {
+    "article": "Dune:_Part_Two",
+    "window": "2025-12-15..2025-12-21",
+    "peak_daily_views": 7260,
+    "total_views": 35617,
+    "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Dune:_Part_Two&start=2025-12-15&end=2025-12-21"
+   },
+   "days_until": 30,
+   "likely_heat": 67.9,
+   "channel_fit": {
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "shrink-down": {
+     "score": 30,
+     "matched": [
+      "movie",
+      "film"
+     ],
+     "angle_hint": "The 'how does that even work?' explainer behind Dune: Part Three (US release)"
+    },
+    "silver-paradox": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    }
+   },
+   "best_channel": "shrink-down",
+   "footage": {
+    "query": "Dune Part Three",
+    "checked": [
+     {
+      "source": "Wikimedia Commons (video)",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+     },
+     {
+      "source": "Internet Archive (movies)",
+      "hits": 6,
+      "url": "https://archive.org/search?query=title%3A%28Dune%20Part%20Three%29&and[]=mediatype%3A%22movies%22",
+      "examples": [
+       "https://archive.org/details/dune-part-three-2026-trailer-1-4k-uhd-lossless",
+       "https://archive.org/details/dune-part-three-imax-trailer-1-4k-prores"
+      ]
+     },
+     {
+      "source": "NASA Image & Video Library (video)",
+      "hits": 0,
+      "url": "https://images.nasa.gov/search?q=Dune%20Part%20Three&page=1&media=video",
+      "examples": []
+     }
+    ],
+    "to_verify": [
+     "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
+     "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
+    ],
+    "confidence": "medium",
+    "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
+   }
+  },
+  {
    "name": "150th anniversary: William \"Boss\" Tweed, a New York City politician who had been arrested for embezzlement, was handed over to US authorities after having escaped from prison and ",
    "date": "2026-11-23",
    "category": "anniversary",
@@ -3736,6 +4529,65 @@
    }
   },
   {
+   "name": "New Year's Eve (Times Square ball drop, worldwide celebrations)",
+   "date": "2026-12-31",
+   "category": "holiday",
+   "source_url": "https://en.wikipedia.org/wiki/Times_Square_Ball",
+   "verified": true,
+   "verify_note": "date text found on source",
+   "rule": null,
+   "tags": [
+    "new year",
+    "holiday",
+    "resolutions",
+    "history"
+   ],
+   "origin": "curated",
+   "hype_now": {
+    "article": "Times_Square_Ball",
+    "avg_daily_views_7d": 193,
+    "avg_daily_views_prior_28d": 160,
+    "trend_ratio": 1.21,
+    "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Times_Square_Ball&range=latest-60"
+   },
+   "last_year": {
+    "article": "Times_Square_Ball",
+    "window": "2025-12-28..2026-01-03",
+    "peak_daily_views": 46850,
+    "total_views": 92800,
+    "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Times_Square_Ball&start=2025-12-28&end=2026-01-03"
+   },
+   "days_until": 43,
+   "likely_heat": 62.9,
+   "channel_fit": {
+    "plan-not-panic": {
+     "score": 10,
+     "matched": [
+      "holiday"
+     ],
+     "angle_hint": "Practical prep angle on New Year's Eve (Times Square ball drop, worldwide celebrations): what normal households should actually do"
+    },
+    "shrink-down": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 30,
+     "matched": [
+      "history"
+     ],
+     "angle_hint": "Documentary retrospective: New Year's Eve (Times Square ball drop, worldwide celebrations), what really happened and why it still matters"
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    }
+   },
+   "best_channel": "silver-paradox"
+  },
+  {
    "name": "College Football Playoff final rankings / bracket release",
    "date": "2026-12-06",
    "category": "sports",
@@ -3779,32 +4631,185 @@
      "angle_hint": null
     }
    },
-   "best_channel": null,
-   "footage": {
-    "query": "College Football Playoff final rankings /",
-    "checked": [
-     {
-      "source": "Wikimedia Commons (video)",
-      "error": "Expecting value: line 1 column 1 (char 0)"
-     },
-     {
-      "source": "Internet Archive (movies)",
-      "error": "'response'"
-     },
-     {
-      "source": "NASA Image & Video Library (video)",
-      "hits": 0,
-      "url": "https://images.nasa.gov/search?q=College%20Football%20Playoff%20final%20rankings%20/&page=1&media=video",
-      "examples": []
-     }
-    ],
-    "to_verify": [
-     "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
-     "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
-    ],
-    "confidence": "none-found",
-    "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
-   }
+   "best_channel": null
+  },
+  {
+   "name": "Nobel Prize award ceremonies (Stockholm & Oslo)",
+   "date": "2026-12-10",
+   "category": "awards",
+   "source_url": "https://en.wikipedia.org/wiki/Nobel_Prize",
+   "verified": true,
+   "verify_note": "date text found on source",
+   "rule": "Held annually on 10 December, the anniversary of Alfred Nobel's death",
+   "tags": [
+    "science",
+    "physics",
+    "history",
+    "discovery"
+   ],
+   "origin": "curated",
+   "hype_now": {
+    "article": "Nobel_Prize",
+    "avg_daily_views_7d": 1383,
+    "avg_daily_views_prior_28d": 2053,
+    "trend_ratio": 0.67,
+    "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Nobel_Prize&range=latest-60"
+   },
+   "last_year": {
+    "article": "Nobel_Prize",
+    "window": "2025-12-07..2025-12-13",
+    "peak_daily_views": 22652,
+    "total_views": 48645,
+    "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Nobel_Prize&start=2025-12-07&end=2025-12-13"
+   },
+   "days_until": 22,
+   "likely_heat": 62.3,
+   "channel_fit": {
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "shrink-down": {
+     "score": 90,
+     "matched": [
+      "physics",
+      "science",
+      "discovery"
+     ],
+     "angle_hint": "The 'how does that even work?' explainer behind Nobel Prize award ceremonies (Stockholm & Oslo)"
+    },
+    "silver-paradox": {
+     "score": 80,
+     "matched": [
+      "discovery",
+      "history",
+      "physics"
+     ],
+     "angle_hint": "Documentary retrospective: Nobel Prize award ceremonies (Stockholm & Oslo), what really happened and why it still matters"
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    }
+   },
+   "best_channel": "shrink-down"
+  },
+  {
+   "name": "Chanukah begins",
+   "date": "2026-12-04",
+   "category": "holiday",
+   "source_url": "https://www.hebcal.com/hebcal?v=1&cfg=json&maj=on&min=off&mod=off&nx=off&year=2026&month=x&ss=off&mf=off&c=off&geo=none&s=off",
+   "verified": true,
+   "verify_note": "from Hebcal API",
+   "tags": [
+    "holiday",
+    "chanukah",
+    "hanukkah"
+   ],
+   "origin": "hebcal",
+   "hype_now": {
+    "article": "Hanukkah",
+    "avg_daily_views_7d": 1867,
+    "avg_daily_views_prior_28d": 1444,
+    "trend_ratio": 1.29,
+    "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Hanukkah&range=latest-60"
+   },
+   "last_year": {
+    "article": "Hanukkah",
+    "window": "2025-12-01..2025-12-07",
+    "peak_daily_views": 7270,
+    "total_views": 47445,
+    "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Hanukkah&start=2025-12-01&end=2025-12-07"
+   },
+   "days_until": 16,
+   "likely_heat": 61.3,
+   "channel_fit": {
+    "plan-not-panic": {
+     "score": 10,
+     "matched": [
+      "holiday"
+     ],
+     "angle_hint": "Practical prep angle on Chanukah begins: what normal households should actually do"
+    },
+    "shrink-down": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    }
+   },
+   "best_channel": "plan-not-panic"
+  },
+  {
+   "name": "Geminid meteor shower peak",
+   "date": "2026-12-14",
+   "category": "astronomy",
+   "source_url": "https://en.wikipedia.org/wiki/Geminids",
+   "verified": true,
+   "verify_note": "date text found on source",
+   "rule": "Annual peak; highest intensity usually the morning of Dec 14",
+   "tags": [
+    "meteor",
+    "space",
+    "astronomy",
+    "sky"
+   ],
+   "origin": "curated",
+   "hype_now": {
+    "article": "Geminids",
+    "avg_daily_views_7d": 105,
+    "avg_daily_views_prior_28d": 77,
+    "trend_ratio": 1.36,
+    "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Geminids&range=latest-60"
+   },
+   "last_year": {
+    "article": "Geminids",
+    "window": "2025-12-11..2025-12-17",
+    "peak_daily_views": 8810,
+    "total_views": 26377,
+    "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Geminids&start=2025-12-11&end=2025-12-17"
+   },
+   "days_until": 26,
+   "likely_heat": 60.5,
+   "channel_fit": {
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "shrink-down": {
+     "score": 60,
+     "matched": [
+      "space",
+      "meteor"
+     ],
+     "angle_hint": "What's really happening during Geminid meteor shower peak (and why it looks the way it does)"
+    },
+    "silver-paradox": {
+     "score": 20,
+     "matched": [
+      "space"
+     ],
+     "angle_hint": "Long-form doc angle: the bigger story behind Geminid meteor shower peak"
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    }
+   },
+   "best_channel": "shrink-down"
   },
   {
    "name": "250th anniversary: American Revolutionary War: The Battle of Fort Lee saw the invasion of New Jersey by British and Hessian forces and the subsequent general retreat of the Contin",
@@ -3853,37 +4858,7 @@
      "angle_hint": null
     }
    },
-   "best_channel": "silver-paradox",
-   "footage": {
-    "query": "American Revolutionary War",
-    "checked": [
-     {
-      "source": "Wikimedia Commons (video)",
-      "error": "Expecting value: line 1 column 1 (char 0)"
-     },
-     {
-      "source": "Internet Archive (movies)",
-      "hits": 83,
-      "url": "https://archive.org/search?query=title%3A%28American%20Revolutionary%20War%29&and[]=mediatype%3A%22movies%22",
-      "examples": [
-       "https://archive.org/details/CSPAN3_20190505_040000_Lectures_in_History_American_Military_in_the_Revolutionary_War",
-       "https://archive.org/details/CSPAN2_20211024_000000_Lectures_in_History_American_Military_in_the_Revolutionary_War"
-      ]
-     },
-     {
-      "source": "NASA Image & Video Library (video)",
-      "hits": 0,
-      "url": "https://images.nasa.gov/search?q=American%20Revolutionary%20War&page=1&media=video",
-      "examples": []
-     }
-    ],
-    "to_verify": [
-     "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
-     "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
-    ],
-    "confidence": "medium",
-    "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
-   }
+   "best_channel": "silver-paradox"
   },
   {
    "name": "250th anniversary: American Revolutionary War: British reinforcements brought an end to the Patriot attempt to capture Fort Cumberland in Nova Scotia.",
@@ -3932,37 +4907,130 @@
      "angle_hint": null
     }
    },
-   "best_channel": "silver-paradox",
-   "footage": {
-    "query": "American Revolutionary War",
-    "checked": [
-     {
-      "source": "Wikimedia Commons (video)",
-      "error": "Expecting value: line 1 column 1 (char 0)"
-     },
-     {
-      "source": "Internet Archive (movies)",
-      "hits": 83,
-      "url": "https://archive.org/search?query=title%3A%28American%20Revolutionary%20War%29&and[]=mediatype%3A%22movies%22",
-      "examples": [
-       "https://archive.org/details/CSPAN3_20190505_040000_Lectures_in_History_American_Military_in_the_Revolutionary_War",
-       "https://archive.org/details/CSPAN2_20211024_000000_Lectures_in_History_American_Military_in_the_Revolutionary_War"
-      ]
-     },
-     {
-      "source": "NASA Image & Video Library (video)",
-      "hits": 0,
-      "url": "https://images.nasa.gov/search?q=American%20Revolutionary%20War&page=1&media=video",
-      "examples": []
-     }
-    ],
-    "to_verify": [
-     "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
-     "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
-    ],
-    "confidence": "medium",
-    "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
-   }
+   "best_channel": "silver-paradox"
+  },
+  {
+   "name": "Atlantic hurricane season officially ends",
+   "date": "2026-11-30",
+   "category": "seasonal",
+   "source_url": "https://en.wikipedia.org/wiki/2026_Atlantic_hurricane_season",
+   "verified": true,
+   "verify_note": "date text found on source",
+   "rule": null,
+   "tags": [
+    "hurricane",
+    "storm",
+    "season recap",
+    "prep"
+   ],
+   "origin": "curated",
+   "hype_now": {
+    "article": "2026_Atlantic_hurricane_season",
+    "avg_daily_views_7d": 2720,
+    "avg_daily_views_prior_28d": 4642,
+    "trend_ratio": 0.59,
+    "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=2026_Atlantic_hurricane_season&range=latest-60"
+   },
+   "last_year": {
+    "article": "2025_Atlantic_hurricane_season",
+    "window": "2025-11-27..2025-12-03",
+    "peak_daily_views": 5964,
+    "total_views": 31121,
+    "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=2025_Atlantic_hurricane_season&start=2025-11-27&end=2025-12-03"
+   },
+   "days_until": 12,
+   "likely_heat": 57.9,
+   "channel_fit": {
+    "plan-not-panic": {
+     "score": 70,
+     "matched": [
+      "hurricane",
+      "storm",
+      "prep"
+     ],
+     "angle_hint": "Calm 60-second checklist: what Atlantic hurricane season officially ends means for your home and the 3 things to do before it hits"
+    },
+    "shrink-down": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    }
+   },
+   "best_channel": "plan-not-panic"
+  },
+  {
+   "name": "Solstice (winter begins, N. Hemisphere) 20:50 UTC",
+   "date": "2026-12-21",
+   "category": "astronomy",
+   "source_url": "https://aa.usno.navy.mil/api/seasons?year=2026",
+   "verified": true,
+   "verify_note": "from US Naval Observatory API",
+   "tags": [
+    "solstice",
+    "winter",
+    "sun",
+    "space",
+    "astronomy"
+   ],
+   "origin": "usno",
+   "hype_now": {
+    "article": "December_solstice",
+    "avg_daily_views_7d": 86,
+    "avg_daily_views_prior_28d": 79,
+    "trend_ratio": 1.08,
+    "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=December_solstice&range=latest-60"
+   },
+   "last_year": {
+    "article": "December_solstice",
+    "window": "2025-12-18..2025-12-24",
+    "peak_daily_views": 8885,
+    "total_views": 14082,
+    "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=December_solstice&start=2025-12-18&end=2025-12-24"
+   },
+   "days_until": 33,
+   "likely_heat": 56.1,
+   "channel_fit": {
+    "plan-not-panic": {
+     "score": 20,
+     "matched": [
+      "winter",
+      "solstice"
+     ],
+     "angle_hint": "Practical prep angle on Solstice (winter begins, N. Hemisphere) 20:50 UTC: what normal households should actually do"
+    },
+    "shrink-down": {
+     "score": 80,
+     "matched": [
+      "space",
+      "solstice",
+      "sun"
+     ],
+     "angle_hint": "What's really happening during Solstice (winter begins, N. Hemisphere) 20:50 UTC (and why it looks the way it does)"
+    },
+    "silver-paradox": {
+     "score": 20,
+     "matched": [
+      "space"
+     ],
+     "angle_hint": "Long-form doc angle: the bigger story behind Solstice (winter begins, N. Hemisphere) 20:50 UTC"
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    }
+   },
+   "best_channel": "shrink-down"
   },
   {
    "name": "25th anniversary: Less than two months after disclosing accounting violations, the Texas-based energy firm Enron filed for Chapter 11 bankruptcy, evaporating nearly $11 billion i",
@@ -4011,34 +5079,7 @@
      "angle_hint": null
     }
    },
-   "best_channel": "silver-paradox",
-   "footage": {
-    "query": "Enron scandal",
-    "checked": [
-     {
-      "source": "Wikimedia Commons (video)",
-      "error": "Expecting value: line 1 column 1 (char 0)"
-     },
-     {
-      "source": "Internet Archive (movies)",
-      "hits": 0,
-      "url": "https://archive.org/search?query=title%3A%28Enron%20scandal%29&and[]=mediatype%3A%22movies%22",
-      "examples": []
-     },
-     {
-      "source": "NASA Image & Video Library (video)",
-      "hits": 0,
-      "url": "https://images.nasa.gov/search?q=Enron%20scandal&page=1&media=video",
-      "examples": []
-     }
-    ],
-    "to_verify": [
-     "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
-     "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
-    ],
-    "confidence": "none-found",
-    "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
-   }
+   "best_channel": "silver-paradox"
   },
   {
    "name": "250th anniversary: American Revolutionary War: American troops, overwhelmed by British reinforcements, retreated from the Battle of Iron Works Hill.",
@@ -4087,37 +5128,7 @@
      "angle_hint": null
     }
    },
-   "best_channel": "silver-paradox",
-   "footage": {
-    "query": "American Revolutionary War",
-    "checked": [
-     {
-      "source": "Wikimedia Commons (video)",
-      "error": "Expecting value: line 1 column 1 (char 0)"
-     },
-     {
-      "source": "Internet Archive (movies)",
-      "hits": 83,
-      "url": "https://archive.org/search?query=title%3A%28American%20Revolutionary%20War%29&and[]=mediatype%3A%22movies%22",
-      "examples": [
-       "https://archive.org/details/CSPAN3_20190505_040000_Lectures_in_History_American_Military_in_the_Revolutionary_War",
-       "https://archive.org/details/CSPAN2_20211024_000000_Lectures_in_History_American_Military_in_the_Revolutionary_War"
-      ]
-     },
-     {
-      "source": "NASA Image & Video Library (video)",
-      "hits": 0,
-      "url": "https://images.nasa.gov/search?q=American%20Revolutionary%20War&page=1&media=video",
-      "examples": []
-     }
-    ],
-    "to_verify": [
-     "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
-     "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
-    ],
-    "confidence": "medium",
-    "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
-   }
+   "best_channel": "silver-paradox"
   },
   {
    "name": "250th anniversary: American Revolutionary War: George Washington led a Continental Army column across the Delaware River to launch a surprise attack against Hessian forces at the ",
@@ -4151,7 +5162,7 @@
      "matched": [
       "launch"
      ],
-     "angle_hint": "How 250th anniversary: American Revolutionary War: George Washington led a Continental Army column across the Delaware River to launch a surprise attack against Hessian forces at the  actually works: the physics of getting it off the ground, in 60 seconds"
+     "angle_hint": "The 'how does that even work?' explainer behind 250th anniversary: American Revolutionary War: George Washington led a Continental Army column across the Delaware River to launch a surprise attack against Hessian forces at the "
     },
     "silver-paradox": {
      "score": 90,
@@ -4168,37 +5179,7 @@
      "angle_hint": null
     }
    },
-   "best_channel": "silver-paradox",
-   "footage": {
-    "query": "American Revolutionary War",
-    "checked": [
-     {
-      "source": "Wikimedia Commons (video)",
-      "error": "Expecting value: line 1 column 1 (char 0)"
-     },
-     {
-      "source": "Internet Archive (movies)",
-      "hits": 83,
-      "url": "https://archive.org/search?query=title%3A%28American%20Revolutionary%20War%29&and[]=mediatype%3A%22movies%22",
-      "examples": [
-       "https://archive.org/details/CSPAN3_20190505_040000_Lectures_in_History_American_Military_in_the_Revolutionary_War",
-       "https://archive.org/details/CSPAN2_20211024_000000_Lectures_in_History_American_Military_in_the_Revolutionary_War"
-      ]
-     },
-     {
-      "source": "NASA Image & Video Library (video)",
-      "hits": 0,
-      "url": "https://images.nasa.gov/search?q=American%20Revolutionary%20War&page=1&media=video",
-      "examples": []
-     }
-    ],
-    "to_verify": [
-     "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
-     "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
-    ],
-    "confidence": "medium",
-    "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
-   }
+   "best_channel": "silver-paradox"
   },
   {
    "name": "NFL regular season ends",
@@ -4252,36 +5233,55 @@
      "angle_hint": null
     }
    },
-   "best_channel": null,
-   "footage": {
-    "query": "2026 NFL season",
-    "checked": [
-     {
-      "source": "Wikimedia Commons (video)",
-      "error": "Expecting value: line 1 column 1 (char 0)"
-     },
-     {
-      "source": "Internet Archive (movies)",
-      "hits": 1,
-      "url": "https://archive.org/search?query=title%3A%282026%20NFL%20season%29&and[]=mediatype%3A%22movies%22",
-      "examples": [
-       "https://archive.org/details/lwvtca-Sports_Corner_with_Cole_Young_209_-_2026_NFL_Season_Preview_Predictions"
-      ]
-     },
-     {
-      "source": "NASA Image & Video Library (video)",
-      "hits": 0,
-      "url": "https://images.nasa.gov/search?q=2026%20NFL%20season&page=1&media=video",
-      "examples": []
-     }
-    ],
-    "to_verify": [
-     "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
-     "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
-    ],
-    "confidence": "low",
-    "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
-   }
+   "best_channel": null
+  },
+  {
+   "name": "25th anniversary: Astronomers announced the detection of sodium in the atmosphere of the extrasolar planet HD 209458 b, the first exoplanet atmosphere to be measured.",
+   "date": "2026-11-27",
+   "category": "anniversary",
+   "source_url": "https://en.wikipedia.org/wiki/Sodium",
+   "verified": true,
+   "verify_note": "Wikipedia On This Day (2001)",
+   "tags": [
+    "anniversary",
+    "history"
+   ],
+   "origin": "wikipedia-onthisday",
+   "hype_now": {
+    "article": "Sodium",
+    "avg_daily_views_7d": 949,
+    "avg_daily_views_prior_28d": 1011,
+    "trend_ratio": 0.94,
+    "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Sodium&range=latest-60"
+   },
+   "days_until": 9,
+   "likely_heat": 52.5,
+   "channel_fit": {
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "shrink-down": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 60,
+     "matched": [
+      "history",
+      "anniversary"
+     ],
+     "angle_hint": "Documentary retrospective: 25th anniversary: Astronomers announced the detection of sodium in the atmosphere of the extrasolar planet HD 209458 b, the first exoplanet atmosphere to be measured., what really happened and why it still matters"
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    }
+   },
+   "best_channel": "silver-paradox"
   },
   {
    "name": "250th anniversary: American Revolutionary War: American forces under the command of George Washington repulsed a British attack at the Battle of the Assunpink Creek near Trenton, ",
@@ -4330,37 +5330,56 @@
      "angle_hint": null
     }
    },
-   "best_channel": "silver-paradox",
-   "footage": {
-    "query": "American Revolutionary War",
-    "checked": [
-     {
-      "source": "Wikimedia Commons (video)",
-      "error": "Expecting value: line 1 column 1 (char 0)"
-     },
-     {
-      "source": "Internet Archive (movies)",
-      "hits": 83,
-      "url": "https://archive.org/search?query=title%3A%28American%20Revolutionary%20War%29&and[]=mediatype%3A%22movies%22",
-      "examples": [
-       "https://archive.org/details/CSPAN3_20190505_040000_Lectures_in_History_American_Military_in_the_Revolutionary_War",
-       "https://archive.org/details/CSPAN2_20211024_000000_Lectures_in_History_American_Military_in_the_Revolutionary_War"
-      ]
-     },
-     {
-      "source": "NASA Image & Video Library (video)",
-      "hits": 0,
-      "url": "https://images.nasa.gov/search?q=American%20Revolutionary%20War&page=1&media=video",
-      "examples": []
-     }
-    ],
-    "to_verify": [
-     "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
-     "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
-    ],
-    "confidence": "medium",
-    "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
-   }
+   "best_channel": "silver-paradox"
+  },
+  {
+   "name": "250th anniversary: American Revolutionary War: American forces commanded by George Washington defeated British troops at the Battle of Princeton (depicted).",
+   "date": "2027-01-03",
+   "category": "anniversary",
+   "source_url": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+   "verified": true,
+   "verify_note": "Wikipedia On This Day (1777)",
+   "tags": [
+    "anniversary",
+    "history"
+   ],
+   "origin": "wikipedia-onthisday",
+   "hype_now": {
+    "article": "American_Revolutionary_War",
+    "avg_daily_views_7d": 4038,
+    "avg_daily_views_prior_28d": 3830,
+    "trend_ratio": 1.05,
+    "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=American_Revolutionary_War&range=latest-60"
+   },
+   "days_until": 46,
+   "likely_heat": 52.2,
+   "channel_fit": {
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "shrink-down": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 90,
+     "matched": [
+      "history",
+      "anniversary",
+      "war"
+     ],
+     "angle_hint": "Documentary retrospective: 250th anniversary: American Revolutionary War: American forces commanded by George Washington defeated British troops at the Battle of Princeton (depicted)., what really happened and why it still matters"
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    }
+   },
+   "best_channel": "silver-paradox"
   },
   {
    "name": "50th anniversary: Jamaican reggae musician Bob Marley survived an assassination attempt by seven gunmen in Kingston.",
@@ -4409,37 +5428,55 @@
      "angle_hint": null
     }
    },
-   "best_channel": "silver-paradox",
-   "footage": {
-    "query": "Reggae",
-    "checked": [
-     {
-      "source": "Wikimedia Commons (video)",
-      "error": "Expecting value: line 1 column 1 (char 0)"
-     },
-     {
-      "source": "Internet Archive (movies)",
-      "hits": 522,
-      "url": "https://archive.org/search?query=title%3A%28Reggae%29&and[]=mediatype%3A%22movies%22",
-      "examples": [
-       "https://archive.org/details/gbatvmd-S4E1_Music_from_the_New_Deal_Cafe_-_Proverbs_Reggae_Band",
-       "https://archive.org/details/ReggaeMusic-ByOssieDellimoreFeaturingRuffScott"
-      ]
-     },
-     {
-      "source": "NASA Image & Video Library (video)",
-      "hits": 0,
-      "url": "https://images.nasa.gov/search?q=Reggae&page=1&media=video",
-      "examples": []
-     }
-    ],
-    "to_verify": [
-     "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
-     "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
-    ],
-    "confidence": "medium",
-    "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
-   }
+   "best_channel": "silver-paradox"
+  },
+  {
+   "name": "250th anniversary: Thomas Paine published the first in a series of pamphlets entitled The American Crisis, opening with the line: \"These are the times that try men's souls.\"",
+   "date": "2026-12-19",
+   "category": "anniversary",
+   "source_url": "https://en.wikipedia.org/wiki/Thomas_Paine",
+   "verified": true,
+   "verify_note": "Wikipedia On This Day (1776)",
+   "tags": [
+    "anniversary",
+    "history"
+   ],
+   "origin": "wikipedia-onthisday",
+   "hype_now": {
+    "article": "Thomas_Paine",
+    "avg_daily_views_7d": 1148,
+    "avg_daily_views_prior_28d": 1293,
+    "trend_ratio": 0.89,
+    "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Thomas_Paine&range=latest-60"
+   },
+   "days_until": 31,
+   "likely_heat": 49.3,
+   "channel_fit": {
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "shrink-down": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 60,
+     "matched": [
+      "history",
+      "anniversary"
+     ],
+     "angle_hint": "Documentary retrospective: 250th anniversary: Thomas Paine published the first in a series of pamphlets entitled The American Crisis, opening with the line: \"These are the times that try men's souls.\", what really happened and why it still matters"
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    }
+   },
+   "best_channel": "silver-paradox"
   },
   {
    "name": "25th anniversary: Richard Reid unsuccessfully attempted to detonate a bomb in his shoe on a transatlantic flight from Paris to Miami.",
@@ -4490,26 +5527,128 @@
    "best_channel": "silver-paradox"
   },
   {
-   "name": "250th anniversary: Mission Santa Clara de Asís (pictured), a Spanish mission in California that formed the basis of both the city of Santa Clara and Santa Clara University, was es",
-   "date": "2027-01-12",
+   "name": "50th anniversary: The English punk-rock band Sex Pistols' lewd and disruptive behaviour at Heathrow Airport prompted the record label EMI to end their contract.",
+   "date": "2027-01-04",
    "category": "anniversary",
-   "source_url": "https://en.wikipedia.org/wiki/Mission_Santa_Clara_de_As%C3%ADs",
+   "source_url": "https://en.wikipedia.org/wiki/Punk_rock",
    "verified": true,
-   "verify_note": "Wikipedia On This Day (1777)",
+   "verify_note": "Wikipedia On This Day (1977)",
    "tags": [
     "anniversary",
     "history"
    ],
    "origin": "wikipedia-onthisday",
    "hype_now": {
-    "article": "Mission_Santa_Clara_de_Asís",
-    "avg_daily_views_7d": 71,
-    "avg_daily_views_prior_28d": 51,
-    "trend_ratio": 1.39,
-    "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Mission_Santa_Clara_de_Asís&range=latest-60"
+    "article": "Punk_rock",
+    "avg_daily_views_7d": 1473,
+    "avg_daily_views_prior_28d": 1555,
+    "trend_ratio": 0.95,
+    "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Punk_rock&range=latest-60"
    },
-   "days_until": 55,
-   "likely_heat": 34.4,
+   "days_until": 47,
+   "likely_heat": 46.7,
+   "channel_fit": {
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "shrink-down": {
+     "score": 10,
+     "matched": [
+      "record"
+     ],
+     "angle_hint": "The 'how does that even work?' explainer behind 50th anniversary: The English punk-rock band Sex Pistols' lewd and disruptive behaviour at Heathrow Airport prompted the record label EMI to end their contract."
+    },
+    "silver-paradox": {
+     "score": 80,
+     "matched": [
+      "history",
+      "anniversary",
+      "record"
+     ],
+     "angle_hint": "Documentary retrospective: 50th anniversary: The English punk-rock band Sex Pistols' lewd and disruptive behaviour at Heathrow Airport prompted the record label EMI to end their contract., what really happened and why it still matters"
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    }
+   },
+   "best_channel": "silver-paradox"
+  },
+  {
+   "name": "100th anniversary: The science fiction film Metropolis, directed by Fritz Lang, was released in Germany.",
+   "date": "2027-01-10",
+   "category": "anniversary",
+   "source_url": "https://en.wikipedia.org/wiki/Science_fiction",
+   "verified": true,
+   "verify_note": "Wikipedia On This Day (1927)",
+   "tags": [
+    "anniversary",
+    "history"
+   ],
+   "origin": "wikipedia-onthisday",
+   "hype_now": {
+    "article": "Science_fiction",
+    "avg_daily_views_7d": 1196,
+    "avg_daily_views_prior_28d": 1423,
+    "trend_ratio": 0.84,
+    "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Science_fiction&range=latest-60"
+   },
+   "days_until": 53,
+   "likely_heat": 44.3,
+   "channel_fit": {
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "shrink-down": {
+     "score": 45,
+     "matched": [
+      "science",
+      "film"
+     ],
+     "angle_hint": "The 'how does that even work?' explainer behind 100th anniversary: The science fiction film Metropolis, directed by Fritz Lang, was released in Germany."
+    },
+    "silver-paradox": {
+     "score": 60,
+     "matched": [
+      "history",
+      "anniversary"
+     ],
+     "angle_hint": "Documentary retrospective: 100th anniversary: The science fiction film Metropolis, directed by Fritz Lang, was released in Germany., what really happened and why it still matters"
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    }
+   },
+   "best_channel": "silver-paradox"
+  },
+  {
+   "name": "25th anniversary: Second Intifada: Israeli forces seized MV Karine A, which was carrying 50 tons of smuggled weapons on behalf of the Palestinian Authority.",
+   "date": "2027-01-03",
+   "category": "anniversary",
+   "source_url": "https://en.wikipedia.org/wiki/Second_Intifada",
+   "verified": true,
+   "verify_note": "Wikipedia On This Day (2002)",
+   "tags": [
+    "anniversary",
+    "history"
+   ],
+   "origin": "wikipedia-onthisday",
+   "hype_now": {
+    "article": "Second_Intifada",
+    "avg_daily_views_7d": 702,
+    "avg_daily_views_prior_28d": 949,
+    "trend_ratio": 0.74,
+    "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Second_Intifada&range=latest-60"
+   },
+   "days_until": 46,
+   "likely_heat": 43.4,
    "channel_fit": {
     "plan-not-panic": {
      "score": 0,
@@ -4527,7 +5666,7 @@
       "history",
       "anniversary"
      ],
-     "angle_hint": "Documentary retrospective: 250th anniversary: Mission Santa Clara de Asís (pictured), a Spanish mission in California that formed the basis of both the city of Santa Clara and Santa Clara University, was es, what really happened and why it still matters"
+     "angle_hint": "Documentary retrospective: 25th anniversary: Second Intifada: Israeli forces seized MV Karine A, which was carrying 50 tons of smuggled weapons on behalf of the Palestinian Authority., what really happened and why it still matters"
     },
     "intern-broke-it": {
      "score": 0,
@@ -4538,30 +5677,31 @@
    "best_channel": "silver-paradox"
   },
   {
-   "name": "Black Friday",
-   "date": "2026-11-27",
-   "category": "shopping",
-   "source_url": "https://en.wikipedia.org/wiki/Black_Friday_(shopping)",
+   "name": "25th anniversary: Burhanuddin Rabbani of the Northern Alliance handed over power in Afghanistan to the interim government headed by Hamid Karzai.",
+   "date": "2026-12-22",
+   "category": "anniversary",
+   "source_url": "https://en.wikipedia.org/wiki/Burhanuddin_Rabbani",
    "verified": true,
-   "verify_note": "date text found on source",
-   "rule": "Day after US Thanksgiving (Nov 26, 2026 per Nager.Date US holidays)",
+   "verify_note": "Wikipedia On This Day (2001)",
    "tags": [
-    "black friday",
-    "shopping",
-    "deals",
-    "holiday"
+    "anniversary",
+    "history"
    ],
-   "origin": "curated",
-   "days_until": 9,
-   "likely_heat": 20.0,
+   "origin": "wikipedia-onthisday",
+   "hype_now": {
+    "article": "Burhanuddin_Rabbani",
+    "avg_daily_views_7d": 239,
+    "avg_daily_views_prior_28d": 234,
+    "trend_ratio": 1.02,
+    "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Burhanuddin_Rabbani&range=latest-60"
+   },
+   "days_until": 34,
+   "likely_heat": 41.4,
    "channel_fit": {
     "plan-not-panic": {
-     "score": 20,
-     "matched": [
-      "holiday",
-      "black friday"
-     ],
-     "angle_hint": "Practical prep angle on Black Friday: what normal households should actually do"
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
     },
     "shrink-down": {
      "score": 0,
@@ -4569,9 +5709,12 @@
      "angle_hint": null
     },
     "silver-paradox": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
+     "score": 60,
+     "matched": [
+      "history",
+      "anniversary"
+     ],
+     "angle_hint": "Documentary retrospective: 25th anniversary: Burhanuddin Rabbani of the Northern Alliance handed over power in Afghanistan to the interim government headed by Hamid Karzai., what really happened and why it still matters"
     },
     "intern-broke-it": {
      "score": 0,
@@ -4579,24 +5722,29 @@
      "angle_hint": null
     }
    },
-   "best_channel": "plan-not-panic"
+   "best_channel": "silver-paradox"
   },
   {
-   "name": "Cyber Monday",
-   "date": "2026-11-30",
-   "category": "shopping",
-   "source_url": "https://en.wikipedia.org/wiki/Cyber_Monday",
+   "name": "100th anniversary: Louis B. Mayer, head of Metro-Goldwyn-Mayer, hosted 36 people involved in the film industry at a banquet, where he announced the creation of what would become t",
+   "date": "2027-01-11",
+   "category": "anniversary",
+   "source_url": "https://en.wikipedia.org/wiki/Louis_B._Mayer",
    "verified": true,
-   "verify_note": "date text found on source",
-   "rule": "Monday after US Thanksgiving",
+   "verify_note": "Wikipedia On This Day (1927)",
    "tags": [
-    "shopping",
-    "tech",
-    "deals"
+    "anniversary",
+    "history"
    ],
-   "origin": "curated",
-   "days_until": 12,
-   "likely_heat": 20.0,
+   "origin": "wikipedia-onthisday",
+   "hype_now": {
+    "article": "Louis_B._Mayer",
+    "avg_daily_views_7d": 623,
+    "avg_daily_views_prior_28d": 641,
+    "trend_ratio": 0.97,
+    "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Louis_B._Mayer&range=latest-60"
+   },
+   "days_until": 54,
+   "likely_heat": 41.0,
    "channel_fit": {
     "plan-not-panic": {
      "score": 0,
@@ -4604,61 +5752,19 @@
      "angle_hint": null
     },
     "shrink-down": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
+     "score": 15,
+     "matched": [
+      "film"
+     ],
+     "angle_hint": "The 'how does that even work?' explainer behind 100th anniversary: Louis B. Mayer, head of Metro-Goldwyn-Mayer, hosted 36 people involved in the film industry at a banquet, where he announced the creation of what would become t"
     },
     "silver-paradox": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "intern-broke-it": {
-     "score": 20,
+     "score": 60,
      "matched": [
-      "tech"
+      "history",
+      "anniversary"
      ],
-     "angle_hint": "Comedic tech-fail take on Cyber Monday"
-    }
-   },
-   "best_channel": "intern-broke-it"
-  },
-  {
-   "name": "Atlantic hurricane season officially ends",
-   "date": "2026-11-30",
-   "category": "seasonal",
-   "source_url": "https://en.wikipedia.org/wiki/2026_Atlantic_hurricane_season",
-   "verified": true,
-   "verify_note": "date text found on source",
-   "rule": null,
-   "tags": [
-    "hurricane",
-    "storm",
-    "season recap",
-    "prep"
-   ],
-   "origin": "curated",
-   "days_until": 12,
-   "likely_heat": 20.0,
-   "channel_fit": {
-    "plan-not-panic": {
-     "score": 70,
-     "matched": [
-      "hurricane",
-      "storm",
-      "prep"
-     ],
-     "angle_hint": "Calm 60-second checklist: what Atlantic hurricane season officially ends means for your home and the 3 things to do before it hits"
-    },
-    "shrink-down": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
+     "angle_hint": "Documentary retrospective: 100th anniversary: Louis B. Mayer, head of Metro-Goldwyn-Mayer, hosted 36 people involved in the film industry at a banquet, where he announced the creation of what would become t, what really happened and why it still matters"
     },
     "intern-broke-it": {
      "score": 0,
@@ -4666,405 +5772,7 @@
      "angle_hint": null
     }
    },
-   "best_channel": "plan-not-panic"
-  },
-  {
-   "name": "Rocket launch: Long March 2D | Unknown Payload",
-   "date": "2026-11-18",
-   "category": "launch",
-   "source_url": "https://ll.thespacedevs.com/2.2.0/launch/e0a11eb1-0bda-4872-b36b-140247fd5c60/",
-   "verified": true,
-   "verify_note": "The Space Devs Launch Library, status Go, NET 2026-11-18T22:50:00Z",
-   "tags": [
-    "rocket",
-    "launch",
-    "space",
-    "space"
-   ],
-   "origin": "spacedevs",
-   "days_until": 0,
-   "likely_heat": 20.0,
-   "channel_fit": {
-    "plan-not-panic": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "shrink-down": {
-     "score": 90,
-     "matched": [
-      "space",
-      "rocket",
-      "launch"
-     ],
-     "angle_hint": "How Rocket launch: Long March 2D | Unknown Payload actually works: the physics of getting it off the ground, in 60 seconds"
-    },
-    "silver-paradox": {
-     "score": 20,
-     "matched": [
-      "space"
-     ],
-     "angle_hint": "Long-form doc angle: the bigger story behind Rocket launch: Long March 2D | Unknown Payload"
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    }
-   },
-   "best_channel": "shrink-down"
-  },
-  {
-   "name": "Rocket launch: Falcon 9 Block 5 | USSF-317",
-   "date": "2026-11-20",
-   "category": "launch",
-   "source_url": "https://ll.thespacedevs.com/2.2.0/launch/76617033-4dc0-4448-b50c-e5b0d5a18539/",
-   "verified": true,
-   "verify_note": "The Space Devs Launch Library, status Go, NET 2026-11-20T02:46:00Z",
-   "tags": [
-    "rocket",
-    "launch",
-    "space",
-    "spacex"
-   ],
-   "origin": "spacedevs",
-   "days_until": 2,
-   "likely_heat": 20.0,
-   "channel_fit": {
-    "plan-not-panic": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "shrink-down": {
-     "score": 100,
-     "matched": [
-      "space",
-      "rocket",
-      "launch",
-      "spacex"
-     ],
-     "angle_hint": "How Rocket launch: Falcon 9 Block 5 | USSF-317 actually works: the physics of getting it off the ground, in 60 seconds"
-    },
-    "silver-paradox": {
-     "score": 20,
-     "matched": [
-      "space"
-     ],
-     "angle_hint": "Long-form doc angle: the bigger story behind Rocket launch: Falcon 9 Block 5 | USSF-317"
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    }
-   },
-   "best_channel": "shrink-down"
-  },
-  {
-   "name": "Rocket launch: Long March 8A | SatNet LEO Group TBD?",
-   "date": "2026-11-20",
-   "category": "launch",
-   "source_url": "https://ll.thespacedevs.com/2.2.0/launch/a2975167-7c6f-4403-99e1-b40df17c8140/",
-   "verified": true,
-   "verify_note": "The Space Devs Launch Library, status TBC, NET 2026-11-20T11:00:00Z",
-   "tags": [
-    "rocket",
-    "launch",
-    "space",
-    "space"
-   ],
-   "origin": "spacedevs",
-   "days_until": 2,
-   "likely_heat": 20.0,
-   "channel_fit": {
-    "plan-not-panic": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "shrink-down": {
-     "score": 90,
-     "matched": [
-      "space",
-      "rocket",
-      "launch"
-     ],
-     "angle_hint": "How Rocket launch: Long March 8A | SatNet LEO Group TBD? actually works: the physics of getting it off the ground, in 60 seconds"
-    },
-    "silver-paradox": {
-     "score": 20,
-     "matched": [
-      "space"
-     ],
-     "angle_hint": "Long-form doc angle: the bigger story behind Rocket launch: Long March 8A | SatNet LEO Group TBD?"
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    }
-   },
-   "best_channel": "shrink-down"
-  },
-  {
-   "name": "Rocket launch: Falcon 9 Block 5 | NROL-136",
-   "date": "2026-11-21",
-   "category": "launch",
-   "source_url": "https://ll.thespacedevs.com/2.2.0/launch/951a341f-236b-42fe-a667-4ab2fcf36eac/",
-   "verified": true,
-   "verify_note": "The Space Devs Launch Library, status Go, NET 2026-11-21T12:30:00Z",
-   "tags": [
-    "rocket",
-    "launch",
-    "space",
-    "spacex"
-   ],
-   "origin": "spacedevs",
-   "days_until": 3,
-   "likely_heat": 20.0,
-   "channel_fit": {
-    "plan-not-panic": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "shrink-down": {
-     "score": 100,
-     "matched": [
-      "space",
-      "rocket",
-      "launch",
-      "spacex"
-     ],
-     "angle_hint": "How Rocket launch: Falcon 9 Block 5 | NROL-136 actually works: the physics of getting it off the ground, in 60 seconds"
-    },
-    "silver-paradox": {
-     "score": 20,
-     "matched": [
-      "space"
-     ],
-     "angle_hint": "Long-form doc angle: the bigger story behind Rocket launch: Falcon 9 Block 5 | NROL-136"
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    }
-   },
-   "best_channel": "shrink-down"
-  },
-  {
-   "name": "Rocket launch: Ariane 64 Block 2 | Amazon Leo (LE-04)",
-   "date": "2026-11-23",
-   "category": "launch",
-   "source_url": "https://ll.thespacedevs.com/2.2.0/launch/7bdc412b-c965-4517-a131-f57a01189803/",
-   "verified": true,
-   "verify_note": "The Space Devs Launch Library, status Go, NET 2026-11-23T11:09:00Z",
-   "tags": [
-    "rocket",
-    "launch",
-    "space",
-    "space"
-   ],
-   "origin": "spacedevs",
-   "days_until": 5,
-   "likely_heat": 20.0,
-   "channel_fit": {
-    "plan-not-panic": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "shrink-down": {
-     "score": 90,
-     "matched": [
-      "space",
-      "rocket",
-      "launch"
-     ],
-     "angle_hint": "How Rocket launch: Ariane 64 Block 2 | Amazon Leo (LE-04) actually works: the physics of getting it off the ground, in 60 seconds"
-    },
-    "silver-paradox": {
-     "score": 20,
-     "matched": [
-      "space"
-     ],
-     "angle_hint": "Long-form doc angle: the bigger story behind Rocket launch: Ariane 64 Block 2 | Amazon Leo (LE-04)"
-    },
-    "intern-broke-it": {
-     "score": 20,
-     "matched": [
-      "amazon"
-     ],
-     "angle_hint": "Comedic tech-fail take on Rocket launch: Ariane 64 Block 2 | Amazon Leo (LE-04)"
-    }
-   },
-   "best_channel": "shrink-down"
-  },
-  {
-   "name": "Rocket launch: Falcon 9 Block 5 | USSF-266",
-   "date": "2026-11-23",
-   "category": "launch",
-   "source_url": "https://ll.thespacedevs.com/2.2.0/launch/460d9db7-eaf6-4cd9-b095-cff433534c09/",
-   "verified": true,
-   "verify_note": "The Space Devs Launch Library, status Go, NET 2026-11-23T16:04:00Z",
-   "tags": [
-    "rocket",
-    "launch",
-    "space",
-    "spacex"
-   ],
-   "origin": "spacedevs",
-   "days_until": 5,
-   "likely_heat": 20.0,
-   "channel_fit": {
-    "plan-not-panic": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "shrink-down": {
-     "score": 100,
-     "matched": [
-      "space",
-      "rocket",
-      "launch",
-      "spacex"
-     ],
-     "angle_hint": "How Rocket launch: Falcon 9 Block 5 | USSF-266 actually works: the physics of getting it off the ground, in 60 seconds"
-    },
-    "silver-paradox": {
-     "score": 20,
-     "matched": [
-      "space"
-     ],
-     "angle_hint": "Long-form doc angle: the bigger story behind Rocket launch: Falcon 9 Block 5 | USSF-266"
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    }
-   },
-   "best_channel": "shrink-down"
-  },
-  {
-   "name": "Film release: Focker-in-Law",
-   "date": "2026-11-25",
-   "category": "film",
-   "source_url": "https://en.wikipedia.org/wiki/List_of_American_films_of_2026",
-   "verified": true,
-   "verify_note": "listed in Wikipedia List of American films of 2026 release table",
-   "tags": [
-    "movie",
-    "film",
-    "box office"
-   ],
-   "origin": "wikipedia-films",
-   "days_until": 7,
-   "likely_heat": 20.0,
-   "channel_fit": {
-    "plan-not-panic": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "shrink-down": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    }
-   },
-   "best_channel": null
-  },
-  {
-   "name": "Film release: Hexed",
-   "date": "2026-11-25",
-   "category": "film",
-   "source_url": "https://en.wikipedia.org/wiki/List_of_American_films_of_2026",
-   "verified": true,
-   "verify_note": "listed in Wikipedia List of American films of 2026 release table",
-   "tags": [
-    "movie",
-    "film",
-    "box office"
-   ],
-   "origin": "wikipedia-films",
-   "days_until": 7,
-   "likely_heat": 20.0,
-   "channel_fit": {
-    "plan-not-panic": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "shrink-down": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    }
-   },
-   "best_channel": null
-  },
-  {
-   "name": "Film release: Elsinore",
-   "date": "2026-11-20",
-   "category": "film",
-   "source_url": "https://en.wikipedia.org/wiki/List_of_American_films_of_2026",
-   "verified": true,
-   "verify_note": "listed in Wikipedia List of American films of 2026 release table",
-   "tags": [
-    "movie",
-    "film",
-    "box office"
-   ],
-   "origin": "wikipedia-films",
-   "days_until": 2,
-   "likely_heat": 20.0,
-   "channel_fit": {
-    "plan-not-panic": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "shrink-down": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    }
-   },
-   "best_channel": null
+   "best_channel": "silver-paradox"
   },
   {
    "name": "50th anniversary: Jacques Mayol became the first person to freedive to a depth of 100 metres (330 ft).",
@@ -5078,8 +5786,15 @@
     "history"
    ],
    "origin": "wikipedia-onthisday",
+   "hype_now": {
+    "article": "Jacques_Mayol",
+    "avg_daily_views_7d": 73,
+    "avg_daily_views_prior_28d": 78,
+    "trend_ratio": 0.93,
+    "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Jacques_Mayol&range=latest-60"
+   },
    "days_until": 5,
-   "likely_heat": 20.0,
+   "likely_heat": 40.4,
    "channel_fit": {
     "plan-not-panic": {
      "score": 0,
@@ -5106,432 +5821,6 @@
     }
    },
    "best_channel": "silver-paradox"
-  },
-  {
-   "name": "50th anniversary: A magnitude-7.3 earthquake struck eastern Turkey, destroying most of buildings in the area and causing at least 4,000 casualties.",
-   "date": "2026-11-24",
-   "category": "anniversary",
-   "source_url": "https://en.wikipedia.org/wiki/1976_%C3%87ald%C4%B1ran%E2%80%93Muradiye_earthquake",
-   "verified": true,
-   "verify_note": "Wikipedia On This Day (1976)",
-   "tags": [
-    "anniversary",
-    "history"
-   ],
-   "origin": "wikipedia-onthisday",
-   "days_until": 6,
-   "likely_heat": 20.0,
-   "channel_fit": {
-    "plan-not-panic": {
-     "score": 30,
-     "matched": [
-      "earthquake"
-     ],
-     "angle_hint": "Practical prep angle on 50th anniversary: A magnitude-7.3 earthquake struck eastern Turkey, destroying most of buildings in the area and causing at least 4,000 casualties.: what normal households should actually do"
-    },
-    "shrink-down": {
-     "score": 20,
-     "matched": [
-      "earthquake"
-     ],
-     "angle_hint": "The 'how does that even work?' explainer behind 50th anniversary: A magnitude-7.3 earthquake struck eastern Turkey, destroying most of buildings in the area and causing at least 4,000 casualties."
-    },
-    "silver-paradox": {
-     "score": 80,
-     "matched": [
-      "history",
-      "anniversary",
-      "earthquake"
-     ],
-     "angle_hint": "Documentary retrospective: 50th anniversary: A magnitude-7.3 earthquake struck eastern Turkey, destroying most of buildings in the area and causing at least 4,000 casualties., what really happened and why it still matters"
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    }
-   },
-   "best_channel": "silver-paradox"
-  },
-  {
-   "name": "75th anniversary: The left-wing Japanese novelist Wataru Kaji disappeared, leading to a government inquiry in which CIA involvement was investigated.",
-   "date": "2026-11-25",
-   "category": "anniversary",
-   "source_url": "https://en.wikipedia.org/wiki/Wataru_Kaji",
-   "verified": true,
-   "verify_note": "Wikipedia On This Day (1951)",
-   "tags": [
-    "anniversary",
-    "history"
-   ],
-   "origin": "wikipedia-onthisday",
-   "days_until": 7,
-   "likely_heat": 20.0,
-   "channel_fit": {
-    "plan-not-panic": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "shrink-down": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
-     "score": 60,
-     "matched": [
-      "history",
-      "anniversary"
-     ],
-     "angle_hint": "Documentary retrospective: 75th anniversary: The left-wing Japanese novelist Wataru Kaji disappeared, leading to a government inquiry in which CIA involvement was investigated., what really happened and why it still matters"
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    }
-   },
-   "best_channel": "silver-paradox"
-  },
-  {
-   "name": "25th anniversary: Astronomers announced the detection of sodium in the atmosphere of the extrasolar planet HD 209458 b, the first exoplanet atmosphere to be measured.",
-   "date": "2026-11-27",
-   "category": "anniversary",
-   "source_url": "https://en.wikipedia.org/wiki/Sodium",
-   "verified": true,
-   "verify_note": "Wikipedia On This Day (2001)",
-   "tags": [
-    "anniversary",
-    "history"
-   ],
-   "origin": "wikipedia-onthisday",
-   "days_until": 9,
-   "likely_heat": 20.0,
-   "channel_fit": {
-    "plan-not-panic": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "shrink-down": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
-     "score": 60,
-     "matched": [
-      "history",
-      "anniversary"
-     ],
-     "angle_hint": "Documentary retrospective: 25th anniversary: Astronomers announced the detection of sodium in the atmosphere of the extrasolar planet HD 209458 b, the first exoplanet atmosphere to be measured., what really happened and why it still matters"
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    }
-   },
-   "best_channel": "silver-paradox"
-  },
-  {
-   "name": "Chanukah begins",
-   "date": "2026-12-04",
-   "category": "holiday",
-   "source_url": "https://www.hebcal.com/hebcal?v=1&cfg=json&maj=on&min=off&mod=off&nx=off&year=2026&month=x&ss=off&mf=off&c=off&geo=none&s=off",
-   "verified": true,
-   "verify_note": "from Hebcal API",
-   "tags": [
-    "holiday",
-    "chanukah",
-    "hanukkah"
-   ],
-   "origin": "hebcal",
-   "days_until": 16,
-   "likely_heat": 19.5,
-   "channel_fit": {
-    "plan-not-panic": {
-     "score": 10,
-     "matched": [
-      "holiday"
-     ],
-     "angle_hint": "Practical prep angle on Chanukah begins: what normal households should actually do"
-    },
-    "shrink-down": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    }
-   },
-   "best_channel": "plan-not-panic"
-  },
-  {
-   "name": "Film release: Ray Gunn",
-   "date": "2026-12-04",
-   "category": "film",
-   "source_url": "https://en.wikipedia.org/wiki/List_of_American_films_of_2026",
-   "verified": true,
-   "verify_note": "listed in Wikipedia List of American films of 2026 release table",
-   "tags": [
-    "movie",
-    "film",
-    "box office"
-   ],
-   "origin": "wikipedia-films",
-   "days_until": 16,
-   "likely_heat": 19.5,
-   "channel_fit": {
-    "plan-not-panic": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "shrink-down": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    }
-   },
-   "best_channel": null
-  },
-  {
-   "name": "Nobel Prize award ceremonies (Stockholm & Oslo)",
-   "date": "2026-12-10",
-   "category": "awards",
-   "source_url": "https://en.wikipedia.org/wiki/Nobel_Prize",
-   "verified": true,
-   "verify_note": "date text found on source",
-   "rule": "Held annually on 10 December, the anniversary of Alfred Nobel's death",
-   "tags": [
-    "science",
-    "physics",
-    "history",
-    "discovery"
-   ],
-   "origin": "curated",
-   "days_until": 22,
-   "likely_heat": 18.1,
-   "channel_fit": {
-    "plan-not-panic": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "shrink-down": {
-     "score": 90,
-     "matched": [
-      "physics",
-      "science",
-      "discovery"
-     ],
-     "angle_hint": "The 'how does that even work?' explainer behind Nobel Prize award ceremonies (Stockholm & Oslo)"
-    },
-    "silver-paradox": {
-     "score": 80,
-     "matched": [
-      "discovery",
-      "history",
-      "physics"
-     ],
-     "angle_hint": "Documentary retrospective: Nobel Prize award ceremonies (Stockholm & Oslo), what really happened and why it still matters"
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    }
-   },
-   "best_channel": "shrink-down"
-  },
-  {
-   "name": "Geminid meteor shower peak",
-   "date": "2026-12-14",
-   "category": "astronomy",
-   "source_url": "https://en.wikipedia.org/wiki/Geminids",
-   "verified": true,
-   "verify_note": "date text found on source",
-   "rule": "Annual peak; highest intensity usually the morning of Dec 14",
-   "tags": [
-    "meteor",
-    "space",
-    "astronomy",
-    "sky"
-   ],
-   "origin": "curated",
-   "days_until": 26,
-   "likely_heat": 17.1,
-   "channel_fit": {
-    "plan-not-panic": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "shrink-down": {
-     "score": 60,
-     "matched": [
-      "space",
-      "meteor"
-     ],
-     "angle_hint": "What's really happening during Geminid meteor shower peak (and why it looks the way it does)"
-    },
-    "silver-paradox": {
-     "score": 20,
-     "matched": [
-      "space"
-     ],
-     "angle_hint": "Long-form doc angle: the bigger story behind Geminid meteor shower peak"
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    }
-   },
-   "best_channel": "shrink-down"
-  },
-  {
-   "name": "75th anniversary: The Civil Rights Congress presented a document to the United Nations Genocide Convention charging the United States government with genocide against African Ame",
-   "date": "2026-12-17",
-   "category": "anniversary",
-   "source_url": "https://en.wikipedia.org/wiki/Civil_Rights_Congress",
-   "verified": true,
-   "verify_note": "Wikipedia On This Day (1951)",
-   "tags": [
-    "anniversary",
-    "history"
-   ],
-   "origin": "wikipedia-onthisday",
-   "days_until": 29,
-   "likely_heat": 16.4,
-   "channel_fit": {
-    "plan-not-panic": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "shrink-down": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
-     "score": 60,
-     "matched": [
-      "history",
-      "anniversary"
-     ],
-     "angle_hint": "Documentary retrospective: 75th anniversary: The Civil Rights Congress presented a document to the United Nations Genocide Convention charging the United States government with genocide against African Ame, what really happened and why it still matters"
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    }
-   },
-   "best_channel": "silver-paradox"
-  },
-  {
-   "name": "100th anniversary: A coup d'état by the Lithuanian military replaced the democratically elected President Kazys Grinius with Antanas Smetona.",
-   "date": "2026-12-17",
-   "category": "anniversary",
-   "source_url": "https://en.wikipedia.org/wiki/1926_Lithuanian_coup_d'%C3%A9tat",
-   "verified": true,
-   "verify_note": "Wikipedia On This Day (1926)",
-   "tags": [
-    "anniversary",
-    "history"
-   ],
-   "origin": "wikipedia-onthisday",
-   "days_until": 29,
-   "likely_heat": 16.4,
-   "channel_fit": {
-    "plan-not-panic": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "shrink-down": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
-     "score": 60,
-     "matched": [
-      "history",
-      "anniversary"
-     ],
-     "angle_hint": "Documentary retrospective: 100th anniversary: A coup d'état by the Lithuanian military replaced the democratically elected President Kazys Grinius with Antanas Smetona., what really happened and why it still matters"
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    }
-   },
-   "best_channel": "silver-paradox"
-  },
-  {
-   "name": "Dune: Part Three (US release)",
-   "date": "2026-12-18",
-   "category": "film",
-   "source_url": "https://en.wikipedia.org/wiki/Dune:_Part_Three",
-   "verified": true,
-   "verify_note": "date text found on source",
-   "rule": null,
-   "tags": [
-    "movie",
-    "film",
-    "sci-fi",
-    "desert"
-   ],
-   "origin": "curated",
-   "days_until": 30,
-   "likely_heat": 16.2,
-   "channel_fit": {
-    "plan-not-panic": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "shrink-down": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    }
-   },
-   "best_channel": null
   }
  ]
 }
