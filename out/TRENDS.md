@@ -1,4 +1,4 @@
-# Trends Radar: 2026-11-18 02:21 AM ET
+# Trends Radar: 2026-11-18 02:28 AM ET
 
 Machine-readable: https://trends-radar.pascalicchio.workers.dev/trends.json · Dashboard: https://trends-radar.pascalicchio.workers.dev/
 
@@ -8,11 +8,11 @@ Machine-readable: https://trends-radar.pascalicchio.workers.dev/trends.json · D
 
 - **hackernews**: ok (60 items)
 - **wikipedia**: ok (44 items) - most-read for 2026-11-17Z
-- **googlenews**: ok (246 items)
+- **googlenews**: ok (249 items)
 - **googletrends**: ok (30 items)
-- **reddit**: blocked (0 items) - r/popular/hot: HTTP 403; r/all/rising: HTTP 403; r/UFOs/hot: HTTP 403; r/space/hot: HTTP 403 ... Reddit blocks anonymous requests from this network; needs a free Reddit API (script) app + OAuth credentials.
+- **reddit**: blocked (0 items) - Waiting for REDDIT_CLIENT_ID + REDDIT_CLIENT_SECRET (Reddit API access needs approval under the Responsible Builder Policy). Anonymous JSON/RSS returns 403 from the box, Cloudflare and GitHub Actions.
 - **x**: ok (268 items) - snapshot captured 2026-11-18T07:16:35+00:00 (0h ago)
-- **youtube**: disabled (0 items) - TubeAlfred trending returned search-like 'how to go viral' results, not YouTube's trending chart; disabled (no free official trending feed without a YouTube Data API key)
+- **youtube**: disabled (0 items) - Waiting for YOUTUBE_API_KEY (YouTube Data API v3 videos.list chart=mostPopular). TubeAlfred 'trending' returned 'how to go viral' search results, not the real chart.
 - **curated**: ok (10 items)
 - **nager_holidays**: ok (3 items)
 - **hebcal**: ok (1 items)
@@ -25,85 +25,87 @@ Machine-readable: https://trends-radar.pascalicchio.workers.dev/trends.json · D
 
 1. **Grand Theft Auto VI** (heat 94.0) - best fit: shrink-down; footage: medium
    - angle hint: How Grand Theft Auto VI is actually built: the tech behind the game/film everyone is talking about
-2. **James Bond** (heat 79.9) - best fit: shrink-down; footage: high
+2. **James Bond** (heat 80.4) - best fit: shrink-down; footage: high
    - angle hint: The 'how does that even work?' explainer behind James Bond
 3. **Robert Pattinson** (heat 77.2) - best fit: none; footage: medium
-4. **Brice Sensabaugh** (heat 60.1) - best fit: none; footage: none-found
-5. **Nvidia** (heat 59.5) - best fit: shrink-down; footage: high
+4. **Nvidia** (heat 59.9) - best fit: shrink-down; footage: high
    - angle hint: Under the hood: how Nvidia works, explained with one simple model
+5. **Ray Tintori** (heat 58.1) - best fit: silver-paradox; footage: low
+   - angle hint: Long-form doc angle: the bigger story behind Ray Tintori
 
 ## Hot now
 
 ### 1. Grand Theft Auto VI  (heat 94.0, steady)
-- Why: 4 source(s): googlenews, googletrends, wikipedia, x; Wikipedia views 1.8x vs prior 4-day avg; trending in 2 regions (GB, MX); 153,037 views, 1.8x vs prior 4-day avg; GB: 2000+ searches; X trend GB #3
-- Fit: SD 100, TIBI 20, SP 10
+- Why: 4 source(s): googlenews, googletrends, wikipedia, x; Wikipedia views 1.8x vs prior 4-day avg; trending in 3 regions (GB, MX, US); 153,037 views, 1.8x vs prior 4-day avg; GB: 2000+ searches; X trend GB #3
+- Fit: SD 100, SP 40, TIBI 20
 - Angle hint (shrink-down): How Grand Theft Auto VI is actually built: the tech behind the game/film everyone is talking about
 - Footage (info only): medium - Wikimedia Commons (video): 0; Internet Archive (movies): 91; NASA Image & Video Library (video): 0
 - Links: [x](https://x.com/search?q=GTA%206) · [googletrends](https://trends.google.com/trends/explore?geo=GB&q=rockstar%20gta%206%20version%201.002.001) · [wikipedia](https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI) · [googlenews](https://news.google.com/rss/articles/CBMiigFBVV95cUxNT0JTUFlEMy1QZ3FfekNuQWFlTW5Uc2lLMXVYOWU2dnVtTTlvX2dsZnlVZl9sQ3pCelhZcUkyYmhIUnIwVmNVTVF2MEhmbERJSGVDRzFXSUZ6YWlPczRNLU91cW9YVG1xZjZCTHN5WFE4RGxveThFY2E1cXRFU1BSMnNBQ2VzX0JWRHc?oc=5) · [x](https://x.com/search?q=GTA%20VI)
 
-### 2. James Bond  (heat 79.9, steady)
-- Why: 3 source(s): googlenews, wikipedia, x; Wikipedia views 3.2x vs prior 4-day avg; Wikipedia views 3.4x vs prior 4-day avg; 120,511 views, 3.2x vs prior 4-day avg; X trend GB #1; Top #26, 5 outlets in cluster
+### 2. James Bond  (heat 80.4, steady)
+- Why: 3 source(s): googlenews, wikipedia, x; Wikipedia views 3.2x vs prior 4-day avg; Wikipedia views 3.4x vs prior 4-day avg; 120,511 views, 3.2x vs prior 4-day avg; X trend GB #1; Top #25, 5 outlets in cluster
 - Fit: SD 15
 - Angle hint (shrink-down): The 'how does that even work?' explainer behind James Bond
 - Footage (info only): high - Wikimedia Commons (video): 183; Internet Archive (movies): 553; NASA Image & Video Library (video): 1
 - Links: [x](https://x.com/search?q=Bond) · [wikipedia](https://en.wikipedia.org/wiki/List_of_James_Bond_films) · [wikipedia](https://en.wikipedia.org/wiki/James_Bond) · [googlenews](https://news.google.com/rss/articles/CBMikgFBVV95cUxQemhQejJUdmR0c0daNndYVWJKQ09COVVPaC1ERW9TeFlXUHhOa3hQbDVnMkdSei02NEI1TW9Dc0JuN0hLbUVRTnlpY0tSWmRxSENDVUVyQjZrMU4wMk54YWpPSEI4T2lpU3ZHZUw1akNRczFUREVpUUtKX2pfa2dwdy0tSWpNUUpCYUhTWmUtalZ4QQ?oc=5) · [wikipedia](https://en.wikipedia.org/wiki/Portrayal_of_James_Bond_in_film)
 
 ### 3. Robert Pattinson  (heat 77.2, steady)
-- Why: 3 source(s): googlenews, wikipedia, x; Wikipedia views 2.3x vs prior 4-day avg; Wikipedia views 2.5x vs prior 4-day avg; 840,972 views, 2.3x vs prior 4-day avg; X trend GB #4; Entertainment #7, 5 outlets in cluster
+- Why: 3 source(s): googlenews, wikipedia, x; Wikipedia views 2.3x vs prior 4-day avg; Wikipedia views 2.5x vs prior 4-day avg; 840,972 views, 2.3x vs prior 4-day avg; X trend GB #4; Entertainment #6, 5 outlets in cluster
 - Fit: no channel fit
 - Footage (info only): medium - Wikimedia Commons (video): 0; Internet Archive (movies): 56; NASA Image & Video Library (video): 0
 - Links: [wikipedia](https://en.wikipedia.org/wiki/Robert_Pattinson) · [x](https://x.com/search?q=Robert%20Pattinson) · [googlenews](https://news.google.com/rss/articles/CBMiggFBVV95cUxPbTNOUnZCQmxDSUdveXlwX1VKM0h2TEt6M2dfUVdnaTYwdkJCWklHTlkxOUltc21xcl9sTmJwaVFybmJBYWhnbXZpV04yX3EzNFVvNTVNQ0dJVDVNSHdvUnpuaURUSmYzLTViUjdHWnZkQ1kwYU1ibC1EV0NDOWhQeWt3?oc=5) · [wikipedia](https://en.wikipedia.org/wiki/Robert_Pattinson_filmography)
 
-### 4. Brice Sensabaugh  (heat 60.1, steady)
-- Why: 2 source(s): googletrends, x; trending in 2 regions (MX, US); MX: 2000+ searches; X trend US #14
-- Fit: no channel fit
-- Footage (info only): none-found - Wikimedia Commons (video): 0; Internet Archive (movies): 0; NASA Image & Video Library (video): 0
-- Links: [googletrends](https://trends.google.com/trends/explore?geo=MX&q=brice%20sensabaugh) · [x](https://x.com/search?q=Brice%20Sensabaugh)
-
-### 5. Nvidia  (heat 59.5, steady)
-- Why: 3 source(s): googlenews, hackernews, wikipedia; Wikipedia views 0.4x vs prior 4-day avg; 52,812 views, 0.4x vs prior 4-day avg; Business #3, 5 outlets in cluster; 499 pts, 224 comments, 14h old
+### 4. Nvidia  (heat 59.9, steady)
+- Why: 3 source(s): googlenews, hackernews, wikipedia; Wikipedia views 0.4x vs prior 4-day avg; 52,812 views, 0.4x vs prior 4-day avg; Business #2, 5 outlets in cluster; 501 pts, 227 comments, 14h old
 - Fit: SD 60, TIBI 30
 - Angle hint (shrink-down): Under the hood: how Nvidia works, explained with one simple model
 - Footage (info only): high - Wikimedia Commons (video): 96; Internet Archive (movies): 1109; NASA Image & Video Library (video): 0
-- Links: [googlenews](https://news.google.com/rss/articles/CBMioAFBVV95cUxPbFA2UGFkWVYwZ0lxQkFybS1NX0hlM29jZXIyTjRFOG9NWGFnelJndkJ0XzhQMF9xaDFvUjVBZXNRTWJVamZCOEJSbjl4ZTBXSU9yejFCUkxWckpZbmU0X19nVl9vODh2U0JsOTZuT2taTHl5LV84cnNrWTdVd3hzbi1INFVUS3VsYVhwY0hKTDNod1lQbDZIanU0UGRFNmMw?oc=5) · [googlenews](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOc09iSnppSk1kS3NpYTNYSG9rSGQyS2pfRGlYTlFBLXo4NTctbjFsTTFTQWVYd3N0VUs3T0FhdzlNQXpITmI4VFZWMXI1RVlUUWxIb2NuaHhlWGhkVWNWcXU4dno2dmk4cG9oekJhSUZZRFhrRE1PSlhPQ2Y0Sk5HTW9neUFaejNfbnJFblljUmNwQ3pHRmdzUUd6d2JOV2FreWZ0VWNUSTZKZ3FXN0dwWTV6cDVtS3ZhU2dQZXBjMzRMRjVUbXloQlZRSVdxTld1cV92dEd0Q0lvbnJFcnB4VW5pejFad3NMdTdR?oc=5) · [hackernews](https://news.ycombinator.com/item?id=50534631) · [googlenews](https://news.google.com/rss/articles/CBMid0FVX3lxTFAwTDVScDA1ZzNHQi1GT1RaRFVzYTJPa2lHVVJyVzR6RlhfaGZNbG5Va1BFblNtYm54eG82YWl4dlA3SkltcC1WSmdCVEUtMlVKNXlCVDNVcG8wRnBaNkc0UVctakctUDdZUDJsNEp4dWN0Z0Vsczlv0gF8QVVfeXFMT014TXpKZ2hKbVhJT0dVekl1Z2tCbjE3MnMtLWhMUG1DaUc3UUd0emE1R2xPd2pDZXMzVXhGbHFVRmdWRm1iRWJnejN6YjJJYlpDWkxJOVhDS3RuRGUyQkhHZ2wzSzJJdnVrNDVqcHQxb2ZXVkUwSVRJcjE4RA?oc=5) · [googlenews](https://news.google.com/rss/articles/CBMitgFBVV95cUxQVk5ZV2dpR3EyVEtJcVdSZTBCVGl6UE1qZ1gzNWdiaHJ3WGR1S3NUd2VRcWVzUWhjanFicXVzNi1zRWZNel9EdlVOaC1uMUFCckRXMkRGWkRZeHdZUnE4VTdtUkZ2N0dITkRYa040X29HanoxODdGVXV3NzEyOGhnR1VOb2VwcFNIcHFJQlFrNXM3T1hqQlN5WnB0MHJTU0R2cTZOUnBNbV9Ubm81clFKM0x5cHRxdw?oc=5)
+- Links: [googlenews](https://news.google.com/rss/articles/CBMitgFBVV95cUxQVk5ZV2dpR3EyVEtJcVdSZTBCVGl6UE1qZ1gzNWdiaHJ3WGR1S3NUd2VRcWVzUWhjanFicXVzNi1zRWZNel9EdlVOaC1uMUFCckRXMkRGWkRZeHdZUnE4VTdtUkZ2N0dITkRYa040X29HanoxODdGVXV3NzEyOGhnR1VOb2VwcFNIcHFJQlFrNXM3T1hqQlN5WnB0MHJTU0R2cTZOUnBNbV9Ubm81clFKM0x5cHRxdw?oc=5) · [googlenews](https://news.google.com/rss/articles/CBMiowFBVV95cUxNVWpQbmxfYlhSc29DcWQwSUlPQUh6YjczMjdLZEd2R1lpMDUta3IwNTZYdjhNVFZYWkdwNG10WTZBOVgzbVZ1Zkg2LVY1TWJ6Nm1qREtFTDBGYjdaRW5XNjBMcE1XS1h4bzBMV1p1RXlIRXRyRVRXb1BGSVFpWFZVRlFpcUhFYWd2T1YzNGk5Mm1jRmYyNjh1czRCQVFWUndtVDJJ?oc=5) · [googlenews](https://news.google.com/rss/articles/CBMirgFBVV95cUxObnhLd21OYlROQnV3Z2ZRc29BZlRubWM4T2tVN3d3ektLVUdiMXNSS1dhclFQNVZrUEVrdG5rUHFUY0ozQWJJRjFFVlFvVjJ0SC15eEdoUm1JUEdwY2FZdTgyNmNDQnozOWRXSGJBRlVHaC13M09mZ0U3em9hYkp2V1BFWHJvR2ViRFZGcEk5RE8yTWNwUmM5dlhBMC1oMGYzYzE3TXl5akNYTGlOb2c?oc=5) · [hackernews](https://news.ycombinator.com/item?id=50534631) · [googlenews](https://news.google.com/rss/articles/CBMitAFBVV95cUxOcDRWN3ZsWTVWNkNia01rdTdxR0c4bnVsTS0xUFBWbG9EUWZCWnFKQVhWV0dXVUdVNmJhM3VpTFM4UWJDOGYxUVl2LTd5ZUlWWGVFX0RubWFRYThfV2lVU0tpWDJJM0V2cHljbUVqR3dBRE5yb2hscXBmU0I2NzRhRjBDS3dONmNCYnZrelRDWFRoNTFNS0t3cXRvVXRIcVBEa25YVjAxWHJ6ek56cERNbEFGY2I?oc=5)
 
-### 6. Ray Tintori  (heat 56.9, steady)
-- Why: 2 source(s): googlenews, wikipedia; Wikipedia views 626.4x vs prior 4-day avg; 98,033 views, 626.4x vs prior 4-day avg; Entertainment #14, 5 outlets in cluster
+### 5. Ray Tintori  (heat 58.1, steady)
+- Why: 2 source(s): googlenews, wikipedia; Wikipedia views 626.4x vs prior 4-day avg; 98,033 views, 626.4x vs prior 4-day avg; Entertainment #12, 5 outlets in cluster
 - Fit: SP 10
 - Angle hint (silver-paradox): Long-form doc angle: the bigger story behind Ray Tintori
 - Footage (info only): low - Wikimedia Commons (video): 0; Internet Archive (movies): 1; NASA Image & Video Library (video): 0
 - Links: [wikipedia](https://en.wikipedia.org/wiki/Ray_Tintori) · [googlenews](https://news.google.com/rss/articles/CBMixAFBVV95cUxOeUVSb1h1d2ljcWF4Z0hHcXhvNHRfbkxYd2hBSk11Q2pyZmQwdWtjeG5ySktXYlAyZ0pkQm00NXo0SWNNWlh4MFowTHg1cDRoRVVwdjRLOWYwa0ZFN0Q0NlpweE5xVnJYX0FnTFZsd2RERlhONEhhd2hwWVczLURqQmdEaFZFNGROaXRadE15UWF3YjY3ZFVSSkgtakVFVmd2THl5bnFlNUlydjFsOXkwaW9UUG9FRjZlVnhhUnFKWXdydVk5?oc=5)
 
-### 7. Daniel Craig  (heat 56.2, steady)
+### 6. Daniel Craig  (heat 56.2, steady)
 - Why: 2 source(s): wikipedia, x; Wikipedia views 3.0x vs prior 4-day avg; 101,483 views, 3.0x vs prior 4-day avg; X trend GB #9
 - Fit: no channel fit
 - Footage (info only): high - Wikimedia Commons (video): 22; Internet Archive (movies): 56; NASA Image & Video Library (video): 1
 - Links: [x](https://x.com/search?q=Daniel%20Craig) · [wikipedia](https://en.wikipedia.org/wiki/Daniel_Craig)
 
-### 8. Grimes  (heat 54.3, steady)
-- Why: 2 source(s): googletrends, x; trending in 4 regions (GB, MX, US, Worldwide); US: 200+ searches; X trend US #1
-- Fit: no channel fit
-- Footage (info only): high - Wikimedia Commons (video): 44; Internet Archive (movies): 594; NASA Image & Video Library (video): 0
-- Links: [x](https://x.com/search?q=Grimes) · [x](https://x.com/search?q=Grimes) · [x](https://x.com/search?q=Quentin%20Grimes) · [x](https://x.com/search?q=Grimes) · [googletrends](https://trends.google.com/trends/explore?geo=US&q=grimes%20nba)
-
-### 9. Thybulle  (heat 53.4, steady)
+### 7. Thybulle  (heat 55.7, steady)
 - Why: 2 source(s): googletrends, x; trending in 2 regions (MX, US); US: 1000+ searches; X trend US #21
 - Fit: SP 30, SD 15
 - Angle hint (silver-paradox): Documentary retrospective: Thybulle, what really happened and why it still matters
 - Footage (info only): none-found - Wikimedia Commons (video): 0; Internet Archive (movies): 0; NASA Image & Video Library (video): 0
 - Links: [googletrends](https://trends.google.com/trends/explore?geo=US&q=matisse%20thybulle) · [x](https://x.com/search?q=Thybulle) · [googletrends](https://trends.google.com/trends/explore?geo=MX&q=matisse%20thybulle)
 
-### 10. Jacoby Brissett  (heat 52.5, steady)
+### 8. Grimes  (heat 55.1, steady)
+- Why: 2 source(s): googletrends, x; trending in 4 regions (GB, MX, US, Worldwide); US: 200+ searches; X trend US #1
+- Fit: no channel fit
+- Footage (info only): high - Wikimedia Commons (video): 44; Internet Archive (movies): 594; NASA Image & Video Library (video): 0
+- Links: [x](https://x.com/search?q=Grimes) · [x](https://x.com/search?q=Grimes) · [x](https://x.com/search?q=Quentin%20Grimes) · [x](https://x.com/search?q=Grimes) · [googletrends](https://trends.google.com/trends/explore?geo=US&q=grimes%20nba)
+
+### 9. Jacoby Brissett  (heat 52.4, steady)
 - Why: 2 source(s): googlenews, wikipedia; Wikipedia views 21.4x vs prior 4-day avg; 95,821 views, 21.4x vs prior 4-day avg; Sports #20, 5 outlets in cluster
 - Fit: no channel fit
 - Footage (info only): low - Wikimedia Commons (video): 0; Internet Archive (movies): 1; NASA Image & Video Library (video): 0
 - Links: [wikipedia](https://en.wikipedia.org/wiki/Jacoby_Brissett) · [googlenews](https://news.google.com/rss/articles/CBMilwFBVV95cUxQZC1mcDNkSV9FYkJRQU5jeUk0NzhRbGc4bEdCOEN4aXZCeWtRNW80MmFNaUN6NjFkS2lLUFBjNTNxbkxSZFFKMXdFWldwR1pTLXU1VDVRWFlybjE2c1dodXVuOWtNQjNjRUJQV2lCdXhmYWtMNGdmOHFaTXJDM2hBejdyY0lNTlpXUU80TnNoUkZCQlNJVk9v?oc=5)
 
-### 11. #Dwts  (heat 51.6, new)
-- Why: 2 source(s): googlenews, x; X trend US #7; Entertainment #6, 5 outlets in cluster
+### 10. Lakers  (heat 49.9, steady)
+- Why: 2 source(s): googletrends, x; trending in 4 regions (GB, MX, US, Worldwide); GB: 100+ searches; X trend US #3
 - Fit: no channel fit
-- Footage (info only): high - Wikimedia Commons (video): 24; Internet Archive (movies): 35; NASA Image & Video Library (video): 0
-- Links: [x](https://x.com/search?q=%23dwts) · [googlenews](https://news.google.com/rss/articles/CBMinAFBVV95cUxPbFg2ZmJRMnZaVEpHWkgyckFRYXBtLTNRLUNCVGN3OTdCUzRnaEtzNGhuVVFWY0d6VUpqbjlzdHZObDliSEhSMENwd25CYjNMTzJEc0hrZml5LXFZSEtHTndUdGFjUTdrU0lGSmRTRFlhTlNpYlRFRVh2T0x4ei1QMUwtT3Z0VC04bDY1STlkZ1NGemlJaVYxZ1FVYU8?oc=5)
+- Footage (info only): high - Wikimedia Commons (video): 2590; Internet Archive (movies): 549; NASA Image & Video Library (video): 0
+- Links: [x](https://x.com/search?q=Lakers) · [x](https://x.com/search?q=Lakers) · [x](https://x.com/search?q=Lakers) · [x](https://x.com/search?q=Lakers) · [googletrends](https://trends.google.com/trends/explore?geo=GB&q=lakers%20vs%20charlotte%20hornets%20match%20player%20stats)
+
+### 11. Duke  (heat 49.8, steady)
+- Why: 2 source(s): googlenews, x; X trend US #12; Sports #6, 5 outlets in cluster
+- Fit: SP 30
+- Angle hint (silver-paradox): Documentary retrospective: Duke, what really happened and why it still matters
+- Footage (info only): high - Wikimedia Commons (video): 220; Internet Archive (movies): 3221; NASA Image & Video Library (video): 4
+- Links: [googlenews](https://news.google.com/rss/articles/CBMiowJBVV95cUxNbWhpMHhHVjRFSGhLOGlkWU01cEw4cFRfeXk3OU9FSmRMZGhwZmQ4TkRUSFAxcHhBeFhxRVFiLWY2TndOOWFhZXFCaENBVGVReVlLYXFqdFpLWG1lanhaNnNWa2cxS1kzanB4N2l4N3dnQ2pTSUtrd3h0bUxVTzZVTlNaeVJ5aUdla0hXMVdnN0MxQWxESVFJd0tlc0wzS0dCZFFEa2JaVHF1ZC1qUEZXak9sUzBaTjFGYm15MWFkV0JKVlFwVlpXT3R3MW0zaURneURPaGN1cTI4NUlER09lT1ExcWxseXlPc3BHXzM5QUxhZERORHU2ZXZLTkpmWWJyUW5OTEloUjRsUEtsRTdzZTNLQmZFRFhUN3VMUlV4RTdMczA?oc=5) · [x](https://x.com/search?q=Duke) · [googlenews](https://news.google.com/rss/articles/CBMirAFBVV95cUxQRGNBcHduSGdtMGJhbEdSc1NUWHkyX21TWERGREFzVDZVVEtkUy1mdUp2ODBucWpZd0dqTlBIRXdrbnhLSkJ2SUVuSm1RRzVtbkNlTGZCcWh2ajhZenZ1ak5KUTZEVVZnVTI5Z0Q3UDlLQTdZRUFoRm9UUk1xTXFKNXZ5TkQ4MmdoMnJzdS1jZ2ExT0VpUmQxdmFrR3FocEFLV2pIV3NQTm43LThO?oc=5)
 
 ### 12. U.S. Loses Measles Elimination  (heat 49.4, steady)
 - Why: 2 source(s): googlenews, x; X news story (Health & Fitness); Health #1, 5 outlets in cluster
@@ -112,55 +114,55 @@ Machine-readable: https://trends-radar.pascalicchio.workers.dev/trends.json · D
 - Footage (info only): none-found - Wikimedia Commons (video): 0; Internet Archive (movies): 0; NASA Image & Video Library (video): 0
 - Links: [googlenews](https://news.google.com/rss/articles/CBMiggFBVV95cUxOWE9CWng2cDJoUlFIOEtFSmJnam0wajg2WnRBOHVpbmxqUkpVSlJBQ0tBYmh5dk9VWlZmVGhMTkFzY1Vld0tRVVlYeFB3c3hlQ2tTMUYtQWpQYmpKalNiMjJ0MDk4dHdVNVRvRmgzRThGQ2JaQXlaRm1LRm9qVEZFRTVB?oc=5) · [x](https://x.com/i/trending/2122936609993580770)
 
-### 13. Lakers  (heat 48.4, steady)
-- Why: 2 source(s): googletrends, x; trending in 4 regions (GB, MX, US, Worldwide); GB: 100+ searches; X trend US #3
-- Fit: no channel fit
-- Footage (info only): high - Wikimedia Commons (video): 2590; Internet Archive (movies): 549; NASA Image & Video Library (video): 0
-- Links: [x](https://x.com/search?q=Lakers) · [x](https://x.com/search?q=Lakers) · [x](https://x.com/search?q=Lakers) · [x](https://x.com/search?q=Lakers) · [googletrends](https://trends.google.com/trends/explore?geo=GB&q=lakers%20vs%20charlotte%20hornets%20match%20player%20stats)
-
-### 14. Mary Peltola  (heat 46.3, steady)
+### 13. Mary Peltola  (heat 46.3, steady)
 - Why: 2 source(s): googlenews, x; X trend US #25; Top #1, 5 outlets in cluster
 - Fit: no channel fit
 - Footage (info only): high - Wikimedia Commons (video): 1; Internet Archive (movies): 19; NASA Image & Video Library (video): 0
 - Links: [googlenews](https://news.google.com/rss/articles/CBMiigFBVV95cUxPX2tJbkk5QllIOGRES0QweXlJaXh1ZnJzeFhPdDhSQllILVlIZFd6Ymt6ZEtwOE5TU1pyeElSc2k4THBBbHZNTlZsTEtPbnlkVDRVdUdDOUZCVDI3bWlyMEw0VDFScEljMTVGMENMb3RPZ25TaFlIWmE2Slp1S2ZyaTBwaXA2MEhGcHc?oc=5) · [googlenews](https://news.google.com/rss/articles/CBMihgFBVV95cUxNRnFON3cySVBrTmdNQlVaSjczcExoaEF6UzR2UXNFcGZpb2oyZFU2Y0M1MTIzd01EeXRzTVIwN3FuV24ycWZuQjZPYlMtTmpxZm5Tc1VYa3h6UzJVTk1Qb3ZLT1I4OW9tRVZsZjFDZ3Z0YXhxdFlwczd0RjdDT0E1RkhCeGVIdw?oc=5) · [x](https://x.com/search?q=Mary%20Peltola)
 
-### 15. Coby White  (heat 44.1, steady)
+### 14. Coby White  (heat 44.9, steady)
 - Why: 2 source(s): googletrends, x; trending in 3 regions (MX, US, Worldwide); MX: 100+ searches; X trend US #9
 - Fit: no channel fit
 - Footage (info only): none-found - Wikimedia Commons (video): 0; Internet Archive (movies): 0; NASA Image & Video Library (video): 0
 - Links: [x](https://x.com/search?q=Coby%20White) · [x](https://x.com/search?q=Coby%20White) · [googletrends](https://trends.google.com/trends/explore?geo=MX&q=coby%20white)
 
-### 16. Grant Williams  (heat 42.0, steady)
+### 15. Grant Williams  (heat 43.5, steady)
 - Why: 2 source(s): googletrends, x; trending in 2 regions (MX, US); MX: 100+ searches; X trend US #16
 - Fit: no channel fit
+- Footage (info only): high - Wikimedia Commons (video): 36; Internet Archive (movies): 9; NASA Image & Video Library (video): 0
 - Links: [x](https://x.com/search?q=Grant%20Williams) · [googletrends](https://trends.google.com/trends/explore?geo=MX&q=grant%20williams)
 
-### 17. Carson Cooper  (heat 41.5, steady)
+### 16. Carson Cooper  (heat 41.5, steady)
 - Why: 2 source(s): googletrends, x; trending in 2 regions (MX, US); MX: 100+ searches; X trend US #19
 - Fit: no channel fit
 - Links: [x](https://x.com/search?q=Carson%20Cooper) · [googletrends](https://trends.google.com/trends/explore?geo=MX&q=carson%20cooper)
 
-### 18. Sean Connery  (heat 41.4, steady)
+### 17. Sean Connery  (heat 41.4, steady)
 - Why: 2 source(s): wikipedia, x; Wikipedia views 3.2x vs prior 4-day avg; 59,397 views, 3.2x vs prior 4-day avg; X trend GB #21
 - Fit: no channel fit
 - Links: [x](https://x.com/search?q=Connery) · [wikipedia](https://en.wikipedia.org/wiki/Sean_Connery)
 
-### 19. The Hunger Games: Sunrise on the Reaping  (heat 40.1, steady)
+### 18. Black Friday  (heat 40.3, new)
+- Why: 2 source(s): googlenews, googletrends; MX: 500+ searches; Technology #19, 5 outlets in cluster
+- Fit: SP 30, TIBI 20, SD 15, PNP 10
+- Angle hint (silver-paradox): Documentary retrospective: Black Friday, what really happened and why it still matters
+- Links: [googletrends](https://trends.google.com/trends/explore?geo=MX&q=black%20friday) · [googlenews](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOUhOMExINjRMRmhJbHVFalpBUnNrRWVVcnJwVGhrdHItMnd1MzBOVzQxOEkxVnZzOEt6czBQRlRmZGp1amd3WnRod0xkNFl5RGloYThWMkc0dWdUX2NjbmJNVXVzSXl1aFJQLUg3NTloT1hxdExzUEFBRE5qcmZIbEt0dlgwclZqQUJNV1lYVm9rd2ZsbkVLTFdOcUlRUjRmYzAydGxLVFg2V3FycUxNc1ItbDlTWll3YmtsVmlyejlXRExROGp5b1RDQVZVVGpxc3FId2N3czZpM0E?oc=5) · [googlenews](https://news.google.com/rss/articles/CBMijgFBVV95cUxNRzVoaGNVcVVNLWIyRzAtN1doSGloWFE1cm9TU2VGblRoaW84QW1tUjZ1VFJiZ1F3bDdTcHFrUTVjZzlWSnBQV1FPM0RKMXVIVTRheTVzYmFRdVdIYmZZZ1BQcFJEWEl4UlZ2bUFfaGUtdVNRNXBFQ09hX3VtZUdpODVVNHVBX2ZIbXJGejNB?oc=5)
+
+### 19. Grammy  (heat 40.0, steady)
+- Why: 2 source(s): googlenews, x; X trend GB #26; Entertainment #13, 5 outlets in cluster
+- Fit: no channel fit
+- Links: [googlenews](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMGItY2hHbm9nbTRIbGttX0lrTURkNHllS3k1QlExUklDQVN1clA0YWNWR3VrYnp3czhkeGZkdVc5ZHpEa0xPcmFZNGhscFVjc0RkVjNtdkFGZUUzRWdxdmY4OTJrdVd0Y0wyLU8wNi0xdHgza2g4anVEWlNIYVlzYmVlSjdDNFJ4ZWxWel9saFVPQzk4aFNZUXRDZGJWcG1XTElyRHlja0tPX3BBRlRkcHpNVTBSMWsy?oc=5) · [x](https://x.com/search?q=Grammy)
+
+### 20. The Hunger Games: Sunrise on the Reaping  (heat 40.0, steady)
 - Why: 2 source(s): googlenews, wikipedia; Wikipedia views 2.7x vs prior 4-day avg; 92,631 views, 2.7x vs prior 4-day avg; Top #23, 5 outlets in cluster
 - Fit: SD 15
 - Angle hint (shrink-down): The 'how does that even work?' explainer behind The Hunger Games: Sunrise on the Reaping
 - Links: [wikipedia](https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping) · [googlenews](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZTNsdEU5MDRTRFM1V0M0Vk1VOEJnQ1dvcUMtNlloNVBxLTgxR19wcXVYLTNCM2hLZzFvWllxbzJMVHFOX0dsTjhxSENOV3oxZkVoSXVCbHlsaTNhUVhQNndiNmIyYzNPem84WVlfc2xyYllXRFpTQW5BTWtQem01Qm9hTDJITXAzMHY2dmktVWRlSDJKTk82YWN5bWFZMlc0d2tDNA?oc=5)
 
-### 20. Andrej Stojakovic  (heat 39.5, new)
-- Why: 2 source(s): googlenews, x; X trend US #38; Sports #5, 5 outlets in cluster
-- Fit: SP 30
-- Angle hint (silver-paradox): Documentary retrospective: Andrej Stojakovic, what really happened and why it still matters
-- Links: [googlenews](https://news.google.com/rss/articles/CBMixgFBVV95cUxPcUdTckt1Q3psRU9fWHlzeEZEZ0hIOTVMMXVQRlVmTG9qQmw0QTNOSW4xMzgtMFlKRmwwQk8tLTg0WDFXQlMxbTJsZnFnX19WSklEN3hJQVZ2UG5DeGRWWFFjYlVKaVlrRlFzcTlDWnBCR1pDSzhNZWlBbkN5T1BIcUFJeWFhQ3ZHSzNhTUMtU2xzMzZHU1dUX215R0VZOWRMRVhvTUlBV0lJTXl0V2tTMXIzTFB5aVk3aERkOG1BRmp0SlFMU3c?oc=5) · [x](https://x.com/search?q=Andrej%20Stojakovic)
-
-### 21. Grammy  (heat 38.9, steady)
-- Why: 2 source(s): googlenews, x; X trend GB #26; Entertainment #15, 5 outlets in cluster
+### 21. Tatyana  (heat 39.2, steady)
+- Why: 2 source(s): googlenews, x; X trend US #13; World #22, 5 outlets in cluster
 - Fit: no channel fit
-- Links: [googlenews](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMGItY2hHbm9nbTRIbGttX0lrTURkNHllS3k1QlExUklDQVN1clA0YWNWR3VrYnp3czhkeGZkdVc5ZHpEa0xPcmFZNGhscFVjc0RkVjNtdkFGZUUzRWdxdmY4OTJrdVd0Y0wyLU8wNi0xdHgza2g4anVEWlNIYVlzYmVlSjdDNFJ4ZWxWel9saFVPQzk4aFNZUXRDZGJWcG1XTElyRHlja0tPX3BBRlRkcHpNVTBSMWsy?oc=5) · [x](https://x.com/search?q=Grammy)
+- Links: [x](https://x.com/search?q=Tatyana) · [googlenews](https://news.google.com/rss/articles/CBMimwFBVV95cUxPdzZBcEdvRi1rcGExb0xsLXFROG5GbU5KNk5udUE0ekxFWEpBR0hGbWVaWTk4OW9JcE1CN1FJeGFMZ0FXbWpDZGxPT3Yyb01mMGFGQXZIUGZBdGhUWTYwdzVyWmF4TFowODZDU0JibWNVcDhVS2wtb01NNnZQQXZta21VUDVnVkNYS0RxOUFXR3dTeDlFU2h1OVc5VdIBmwFBVV95cUxOMTRrOGlrSmlITERaV2V0TXVqUmpEMnVxY21rRXZ4U0djSENwejBveEdfbTJtclJxVEdYXzlEYlNYTEVsbDEzWmU5cUt5NV9ua0FFc3JRSnVVSWIzWFRqVkZKZjhMd2FJd0ZZUks4cEdzaHh3WVkyVXFmOC1TTFpETDlRVFVvQ0tSSkYtdWN5VzFkdUwwRG5MNUZNSQ?oc=5)
 
 ### 22. Kerch  (heat 38.9, steady)
 - Why: 2 source(s): googlenews, x; X trend GB #29; Top #12, 5 outlets in cluster
@@ -168,22 +170,22 @@ Machine-readable: https://trends-radar.pascalicchio.workers.dev/trends.json · D
 - Angle hint (shrink-down): The 'how does that even work?' explainer behind Kerch
 - Links: [googlenews](https://news.google.com/rss/articles/CBMixwFBVV95cUxPMUJGYi1BUlk3RkRNekw2VHFXa2JfaTVZV1NsOW5Lc0FFQTh6NnFLYTVvNXUzS0FjajlOT3g2Q1JQVVo0T3R1UDdtVE9kNTdzQ2d2SE8xWjZYUjgtekZyaHNhdEFtajQ5WlNoYVU4RG9FSDhEWmpLa3llQUpWMjRhRWlZSF9Mb2dGeTYzSEt4OUtUSGlGcmo3VzlzU1BMVmgySDViTmZlUDVvV2Z5RFJjQW9GMkZVRnZvTjNnVmdvbjZUdEJBMkhN0gHMAUFVX3lxTE4xSkxST25fc3NYSEltalZFSFRiZTI4MFB1Y0x1cDFBM2N3ZVJoeV9ILTUxRTVtdzR5bGtzTkNWTlJDMjY2SEF3Tm1hUVpJR3RGRGtvRlIzYVhyZVhVU0NJTl8zX18wbEhVLWxlSnFJa3lxcjlxQmZCM0tDV29YeHE2azNOMEFNNjgxMzFmSkFuTkRCUWd3R1RZZDVPMG9PSkpCNzV6TEwyTi1HRTRBQXFuUzNjaE8wRGNQRTRtbXJyc2JKYmxmaUFwREc1MQ?oc=5) · [x](https://x.com/search?q=Kerch)
 
-### 23. Tatyana  (heat 38.6, steady)
-- Why: 2 source(s): googlenews, x; X trend US #13; World #23, 5 outlets in cluster
-- Fit: no channel fit
-- Links: [x](https://x.com/search?q=Tatyana) · [googlenews](https://news.google.com/rss/articles/CBMimwFBVV95cUxPdzZBcEdvRi1rcGExb0xsLXFROG5GbU5KNk5udUE0ekxFWEpBR0hGbWVaWTk4OW9JcE1CN1FJeGFMZ0FXbWpDZGxPT3Yyb01mMGFGQXZIUGZBdGhUWTYwdzVyWmF4TFowODZDU0JibWNVcDhVS2wtb01NNnZQQXZta21VUDVnVkNYS0RxOUFXR3dTeDlFU2h1OVc5VdIBmwFBVV95cUxOMTRrOGlrSmlITERaV2V0TXVqUmpEMnVxY21rRXZ4U0djSENwejBveEdfbTJtclJxVEdYXzlEYlNYTEVsbDEzWmU5cUt5NV9ua0FFc3JRSnVVSWIzWFRqVkZKZjhMd2FJd0ZZUks4cEdzaHh3WVkyVXFmOC1TTFpETDlRVFVvQ0tSSkYtdWN5VzFkdUwwRG5MNUZNSQ?oc=5)
-
-### 24. Weather  (heat 37.1, steady)
+### 23. Weather  (heat 37.1, steady)
 - Why: 2 source(s): googletrends, x; GB: 50000+ searches; X news story (News)
 - Fit: PNP 40, TIBI 30, SD 20
 - Angle hint (plan-not-panic): Calm 60-second checklist: what Weather means for your home and the 3 things to do before it hits
 - Links: [googletrends](https://trends.google.com/trends/explore?geo=GB&q=weather) · [x](https://x.com/i/trending/2122774388684562505)
 
-### 25. Waymo  (heat 35.9, steady)
-- Why: 2 source(s): googlenews, googletrends; GB: 100+ searches; Business #7, 5 outlets in cluster
+### 24. Waymo  (heat 36.2, steady)
+- Why: 2 source(s): googlenews, googletrends; GB: 100+ searches; Business #9, 5 outlets in cluster
 - Fit: TIBI 30
 - Angle hint (intern-broke-it): Comedic tech-fail take on Waymo
-- Links: [googlenews](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWDB2R0RQRGVXUFMtd0M3YUoyRXlSaDZVWVBWRVBKT3gwc3MxQjN3a01fREpMdDFwWXRJaFZuQ0sxTUJzYXkyMGMwOGs5YVUxeUwwd2owRnRuRFl0NWxuT0VHZ2k0eHF1Q0tTc0NoVi1mYTQtM1NrQUUyZ0VzcngzQjZ1M1d6QWRwNzlnQm5qQ0JUVmNXN2NEQ3U5eFpJN3pGSTVUTmRtN1VHc1E?oc=5) · [googletrends](https://trends.google.com/trends/explore?geo=GB&q=waymo)
+- Links: [googlenews](https://news.google.com/rss/articles/CBMiW0FVX3lxTE56cms1aDVBNHRUbmJyMEhQaDgtZWZ2OEVvenVyWHIzN19zWWp5UkR5bEN0YzNjWFBiaHhHclpTUTlSRzl5b3lHT1dPLXZkdHlJMndEY2Nxalk1T0k?oc=5) · [googletrends](https://trends.google.com/trends/explore?geo=GB&q=waymo)
+
+### 25. The Body (TV series)  (heat 35.9, steady)
+- Why: 2 source(s): googlenews, wikipedia; Wikipedia views 1.2x vs prior 4-day avg; 127,281 views, 1.2x vs prior 4-day avg; Entertainment #28, 5 outlets in cluster
+- Fit: no channel fit
+- Links: [wikipedia](https://en.wikipedia.org/wiki/The_Body_(TV_series)) · [googlenews](https://news.google.com/rss/articles/CBMigAFBVV95cUxOaURVMXdfMUVKb2w3ekFQSnQ0d3dZcUkxOEhNM25ORmJWaXQtSkVhdkdMZHdCU3hxOWtjSlMtRFFSTC1zN2tIUmFOWVJneDJGYXFxMlpFQjhRN2hFX2c4RElmU2tlenZnekRLcVU3VXg3OWhsSXlXOFdnbnB5Nmd0aA?oc=5)
 
 ## Coming up (next 8 weeks)
 
