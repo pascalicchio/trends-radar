@@ -24,6 +24,23 @@ INST = {  # P31 instance-of -> type
 }
 CELEB = {"athlete", "actor", "musician", "sports_team", "sports_event", "video_game", "film", "tv_series", "music_work", "chess_player"}
 
+DIAG = {"calls": 0, "failed": 0, "last_error": None}
+
+def wm_json(url, params, timeout=25):
+    """Wikimedia API GET with retry/backoff (CI runners sometimes get 429 / HTML error pages)."""
+    import time
+    for attempt in range(3):
+        DIAG["calls"] += 1
+        try:
+            r = S.get(url, params=params, timeout=timeout)
+            if r.status_code == 200 and r.headers.get("content-type", "").startswith("application/json"): return r.json()
+            DIAG["last_error"] = f"HTTP {r.status_code} {r.headers.get('content-type','')} {r.text[:120]!r}"
+            if r.status_code == 429: time.sleep(float(r.headers.get("retry-after", 3) or 3))
+        except Exception as e: DIAG["last_error"] = str(e)[:160]
+        time.sleep(1.5 * (attempt + 1))
+    DIAG["failed"] += 1
+    return {}
+
 def _type_of(entity):
     claims = entity.get("claims", {})
     ids = lambda p: {c["mainsnak"].get("datavalue", {}).get("value", {}).get("id") for c in claims.get(p, []) if c.get("mainsnak")}
@@ -42,8 +59,8 @@ def type_topics(topics):
     title_q = {}
     for i in range(0, len(titles), 50):
         try:
-            j = S.get("https://en.wikipedia.org/w/api.php", params=dict(action="query", prop="pageprops", ppprop="wikibase_item", redirects=1,
-                      titles="|".join(titles[i:i + 50]), format="json", formatversion=2), timeout=25).json()
+            j = wm_json("https://en.wikipedia.org/w/api.php", dict(action="query", prop="pageprops", ppprop="wikibase_item", redirects=1,
+                      titles="|".join(titles[i:i + 50]), format="json", formatversion=2))
             norm = {n["to"]: n["from"] for n in j["query"].get("normalized", [])}
             red = {r["to"]: r["from"] for r in j["query"].get("redirects", [])}
             for p in j["query"]["pages"]:
@@ -58,18 +75,18 @@ def type_topics(topics):
         lab = t["label"].lstrip("#")
         if len(lab) < 4 or len(lab.split()) > 4: return
         try:
-            j = S.get("https://www.wikidata.org/w/api.php", params=dict(action="wbsearchentities", search=lab, language="en", limit=1, format="json"), timeout=20).json()
+            j = wm_json("https://www.wikidata.org/w/api.php", dict(action="wbsearchentities", search=lab, language="en", limit=1, format="json"))
             hit = (j.get("search") or [None])[0]
             if hit and hit.get("match", {}).get("text", "").lower() == lab.lower():
                 t["_q"] = (hit["id"], f"wikidata search '{lab}' -> {hit.get('label')}")
         except Exception: pass
-    with ThreadPoolExecutor(6) as ex: list(ex.map(search, topics))
+    with ThreadPoolExecutor(3) as ex: list(ex.map(search, topics))
     qs = sorted({t["_q"][0] for t in topics if t.get("_q")})
     ents = {}
     for i in range(0, len(qs), 50):
         try:
-            j = S.get("https://www.wikidata.org/w/api.php", params=dict(action="wbgetentities", ids="|".join(qs[i:i + 50]), props="claims|labels|descriptions",
-                      languages="en", format="json"), timeout=30).json()
+            j = wm_json("https://www.wikidata.org/w/api.php", dict(action="wbgetentities", ids="|".join(qs[i:i + 50]), props="claims|labels|descriptions",
+                      languages="en", format="json"), timeout=30)
             ents.update(j.get("entities", {}))
         except Exception: pass
     for t in topics:

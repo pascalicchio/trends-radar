@@ -107,6 +107,9 @@ def main():
         w = [i for i in t["items"] if i["source"] == "wikipedia" and not i["extra"].get("geo")]
         t["wiki_title"] = max(w, key=lambda i: i["metric"])["title"] if w else None
     EN.type_topics(top)
+    n_typed = sum(1 for t in top if t.get("entity"))
+    status["wikidata_entity_typing"] = {"status": "ok" if n_typed else "error", "items": n_typed,
+        "note": f"{EN.DIAG['calls']} Wikimedia API calls, {EN.DIAG['failed']} failed" + (f"; last error: {EN.DIAG['last_error']}" if EN.DIAG["failed"] else "")}
     hot = []
     for t in top:
         txt = topic_text(t)

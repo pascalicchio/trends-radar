@@ -18,8 +18,9 @@ def check(label):
     q = _q(label); res = {"query": q, "checked": [], "to_verify": []}
     hits = 0; srcs = 0
     try:
-        j = S.get("https://commons.wikimedia.org/w/api.php", params=dict(action="query", list="search", srnamespace=6,
-                  srsearch=f"{q} filetype:video", format="json", srlimit=3), timeout=20).json()
+        from entity import wm_json
+        j = wm_json("https://commons.wikimedia.org/w/api.php", dict(action="query", list="search", srnamespace=6,
+                  srsearch=f"{q} filetype:video", format="json", srlimit=3), timeout=20)
         n = j["query"]["searchinfo"]["totalhits"]; hits += min(n, 20); srcs += n > 0
         res["checked"].append({"source": "Wikimedia Commons (video)", "hits": n,
                                "url": "https://commons.wikimedia.org/w/index.php?search=" + requests.utils.quote(q + " filetype:video") + "&ns6=1",
