@@ -27,14 +27,17 @@ channels:
     format: "explainers for curious people: how things work"
     keywords:
       30: [space, rocket, launch, nasa, spacex, starship, meteor, comet, eclipse, solstice, telescope, physics, chemistry, biology, engineering, invention, technology, ai, chip, quantum, battery, nuclear, reactor, science, scientists, study finds, discovery]
+      15: [video game, game, gta, playstation, ps5, xbox, nintendo, console, graphics, movie, film, cgi, visual effects]
       20: [phone, iphone, android, robot, robotics, car, ev, tesla, airplane, plane, ship, bridge, dam, satellite, internet, cloudflare, aws, outage, virus, vaccine, brain, sleep, weather, volcano, earthquake, dinosaur, fossil, paleontology, ocean, deep sea, animal, species, mars, moon, sun, black hole, galaxy]
       10: [record, "world's largest", first ever, research, explained]
     exclude: []
     angles:
-      - match: [rocket, launch, starship, spacex, nasa, satellite]
+      - match: [rocket, starship, spacex, nasa, satellite]
         angle: "How {topic} actually works: the physics of getting it off the ground, in 60 seconds"
       - match: [meteor, comet, eclipse, solstice, moon, sun, mars, black hole, galaxy, telescope]
         angle: "What's really happening during {topic} (and why it looks the way it does)"
+      - match: [video game, game, gta, playstation, ps5, xbox, nintendo, console, graphics, cgi, visual effects]
+        angle: "How {topic} is actually built: the tech behind the game/film everyone is talking about"
       - match: [ai, chip, quantum, technology, phone, iphone, android, robot, internet, cloudflare, aws, outage]
         angle: "Under the hood: how {topic} works, explained with one simple model"
       - match: []
