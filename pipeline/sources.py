@@ -107,13 +107,28 @@ def google_trends(geos=("US", "MX", "GB")):
     st = _ok(len(out), "; ".join(errs)) if out else _err("; ".join(errs) or "empty")
     return out, st
 
-# ---------------- Reddit public JSON ----------------
+# ---------------- Reddit (OAuth app-only, client_credentials) ----------------
+# Reddit blocks unauthenticated traffic from hosted IPs, and since Nov 2025 new API access needs approval
+# (Responsible Builder Policy). Once Fillipe's app is approved, set GitHub secrets REDDIT_CLIENT_ID and
+# REDDIT_CLIENT_SECRET (+ variable/secret REDDIT_USERNAME for the User-Agent). Free tier: 100 QPM per client id.
 def reddit(subs):
+    cid, sec = os.environ.get("REDDIT_CLIENT_ID", "").strip(), os.environ.get("REDDIT_CLIENT_SECRET", "").strip()
+    user = os.environ.get("REDDIT_USERNAME", "").strip() or "unknown"
+    if not (cid and sec):
+        return [], {"status": "blocked", "items": 0, "note": "Waiting for REDDIT_CLIENT_ID + REDDIT_CLIENT_SECRET (Reddit API access needs approval under the Responsible Builder Policy). Anonymous JSON/RSS returns 403 from the box, Cloudflare and GitHub Actions."}
+    ua = f"python:trends-radar:v1.1 (by /u/{user})"
+    try:
+        tr = requests.post("https://www.reddit.com/api/v1/access_token", auth=(cid, sec),
+                           data={"grant_type": "client_credentials"}, headers={"User-Agent": ua}, timeout=20)
+        tok = tr.json().get("access_token") if tr.status_code == 200 else None
+        if not tok: return [], {"status": "error", "items": 0, "note": f"token request HTTP {tr.status_code}: {tr.text[:200]}"}
+    except Exception as e: return [], _err(e)
+    h = {"Authorization": f"bearer {tok}", "User-Agent": ua}
     out, errs = [], []
     for sub, listing in subs:
-        url = f"https://www.reddit.com/r/{sub}/{listing}.json?limit=25&raw_json=1" + ("&t=day" if listing == "top" else "")
+        url = f"https://oauth.reddit.com/r/{sub}/{listing}?limit=25&raw_json=1" + ("&t=day" if listing == "top" else "")
         try:
-            r = S.get(url, timeout=20)
+            r = requests.get(url, headers=h, timeout=20)
             if r.status_code != 200: errs.append(f"r/{sub}/{listing}: HTTP {r.status_code}"); continue
             for c in r.json()["data"]["children"]:
                 d = c["data"]
@@ -124,9 +139,39 @@ def reddit(subs):
                             "metric_label": f"r/{d['subreddit']} {listing}: {d.get('score',0)} upvotes, {d.get('num_comments',0)} comments, {age_h:.0f}h old",
                             "extra": {"subreddit": d["subreddit"], "listing": listing, "score": d.get("score", 0)}})
         except Exception as e: errs.append(f"r/{sub}: {e}")
-        time.sleep(1.2)
+        time.sleep(0.7)
     if out: return out, _ok(len(out), "; ".join(errs[:5]))
-    return [], {"status": "blocked", "items": 0, "note": ("; ".join(errs[:4]) + " ... Reddit blocks anonymous requests from this network; needs a free Reddit API (script) app + OAuth credentials.")[:400]}
+    return [], {"status": "error", "items": 0, "note": "; ".join(errs[:5]) or "no posts"}
+
+# ---------------- YouTube Data API v3: videos.list chart=mostPopular ----------------
+# Needs GitHub secret YOUTUBE_API_KEY (free; default quota 10,000 units/day; each call costs 1 unit).
+YT_CATS = {"overall": None, "science-tech": "28", "education": "27"}
+def youtube_api(regions=("US",)):
+    key = os.environ.get("YOUTUBE_API_KEY", "").strip()
+    if not key:
+        return [], {"status": "disabled", "items": 0, "note": "Waiting for YOUTUBE_API_KEY (YouTube Data API v3 videos.list chart=mostPopular). TubeAlfred 'trending' returned 'how to go viral' search results, not the real chart."}
+    out, errs = [], []
+    for reg in regions:
+        for cname, cat in YT_CATS.items():
+            params = {"part": "snippet,statistics", "chart": "mostPopular", "regionCode": reg, "maxResults": 50, "key": key}
+            if cat: params["videoCategoryId"] = cat
+            try:
+                r = S.get("https://www.googleapis.com/youtube/v3/videos", params=params, timeout=20)
+                if r.status_code != 200:
+                    msg = (r.json().get("error", {}).get("errors") or [{}])[0].get("reason", r.status_code) if r.headers.get("content-type", "").startswith("application/json") else r.status_code
+                    errs.append(f"{reg}/{cname}: {msg}"); continue
+                for rank, v in enumerate(r.json().get("items", [])):
+                    sn, st = v["snippet"], v.get("statistics", {})
+                    views = int(st.get("viewCount", 0) or 0)
+                    try: age_h = max(1, (dt.datetime.now(dt.timezone.utc) - dt.datetime.fromisoformat(sn["publishedAt"].replace("Z", "+00:00"))).total_seconds() / 3600)
+                    except Exception: age_h = 24
+                    out.append({"source": "youtube", "title": sn["title"], "url": f"https://www.youtube.com/watch?v={v['id']}",
+                                "metric": views / age_h ** 0.8,
+                                "metric_label": f"YouTube most popular {reg}/{cname} #{rank+1}: {views:,} views, {age_h:.0f}h old, {sn.get('channelTitle','')}",
+                                "extra": {"geo": None, "feed": f"{reg}/{cname}", "channel": sn.get("channelTitle"), "tags": (sn.get("tags") or [])[:8]}})
+            except Exception as e: errs.append(f"{reg}/{cname}: {e}")
+    if out: return out, _ok(len(out), "; ".join(errs))
+    return [], {"status": "error", "items": 0, "note": "; ".join(errs)[:300]}
 
 # ---------------- Snapshots written by a Grok Bot routine (X, YouTube via MCP) ----------------
 def _snapshot(name, max_age_h=36):

@@ -55,9 +55,7 @@ def main():
     collectors = {"hackernews": S.hackernews, "wikipedia": S.wikipedia_mostread, "googlenews": S.google_news,
                   "googletrends": S.google_trends, "reddit": lambda: S.reddit(REDDIT_SUBS),
                   "x": S.x_snapshot,
-                  # TubeAlfred's youtube_trending returned search-style results about "viral videos" (not YouTube's
-                  # trending chart) when tested 2026-11-18, so it is disabled until a real trending feed is available.
-                  "youtube": lambda: ([], {"status": "disabled", "items": 0, "note": "TubeAlfred trending returned search-like 'how to go viral' results, not YouTube's trending chart; disabled (no free official trending feed without a YouTube Data API key)"})}
+                  "youtube": S.youtube_api}
     items, status = [], {}
     with cf.ThreadPoolExecutor(7) as ex:
         futs = {k: ex.submit(f) for k, f in collectors.items()}

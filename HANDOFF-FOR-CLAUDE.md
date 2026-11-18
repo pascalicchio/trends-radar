@@ -60,7 +60,7 @@ Fallback if the Worker is down (same files, straight from the repo):
 
 ## Known gaps (v1)
 
-- Reddit: blocked (HTTP 403 from the box, Cloudflare and GitHub Actions). It needs a free Reddit API "script" app
-  set up by Fillipe.
-- YouTube trending: disabled. The TubeAlfred trending endpoint returned "how to go viral" search results instead of
-  the real chart.
+- Reddit: blocked until an approved Reddit API app's REDDIT_CLIENT_ID/SECRET are added as GitHub secrets
+  (anonymous access returns 403; new API access needs Reddit's approval).
+- YouTube: disabled until YOUTUBE_API_KEY is added (YouTube Data API v3 mostPopular for US overall, Science & Tech
+  (28) and Education (27)).
