@@ -1,7 +1,7 @@
 {
  "schema": "trends-radar/v1",
- "generated_at": "2026-11-18T07:35:36+00:00",
- "generated_at_et": "2026-11-18 02:35 AM ET",
+ "generated_at": "2026-11-18T07:48:28+00:00",
+ "generated_at_et": "2026-11-18 02:48 AM ET",
  "urls": {
   "dashboard": "https://trends-radar.pascalicchio.workers.dev/",
   "json": "https://trends-radar.pascalicchio.workers.dev/trends.json",
@@ -38,7 +38,7 @@
   "x": {
    "status": "ok",
    "items": 268,
-   "note": "snapshot captured 2026-11-18T07:16:35+00:00 (0h ago)"
+   "note": "snapshot captured 2026-11-18T07:16:35+00:00 (1h ago)"
   },
   "youtube": {
    "status": "ok",
@@ -49,7 +49,7 @@
  "coming_up_sources": {
   "curated": {
    "status": "ok",
-   "items": 10,
+   "items": 12,
    "note": ""
   },
   "nager_holidays": {
@@ -85,14 +85,19 @@
  },
  "channels": [
   {
+   "id": "go-there-instead",
+   "name": "Go There Instead",
+   "format": "travel shorts: 'Skip X, go here instead' (alternatives to overcrowded places, travel news)"
+  },
+  {
+   "id": "intern-broke-it",
+   "name": "The Intern Broke It",
+   "format": "comedic AI/tech-fail shorts"
+  },
+  {
    "id": "plan-not-panic",
    "name": "Plan Not Panic",
    "format": "calm, practical survival/prep shorts"
-  },
-  {
-   "id": "shrink-down",
-   "name": "Shrink Down",
-   "format": "explainers for curious people: how things work"
   },
   {
    "id": "silver-paradox",
@@ -100,9 +105,9 @@
    "format": "premium documentary (long-form ~8+ min, needs real footage)"
   },
   {
-   "id": "intern-broke-it",
-   "name": "The Intern Broke It",
-   "format": "comedic AI/tech-fail shorts"
+   "id": "chess-blunder-club",
+   "name": "Chess Blunder Club / Clube do Vacilo",
+   "format": "chess blunder/trap shorts (EN Chess Blunder Club + PT sister channel Clube do Vacilo; PT performs better)"
   }
  ],
  "top5_candidates": [
@@ -110,24 +115,24 @@
    "rank": 1,
    "topic": "Grand Theft Auto VI",
    "heat": 94.0,
-   "best_channel": "shrink-down",
-   "angle_hint": "How Grand Theft Auto VI is actually built: the tech behind the game/film everyone is talking about",
+   "best_channel": "silver-paradox",
+   "angle_hint": "Art-history documentary: the real story behind Grand Theft Auto VI (the detail almost everyone misses)",
    "footage_confidence": "medium"
   },
   {
    "rank": 2,
    "topic": "Nvidia",
-   "heat": 91.6,
-   "best_channel": "shrink-down",
-   "angle_hint": "Under the hood: how Nvidia works, explained with one simple model",
+   "heat": 89.4,
+   "best_channel": "intern-broke-it",
+   "angle_hint": "Skit: the intern lets the AI handle Nvidia... what could go wrong",
    "footage_confidence": "high"
   },
   {
    "rank": 3,
    "topic": "James Bond",
-   "heat": 80.3,
-   "best_channel": "shrink-down",
-   "angle_hint": "The 'how does that even work?' explainer behind James Bond",
+   "heat": 80.6,
+   "best_channel": null,
+   "angle_hint": null,
    "footage_confidence": "high"
   },
   {
@@ -141,7 +146,7 @@
   {
    "rank": 5,
    "topic": "Ray Tintori",
-   "heat": 57.3,
+   "heat": 57.2,
    "best_channel": "silver-paradox",
    "angle_hint": "Long-form doc angle: the bigger story behind Ray Tintori",
    "footage_confidence": "low"
@@ -174,32 +179,14 @@
    "paradox_signals": [
     "how"
    ],
-   "best_channel": "shrink-down",
+   "best_channel": "silver-paradox",
    "channel_fit": {
-    "plan-not-panic": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "shrink-down": {
-     "score": 100,
+    "go-there-instead": {
+     "score": 10,
      "matched": [
-      "launch",
-      "video game",
-      "game",
-      "gta",
-      "playstation",
-      "ps5",
-      "explained"
+      "city"
      ],
-     "angle_hint": "How Grand Theft Auto VI is actually built: the tech behind the game/film everyone is talking about"
-    },
-    "silver-paradox": {
-     "score": 30,
-     "matched": [
-      "history"
-     ],
-     "angle_hint": "Documentary retrospective: Grand Theft Auto VI, what really happened and why it still matters"
+     "angle_hint": "Skip X, go to Y: the travel angle on Grand Theft Auto VI"
     },
     "intern-broke-it": {
      "score": 20,
@@ -207,6 +194,24 @@
       "update"
      ],
      "angle_hint": "Skit: the intern pushed one tiny change and caused Grand Theft Auto VI"
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 60,
+     "matched": [
+      "theft",
+      "history"
+     ],
+     "angle_hint": "Art-history documentary: the real story behind Grand Theft Auto VI (the detail almost everyone misses)"
+    },
+    "chess-blunder-club": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
     }
    },
    "links": [
@@ -223,16 +228,22 @@
      "metric": "153,037 views, 1.8x vs prior 4-day avg"
     },
     {
-     "source": "youtube",
-     "title": "iSHOWSPEED x GTA 6 | OFFICIAL TRAILER",
-     "url": "https://www.youtube.com/watch?v=2BRL4ALMCyA",
-     "metric": "YouTube most popular US/overall #29: 2,600,670 views, 33h old, IShowSpeed"
-    },
-    {
      "source": "googlenews",
      "title": "The Game Awards Nominations 2026: ‘GTA 6’ Lands Game of the Year Nom Ahead of Thursday Release",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNT0JTUFlEMy1QZ3FfekNuQWFlTW5Uc2lLMXVYOWU2dnVtTTlvX2dsZnlVZl9sQ3pCelhZcUkyYmhIUnIwVmNVTVF2MEhmbERJSGVDRzFXSUZ6YWlPczRNLU91cW9YVG1xZjZCTHN5WFE4RGxveThFY2E1cXRFU1BSMnNBQ2VzX0JWRHc?oc=5",
-     "metric": "Technology #6, 5 outlets in cluster"
+     "metric": "Technology #5, 5 outlets in cluster"
+    },
+    {
+     "source": "youtube",
+     "title": "iSHOWSPEED x GTA 6 | OFFICIAL TRAILER",
+     "url": "https://www.youtube.com/watch?v=2BRL4ALMCyA",
+     "metric": "YouTube most popular US/overall #29: 2,609,208 views, 33h old, IShowSpeed"
+    },
+    {
+     "source": "googlenews",
+     "title": "GTA VI is coming, and these gamers are planning their getaways",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdGZBVUFTSG1sSnFTb0hlcGdfV2prUHpjNHZmME1seUU5SFV6MUlLSnpnUjAxRFRBNnY5LXpLVC13c295QWY0OUl4NWk3SVpnd2kwSldVRG5tZm1aSHJzNWRrQzRZTk9uR0NSRnN4bmg2VXV3Z0lUV2lHalhCZHhlTlNnZTRuTEdf?oc=5",
+     "metric": "Technology #9, 5 outlets in cluster"
     },
     {
      "source": "x",
@@ -241,22 +252,16 @@
      "metric": "X trend GB #16"
     },
     {
-     "source": "googlenews",
-     "title": "GTA VI is coming, and these gamers are planning their getaways",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdGZBVUFTSG1sSnFTb0hlcGdfV2prUHpjNHZmME1seUU5SFV6MUlLSnpnUjAxRFRBNnY5LXpLVC13c295QWY0OUl4NWk3SVpnd2kwSldVRG5tZm1aSHJzNWRrQzRZTk9uR0NSRnN4bmg2VXV3Z0lUV2lHalhCZHhlTlNnZTRuTEdf?oc=5",
-     "metric": "Technology #11, 5 outlets in cluster"
-    },
-    {
      "source": "youtube",
      "title": "GTA 6 Just Got a MASSIVE Last Minute Info Dump...",
      "url": "https://www.youtube.com/watch?v=jwwDSn-HW0o",
-     "metric": "YouTube most popular US/overall #12: 594,793 views, 10h old, Hazard"
+     "metric": "YouTube most popular US/overall #12: 603,195 views, 11h old, Hazard"
     },
     {
      "source": "youtube",
      "title": "i was right about gta 6!!!",
      "url": "https://www.youtube.com/watch?v=WwHaajObJ5o",
-     "metric": "YouTube most popular US/overall #21: 518,131 views, 12h old, Ball Creative"
+     "metric": "YouTube most popular US/overall #21: 522,144 views, 13h old, Ball Creative"
     }
    ],
    "keys": [
@@ -302,10 +307,10 @@
   {
    "rank": 2,
    "topic": "Nvidia",
-   "heat": 91.6,
+   "heat": 89.4,
    "status": "rising",
-   "velocity": 0.44,
-   "why_hot": "4 source(s): googlenews, hackernews, wikipedia, youtube; Wikipedia views 0.4x vs prior 4-day avg; 52,812 views, 0.4x vs prior 4-day avg; Business #5, 5 outlets in cluster; 503 pts, 228 comments, 14h old; YouTube most popular US/science-tech #23: 13,474,250 views, 277h old, VisionX Lab",
+   "velocity": 0.29,
+   "why_hot": "4 source(s): googlenews, hackernews, wikipedia, youtube; Wikipedia views 0.4x vs prior 4-day avg; 52,812 views, 0.4x vs prior 4-day avg; Business #2, 5 outlets in cluster; 505 pts, 229 comments, 15h old; YouTube most popular US/science-tech #23: 13,478,864 views, 278h old, VisionX Lab",
    "sources": [
     "googlenews",
     "hackernews",
@@ -318,23 +323,9 @@
     "n_regions": 0
    },
    "paradox_signals": [],
-   "best_channel": "shrink-down",
+   "best_channel": "intern-broke-it",
    "channel_fit": {
-    "plan-not-panic": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "shrink-down": {
-     "score": 80,
-     "matched": [
-      "technology",
-      "ai",
-      "iphone"
-     ],
-     "angle_hint": "Under the hood: how Nvidia works, explained with one simple model"
-    },
-    "silver-paradox": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -346,38 +337,53 @@
       "iphone"
      ],
      "angle_hint": "Skit: the intern lets the AI handle Nvidia... what could go wrong"
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "chess-blunder-club": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
     }
    },
    "links": [
     {
      "source": "googlenews",
-     "title": "Jeff Bezos has tips for the Nvidia board in choosing a successor for Jensen Huang",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVWpQbmxfYlhSc29DcWQwSUlPQUh6YjczMjdLZEd2R1lpMDUta3IwNTZYdjhNVFZYWkdwNG10WTZBOVgzbVZ1Zkg2LVY1TWJ6Nm1qREtFTDBGYjdaRW5XNjBMcE1XS1h4bzBMV1p1RXlIRXRyRVRXb1BGSVFpWFZVRlFpcUhFYWd2T1YzNGk5Mm1jRmYyNjh1czRCQVFWUndtVDJJ?oc=5",
-     "metric": "Business #5, 5 outlets in cluster"
+     "title": "Nvidia bought itself a little breathing room in the Jensen Huang comeback fight",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbFA2UGFkWVYwZ0lxQkFybS1NX0hlM29jZXIyTjRFOG9NWGFnelJndkJ0XzhQMF9xaDFvUjVBZXNRTWJVamZCOEJSbjl4ZTBXSU9yejFCUkxWckpZbmU0X19nVl9vODh2U0JsOTZuT2taTHl5LV84cnNrWTdVd3hzbi1INFVUS3VsYVhwY0hKTDNod1lQbDZIanU0UGRFNmMw?oc=5",
+     "metric": "Business #2, 5 outlets in cluster"
     },
     {
      "source": "googlenews",
-     "title": "Nvidia rejects Jensen Huang’s offer to return as CEO despite pressure from Silicon Valley",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObnhLd21OYlROQnV3Z2ZRc29BZlRubWM4T2tVN3d3ektLVUdiMXNSS1dhclFQNVZrUEVrdG5rUHFUY0ozQWJJRjFFVlFvVjJ0SC15eEdoUm1JUEdwY2FZdTgyNmNDQnozOWRXSGJBRlVHaC13M09mZ0U3em9hYkp2V1BFWHJvR2ViRFZGcEk5RE8yTWNwUmM5dlhBMC1oMGYzYzE3TXl5akNYTGlOb2c?oc=5",
+     "title": "\"We will remain thoughtful\": Nvidia says it will continue to backstop AI ecosystem",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUWN3cy1RSFFyUGNyT3FrY0o4QmdrVWhHN0d3cXN3MlVuU2lFN282RGRWTkhWbTFvTlFMd2Q5bzhyTE1qWnVzMjBnWlpjeVp1LVlCeENTNkplU1NickVnTXpLVWNDQUVweXhrSmR5X0ZnUTFtZ09oeUktRDVkaDQ3VHVXSG8?oc=5",
      "metric": "Business #6, 5 outlets in cluster"
     },
     {
      "source": "youtube",
      "title": "The Rarest GPU Ever Made 🤯 #nvidia #shorts",
      "url": "https://www.youtube.com/watch?v=v3yS_mLzkVk",
-     "metric": "YouTube most popular US/science-tech #23: 13,474,250 views, 277h old, VisionX Lab"
+     "metric": "YouTube most popular US/science-tech #23: 13,478,864 views, 278h old, VisionX Lab"
+    },
+    {
+     "source": "googlenews",
+     "title": "Nvidia Hires Heidrick & Struggles in Hunt for New CEO",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOc09iSnppSk1kS3NpYTNYSG9rSGQyS2pfRGlYTlFBLXo4NTctbjFsTTFTQWVYd3N0VUs3T0FhdzlNQXpITmI4VFZWMXI1RVlUUWxIb2NuaHhlWGhkVWNWcXU4dno2dmk4cG9oekJhSUZZRFhrRE1PSlhPQ2Y0Sk5HTW9neUFaejNfbnJFblljUmNwQ3pHRmdzUUd6d2JOV2FreWZ0VWNUSTZKZ3FXN0dwWTV6cDVtS3ZhU2dQZXBjMzRMRjVUbXloQlZRSVdxTld1cV92dEd0Q0lvbnJFcnB4VW5pejFad3NMdTdR?oc=5",
+     "metric": "Business #7, 5 outlets in cluster"
     },
     {
      "source": "hackernews",
      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
      "url": "https://news.ycombinator.com/item?id=50534631",
-     "metric": "503 pts, 228 comments, 14h old"
-    },
-    {
-     "source": "googlenews",
-     "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcDRWN3ZsWTVWNkNia01rdTdxR0c4bnVsTS0xUFBWbG9EUWZCWnFKQVhWV0dXVUdVNmJhM3VpTFM4UWJDOGYxUVl2LTd5ZUlWWGVFX0RubWFRYThfV2lVU0tpWDJJM0V2cHljbUVqR3dBRE5yb2hscXBmU0I2NzRhRjBDS3dONmNCYnZrelRDWFRoNTFNS0t3cXRvVXRIcVBEa25YVjAxWHJ6ek56cERNbEFGY2I?oc=5",
-     "metric": "Business #12, 5 outlets in cluster"
+     "metric": "505 pts, 229 comments, 15h old"
     },
     {
      "source": "googlenews",
@@ -395,7 +401,7 @@
      "source": "youtube",
      "title": "Jensen Huang Nvidia on the iphone duo #shorts",
      "url": "https://www.youtube.com/watch?v=GC49MKwRIVY",
-     "metric": "YouTube most popular US/science-tech #30: 1,262,657 views, 79h old, Virej"
+     "metric": "YouTube most popular US/science-tech #30: 1,265,742 views, 80h old, Virej"
     }
    ],
    "keys": [
@@ -441,10 +447,10 @@
   {
    "rank": 3,
    "topic": "James Bond",
-   "heat": 80.3,
+   "heat": 80.6,
    "status": "steady",
    "velocity": 0.59,
-   "why_hot": "3 source(s): googlenews, wikipedia, x; Wikipedia views 3.2x vs prior 4-day avg; Wikipedia views 3.4x vs prior 4-day avg; 120,511 views, 3.2x vs prior 4-day avg; X trend GB #1; Top #25, 5 outlets in cluster",
+   "why_hot": "3 source(s): googlenews, wikipedia, x; Wikipedia views 3.2x vs prior 4-day avg; Wikipedia views 3.4x vs prior 4-day avg; 120,511 views, 3.2x vs prior 4-day avg; X trend GB #1; Top #24, 5 outlets in cluster",
    "sources": [
     "googlenews",
     "wikipedia",
@@ -458,26 +464,29 @@
     "n_regions": 1
    },
    "paradox_signals": [],
-   "best_channel": "shrink-down",
+   "best_channel": null,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
-     "score": 15,
-     "matched": [
-      "film"
-     ],
-     "angle_hint": "The 'how does that even work?' explainer behind James Bond"
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
     },
     "silver-paradox": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -506,7 +515,7 @@
      "source": "googlenews",
      "title": "Shaken and stirred: Jeff Bezos says he was ‘heavily involved’ in picking new James Bond",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQemhQejJUdmR0c0daNndYVWJKQ09COVVPaC1ERW9TeFlXUHhOa3hQbDVnMkdSei02NEI1TW9Dc0JuN0hLbUVRTnlpY0tSWmRxSENDVUVyQjZrMU4wMk54YWpPSEI4T2lpU3ZHZUw1akNRczFUREVpUUtKX2pfa2dwdy0tSWpNUUpCYUhTWmUtalZ4QQ?oc=5",
-     "metric": "Top #25, 5 outlets in cluster"
+     "metric": "Top #24, 5 outlets in cluster"
     },
     {
      "source": "wikipedia",
@@ -563,7 +572,7 @@
    "heat": 77.2,
    "status": "steady",
    "velocity": 0.37,
-   "why_hot": "3 source(s): googlenews, wikipedia, x; Wikipedia views 2.3x vs prior 4-day avg; Wikipedia views 2.5x vs prior 4-day avg; 840,972 views, 2.3x vs prior 4-day avg; X trend GB #4; Entertainment #6, 5 outlets in cluster",
+   "why_hot": "3 source(s): googlenews, wikipedia, x; Wikipedia views 2.3x vs prior 4-day avg; Wikipedia views 2.5x vs prior 4-day avg; 840,972 views, 2.3x vs prior 4-day avg; X trend GB #4; Entertainment #5, 5 outlets in cluster",
    "sources": [
     "googlenews",
     "wikipedia",
@@ -579,12 +588,17 @@
    "paradox_signals": [],
    "best_channel": null,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -594,7 +608,7 @@
      "matched": [],
      "angle_hint": null
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -617,7 +631,7 @@
      "source": "googlenews",
      "title": "The Next Bond Villain: From Idris Elba to Kristen Stewart, 22 Actors Who Should Face Off Against Robert Pattinson",
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbTNOUnZCQmxDSUdveXlwX1VKM0h2TEt6M2dfUVdnaTYwdkJCWklHTlkxOUltc21xcl9sTmJwaVFybmJBYWhnbXZpV04yX3EzNFVvNTVNQ0dJVDVNSHdvUnpuaURUSmYzLTViUjdHWnZkQ1kwYU1ibC1EV0NDOWhQeWt3?oc=5",
-     "metric": "Entertainment #6, 5 outlets in cluster"
+     "metric": "Entertainment #5, 5 outlets in cluster"
     },
     {
      "source": "wikipedia",
@@ -644,8 +658,8 @@
       "hits": 56,
       "url": "https://archive.org/search?query=title%3A%28Robert%20Pattinson%29&and[]=mediatype%3A%22movies%22",
       "examples": [
-       "https://archive.org/details/youtube-YbrL16Pwhs8",
-       "https://archive.org/details/youtube-nriZ47NHt10"
+       "https://archive.org/details/youtube-6mkKpm1coc8",
+       "https://archive.org/details/Daterobertpattinson-ExclusiveFootageOfRobertPattinsonOnADate728"
       ]
      },
      {
@@ -666,7 +680,7 @@
   {
    "rank": 5,
    "topic": "Ray Tintori",
-   "heat": 57.3,
+   "heat": 57.2,
    "status": "steady",
    "velocity": 1.0,
    "why_hot": "2 source(s): googlenews, wikipedia; Wikipedia views 626.4x vs prior 4-day avg; 98,033 views, 626.4x vs prior 4-day avg; Entertainment #13, 5 outlets in cluster",
@@ -682,12 +696,17 @@
    "paradox_signals": [],
    "best_channel": "silver-paradox",
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -699,7 +718,7 @@
      ],
      "angle_hint": "Long-form doc angle: the bigger story behind Ray Tintori"
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -778,12 +797,17 @@
    "paradox_signals": [],
    "best_channel": null,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -793,7 +817,7 @@
      "matched": [],
      "angle_hint": null
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -857,103 +881,6 @@
   },
   {
    "rank": 7,
-   "topic": "Dwts",
-   "heat": 56.1,
-   "status": "steady",
-   "velocity": 0.6,
-   "why_hot": "2 source(s): googletrends, x; trending in 2 regions (GB, US); GB: 200+ searches; X trend US #7",
-   "sources": [
-    "googletrends",
-    "x"
-   ],
-   "regions": [
-    "GB",
-    "US"
-   ],
-   "broad_appeal": {
-    "n_sources": 2,
-    "n_regions": 2
-   },
-   "paradox_signals": [],
-   "best_channel": null,
-   "channel_fit": {
-    "plan-not-panic": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "shrink-down": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    }
-   },
-   "links": [
-    {
-     "source": "x",
-     "title": "#dwts",
-     "url": "https://x.com/search?q=%23dwts",
-     "metric": "X trend US #7"
-    },
-    {
-     "source": "googletrends",
-     "title": "dwts",
-     "url": "https://trends.google.com/trends/explore?geo=GB&q=dwts",
-     "metric": "GB: 200+ searches"
-    }
-   ],
-   "keys": [
-    "dwts"
-   ],
-   "related_topics": [],
-   "footage": {
-    "query": "Dwts",
-    "checked": [
-     {
-      "source": "Wikimedia Commons (video)",
-      "hits": 24,
-      "url": "https://commons.wikimedia.org/w/index.php?search=Dwts%20filetype%3Avideo&ns6=1",
-      "examples": [
-       "https://commons.wikimedia.org/wiki/File:Earth_Hour_28-03-15.webm",
-       "https://commons.wikimedia.org/wiki/File:Screencast_sobre_problema_com_importação_de_JSON_do_Unlock.webm"
-      ]
-     },
-     {
-      "source": "Internet Archive (movies)",
-      "hits": 35,
-      "url": "https://archive.org/search?query=title%3A%28Dwts%29&and[]=mediatype%3A%22movies%22",
-      "examples": [
-       "https://archive.org/details/archiveteam_videobot_twitter_com_779085396105830400",
-       "https://archive.org/details/youtube-pBH7gsZmrLU"
-      ]
-     },
-     {
-      "source": "NASA Image & Video Library (video)",
-      "hits": 0,
-      "url": "https://images.nasa.gov/search?q=Dwts&page=1&media=video",
-      "examples": []
-     }
-    ],
-    "to_verify": [
-     "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
-     "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
-    ],
-    "confidence": "high",
-    "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
-   }
-  },
-  {
-   "rank": 8,
    "topic": "Thybulle",
    "heat": 55.7,
    "status": "steady",
@@ -976,12 +903,17 @@
    ],
    "best_channel": "silver-paradox",
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -994,7 +926,7 @@
      ],
      "angle_hint": "Documentary retrospective: Thybulle, what really happened and why it still matters"
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -1055,12 +987,114 @@
    }
   },
   {
-   "rank": 9,
-   "topic": "Jacoby Brissett",
-   "heat": 51.8,
+   "rank": 8,
+   "topic": "Dwts",
+   "heat": 54.6,
    "status": "steady",
-   "velocity": 1.0,
-   "why_hot": "2 source(s): googlenews, wikipedia; Wikipedia views 21.4x vs prior 4-day avg; 95,821 views, 21.4x vs prior 4-day avg; Sports #21, 5 outlets in cluster",
+   "velocity": 0.6,
+   "why_hot": "2 source(s): googletrends, x; trending in 2 regions (GB, US); GB: 200+ searches; X trend US #7",
+   "sources": [
+    "googletrends",
+    "x"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "broad_appeal": {
+    "n_sources": 2,
+    "n_regions": 2
+   },
+   "paradox_signals": [],
+   "best_channel": null,
+   "channel_fit": {
+    "go-there-instead": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "chess-blunder-club": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    }
+   },
+   "links": [
+    {
+     "source": "x",
+     "title": "#dwts",
+     "url": "https://x.com/search?q=%23dwts",
+     "metric": "X trend US #7"
+    },
+    {
+     "source": "googletrends",
+     "title": "dwts",
+     "url": "https://trends.google.com/trends/explore?geo=GB&q=dwts",
+     "metric": "GB: 200+ searches"
+    }
+   ],
+   "keys": [
+    "dwts"
+   ],
+   "related_topics": [],
+   "footage": {
+    "query": "Dwts",
+    "checked": [
+     {
+      "source": "Wikimedia Commons (video)",
+      "hits": 24,
+      "url": "https://commons.wikimedia.org/w/index.php?search=Dwts%20filetype%3Avideo&ns6=1",
+      "examples": [
+       "https://commons.wikimedia.org/wiki/File:Earth_Hour_28-03-15.webm",
+       "https://commons.wikimedia.org/wiki/File:Screencast_sobre_problema_com_importação_de_JSON_do_Unlock.webm"
+      ]
+     },
+     {
+      "source": "Internet Archive (movies)",
+      "hits": 35,
+      "url": "https://archive.org/search?query=title%3A%28Dwts%29&and[]=mediatype%3A%22movies%22",
+      "examples": [
+       "https://archive.org/details/TikTok-7016793780028198150",
+       "https://archive.org/details/BindiDWTSChampionWeekByWeekShadowJayFreeDownload"
+      ]
+     },
+     {
+      "source": "NASA Image & Video Library (video)",
+      "hits": 0,
+      "url": "https://images.nasa.gov/search?q=Dwts&page=1&media=video",
+      "examples": []
+     }
+    ],
+    "to_verify": [
+     "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
+     "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
+    ],
+    "confidence": "high",
+    "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
+   }
+  },
+  {
+   "rank": 9,
+   "topic": "2026–27 UEFA Nations League",
+   "heat": 54.2,
+   "status": "rising",
+   "velocity": 0.5,
+   "why_hot": "2 source(s): googlenews, wikipedia; Wikipedia views 1.4x vs prior 4-day avg; Wikipedia views 1.3x vs prior 4-day avg; 93,874 views, 1.4x vs prior 4-day avg; Sports #4, 5 outlets in cluster",
    "sources": [
     "googlenews",
     "wikipedia"
@@ -1073,12 +1107,17 @@
    "paradox_signals": [],
    "best_channel": null,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -1088,7 +1127,114 @@
      "matched": [],
      "angle_hint": null
     },
+    "chess-blunder-club": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    }
+   },
+   "links": [
+    {
+     "source": "googlenews",
+     "title": "Haaland sends Norway to Nations League quarters on last-minute penalty",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONjR5M2hTVHJwVVFucF9JV0JJbHdySDFsZkVkTUdDRDlYUGlBMWM1bjJEZmc2dkNELUNXN1dsM0s2SVpmbnBuSVVOWEN2ekFNU01QMUU3elFnQnNoc1lGMGpCeUF2cWVYd0RsQmtUTm5KWU1fOGFHalh4WDhuMUNXMDkwSGFDQlFxc1VMV1lOWTE0WjRWZFVCMElWdXFvRHQ3b3lIZXJfdw?oc=5",
+     "metric": "Sports #4, 5 outlets in cluster"
+    },
+    {
+     "source": "wikipedia",
+     "title": "2026–27 UEFA Nations League",
+     "url": "https://en.wikipedia.org/wiki/2026–27_UEFA_Nations_League",
+     "metric": "93,874 views, 1.4x vs prior 4-day avg"
+    },
+    {
+     "source": "wikipedia",
+     "title": "UEFA Nations League",
+     "url": "https://en.wikipedia.org/wiki/UEFA_Nations_League",
+     "metric": "60,085 views, 1.3x vs prior 4-day avg"
+    },
+    {
+     "source": "googlenews",
+     "title": "Erling Haaland scores injury-time winner to send Norway through to Nations League quarter-finals",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZmJjdTZCTk8waDVLeVZWbmZlTmNUTE91QURYM29KOVN5WWNTZFh2bUc1ejVhbk1TQ3kzeVNvdG51bTRIWFg5ZXRhNHRpdGk3V2xtRkx3VGhyTDNqVHFFYnJSSXhOYXZNSGZCa0c1TXZBbFNNZW5JUzJ2Rll6RFo0ZWd0QzdJNWtWOFNKMkVOeF80N0YwcjQydF9vNEtmem1oeWQ2RUNVQ3FnamhFb0E?oc=5",
+     "metric": "Top #30, 5 outlets in cluster"
+    }
+   ],
+   "keys": [
+    "2026 27 uefa nations league"
+   ],
+   "related_topics": [],
+   "footage": {
+    "query": "2026–27 UEFA Nations League",
+    "checked": [
+     {
+      "source": "Wikimedia Commons (video)",
+      "hits": 0,
+      "url": "https://commons.wikimedia.org/w/index.php?search=2026%E2%80%9327%20UEFA%20Nations%20League%20filetype%3Avideo&ns6=1",
+      "examples": []
+     },
+     {
+      "source": "Internet Archive (movies)",
+      "hits": 1,
+      "url": "https://archive.org/search?query=title%3A%282026%E2%80%9327%20UEFA%20Nations%20League%29&and[]=mediatype%3A%22movies%22",
+      "examples": [
+       "https://archive.org/details/youtube-JlQb5lT6CeA"
+      ]
+     },
+     {
+      "source": "NASA Image & Video Library (video)",
+      "hits": 0,
+      "url": "https://images.nasa.gov/search?q=2026%E2%80%9327%20UEFA%20Nations%20League&page=1&media=video",
+      "examples": []
+     }
+    ],
+    "to_verify": [
+     "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
+     "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
+    ],
+    "confidence": "low",
+    "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
+   }
+  },
+  {
+   "rank": 10,
+   "topic": "Jacoby Brissett",
+   "heat": 51.3,
+   "status": "steady",
+   "velocity": 1.0,
+   "why_hot": "2 source(s): googlenews, wikipedia; Wikipedia views 21.4x vs prior 4-day avg; 95,821 views, 21.4x vs prior 4-day avg; Sports #22, 5 outlets in cluster",
+   "sources": [
+    "googlenews",
+    "wikipedia"
+   ],
+   "regions": [],
+   "broad_appeal": {
+    "n_sources": 2,
+    "n_regions": 0
+   },
+   "paradox_signals": [],
+   "best_channel": null,
+   "channel_fit": {
+    "go-there-instead": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
     "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -1100,12 +1246,6 @@
      "title": "Jacoby Brissett",
      "url": "https://en.wikipedia.org/wiki/Jacoby_Brissett",
      "metric": "95,821 views, 21.4x vs prior 4-day avg"
-    },
-    {
-     "source": "googlenews",
-     "title": "Jacoby Brissett throws for 340 yards in debut as Ravens lose to Chargers",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR2lTdnRuSzNIb25rVFhnRFFlalJVRGVqR1liLUwwQWtEMm1vWU5fNmdaUGRuZUNhenNKNXp2ZVNpZnVheVpZNUdFWmZuT3N4ZGY4cGVYdDJnaFVKX3dOS2JaajBkQVczVElZbjhhdkJOdXhLamlYWmtRNmcwUExkdzFic3l5WU1jWkpYWlZ0ZXhfVG1YYjhvMGNZSWstQkhyYWJtbGNyNmVhTlJ5QWQ0?oc=5",
-     "metric": "Sports #21, 5 outlets in cluster"
     },
     {
      "source": "googlenews",
@@ -1151,125 +1291,6 @@
    }
   },
   {
-   "rank": 10,
-   "topic": "Lakers",
-   "heat": 50.7,
-   "status": "steady",
-   "velocity": 0.6,
-   "why_hot": "2 source(s): googletrends, x; trending in 4 regions (GB, MX, US, Worldwide); GB: 100+ searches; X trend US #3",
-   "sources": [
-    "googletrends",
-    "x"
-   ],
-   "regions": [
-    "GB",
-    "MX",
-    "US",
-    "Worldwide"
-   ],
-   "broad_appeal": {
-    "n_sources": 2,
-    "n_regions": 4
-   },
-   "paradox_signals": [],
-   "best_channel": null,
-   "channel_fit": {
-    "plan-not-panic": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "shrink-down": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    }
-   },
-   "links": [
-    {
-     "source": "x",
-     "title": "Lakers",
-     "url": "https://x.com/search?q=Lakers",
-     "metric": "X trend US #3"
-    },
-    {
-     "source": "x",
-     "title": "Lakers",
-     "url": "https://x.com/search?q=Lakers",
-     "metric": "X trend GB #6"
-    },
-    {
-     "source": "x",
-     "title": "Lakers",
-     "url": "https://x.com/search?q=Lakers",
-     "metric": "X trend Worldwide #6"
-    },
-    {
-     "source": "x",
-     "title": "Lakers",
-     "url": "https://x.com/search?q=Lakers",
-     "metric": "X trend MX #9"
-    },
-    {
-     "source": "googletrends",
-     "title": "lakers vs charlotte hornets match player stats",
-     "url": "https://trends.google.com/trends/explore?geo=GB&q=lakers%20vs%20charlotte%20hornets%20match%20player%20stats",
-     "metric": "GB: 100+ searches"
-    }
-   ],
-   "keys": [
-    "lakers"
-   ],
-   "related_topics": [
-    "Hornets"
-   ],
-   "footage": {
-    "query": "Lakers",
-    "checked": [
-     {
-      "source": "Wikimedia Commons (video)",
-      "hits": 2590,
-      "url": "https://commons.wikimedia.org/w/index.php?search=Lakers%20filetype%3Avideo&ns6=1",
-      "examples": [
-       "https://commons.wikimedia.org/wiki/File:Natural_lake_of_Goalpara.webm",
-       "https://commons.wikimedia.org/wiki/File:Lake_Urmia_Google_Earth_Timelapse_1984–2018.webm"
-      ]
-     },
-     {
-      "source": "Internet Archive (movies)",
-      "hits": 549,
-      "url": "https://archive.org/search?query=title%3A%28Lakers%29&and[]=mediatype%3A%22movies%22",
-      "examples": [
-       "https://archive.org/details/cctv15mi-West_Bloomfield_Lakers_vs_Orchard_Lake_St._Mary_s_Eaglets_MHSAA_D1_Boys_Basketball_Distric",
-       "https://archive.org/details/ccctvmd-Volleyball_Carroll_Lynx_Vs._Garrett_College_Lakers_September_20th_2023"
-      ]
-     },
-     {
-      "source": "NASA Image & Video Library (video)",
-      "hits": 0,
-      "url": "https://images.nasa.gov/search?q=Lakers&page=1&media=video",
-      "examples": []
-     }
-    ],
-    "to_verify": [
-     "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
-     "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
-    ],
-    "confidence": "high",
-    "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
-   }
-  },
-  {
    "rank": 11,
    "topic": "Duke",
    "heat": 49.8,
@@ -1290,12 +1311,17 @@
    "paradox_signals": [],
    "best_channel": "silver-paradox",
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -1307,7 +1333,7 @@
      ],
      "angle_hint": "Documentary retrospective: Duke, what really happened and why it still matters"
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -1325,6 +1351,12 @@
      "title": "Duke",
      "url": "https://x.com/search?q=Duke",
      "metric": "X trend US #12"
+    },
+    {
+     "source": "googlenews",
+     "title": "NC approves Duke Energy rate hikes, new rules for data centers",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRGNBcHduSGdtMGJhbEdSc1NUWHkyX21TWERGREFzVDZVVEtkUy1mdUp2ODBucWpZd0dqTlBIRXdrbnhLSkJ2SUVuSm1RRzVtbkNlTGZCcWh2ajhZenZ1ak5KUTZEVVZnVTI5Z0Q3UDlLQTdZRUFoRm9UUk1xTXFKNXZ5TkQ4MmdoMnJzdS1jZ2ExT0VpUmQxdmFrR3FocEFLV2pIV3NQTm43LThO?oc=5",
+     "metric": "Business #28, 5 outlets in cluster"
     }
    ],
    "keys": [
@@ -1389,6 +1421,16 @@
    "paradox_signals": [],
    "best_channel": "plan-not-panic",
    "channel_fit": {
+    "go-there-instead": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
     "plan-not-panic": {
      "score": 20,
      "matched": [
@@ -1396,17 +1438,12 @@
      ],
      "angle_hint": "U.S. Loses Measles Elimination: what to check in your pantry/fridge today and when to actually worry"
     },
-    "shrink-down": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
     "silver-paradox": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -1481,12 +1518,17 @@
    "paradox_signals": [],
    "best_channel": null,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -1496,7 +1538,7 @@
      "matched": [],
      "angle_hint": null
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -1542,7 +1584,7 @@
       "hits": 19,
       "url": "https://archive.org/search?query=title%3A%28Mary%20Peltola%29&and[]=mediatype%3A%22movies%22",
       "examples": [
-       "https://archive.org/details/mary-peltola-for-congress",
+       "https://archive.org/details/CSPAN_20250331_161900_Fmr._Rep._Mary_Peltola_and_Others_Discuss_Climate_Change_and_Other_Issues...",
        "https://archive.org/details/CSPAN_20261031_185000_Campaign_2026_U.S._Senate_Candidate_Mary_Peltola_D-AK_Holds_Rally_in..."
       ]
      },
@@ -1584,12 +1626,17 @@
    "paradox_signals": [],
    "best_channel": null,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -1599,7 +1646,7 @@
      "matched": [],
      "angle_hint": null
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -1681,12 +1728,17 @@
    "paradox_signals": [],
    "best_channel": null,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -1696,7 +1748,7 @@
      "matched": [],
      "angle_hint": null
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -1778,12 +1830,17 @@
    "paradox_signals": [],
    "best_channel": null,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -1793,7 +1850,7 @@
      "matched": [],
      "angle_hint": null
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -1839,12 +1896,17 @@
    "paradox_signals": [],
    "best_channel": null,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -1854,7 +1916,7 @@
      "matched": [],
      "angle_hint": null
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -1882,7 +1944,7 @@
   {
    "rank": 18,
    "topic": "Grammy",
-   "heat": 40.7,
+   "heat": 40.5,
    "status": "steady",
    "velocity": 0.0,
    "why_hot": "2 source(s): googlenews, x; X trend GB #26; Entertainment #12, 5 outlets in cluster",
@@ -1900,12 +1962,17 @@
    "paradox_signals": [],
    "best_channel": null,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -1915,7 +1982,7 @@
      "matched": [],
      "angle_hint": null
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -1943,7 +2010,7 @@
   {
    "rank": 19,
    "topic": "The Hunger Games: Sunrise on the Reaping",
-   "heat": 39.8,
+   "heat": 40.0,
    "status": "steady",
    "velocity": 0.42,
    "why_hot": "2 source(s): googlenews, wikipedia; Wikipedia views 2.7x vs prior 4-day avg; 92,631 views, 2.7x vs prior 4-day avg; Top #23, 5 outlets in cluster",
@@ -1957,26 +2024,29 @@
     "n_regions": 0
    },
    "paradox_signals": [],
-   "best_channel": "shrink-down",
+   "best_channel": null,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
-     "score": 15,
-     "matched": [
-      "film"
-     ],
-     "angle_hint": "The 'how does that even work?' explainer behind The Hunger Games: Sunrise on the Reaping"
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
     },
     "silver-paradox": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -2003,83 +2073,8 @@
   },
   {
    "rank": 20,
-   "topic": "Black Friday",
-   "heat": 39.7,
-   "status": "steady",
-   "velocity": 0.0,
-   "why_hot": "2 source(s): googlenews, googletrends; MX: 500+ searches; Technology #20, 5 outlets in cluster",
-   "sources": [
-    "googlenews",
-    "googletrends"
-   ],
-   "regions": [
-    "MX"
-   ],
-   "broad_appeal": {
-    "n_sources": 2,
-    "n_regions": 1
-   },
-   "paradox_signals": [],
-   "best_channel": "silver-paradox",
-   "channel_fit": {
-    "plan-not-panic": {
-     "score": 10,
-     "matched": [
-      "black friday"
-     ],
-     "angle_hint": "Practical prep angle on Black Friday: what normal households should actually do"
-    },
-    "shrink-down": {
-     "score": 15,
-     "matched": [
-      "xbox"
-     ],
-     "angle_hint": "How Black Friday is actually built: the tech behind the game/film everyone is talking about"
-    },
-    "silver-paradox": {
-     "score": 30,
-     "matched": [
-      "war"
-     ],
-     "angle_hint": "Documentary retrospective: Black Friday, what really happened and why it still matters"
-    },
-    "intern-broke-it": {
-     "score": 20,
-     "matched": [
-      "apple"
-     ],
-     "angle_hint": "Comedic tech-fail take on Black Friday"
-    }
-   },
-   "links": [
-    {
-     "source": "googletrends",
-     "title": "black friday",
-     "url": "https://trends.google.com/trends/explore?geo=MX&q=black%20friday",
-     "metric": "MX: 500+ searches"
-    },
-    {
-     "source": "googlenews",
-     "title": "XBOX is discounting big titles such as Forza Horizon 6 and Gears of War: E-Day for Black Friday",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOUhOMExINjRMRmhJbHVFalpBUnNrRWVVcnJwVGhrdHItMnd1MzBOVzQxOEkxVnZzOEt6czBQRlRmZGp1amd3WnRod0xkNFl5RGloYThWMkc0dWdUX2NjbmJNVXVzSXl1aFJQLUg3NTloT1hxdExzUEFBRE5qcmZIbEt0dlgwclZqQUJNV1lYVm9rd2ZsbkVLTFdOcUlRUjRmYzAydGxLVFg2V3FycUxNc1ItbDlTWll3YmtsVmlyejlXRExROGp5b1RDQVZVVGpxc3FId2N3czZpM0E?oc=5",
-     "metric": "Technology #20, 5 outlets in cluster"
-    },
-    {
-     "source": "googlenews",
-     "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRzVoaGNVcVVNLWIyRzAtN1doSGloWFE1cm9TU2VGblRoaW84QW1tUjZ1VFJiZ1F3bDdTcHFrUTVjZzlWSnBQV1FPM0RKMXVIVTRheTVzYmFRdVdIYmZZZ1BQcFJEWEl4UlZ2bUFfaGUtdVNRNXBFQ09hX3VtZUdpODVVNHVBX2ZIbXJGejNB?oc=5",
-     "metric": "Technology #24, 5 outlets in cluster"
-    }
-   ],
-   "keys": [
-    "black friday"
-   ],
-   "related_topics": []
-  },
-  {
-   "rank": 21,
    "topic": "Tatyana",
-   "heat": 39.6,
+   "heat": 39.8,
    "status": "steady",
    "velocity": 0.0,
    "why_hot": "2 source(s): googlenews, x; X trend US #13; World #21, 5 outlets in cluster",
@@ -2097,12 +2092,17 @@
    "paradox_signals": [],
    "best_channel": null,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -2112,7 +2112,7 @@
      "matched": [],
      "angle_hint": null
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -2138,9 +2138,9 @@
    "related_topics": []
   },
   {
-   "rank": 22,
+   "rank": 21,
    "topic": "Kerch",
-   "heat": 38.8,
+   "heat": 38.7,
    "status": "steady",
    "velocity": 0.0,
    "why_hot": "2 source(s): googlenews, x; X trend GB #29; Top #12, 5 outlets in cluster",
@@ -2156,26 +2156,29 @@
     "n_regions": 1
    },
    "paradox_signals": [],
-   "best_channel": "shrink-down",
+   "best_channel": null,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
-     "score": 20,
-     "matched": [
-      "bridge"
-     ],
-     "angle_hint": "The 'how does that even work?' explainer behind Kerch"
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
     },
     "silver-paradox": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -2201,12 +2204,12 @@
    "related_topics": []
   },
   {
-   "rank": 23,
+   "rank": 22,
    "topic": "Game of the Year",
-   "heat": 38.0,
-   "status": "new",
+   "heat": 37.9,
+   "status": "steady",
    "velocity": 0.0,
-   "why_hot": "2 source(s): x, youtube; X trend GB #34; YouTube most popular US/overall #15: 1,168,469 views, 14h old, thegameawards",
+   "why_hot": "2 source(s): x, youtube; X trend GB #34; YouTube most popular US/overall #15: 1,170,993 views, 15h old, thegameawards",
    "sources": [
     "x",
     "youtube"
@@ -2219,26 +2222,29 @@
     "n_regions": 1
    },
    "paradox_signals": [],
-   "best_channel": "shrink-down",
+   "best_channel": null,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
-     "score": 15,
-     "matched": [
-      "game"
-     ],
-     "angle_hint": "How Game of the Year is actually built: the tech behind the game/film everyone is talking about"
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
     },
     "silver-paradox": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -2249,7 +2255,7 @@
      "source": "youtube",
      "title": "THE GAME AWARDS: 2026 Nominee Reveal! (Game of the Year)",
      "url": "https://www.youtube.com/watch?v=_e0oJSfmIFU",
-     "metric": "YouTube most popular US/overall #15: 1,168,469 views, 14h old, thegameawards"
+     "metric": "YouTube most popular US/overall #15: 1,170,993 views, 15h old, thegameawards"
     },
     {
      "source": "x",
@@ -2264,12 +2270,12 @@
    "related_topics": []
   },
   {
-   "rank": 24,
+   "rank": 23,
    "topic": "Waymo",
-   "heat": 37.3,
+   "heat": 37.7,
    "status": "steady",
    "velocity": 0.0,
-   "why_hot": "2 source(s): googlenews, googletrends; GB: 100+ searches; Business #8, 5 outlets in cluster",
+   "why_hot": "2 source(s): googlenews, googletrends; GB: 100+ searches; Business #10, 5 outlets in cluster",
    "sources": [
     "googlenews",
     "googletrends"
@@ -2284,12 +2290,21 @@
    "paradox_signals": [],
    "best_channel": "intern-broke-it",
    "channel_fit": {
-    "plan-not-panic": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
+    "go-there-instead": {
+     "score": 20,
+     "matched": [
+      "ban"
+     ],
+     "angle_hint": "Skip Waymo: the less-crowded alternative to go to instead (and why now)"
     },
-    "shrink-down": {
+    "intern-broke-it": {
+     "score": 30,
+     "matched": [
+      "waymo"
+     ],
+     "angle_hint": "Comedic tech-fail take on Waymo"
+    },
+    "plan-not-panic": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -2299,12 +2314,10 @@
      "matched": [],
      "angle_hint": null
     },
-    "intern-broke-it": {
-     "score": 30,
-     "matched": [
-      "waymo"
-     ],
-     "angle_hint": "Comedic tech-fail take on Waymo"
+    "chess-blunder-club": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
     }
    },
    "links": [
@@ -2312,7 +2325,7 @@
      "source": "googlenews",
      "title": "Waymo suspends driverless freeway rides across US after California ban",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaFhXM0tsVjB3bi0zZzdsU3AwSlMwdFBTZE1UeUdQdzIxTC16OFkycVJhVXVNelN0NW9ScnZnaUhES2RCcDBEWk1aODgxNXFJTlpsMzhUTzNsSWpzZ0ZZLVVnMDFfNm9Ic0V6cTBTSFRyMjU1dXpVRFRBZzBhVlZqU0kwb2NDbmo2d1RUa3ZLcGRUTVRNRlI2WjJBaWVXRmtHNi13Q1BPN0JyN1dISXV2WGF30gG3AUFVX3lxTE8tX2lldzhza0k5RS10U1RXYzk2ZnBTYkV1dFB0OElrTjdtb3d2YnJYdl9uamQ2REktbGF1ZmF6V0Exa2R4UXlwaUhBT2RockVvQ1lRSmRzaU5BUmg2MzQ3WE9WdjJMblpwU1Zld0Yxenk1cGRST2hXaElkMV96WTZNVVJ5eVM1TFFyMVpJNjVXTV8zLWRmRmcxcEZETTB5dDJOTTRRdGdxMGY1RDBpSW5sWE5LSDlsTQ?oc=5",
-     "metric": "Business #8, 5 outlets in cluster"
+     "metric": "Business #10, 5 outlets in cluster"
     },
     {
      "source": "googletrends",
@@ -2327,12 +2340,12 @@
    "related_topics": []
   },
   {
-   "rank": 25,
+   "rank": 24,
    "topic": "The Body (TV series)",
-   "heat": 35.8,
+   "heat": 35.5,
    "status": "steady",
    "velocity": 0.05,
-   "why_hot": "2 source(s): googlenews, wikipedia; Wikipedia views 1.2x vs prior 4-day avg; 127,281 views, 1.2x vs prior 4-day avg; Entertainment #28, 5 outlets in cluster",
+   "why_hot": "2 source(s): googlenews, wikipedia; Wikipedia views 1.2x vs prior 4-day avg; 127,281 views, 1.2x vs prior 4-day avg; Entertainment #29, 5 outlets in cluster",
    "sources": [
     "googlenews",
     "wikipedia"
@@ -2345,12 +2358,17 @@
    "paradox_signals": [],
    "best_channel": null,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -2360,7 +2378,7 @@
      "matched": [],
      "angle_hint": null
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -2377,7 +2395,7 @@
      "source": "googlenews",
      "title": "‘The Body’ Debuts With 5.1 Million Views in Five Days",
      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaURVMXdfMUVKb2w3ekFQSnQ0d3dZcUkxOEhNM25ORmJWaXQtSkVhdkdMZHdCU3hxOWtjSlMtRFFSTC1zN2tIUmFOWVJneDJGYXFxMlpFQjhRN2hFX2c4RElmU2tlenZnekRLcVU3VXg3OWhsSXlXOFdnbnB5Nmd0aA?oc=5",
-     "metric": "Entertainment #28, 5 outlets in cluster"
+     "metric": "Entertainment #29, 5 outlets in cluster"
     }
    ],
    "keys": [
@@ -2386,73 +2404,12 @@
    "related_topics": []
   },
   {
-   "rank": 26,
-   "topic": "Russell Brand",
-   "heat": 35.5,
-   "status": "steady",
-   "velocity": 0.0,
-   "why_hot": "2 source(s): googlenews, wikipedia; Wikipedia views 0.8x vs prior 4-day avg; 86,201 views, 0.8x vs prior 4-day avg; Entertainment #20, 5 outlets in cluster",
-   "sources": [
-    "googlenews",
-    "wikipedia"
-   ],
-   "regions": [],
-   "broad_appeal": {
-    "n_sources": 2,
-    "n_regions": 0
-   },
-   "paradox_signals": [],
-   "best_channel": "silver-paradox",
-   "channel_fit": {
-    "plan-not-panic": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "shrink-down": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
-     "score": 20,
-     "matched": [
-      "investigation"
-     ],
-     "angle_hint": "Long-form doc angle: the bigger story behind Russell Brand"
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    }
-   },
-   "links": [
-    {
-     "source": "wikipedia",
-     "title": "Russell Brand",
-     "url": "https://en.wikipedia.org/wiki/Russell_Brand",
-     "metric": "86,201 views, 0.8x vs prior 4-day avg"
-    },
-    {
-     "source": "googlenews",
-     "title": "Russell Brand sparks prison investigation after wife reads defiant message following rape conviction",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOY3VyZ3hvM0NLTW9KZUZKSjBkOU1mQ01EUFotQ29MaDRnZ21jSExCU2dQcGVTZ21KT1E1U1ctb0VPUDJBTDdxR2ZoSVVHTFJJalVHLWFORlJZaGhFaE1vX09uckZzdDZYQW9saG1EcUUxV3VhN09QT2xpaFNlTTgtNUdURGVxTm1ZdHZYREZXdm5JR3c4OURiVVVBNG1YbmJGdXFUOUx3SzZrbzJzOUVwWGtjRjVaS21CSWJOeWwwUDhIcEtweU1sQWktY2tPaGhHQ3FxS9IB2gFBVV95cUxOdUpObDlfaGhoVXU1VHNfWXNRNXlVUllyTnU2b1U2cm4zSG15NkVNMFhqTms2NWMzVFZVV0JtV3BSVTZDejluTGtIeDNMQmN4QkEyUDlOSUdIZ18xc0VkQ3dmMUVJS1JNXzJxdUhSaTh4WTFiSFNQMzRaZ2YwWHhjN0dKN1c2ekgyZ21UYldaTEQzRUFEdkdHenRRbkJjZWdSZ2NFUnE4amZxTXpaZlhINThBdjFaUWY3aFlOejBQajZTbUR1anRHaVlFWk1IVjhZSDd3eG96Z0Eydw?oc=5",
-     "metric": "Entertainment #20, 5 outlets in cluster"
-    }
-   ],
-   "keys": [
-    "russell brand"
-   ],
-   "related_topics": []
-  },
-  {
-   "rank": 27,
+   "rank": 25,
    "topic": "Astra and Sol",
    "heat": 35.2,
    "status": "steady",
    "velocity": 0.0,
-   "why_hot": "2 source(s): hackernews, x; X news story (Technology, AI); 1231 pts, 764 comments, 14h old",
+   "why_hot": "2 source(s): hackernews, x; X news story (Technology, AI); 1232 pts, 765 comments, 14h old",
    "sources": [
     "hackernews",
     "x"
@@ -2465,17 +2422,7 @@
    "paradox_signals": [],
    "best_channel": "intern-broke-it",
    "channel_fit": {
-    "plan-not-panic": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "shrink-down": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -2487,6 +2434,21 @@
       "developer"
      ],
      "angle_hint": "Skit: the intern lets the AI handle Astra and Sol... what could go wrong"
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "chess-blunder-club": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
     }
    },
    "links": [
@@ -2494,7 +2456,7 @@
      "source": "hackernews",
      "title": "GPT‑6.2 Astra and Sol",
      "url": "https://news.ycombinator.com/item?id=50535230",
-     "metric": "1231 pts, 764 comments, 14h old"
+     "metric": "1232 pts, 765 comments, 14h old"
     },
     {
      "source": "x",
@@ -2509,12 +2471,12 @@
    "related_topics": []
   },
   {
-   "rank": 28,
+   "rank": 26,
    "topic": "Grand Theft Auto VI",
-   "heat": 35.0,
+   "heat": 35.1,
    "status": "cooling",
    "velocity": 0.0,
-   "why_hot": "2 source(s): googlenews, youtube; Top #19, 5 outlets in cluster; YouTube most popular US/overall #39: 614,155 views, 16h old, Luke Stephens",
+   "why_hot": "2 source(s): googlenews, youtube; Top #19, 5 outlets in cluster; YouTube most popular US/overall #39: 620,556 views, 16h old, Luke Stephens",
    "sources": [
     "googlenews",
     "youtube"
@@ -2525,24 +2487,32 @@
     "n_regions": 0
    },
    "paradox_signals": [],
-   "best_channel": null,
+   "best_channel": "silver-paradox",
    "channel_fit": {
-    "plan-not-panic": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "shrink-down": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
     "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 40,
+     "matched": [
+      "theft",
+      "billion"
+     ],
+     "angle_hint": "Art-history documentary: the real story behind Grand Theft Auto VI (the detail almost everyone misses)"
+    },
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -2553,12 +2523,12 @@
      "source": "youtube",
      "title": "A Skeptical Look at 'Grand Theft Auto VI'...",
      "url": "https://www.youtube.com/watch?v=GKfom_Qa5Hs",
-     "metric": "YouTube most popular US/overall #39: 614,155 views, 16h old, Luke Stephens"
+     "metric": "YouTube most popular US/overall #39: 620,556 views, 16h old, Luke Stephens"
     },
     {
      "source": "googlenews",
-     "title": "After a 13-year wait, ‘Grand Theft Auto VI’ arrives with enormous hype and expectations",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNU5oVy1LNFdSWUFIbTV3RkNqQlJNWWdlb3pJNUxOV3ZRMU02TjFOV0VBUGVoRDhLOEU0SHpSTl9YMEwtN1pVSV9rQ0I0cUZvRFptd1NGUks3ci0zekpiSmZKMmJobUZfcTZpS1YyVkZCbVR4U3RKQ1F6TUlXU2x5VmdDZ2V1empCQVViM3NNVDhPc1NtMU5IeENVZWlNQQ?oc=5",
+     "title": "‘Grand Theft Auto VI’ earns more than $1.5 billion before release | CNN Business",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMlppVnJwUElWb1ltdlV4c2V3RUZIMUlUcVlQbWY4MlNrOFZuLW5Oa3pTZEhZRHRyNVU5Z2pNbkpYNndILUxDZ05YUjV5dTVwMlNOaWhfblVGRUdDNHoxNkQ0MmRyVVMwVDlmSE0tUkhINzhPSU15M3RtT2RIaUJQbkNn?oc=5",
      "metric": "Top #19, 5 outlets in cluster"
     }
    ],
@@ -2570,7 +2540,7 @@
    ]
   },
   {
-   "rank": 29,
+   "rank": 27,
    "topic": "Pierce Brosnan",
    "heat": 34.6,
    "status": "steady",
@@ -2590,12 +2560,17 @@
    "paradox_signals": [],
    "best_channel": null,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -2605,7 +2580,7 @@
      "matched": [],
      "angle_hint": null
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -2631,12 +2606,12 @@
    "related_topics": []
   },
   {
-   "rank": 30,
-   "topic": "2026–27 UEFA Nations League",
-   "heat": 32.1,
+   "rank": 28,
+   "topic": "Russell Brand",
+   "heat": 34.4,
    "status": "steady",
-   "velocity": 0.11,
-   "why_hot": "2 source(s): googlenews, wikipedia; Wikipedia views 1.4x vs prior 4-day avg; Wikipedia views 1.3x vs prior 4-day avg; 93,874 views, 1.4x vs prior 4-day avg; Top #30, 5 outlets in cluster",
+   "velocity": 0.0,
+   "why_hot": "2 source(s): googlenews, wikipedia; Wikipedia views 0.8x vs prior 4-day avg; 86,201 views, 0.8x vs prior 4-day avg; Entertainment #22, 5 outlets in cluster",
    "sources": [
     "googlenews",
     "wikipedia"
@@ -2647,19 +2622,9 @@
     "n_regions": 0
    },
    "paradox_signals": [],
-   "best_channel": null,
+   "best_channel": "silver-paradox",
    "channel_fit": {
-    "plan-not-panic": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "shrink-down": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -2668,70 +2633,20 @@
      "score": 0,
      "matched": [],
      "angle_hint": null
-    }
-   },
-   "links": [
-    {
-     "source": "wikipedia",
-     "title": "2026–27 UEFA Nations League",
-     "url": "https://en.wikipedia.org/wiki/2026–27_UEFA_Nations_League",
-     "metric": "93,874 views, 1.4x vs prior 4-day avg"
     },
-    {
-     "source": "wikipedia",
-     "title": "UEFA Nations League",
-     "url": "https://en.wikipedia.org/wiki/UEFA_Nations_League",
-     "metric": "60,085 views, 1.3x vs prior 4-day avg"
-    },
-    {
-     "source": "googlenews",
-     "title": "Haaland sends Norway to Nations League quarters on last-minute penalty",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONjR5M2hTVHJwVVFucF9JV0JJbHdySDFsZkVkTUdDRDlYUGlBMWM1bjJEZmc2dkNELUNXN1dsM0s2SVpmbnBuSVVOWEN2ekFNU01QMUU3elFnQnNoc1lGMGpCeUF2cWVYd0RsQmtUTm5KWU1fOGFHalh4WDhuMUNXMDkwSGFDQlFxc1VMV1lOWTE0WjRWZFVCMElWdXFvRHQ3b3lIZXJfdw?oc=5",
-     "metric": "Top #30, 5 outlets in cluster"
-    }
-   ],
-   "keys": [
-    "2026 27 uefa nations league"
-   ],
-   "related_topics": []
-  },
-  {
-   "rank": 31,
-   "topic": "Philippines",
-   "heat": 31.9,
-   "status": "steady",
-   "velocity": 0.0,
-   "why_hot": "2 source(s): googlenews, x; X trend US #32; Entertainment #21, 5 outlets in cluster",
-   "sources": [
-    "googlenews",
-    "x"
-   ],
-   "regions": [
-    "US"
-   ],
-   "broad_appeal": {
-    "n_sources": 2,
-    "n_regions": 1
-   },
-   "paradox_signals": [],
-   "best_channel": null,
-   "channel_fit": {
     "plan-not-panic": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
     "silver-paradox": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
+     "score": 20,
+     "matched": [
+      "investigation"
+     ],
+     "angle_hint": "Long-form doc angle: the bigger story behind Russell Brand"
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -2739,25 +2654,25 @@
    },
    "links": [
     {
-     "source": "x",
-     "title": "Philippines",
-     "url": "https://x.com/search?q=Philippines",
-     "metric": "X trend US #32"
+     "source": "wikipedia",
+     "title": "Russell Brand",
+     "url": "https://en.wikipedia.org/wiki/Russell_Brand",
+     "metric": "86,201 views, 0.8x vs prior 4-day avg"
     },
     {
      "source": "googlenews",
-     "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHX0FIQW16YUNkMVZrZXBWM3ozZm5rZGt3OVo5ek5yTW9CTGZoS0hXQzBRZ2htMXphbXRPdmk2cEZIZHFpUmJYdEk4NXZ6S2NFZU9GS3VXODhSaG8?oc=5",
-     "metric": "Entertainment #21, 5 outlets in cluster"
+     "title": "Russell Brand sparks prison investigation after wife reads defiant message following rape conviction",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOY3VyZ3hvM0NLTW9KZUZKSjBkOU1mQ01EUFotQ29MaDRnZ21jSExCU2dQcGVTZ21KT1E1U1ctb0VPUDJBTDdxR2ZoSVVHTFJJalVHLWFORlJZaGhFaE1vX09uckZzdDZYQW9saG1EcUUxV3VhN09QT2xpaFNlTTgtNUdURGVxTm1ZdHZYREZXdm5JR3c4OURiVVVBNG1YbmJGdXFUOUx3SzZrbzJzOUVwWGtjRjVaS21CSWJOeWwwUDhIcEtweU1sQWktY2tPaGhHQ3FxS9IB2gFBVV95cUxOdUpObDlfaGhoVXU1VHNfWXNRNXlVUllyTnU2b1U2cm4zSG15NkVNMFhqTms2NWMzVFZVV0JtV3BSVTZDejluTGtIeDNMQmN4QkEyUDlOSUdIZ18xc0VkQ3dmMUVJS1JNXzJxdUhSaTh4WTFiSFNQMzRaZ2YwWHhjN0dKN1c2ekgyZ21UYldaTEQzRUFEdkdHenRRbkJjZWdSZ2NFUnE4amZxTXpaZlhINThBdjFaUWY3aFlOejBQajZTbUR1anRHaVlFWk1IVjhZSDd3eG96Z0Eydw?oc=5",
+     "metric": "Entertainment #22, 5 outlets in cluster"
     }
    ],
    "keys": [
-    "philippines"
+    "russell brand"
    ],
    "related_topics": []
   },
   {
-   "rank": 32,
+   "rank": 29,
    "topic": "Grimes",
    "heat": 31.2,
    "status": "cooling",
@@ -2778,12 +2693,17 @@
    "paradox_signals": [],
    "best_channel": null,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -2793,7 +2713,7 @@
      "matched": [],
      "angle_hint": null
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -2825,7 +2745,73 @@
    "related_topics": []
   },
   {
-   "rank": 33,
+   "rank": 30,
+   "topic": "Philippines",
+   "heat": 30.9,
+   "status": "steady",
+   "velocity": 0.0,
+   "why_hot": "2 source(s): googlenews, x; X trend US #32; Entertainment #23, 5 outlets in cluster",
+   "sources": [
+    "googlenews",
+    "x"
+   ],
+   "regions": [
+    "US"
+   ],
+   "broad_appeal": {
+    "n_sources": 2,
+    "n_regions": 1
+   },
+   "paradox_signals": [],
+   "best_channel": null,
+   "channel_fit": {
+    "go-there-instead": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "chess-blunder-club": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    }
+   },
+   "links": [
+    {
+     "source": "x",
+     "title": "Philippines",
+     "url": "https://x.com/search?q=Philippines",
+     "metric": "X trend US #32"
+    },
+    {
+     "source": "googlenews",
+     "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHX0FIQW16YUNkMVZrZXBWM3ozZm5rZGt3OVo5ek5yTW9CTGZoS0hXQzBRZ2htMXphbXRPdmk2cEZIZHFpUmJYdEk4NXZ6S2NFZU9GS3VXODhSaG8?oc=5",
+     "metric": "Entertainment #23, 5 outlets in cluster"
+    }
+   ],
+   "keys": [
+    "philippines"
+   ],
+   "related_topics": []
+  },
+  {
+   "rank": 31,
    "topic": "Hornets",
    "heat": 30.9,
    "status": "steady",
@@ -2846,12 +2832,17 @@
    "paradox_signals": [],
    "best_channel": null,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -2861,7 +2852,7 @@
      "matched": [],
      "angle_hint": null
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -2893,7 +2884,87 @@
    "related_topics": []
   },
   {
-   "rank": 34,
+   "rank": 32,
+   "topic": "Lakers",
+   "heat": 30.6,
+   "status": "cooling",
+   "velocity": 0.6,
+   "why_hot": "1 source(s): x; trending in 4 regions (GB, MX, US, Worldwide); X trend US #3",
+   "sources": [
+    "x"
+   ],
+   "regions": [
+    "GB",
+    "MX",
+    "US",
+    "Worldwide"
+   ],
+   "broad_appeal": {
+    "n_sources": 1,
+    "n_regions": 4
+   },
+   "paradox_signals": [],
+   "best_channel": null,
+   "channel_fit": {
+    "go-there-instead": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "chess-blunder-club": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    }
+   },
+   "links": [
+    {
+     "source": "x",
+     "title": "Lakers",
+     "url": "https://x.com/search?q=Lakers",
+     "metric": "X trend US #3"
+    },
+    {
+     "source": "x",
+     "title": "Lakers",
+     "url": "https://x.com/search?q=Lakers",
+     "metric": "X trend GB #6"
+    },
+    {
+     "source": "x",
+     "title": "Lakers",
+     "url": "https://x.com/search?q=Lakers",
+     "metric": "X trend Worldwide #6"
+    },
+    {
+     "source": "x",
+     "title": "Lakers",
+     "url": "https://x.com/search?q=Lakers",
+     "metric": "X trend MX #9"
+    }
+   ],
+   "keys": [
+    "lakers"
+   ],
+   "related_topics": []
+  },
+  {
+   "rank": 33,
    "topic": "Charles Lee",
    "heat": 30.2,
    "status": "steady",
@@ -2913,12 +2984,17 @@
    "paradox_signals": [],
    "best_channel": null,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -2928,7 +3004,7 @@
      "matched": [],
      "angle_hint": null
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -2954,7 +3030,7 @@
    "related_topics": []
   },
   {
-   "rank": 35,
+   "rank": 34,
    "topic": "Brandon Miller",
    "heat": 29.6,
    "status": "steady",
@@ -2974,12 +3050,17 @@
    "paradox_signals": [],
    "best_channel": null,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -2989,7 +3070,7 @@
      "matched": [],
      "angle_hint": null
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -3015,7 +3096,7 @@
    "related_topics": []
   },
   {
-   "rank": 36,
+   "rank": 35,
    "topic": "Naz Reid",
    "heat": 28.9,
    "status": "steady",
@@ -3035,12 +3116,17 @@
    "paradox_signals": [],
    "best_channel": null,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -3050,7 +3136,7 @@
      "matched": [],
      "angle_hint": null
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -3076,12 +3162,12 @@
    "related_topics": []
   },
   {
-   "rank": 37,
+   "rank": 36,
    "topic": "Twilight",
    "heat": 28.6,
-   "status": "new",
+   "status": "steady",
    "velocity": 0.0,
-   "why_hot": "2 source(s): x, youtube; X trend GB #41; YouTube most popular US/overall #2: 418,764 views, 17h old, Grace Reiter",
+   "why_hot": "2 source(s): x, youtube; X trend GB #41; YouTube most popular US/overall #2: 422,810 views, 17h old, Grace Reiter",
    "sources": [
     "x",
     "youtube"
@@ -3096,12 +3182,17 @@
    "paradox_signals": [],
    "best_channel": null,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -3111,7 +3202,7 @@
      "matched": [],
      "angle_hint": null
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -3122,7 +3213,7 @@
      "source": "youtube",
      "title": "Twilight (But Better) Teaser Trailer",
      "url": "https://www.youtube.com/watch?v=5GB00NsVH3Q",
-     "metric": "YouTube most popular US/overall #2: 418,764 views, 17h old, Grace Reiter"
+     "metric": "YouTube most popular US/overall #2: 422,810 views, 17h old, Grace Reiter"
     },
     {
      "source": "x",
@@ -3133,6 +3224,76 @@
    ],
    "keys": [
     "twilight"
+   ],
+   "related_topics": []
+  },
+  {
+   "rank": 37,
+   "topic": "Body Problem",
+   "heat": 27.8,
+   "status": "new",
+   "velocity": 0.0,
+   "why_hot": "2 source(s): hackernews, youtube; 4 pts, 1 comments, 87h old; YouTube most popular US/overall #5: 1,093,487 views, 17h old, Netflix",
+   "sources": [
+    "hackernews",
+    "youtube"
+   ],
+   "regions": [],
+   "broad_appeal": {
+    "n_sources": 2,
+    "n_regions": 0
+   },
+   "paradox_signals": [],
+   "best_channel": null,
+   "channel_fit": {
+    "go-there-instead": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "chess-blunder-club": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    }
+   },
+   "links": [
+    {
+     "source": "youtube",
+     "title": "3 Body Problem: Season 2 | Official Teaser | Netflix",
+     "url": "https://www.youtube.com/watch?v=KInfw7kCPkc",
+     "metric": "YouTube most popular US/overall #5: 1,093,487 views, 17h old, Netflix"
+    },
+    {
+     "source": "youtube",
+     "title": "THE DARK FOREST IS COMING! | Three Body Problem Trailer Analysis",
+     "url": "https://www.youtube.com/watch?v=G6M8aZy0P44",
+     "metric": "YouTube most popular US/overall #50: 113,693 views, 11h old, Quinn's Ideas"
+    },
+    {
+     "source": "hackernews",
+     "title": "43k+ new periodic solutions to the three body problem found by volunteers",
+     "url": "https://news.ycombinator.com/item?id=50498623",
+     "metric": "4 pts, 1 comments, 87h old"
+    }
+   ],
+   "keys": [
+    "body problem"
    ],
    "related_topics": []
   },
@@ -3154,12 +3315,17 @@
    "paradox_signals": [],
    "best_channel": null,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -3169,7 +3335,7 @@
      "matched": [],
      "angle_hint": null
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -3206,12 +3372,17 @@
    "paradox_signals": [],
    "best_channel": null,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -3221,7 +3392,7 @@
      "matched": [],
      "angle_hint": null
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -3258,12 +3429,17 @@
    "paradox_signals": [],
    "best_channel": null,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -3273,7 +3449,7 @@
      "matched": [],
      "angle_hint": null
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -3327,19 +3503,7 @@
    "days_until": 22,
    "likely_heat": 96.0,
    "channel_fit": {
-    "plan-not-panic": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "shrink-down": {
-     "score": 15,
-     "matched": [
-      "game"
-     ],
-     "angle_hint": "How The Game Awards 2026 is actually built: the tech behind the game/film everyone is talking about"
-    },
-    "silver-paradox": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -3350,6 +3514,21 @@
       "tech"
      ],
      "angle_hint": "Comedic tech-fail take on The Game Awards 2026"
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "chess-blunder-club": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
     }
    },
    "best_channel": "intern-broke-it",
@@ -3370,7 +3549,7 @@
       "url": "https://archive.org/search?query=title%3A%28The%20Game%20Awards%202026%29&and[]=mediatype%3A%22movies%22",
       "examples": [
        "https://archive.org/details/youtube-aqPJwniYyHQ",
-       "https://archive.org/details/youtube-cesAWSRsGDc"
+       "https://archive.org/details/youtube-yEemGXZyQhQ"
       ]
      },
      {
@@ -3411,20 +3590,7 @@
    "days_until": 2,
    "likely_heat": 84.5,
    "channel_fit": {
-    "plan-not-panic": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "shrink-down": {
-     "score": 30,
-     "matched": [
-      "movie",
-      "film"
-     ],
-     "angle_hint": "The 'how does that even work?' explainer behind Film release: The Hunger Games: Sunrise on the Reaping"
-    },
-    "silver-paradox": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -3433,9 +3599,24 @@
      "score": 0,
      "matched": [],
      "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "chess-blunder-club": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
     }
    },
-   "best_channel": "shrink-down",
+   "best_channel": null,
    "footage": {
     "query": "The Hunger Games Sunrise on the",
     "checked": [
@@ -3450,8 +3631,8 @@
       "hits": 4,
       "url": "https://archive.org/search?query=title%3A%28The%20Hunger%20Games%20Sunrise%20on%20the%29&and[]=mediatype%3A%22movies%22",
       "examples": [
-       "https://archive.org/details/sijjhub-media-1300968-1794390846",
-       "https://archive.org/details/sijjhub-media-1300968-1794397844"
+       "https://archive.org/details/youtube-OHvyj7eEtYI",
+       "https://archive.org/details/sijjhub-media-1300968-1794390846"
       ]
      },
      {
@@ -3492,20 +3673,7 @@
    "days_until": 7,
    "likely_heat": 80.2,
    "channel_fit": {
-    "plan-not-panic": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "shrink-down": {
-     "score": 30,
-     "matched": [
-      "movie",
-      "film"
-     ],
-     "angle_hint": "The 'how does that even work?' explainer behind Film release: Focker-in-Law"
-    },
-    "silver-paradox": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -3514,9 +3682,24 @@
      "score": 0,
      "matched": [],
      "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "chess-blunder-club": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
     }
    },
-   "best_channel": "shrink-down",
+   "best_channel": null,
    "footage": {
     "query": "Focker-in-Law",
     "checked": [
@@ -3573,20 +3756,7 @@
    "days_until": 2,
    "likely_heat": 80.0,
    "channel_fit": {
-    "plan-not-panic": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "shrink-down": {
-     "score": 30,
-     "matched": [
-      "movie",
-      "film"
-     ],
-     "angle_hint": "The 'how does that even work?' explainer behind Film release: Elsinore"
-    },
-    "silver-paradox": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -3595,9 +3765,24 @@
      "score": 0,
      "matched": [],
      "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "chess-blunder-club": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
     }
    },
-   "best_channel": "shrink-down",
+   "best_channel": null,
    "footage": {
     "query": "Elsinore film",
     "checked": [
@@ -3651,22 +3836,7 @@
    "days_until": 30,
    "likely_heat": 76.3,
    "channel_fit": {
-    "plan-not-panic": {
-     "score": 0,
-     "matched": [
-      "(excluded keyword)"
-     ],
-     "angle_hint": null
-    },
-    "shrink-down": {
-     "score": 30,
-     "matched": [
-      "movie",
-      "film"
-     ],
-     "angle_hint": "The 'how does that even work?' explainer behind Film release: Avengers: Doomsday"
-    },
-    "silver-paradox": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -3675,9 +3845,26 @@
      "score": 0,
      "matched": [],
      "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [
+      "(excluded keyword)"
+     ],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "chess-blunder-club": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
     }
    },
-   "best_channel": "shrink-down",
+   "best_channel": null,
    "footage": {
     "query": "Avengers Doomsday",
     "checked": [
@@ -3692,8 +3879,8 @@
       "hits": 115,
       "url": "https://archive.org/search?query=title%3A%28Avengers%20Doomsday%29&and[]=mediatype%3A%22movies%22",
       "examples": [
-       "https://archive.org/details/youtube-2coTNvzwbh4",
-       "https://archive.org/details/httpsen.wikipedia.orgwikiavengers_doomsday_20261114"
+       "https://archive.org/details/httpsen.wikipedia.orgwikiavengers_doomsday_20261116",
+       "https://archive.org/details/2026-0730-173006"
       ]
      },
      {
@@ -3743,6 +3930,18 @@
    "days_until": 9,
    "likely_heat": 75.7,
    "channel_fit": {
+    "go-there-instead": {
+     "score": 10,
+     "matched": [
+      "holiday"
+     ],
+     "angle_hint": "Skip X, go to Y: the travel angle on Black Friday"
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
     "plan-not-panic": {
      "score": 20,
      "matched": [
@@ -3751,17 +3950,12 @@
      ],
      "angle_hint": "Practical prep angle on Black Friday: what normal households should actually do"
     },
-    "shrink-down": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
     "silver-paradox": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -3785,8 +3979,8 @@
       "hits": 45,
       "url": "https://archive.org/search?query=title%3A%28Black%20Friday%20shopping%29&and[]=mediatype%3A%22movies%22",
       "examples": [
-       "https://archive.org/details/y-2mate.com-classic-caillou-misbehaves-at-super-target-on-black-friday-shopping-",
-       "https://archive.org/details/factvwi-BBB_Black_Friday_Shopping_Tips_11-14-22"
+       "https://archive.org/details/youtube-TrcjT0qaOkQ",
+       "https://archive.org/details/youtube-1OJtmDmQrqI"
       ]
      },
      {
@@ -3833,6 +4027,18 @@
    "days_until": 8,
    "likely_heat": 75.4,
    "channel_fit": {
+    "go-there-instead": {
+     "score": 10,
+     "matched": [
+      "holiday"
+     ],
+     "angle_hint": "Skip X, go to Y: the travel angle on Thanksgiving Day (US federal holiday)"
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
     "plan-not-panic": {
      "score": 10,
      "matched": [
@@ -3840,23 +4046,18 @@
      ],
      "angle_hint": "Practical prep angle on Thanksgiving Day (US federal holiday): what normal households should actually do"
     },
-    "shrink-down": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
     "silver-paradox": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     }
    },
-   "best_channel": "plan-not-panic",
+   "best_channel": "go-there-instead",
    "footage": {
     "query": "Thanksgiving United States",
     "checked": [
@@ -3915,20 +4116,7 @@
    "days_until": 16,
    "likely_heat": 74.2,
    "channel_fit": {
-    "plan-not-panic": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "shrink-down": {
-     "score": 30,
-     "matched": [
-      "movie",
-      "film"
-     ],
-     "angle_hint": "The 'how does that even work?' explainer behind Film release: Behemoth!"
-    },
-    "silver-paradox": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -3937,9 +4125,24 @@
      "score": 0,
      "matched": [],
      "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "chess-blunder-club": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
     }
    },
-   "best_channel": "shrink-down",
+   "best_channel": null,
    "footage": {
     "query": "Behemoth!",
     "checked": [
@@ -3957,8 +4160,8 @@
       "hits": 101,
       "url": "https://archive.org/search?query=title%3A%28Behemoth%21%29&and[]=mediatype%3A%22movies%22",
       "examples": [
-       "https://archive.org/details/youtube-9lCrpbKhvEw",
-       "https://archive.org/details/bliptv-20131014-152959-Beergeeknation-ThreeFloydsBehemothBarleyWineWhiteWaxBeerGeekNationBe389"
+       "https://archive.org/details/gost_behemoth_perturbator_remix",
+       "https://archive.org/details/twitter-1357305906346799105"
       ]
      },
      {
@@ -3999,20 +4202,7 @@
    "days_until": 7,
    "likely_heat": 73.3,
    "channel_fit": {
-    "plan-not-panic": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "shrink-down": {
-     "score": 30,
-     "matched": [
-      "movie",
-      "film"
-     ],
-     "angle_hint": "The 'how does that even work?' explainer behind Film release: The Further Mis-Adventures of Cliff Booth"
-    },
-    "silver-paradox": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -4021,17 +4211,30 @@
      "score": 0,
      "matched": [],
      "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "chess-blunder-club": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
     }
    },
-   "best_channel": "shrink-down",
+   "best_channel": null,
    "footage": {
     "query": "The Further Mis-Adventures of Cliff Booth",
     "checked": [
      {
       "source": "Wikimedia Commons (video)",
-      "hits": 0,
-      "url": "https://commons.wikimedia.org/w/index.php?search=The%20Further%20Mis-Adventures%20of%20Cliff%20Booth%20filetype%3Avideo&ns6=1",
-      "examples": []
+      "error": "Expecting value: line 1 column 1 (char 0)"
      },
      {
       "source": "Internet Archive (movies)",
@@ -4077,20 +4280,7 @@
    "days_until": 7,
    "likely_heat": 71.2,
    "channel_fit": {
-    "plan-not-panic": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "shrink-down": {
-     "score": 30,
-     "matched": [
-      "movie",
-      "film"
-     ],
-     "angle_hint": "The 'how does that even work?' explainer behind Film release: Hexed"
-    },
-    "silver-paradox": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -4099,20 +4289,30 @@
      "score": 0,
      "matched": [],
      "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "chess-blunder-club": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
     }
    },
-   "best_channel": "shrink-down",
+   "best_channel": null,
    "footage": {
     "query": "Hexed 2026 film",
     "checked": [
      {
       "source": "Wikimedia Commons (video)",
-      "hits": 48,
-      "url": "https://commons.wikimedia.org/w/index.php?search=Hexed%202026%20film%20filetype%3Avideo&ns6=1",
-      "examples": [
-       "https://commons.wikimedia.org/wiki/File:Ronnie_O’Sullivan_at_German_Masters_Snooker_Final_(DerHexer)_2012-02-05_2.ogv",
-       "https://commons.wikimedia.org/wiki/File:Stephen_Maguire_at_German_Masters_Snooker_Final_(DerHexer)_2012-02-05_4.ogv"
-      ]
+      "error": "Expecting value: line 1 column 1 (char 0)"
      },
      {
       "source": "Internet Archive (movies)",
@@ -4131,7 +4331,7 @@
      "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
      "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
     ],
-    "confidence": "medium",
+    "confidence": "none-found",
     "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
    }
   },
@@ -4166,17 +4366,7 @@
    "days_until": 12,
    "likely_heat": 70.0,
    "channel_fit": {
-    "plan-not-panic": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "shrink-down": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -4187,6 +4377,21 @@
       "tech"
      ],
      "angle_hint": "Comedic tech-fail take on Cyber Monday"
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "chess-blunder-club": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
     }
    },
    "best_channel": "intern-broke-it",
@@ -4202,8 +4407,8 @@
       "hits": 68,
       "url": "https://archive.org/search?query=title%3A%28Cyber%20Monday%29&and[]=mediatype%3A%22movies%22",
       "examples": [
-       "https://archive.org/details/Scottevest-NewsletterEmailCyberMonday374",
-       "https://archive.org/details/youtube-H6Tt_zXl2OA"
+       "https://archive.org/details/g4tv.com-video50077",
+       "https://archive.org/details/PearlUSACyberMonday20PercentOffSale"
       ]
      },
      {
@@ -4250,6 +4455,18 @@
    "days_until": 37,
    "likely_heat": 69.9,
    "channel_fit": {
+    "go-there-instead": {
+     "score": 10,
+     "matched": [
+      "holiday"
+     ],
+     "angle_hint": "Skip X, go to Y: the travel angle on Christmas Day (US federal holiday)"
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
     "plan-not-panic": {
      "score": 10,
      "matched": [
@@ -4257,23 +4474,18 @@
      ],
      "angle_hint": "Practical prep angle on Christmas Day (US federal holiday): what normal households should actually do"
     },
-    "shrink-down": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
     "silver-paradox": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     }
    },
-   "best_channel": "plan-not-panic",
+   "best_channel": "go-there-instead",
    "footage": {
     "query": "Christmas",
     "checked": [
@@ -4286,8 +4498,8 @@
       "hits": 31249,
       "url": "https://archive.org/search?query=title%3A%28Christmas%29&and[]=mediatype%3A%22movies%22",
       "examples": [
-       "https://archive.org/details/funny_or_die_video_013570863c",
-       "https://archive.org/details/colbca-Signal_Hill_Christmas_Tree_Lighting_Ceremony"
+       "https://archive.org/details/twitch-vod-v2656884680",
+       "https://archive.org/details/vid-20250910-123229-36s"
       ]
      },
      {
@@ -4337,6 +4549,19 @@
    "days_until": 44,
    "likely_heat": 69.0,
    "channel_fit": {
+    "go-there-instead": {
+     "score": 20,
+     "matched": [
+      "holiday",
+      "new year"
+     ],
+     "angle_hint": "Skip X, go to Y: the travel angle on New Year's Day (US federal holiday)"
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
     "plan-not-panic": {
      "score": 10,
      "matched": [
@@ -4344,23 +4569,18 @@
      ],
      "angle_hint": "Practical prep angle on New Year's Day (US federal holiday): what normal households should actually do"
     },
-    "shrink-down": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
     "silver-paradox": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     }
    },
-   "best_channel": "plan-not-panic",
+   "best_channel": "go-there-instead",
    "footage": {
     "query": "New Year s Day",
     "checked": [
@@ -4373,8 +4593,8 @@
       "hits": 2,
       "url": "https://archive.org/search?query=title%3A%28New%20Year%20s%20Day%29&and[]=mediatype%3A%22movies%22",
       "examples": [
-       "https://archive.org/details/youtube-_9eL38ukwvg",
-       "https://archive.org/details/youtube-F37pfSSX5Bo"
+       "https://archive.org/details/youtube-F37pfSSX5Bo",
+       "https://archive.org/details/youtube-_9eL38ukwvg"
       ]
      },
      {
@@ -4427,20 +4647,7 @@
    "days_until": 30,
    "likely_heat": 67.9,
    "channel_fit": {
-    "plan-not-panic": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "shrink-down": {
-     "score": 30,
-     "matched": [
-      "movie",
-      "film"
-     ],
-     "angle_hint": "The 'how does that even work?' explainer behind Dune: Part Three (US release)"
-    },
-    "silver-paradox": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -4449,9 +4656,24 @@
      "score": 0,
      "matched": [],
      "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "chess-blunder-club": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
     }
    },
-   "best_channel": "shrink-down",
+   "best_channel": null,
    "footage": {
     "query": "Dune Part Three",
     "checked": [
@@ -4464,8 +4686,8 @@
       "hits": 6,
       "url": "https://archive.org/search?query=title%3A%28Dune%20Part%20Three%29&and[]=mediatype%3A%22movies%22",
       "examples": [
-       "https://archive.org/details/dune-part-three-2026-trailer-1-4k-uhd-lossless",
-       "https://archive.org/details/dune-part-three-trailer-1-4k-prores"
+       "https://archive.org/details/dune-3-trl-16x-9-2-intl-date-imax",
+       "https://archive.org/details/dune-part-three-imax-trailer-1-4k-prores"
       ]
      },
      {
@@ -4480,6 +4702,102 @@
      "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
     ],
     "confidence": "medium",
+    "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
+   }
+  },
+  {
+   "name": "World Chess Championship 2026 (Gukesh vs Sindarov, Geneva): Game 1",
+   "date": "2026-11-24",
+   "category": "sports",
+   "source_url": "https://www.fide.com/salesforce-fide-world-championship-match-2026-schedule-format-and-prize-fund-confirmed/",
+   "verified": true,
+   "verify_note": "date text found on source",
+   "rule": "Classical games Nov 24 - Dec 11, tiebreaks (if needed) Dec 12, 3 pm Geneva = 9 AM ET (FIDE)",
+   "tags": [
+    "chess",
+    "world chess championship",
+    "fide",
+    "gukesh",
+    "sindarov",
+    "xadrez"
+   ],
+   "origin": "curated",
+   "hype_now": {
+    "article": "World_Chess_Championship_2026",
+    "avg_daily_views_7d": 2624,
+    "avg_daily_views_prior_28d": 1594,
+    "trend_ratio": 1.65,
+    "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=World_Chess_Championship_2026&range=latest-60"
+   },
+   "last_year": {
+    "article": "World_Chess_Championship_2024",
+    "window": "2025-11-21..2025-11-27",
+    "peak_daily_views": 1233,
+    "total_views": 5998,
+    "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=World_Chess_Championship_2024&start=2025-11-21&end=2025-11-27"
+   },
+   "days_until": 6,
+   "likely_heat": 63.8,
+   "channel_fit": {
+    "go-there-instead": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "chess-blunder-club": {
+     "score": 100,
+     "matched": [
+      "chess",
+      "xadrez",
+      "world chess championship",
+      "fide",
+      "gukesh",
+      "sindarov"
+     ],
+     "angle_hint": "Trap of the day: the opening trap from World Chess Championship 2026 (Gukesh vs Sindarov, Geneva): Game 1, explained in 30s (post EN + PT 'armadilha do dia')"
+    }
+   },
+   "best_channel": "chess-blunder-club",
+   "footage": {
+    "query": "World Chess Championship 2026",
+    "checked": [
+     {
+      "source": "Wikimedia Commons (video)",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+     },
+     {
+      "source": "Internet Archive (movies)",
+      "hits": 0,
+      "url": "https://archive.org/search?query=title%3A%28World%20Chess%20Championship%202026%29&and[]=mediatype%3A%22movies%22",
+      "examples": []
+     },
+     {
+      "source": "NASA Image & Video Library (video)",
+      "hits": 0,
+      "url": "https://images.nasa.gov/search?q=World%20Chess%20Championship%202026&page=1&media=video",
+      "examples": []
+     }
+    ],
+    "to_verify": [
+     "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
+     "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
+    ],
+    "confidence": "none-found",
     "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
    }
   },
@@ -4505,12 +4823,19 @@
    "days_until": 5,
    "likely_heat": 63.1,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
+     "score": 10,
+     "matched": [
+      "city"
+     ],
+     "angle_hint": "Skip X, go to Y: the travel angle on 150th anniversary: William \"Boss\" Tweed, a New York City politician who had been arrested for embezzlement, was handed over to US authorities after having escaped from prison and "
+    },
+    "intern-broke-it": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
+    "plan-not-panic": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -4523,40 +4848,13 @@
      ],
      "angle_hint": "Documentary retrospective: 150th anniversary: William \"Boss\" Tweed, a New York City politician who had been arrested for embezzlement, was handed over to US authorities after having escaped from prison and , what really happened and why it still matters"
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     }
    },
-   "best_channel": "silver-paradox",
-   "footage": {
-    "query": "William M. Tweed",
-    "checked": [
-     {
-      "source": "Wikimedia Commons (video)",
-      "error": "Expecting value: line 1 column 1 (char 0)"
-     },
-     {
-      "source": "Internet Archive (movies)",
-      "hits": 0,
-      "url": "https://archive.org/search?query=title%3A%28William%20M.%20Tweed%29&and[]=mediatype%3A%22movies%22",
-      "examples": []
-     },
-     {
-      "source": "NASA Image & Video Library (video)",
-      "hits": 0,
-      "url": "https://images.nasa.gov/search?q=William%20M.%20Tweed&page=1&media=video",
-      "examples": []
-     }
-    ],
-    "to_verify": [
-     "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
-     "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
-    ],
-    "confidence": "none-found",
-    "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
-   }
+   "best_channel": "silver-paradox"
   },
   {
    "name": "New Year's Eve (Times Square ball drop, worldwide celebrations)",
@@ -4590,17 +4888,25 @@
    "days_until": 43,
    "likely_heat": 62.9,
    "channel_fit": {
+    "go-there-instead": {
+     "score": 20,
+     "matched": [
+      "holiday",
+      "new year"
+     ],
+     "angle_hint": "Skip X, go to Y: the travel angle on New Year's Eve (Times Square ball drop, worldwide celebrations)"
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
     "plan-not-panic": {
      "score": 10,
      "matched": [
       "holiday"
      ],
      "angle_hint": "Practical prep angle on New Year's Eve (Times Square ball drop, worldwide celebrations): what normal households should actually do"
-    },
-    "shrink-down": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
     },
     "silver-paradox": {
      "score": 30,
@@ -4609,7 +4915,7 @@
      ],
      "angle_hint": "Documentary retrospective: New Year's Eve (Times Square ball drop, worldwide celebrations), what really happened and why it still matters"
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -4640,12 +4946,17 @@
    "days_until": 18,
    "likely_heat": 62.3,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -4655,7 +4966,7 @@
      "matched": [],
      "angle_hint": null
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -4695,19 +5006,20 @@
    "days_until": 22,
    "likely_heat": 62.3,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
-     "score": 90,
-     "matched": [
-      "physics",
-      "science",
-      "discovery"
-     ],
-     "angle_hint": "The 'how does that even work?' explainer behind Nobel Prize award ceremonies (Stockholm & Oslo)"
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
     },
     "silver-paradox": {
      "score": 80,
@@ -4718,13 +5030,82 @@
      ],
      "angle_hint": "Documentary retrospective: Nobel Prize award ceremonies (Stockholm & Oslo), what really happened and why it still matters"
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     }
    },
-   "best_channel": "shrink-down"
+   "best_channel": "silver-paradox"
+  },
+  {
+   "name": "World Chess Championship 2026: final scheduled classical game (tiebreaks Dec 12 if needed)",
+   "date": "2026-12-11",
+   "category": "sports",
+   "source_url": "https://www.fide.com/salesforce-fide-world-championship-match-2026-schedule-format-and-prize-fund-confirmed/",
+   "verified": true,
+   "verify_note": "date text found on source",
+   "rule": null,
+   "tags": [
+    "chess",
+    "world chess championship",
+    "fide",
+    "gukesh",
+    "sindarov",
+    "xadrez"
+   ],
+   "origin": "curated",
+   "hype_now": {
+    "article": "World_Chess_Championship_2026",
+    "avg_daily_views_7d": 2624,
+    "avg_daily_views_prior_28d": 1594,
+    "trend_ratio": 1.65,
+    "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=World_Chess_Championship_2026&range=latest-60"
+   },
+   "last_year": {
+    "article": "World_Chess_Championship_2026",
+    "window": "2025-12-08..2025-12-14",
+    "peak_daily_views": 1557,
+    "total_views": 7323,
+    "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=World_Chess_Championship_2026&start=2025-12-08&end=2025-12-14"
+   },
+   "days_until": 23,
+   "likely_heat": 61.7,
+   "channel_fit": {
+    "go-there-instead": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "chess-blunder-club": {
+     "score": 100,
+     "matched": [
+      "chess",
+      "xadrez",
+      "world chess championship",
+      "fide",
+      "gukesh",
+      "sindarov"
+     ],
+     "angle_hint": "Trap of the day: the opening trap from World Chess Championship 2026: final scheduled classical game (tiebreaks Dec 12 if needed), explained in 30s (post EN + PT 'armadilha do dia')"
+    }
+   },
+   "best_channel": "chess-blunder-club"
   },
   {
    "name": "Chanukah begins",
@@ -4756,6 +5137,18 @@
    "days_until": 16,
    "likely_heat": 61.3,
    "channel_fit": {
+    "go-there-instead": {
+     "score": 10,
+     "matched": [
+      "holiday"
+     ],
+     "angle_hint": "Skip X, go to Y: the travel angle on Chanukah begins"
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
     "plan-not-panic": {
      "score": 10,
      "matched": [
@@ -4763,23 +5156,18 @@
      ],
      "angle_hint": "Practical prep angle on Chanukah begins: what normal households should actually do"
     },
-    "shrink-down": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
     "silver-paradox": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     }
    },
-   "best_channel": "plan-not-panic"
+   "best_channel": "go-there-instead"
   },
   {
    "name": "Geminid meteor shower peak",
@@ -4813,18 +5201,20 @@
    "days_until": 26,
    "likely_heat": 60.5,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
-     "score": 60,
-     "matched": [
-      "space",
-      "meteor"
-     ],
-     "angle_hint": "What's really happening during Geminid meteor shower peak (and why it looks the way it does)"
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
     },
     "silver-paradox": {
      "score": 20,
@@ -4833,13 +5223,13 @@
      ],
      "angle_hint": "Long-form doc angle: the bigger story behind Geminid meteor shower peak"
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     }
    },
-   "best_channel": "shrink-down"
+   "best_channel": "silver-paradox"
   },
   {
    "name": "250th anniversary: American Revolutionary War: The Battle of Fort Lee saw the invasion of New Jersey by British and Hessian forces and the subsequent general retreat of the Contin",
@@ -4863,12 +5253,17 @@
    "days_until": 2,
    "likely_heat": 59.8,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -4882,7 +5277,7 @@
      ],
      "angle_hint": "Documentary retrospective: 250th anniversary: American Revolutionary War: The Battle of Fort Lee saw the invasion of New Jersey by British and Hessian forces and the subsequent general retreat of the Contin, what really happened and why it still matters"
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -4912,12 +5307,17 @@
    "days_until": 11,
    "likely_heat": 59.8,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -4931,7 +5331,7 @@
      ],
      "angle_hint": "Documentary retrospective: 250th anniversary: American Revolutionary War: British reinforcements brought an end to the Patriot attempt to capture Fort Cumberland in Nova Scotia., what really happened and why it still matters"
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -4971,6 +5371,16 @@
    "days_until": 12,
    "likely_heat": 57.9,
    "channel_fit": {
+    "go-there-instead": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
     "plan-not-panic": {
      "score": 70,
      "matched": [
@@ -4980,17 +5390,12 @@
      ],
      "angle_hint": "Calm 60-second checklist: what Atlantic hurricane season officially ends means for your home and the 3 things to do before it hits"
     },
-    "shrink-down": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
     "silver-paradox": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -5030,6 +5435,18 @@
    "days_until": 33,
    "likely_heat": 56.1,
    "channel_fit": {
+    "go-there-instead": {
+     "score": 10,
+     "matched": [
+      "winter"
+     ],
+     "angle_hint": "Skip the famous one, go here instead: a Solstice (winter begins, N. Hemisphere) 20:50 UTC alternative with fewer crowds"
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
     "plan-not-panic": {
      "score": 20,
      "matched": [
@@ -5038,15 +5455,6 @@
      ],
      "angle_hint": "Practical prep angle on Solstice (winter begins, N. Hemisphere) 20:50 UTC: what normal households should actually do"
     },
-    "shrink-down": {
-     "score": 80,
-     "matched": [
-      "space",
-      "solstice",
-      "sun"
-     ],
-     "angle_hint": "What's really happening during Solstice (winter begins, N. Hemisphere) 20:50 UTC (and why it looks the way it does)"
-    },
     "silver-paradox": {
      "score": 20,
      "matched": [
@@ -5054,13 +5462,13 @@
      ],
      "angle_hint": "Long-form doc angle: the bigger story behind Solstice (winter begins, N. Hemisphere) 20:50 UTC"
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     }
    },
-   "best_channel": "shrink-down"
+   "best_channel": "plan-not-panic"
   },
   {
    "name": "25th anniversary: Less than two months after disclosing accounting violations, the Texas-based energy firm Enron filed for Chapter 11 bankruptcy, evaporating nearly $11 billion i",
@@ -5084,12 +5492,17 @@
    "days_until": 14,
    "likely_heat": 55.5,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -5103,7 +5516,7 @@
      ],
      "angle_hint": "Documentary retrospective: 25th anniversary: Less than two months after disclosing accounting violations, the Texas-based energy firm Enron filed for Chapter 11 bankruptcy, evaporating nearly $11 billion i, what really happened and why it still matters"
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -5133,12 +5546,17 @@
    "days_until": 35,
    "likely_heat": 54.8,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -5152,7 +5570,7 @@
      ],
      "angle_hint": "Documentary retrospective: 250th anniversary: American Revolutionary War: American troops, overwhelmed by British reinforcements, retreated from the Battle of Iron Works Hill., what really happened and why it still matters"
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -5182,17 +5600,20 @@
    "days_until": 38,
    "likely_heat": 54.1,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
-     "score": 30,
-     "matched": [
-      "launch"
-     ],
-     "angle_hint": "The 'how does that even work?' explainer behind 250th anniversary: American Revolutionary War: George Washington led a Continental Army column across the Delaware River to launch a surprise attack against Hessian forces at the "
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
     },
     "silver-paradox": {
      "score": 90,
@@ -5203,7 +5624,7 @@
      ],
      "angle_hint": "Documentary retrospective: 250th anniversary: American Revolutionary War: George Washington led a Continental Army column across the Delaware River to launch a surprise attack against Hessian forces at the , what really happened and why it still matters"
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -5242,12 +5663,17 @@
    "days_until": 53,
    "likely_heat": 53.1,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -5257,7 +5683,7 @@
      "matched": [],
      "angle_hint": null
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -5287,12 +5713,17 @@
    "days_until": 9,
    "likely_heat": 52.5,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -5305,7 +5736,7 @@
      ],
      "angle_hint": "Documentary retrospective: 25th anniversary: Astronomers announced the detection of sodium in the atmosphere of the extrasolar planet HD 209458 b, the first exoplanet atmosphere to be measured., what really happened and why it still matters"
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -5335,12 +5766,17 @@
    "days_until": 45,
    "likely_heat": 52.5,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -5354,7 +5790,7 @@
      ],
      "angle_hint": "Documentary retrospective: 250th anniversary: American Revolutionary War: American forces under the command of George Washington repulsed a British attack at the Battle of the Assunpink Creek near Trenton, , what really happened and why it still matters"
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -5384,12 +5820,17 @@
    "days_until": 46,
    "likely_heat": 52.2,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -5403,7 +5844,7 @@
      ],
      "angle_hint": "Documentary retrospective: 250th anniversary: American Revolutionary War: American forces commanded by George Washington defeated British troops at the Battle of Princeton (depicted)., what really happened and why it still matters"
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -5433,12 +5874,17 @@
    "days_until": 15,
    "likely_heat": 50.4,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -5452,7 +5898,7 @@
      ],
      "angle_hint": "Documentary retrospective: 50th anniversary: Jamaican reggae musician Bob Marley survived an assassination attempt by seven gunmen in Kingston., what really happened and why it still matters"
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -5482,12 +5928,17 @@
    "days_until": 31,
    "likely_heat": 49.3,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -5500,10 +5951,12 @@
      ],
      "angle_hint": "Documentary retrospective: 250th anniversary: Thomas Paine published the first in a series of pamphlets entitled The American Crisis, opening with the line: \"These are the times that try men's souls.\", what really happened and why it still matters"
     },
-    "intern-broke-it": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
+    "chess-blunder-club": {
+     "score": 25,
+     "matched": [
+      "opening"
+     ],
+     "angle_hint": "Chess blunder angle on 250th anniversary: Thomas Paine published the first in a series of pamphlets entitled The American Crisis, opening with the line: \"These are the times that try men's souls.\" (EN + PT versions; PT does better)"
     }
    },
    "best_channel": "silver-paradox"
@@ -5530,12 +5983,20 @@
    "days_until": 34,
    "likely_heat": 47.6,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
+     "score": 60,
+     "matched": [
+      "flight",
+      "paris"
+     ],
+     "angle_hint": "Travel news in 30s: what 25th anniversary: Richard Reid unsuccessfully attempted to detonate a bomb in his shoe on a transatlantic flight from Paris to Miami. means for your trip, and the smarter place or route to pick instead"
+    },
+    "intern-broke-it": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
+    "plan-not-panic": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -5548,13 +6009,13 @@
      ],
      "angle_hint": "Documentary retrospective: 25th anniversary: Richard Reid unsuccessfully attempted to detonate a bomb in his shoe on a transatlantic flight from Paris to Miami., what really happened and why it still matters"
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     }
    },
-   "best_channel": "silver-paradox"
+   "best_channel": "go-there-instead"
   },
   {
    "name": "50th anniversary: The English punk-rock band Sex Pistols' lewd and disruptive behaviour at Heathrow Airport prompted the record label EMI to end their contract.",
@@ -5578,17 +6039,22 @@
    "days_until": 47,
    "likely_heat": 46.7,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
+     "score": 30,
+     "matched": [
+      "airport"
+     ],
+     "angle_hint": "Travel news in 30s: what 50th anniversary: The English punk-rock band Sex Pistols' lewd and disruptive behaviour at Heathrow Airport prompted the record label EMI to end their contract. means for your trip, and the smarter place or route to pick instead"
+    },
+    "intern-broke-it": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
-     "score": 10,
-     "matched": [
-      "record"
-     ],
-     "angle_hint": "The 'how does that even work?' explainer behind 50th anniversary: The English punk-rock band Sex Pistols' lewd and disruptive behaviour at Heathrow Airport prompted the record label EMI to end their contract."
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
     },
     "silver-paradox": {
      "score": 80,
@@ -5599,7 +6065,7 @@
      ],
      "angle_hint": "Documentary retrospective: 50th anniversary: The English punk-rock band Sex Pistols' lewd and disruptive behaviour at Heathrow Airport prompted the record label EMI to end their contract., what really happened and why it still matters"
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -5629,18 +6095,20 @@
    "days_until": 53,
    "likely_heat": 44.3,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
-     "score": 45,
-     "matched": [
-      "science",
-      "film"
-     ],
-     "angle_hint": "The 'how does that even work?' explainer behind 100th anniversary: The science fiction film Metropolis, directed by Fritz Lang, was released in Germany."
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
     },
     "silver-paradox": {
      "score": 60,
@@ -5650,7 +6118,7 @@
      ],
      "angle_hint": "Documentary retrospective: 100th anniversary: The science fiction film Metropolis, directed by Fritz Lang, was released in Germany., what really happened and why it still matters"
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -5680,12 +6148,17 @@
    "days_until": 46,
    "likely_heat": 43.4,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -5698,7 +6171,7 @@
      ],
      "angle_hint": "Documentary retrospective: 25th anniversary: Second Intifada: Israeli forces seized MV Karine A, which was carrying 50 tons of smuggled weapons on behalf of the Palestinian Authority., what really happened and why it still matters"
     },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -5728,12 +6201,17 @@
    "days_until": 34,
    "likely_heat": 41.4,
    "channel_fit": {
-    "plan-not-panic": {
+    "go-there-instead": {
      "score": 0,
      "matched": [],
      "angle_hint": null
     },
-    "shrink-down": {
+    "intern-broke-it": {
+     "score": 0,
+     "matched": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
      "score": 0,
      "matched": [],
      "angle_hint": null
@@ -5746,105 +6224,7 @@
      ],
      "angle_hint": "Documentary retrospective: 25th anniversary: Burhanuddin Rabbani of the Northern Alliance handed over power in Afghanistan to the interim government headed by Hamid Karzai., what really happened and why it still matters"
     },
-    "intern-broke-it": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    }
-   },
-   "best_channel": "silver-paradox"
-  },
-  {
-   "name": "100th anniversary: Louis B. Mayer, head of Metro-Goldwyn-Mayer, hosted 36 people involved in the film industry at a banquet, where he announced the creation of what would become t",
-   "date": "2027-01-11",
-   "category": "anniversary",
-   "source_url": "https://en.wikipedia.org/wiki/Louis_B._Mayer",
-   "verified": true,
-   "verify_note": "Wikipedia On This Day (1927)",
-   "tags": [
-    "anniversary",
-    "history"
-   ],
-   "origin": "wikipedia-onthisday",
-   "hype_now": {
-    "article": "Louis_B._Mayer",
-    "avg_daily_views_7d": 623,
-    "avg_daily_views_prior_28d": 641,
-    "trend_ratio": 0.97,
-    "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Louis_B._Mayer&range=latest-60"
-   },
-   "days_until": 54,
-   "likely_heat": 41.0,
-   "channel_fit": {
-    "plan-not-panic": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "shrink-down": {
-     "score": 15,
-     "matched": [
-      "film"
-     ],
-     "angle_hint": "The 'how does that even work?' explainer behind 100th anniversary: Louis B. Mayer, head of Metro-Goldwyn-Mayer, hosted 36 people involved in the film industry at a banquet, where he announced the creation of what would become t"
-    },
-    "silver-paradox": {
-     "score": 60,
-     "matched": [
-      "history",
-      "anniversary"
-     ],
-     "angle_hint": "Documentary retrospective: 100th anniversary: Louis B. Mayer, head of Metro-Goldwyn-Mayer, hosted 36 people involved in the film industry at a banquet, where he announced the creation of what would become t, what really happened and why it still matters"
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    }
-   },
-   "best_channel": "silver-paradox"
-  },
-  {
-   "name": "50th anniversary: Jacques Mayol became the first person to freedive to a depth of 100 metres (330 ft).",
-   "date": "2026-11-23",
-   "category": "anniversary",
-   "source_url": "https://en.wikipedia.org/wiki/Jacques_Mayol",
-   "verified": true,
-   "verify_note": "Wikipedia On This Day (1976)",
-   "tags": [
-    "anniversary",
-    "history"
-   ],
-   "origin": "wikipedia-onthisday",
-   "hype_now": {
-    "article": "Jacques_Mayol",
-    "avg_daily_views_7d": 73,
-    "avg_daily_views_prior_28d": 78,
-    "trend_ratio": 0.93,
-    "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Jacques_Mayol&range=latest-60"
-   },
-   "days_until": 5,
-   "likely_heat": 40.4,
-   "channel_fit": {
-    "plan-not-panic": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "shrink-down": {
-     "score": 0,
-     "matched": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
-     "score": 60,
-     "matched": [
-      "history",
-      "anniversary"
-     ],
-     "angle_hint": "Documentary retrospective: 50th anniversary: Jacques Mayol became the first person to freedive to a depth of 100 metres (330 ft)., what really happened and why it still matters"
-    },
-    "intern-broke-it": {
+    "chess-blunder-club": {
      "score": 0,
      "matched": [],
      "angle_hint": null
