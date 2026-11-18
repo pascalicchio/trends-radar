@@ -1,7 +1,7 @@
 # Trends Radar: handoff for Claude Code
 
 Trends Radar is a public, read-only feed of what's hot now and what's coming up in the next 8 weeks, scored against
-the channels (Plan Not Panic, Shrink Down, Silver Paradox, The Intern Broke It). Use it to pick the next video topics.
+the channels (Go There Instead, The Intern Broke It, Plan Not Panic, Silver Paradox, Chess Blunder Club / Clube do Vacilo). Use it to pick the next video topics.
 It refreshes every 3 hours (GitHub Actions). X trends are refreshed by a Grok Bot routine (see `generated_at` and
 `sources.x.note` for freshness).
 
@@ -42,7 +42,7 @@ Fallback if the Worker is down (same files, straight from the repo):
   (`footage` only on the top 15)
 - `coming_up[]` (ranked by `likely_heat`): `{name, date, days_until, category, source_url, verified, verify_note,
    hype_now{avg_daily_views_7d, trend_ratio, url}, last_year{peak_daily_views, window, url}, channel_fit, best_channel, footage}`
-- `channels[]`: ids `plan-not-panic`, `shrink-down`, `silver-paradox`, `intern-broke-it`
+- `channels[]`: ids `go-there-instead`, `intern-broke-it`, `plan-not-panic`, `silver-paradox`, `chess-blunder-club`
 
 ## How to use it
 
@@ -57,6 +57,7 @@ Fallback if the Worker is down (same files, straight from the repo):
 5. Every link and date comes from a real source. If you need a fact the file doesn't have, fetch it from the
    linked source rather than guessing.
 6. Plan Not Panic tone: calm and practical. No doomsday or zombie framing.
+7. Chess Blunder Club: make EN and PT (Clube do Vacilo) versions of each idea; PT performs better. Go There Instead: "Skip X, go to Y instead" format, with the SKIP in the first 1.5 s.
 
 ## Known gaps (v1)
 

@@ -100,3 +100,19 @@ events:
     wiki_article: Super_Bowl_LXI
     last_year_article: Super_Bowl_LX
     tags: [sports, nfl, ads, halftime]
+  - name: "World Chess Championship 2026 (Gukesh vs Sindarov, Geneva): Game 1"
+    date: 2026-11-24
+    category: sports
+    source_url: https://www.fide.com/salesforce-fide-world-championship-match-2026-schedule-format-and-prize-fund-confirmed/
+    verify: {url: "https://www.fide.com/salesforce-fide-world-championship-match-2026-schedule-format-and-prize-fund-confirmed/", pattern: "first classical game will be played on 24 November"}
+    rule: "Classical games Nov 24 - Dec 11, tiebreaks (if needed) Dec 12, 3 pm Geneva = 9 AM ET (FIDE)"
+    wiki_article: World_Chess_Championship_2026
+    last_year_article: World_Chess_Championship_2024
+    tags: [chess, world chess championship, fide, gukesh, sindarov, xadrez]
+  - name: "World Chess Championship 2026: final scheduled classical game (tiebreaks Dec 12 if needed)"
+    date: 2026-12-11
+    category: sports
+    source_url: https://www.fide.com/salesforce-fide-world-championship-match-2026-schedule-format-and-prize-fund-confirmed/
+    verify: {url: "https://www.fide.com/salesforce-fide-world-championship-match-2026-schedule-format-and-prize-fund-confirmed/", pattern: "final scheduled game on 11 December"}
+    wiki_article: World_Chess_Championship_2026
+    tags: [chess, world chess championship, fide, gukesh, sindarov, xadrez]
