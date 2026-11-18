@@ -1,96 +1,117 @@
 # Channels the radar scores topics against. Add a channel by appending a block.
-# fit score = sum of matched keyword weights (capped 100) minus excluded matches.
-# angle: first matching "angles" rule wins; {topic} is replaced with the topic label.
-# Fit is informational only: ranking is by heat.
+# Fit (informational only; ranking is by heat):
+#   - fit is 0 unless at least one `strong` keyword matches the topic text (label, Wikipedia/Wikidata description, headlines)
+#   - score = 45 per distinct strong hit (max 2) + 8 per weak hit (max 3), capped at 100
+#   - entity gate: if Wikidata types the topic as athlete / sports_team / sports_event / actor / musician / music_work /
+#     video_game / film / tv_series / chess_player, fit is 0 unless that type is in the channel's `entity_types_ok`
+#     AND a strong keyword matched in the label or entity description (not just in a headline).
+#   - avoid generic words (history, billion, how, update, making, record, first, new...): they caused false positives.
+# angle: first matching `angles` rule wins; {topic} is replaced with the topic label.
 channels:
   - id: go-there-instead
     name: Go There Instead
     format: "travel shorts: 'Skip X, go here instead' (alternatives to overcrowded places, travel news)"
     links: [https://www.youtube.com/@GoThereInstead, https://www.instagram.com/gothereinstead/, https://www.tiktok.com/@go.there.instead]
-    keywords:
-      30: [travel, tourism, tourist, tourists, overtourism, overcrowded, crowds, destination, vacation, holiday travel, airline, airport, flight, flights, cruise, cruise port, hotel, airbnb, visa, passport, entry fee, tourist tax, christmas market, christmas markets, northern lights, lapland, rovaniemi, santorini, kotor, dubrovnik, venice, barcelona, amsterdam, paris, rome, iceland, bali, hawaii, greece, italy, croatia, mexico, caribbean, national park]
-      20: [beach, island, islands, europe, ski, resort, train, rail, road trip, thanksgiving travel, faa, tsa, delays, cancelled flights, strike, ryanair, easyjet, delta, united, american airlines, southwest, booking, expedia, unesco, volcano, eruption, closure, closed to tourists, ban, banned, where to go, best places]
-      10: [winter, holiday, new year, festival, city, town, village, weather]
+    entity_types_ok: []
+    strong: [travel, travelers, travellers, tourism, tourist, tourists, overtourism, overcrowded, crowds of tourists, destination, destinations, vacation, holidaymakers,
+             airline, airlines, airport, airports, flight cancellations, cancelled flights, new route, new routes, cruise, cruise port, cruise ship, hotel, hotels, visa, visas,
+             etias, passport, entry requirements, tourist tax, entry fee, christmas market, christmas markets, northern lights, lapland, rovaniemi, national park,
+             unesco world heritage, wikivoyage, ski resort, ski season, travel advisory, travel ban, closed to tourists, theme park, airbnb, ryanair, easyjet]
+    weak: [santorini, kotor, dubrovnik, venice, barcelona, amsterdam, paris, rome, iceland, bali, hawaii, greece, italy, croatia, portugal, mexico, caribbean,
+           japan, kyoto, beach, island, islands, europe, train, rail, road trip, faa, tsa, delays, strike, booking, expedia, winter, festival, village, old town]
     exclude: []
     angles:
-      - match: [overtourism, overcrowded, crowds, tourist tax, entry fee, ban, banned, closed to tourists, closure]
+      - match: [overtourism, overcrowded, tourist tax, entry fee, closed to tourists, travel ban]
         angle: "Skip {topic}: the less-crowded alternative to go to instead (and why now)"
-      - match: [christmas market, christmas markets, northern lights, lapland, rovaniemi, ski, winter]
+      - match: [christmas market, christmas markets, northern lights, lapland, rovaniemi, ski resort, ski season]
         angle: "Skip the famous one, go here instead: a {topic} alternative with fewer crowds"
-      - match: [cruise, cruise port, santorini, kotor, dubrovnik]
+      - match: [cruise, cruise port, cruise ship]
         angle: "Cruise stop alternative: skip the crowded side of {topic}, go here instead"
-      - match: [airline, airport, flight, flights, faa, tsa, delays, cancelled flights, strike]
+      - match: [airline, airlines, airport, airports, flight cancellations, cancelled flights, new route, new routes, visa, visas, etias, passport, entry requirements, travel advisory]
         angle: "Travel news in 30s: what {topic} means for your trip, and the smarter place or route to pick instead"
       - match: []
         angle: "Skip X, go to Y: the travel angle on {topic}"
+
   - id: intern-broke-it
     name: The Intern Broke It
     format: comedic AI/tech-fail shorts
-    keywords:
-      30: [ai, chatgpt, openai, claude, anthropic, gemini, grok, llm, chatbot, agent, outage, down, bug, glitch, crash, hack, breach, leak, rce, vulnerability, exploit, deepfake, robot, robotaxi, waymo, tesla, autopilot]
-      20: [apple, google, microsoft, meta, amazon, aws, cloudflare, github, windows, update, app, software, code, coding, developer, startup, tech, iphone, android, smart home, alexa, siri, password, cyberattack]
-      10: [fail, mistake, oops, fired, lawsuit, recall, layoffs, viral]
-    exclude: [died, death, killed, shooting]
+    entity_types_ok: [video_game]
+    strong: [ai, artificial intelligence, chatgpt, openai, claude, anthropic, gemini, grok, llm, chatbot, ai agent, deepfake, outage, outages, bug, glitch, crash, crashed,
+             hack, hacked, hackers, breach, data breach, leak, leaked, rce, vulnerability, exploit, ransomware, robot, robots, robotaxi, waymo, autopilot, self-driving, driverless,
+             software update, server, servers, cloudflare, aws, github, windows update, app store, smart home, alexa, siri, password, passwords, cyberattack, nvidia, gpu, chip, chips]
+    weak: [apple, google, microsoft, meta, amazon, tesla, iphone, android, app, software, code, coding, developer, startup, tech, fail, oops, lawsuit, layoffs, viral]
+    exclude: [died, death, killed, shooting, dies]
     angles:
-      - match: [outage, down, crash, bug, glitch, update, aws, cloudflare]
+      - match: [outage, outages, crash, crashed, bug, glitch, software update, windows update, aws, cloudflare, server, servers]
         angle: "Skit: the intern pushed one tiny change and caused {topic}"
-      - match: [ai, chatgpt, openai, claude, gemini, grok, llm, chatbot, agent, deepfake]
+      - match: [ai, artificial intelligence, chatgpt, openai, claude, gemini, grok, llm, chatbot, ai agent, deepfake, nvidia, gpu, chip, chips]
         angle: "Skit: the intern lets the AI handle {topic}... what could go wrong"
-      - match: [hack, breach, leak, rce, vulnerability, exploit, password]
+      - match: [hack, hacked, hackers, breach, data breach, leak, leaked, rce, vulnerability, exploit, ransomware, password, passwords, cyberattack]
         angle: "Skit: the intern's 'security fix' for {topic}"
+      - match: [robot, robots, robotaxi, waymo, autopilot, self-driving, driverless]
+        angle: "Skit: the intern was in charge of the robot during {topic}"
       - match: []
         angle: "Comedic tech-fail take on {topic}"
+
   - id: plan-not-panic
     name: Plan Not Panic
-    format: calm, practical survival/prep shorts
-    keywords:
-      30: [hurricane, tropical storm, storm, blizzard, winter storm, snowstorm, ice storm, tornado, wildfire, flood, flooding, earthquake, tsunami, power outage, outage, blackout, grid, heat wave, cold snap, freeze, evacuation, emergency, disaster, fema]
-      20: [generator, water, food, recall, shortage, supply, camping, gear, first aid, carbon monoxide, space heater, travel, thanksgiving travel, road, drought, volcano, eruption, weather, nws, noaa, boil water, contamination, outbreak, salmonella, e. coli, bird flu, measles, flu]
-      10: [preparedness, prep, prepper, safety, survival, battery, flashlight, cyberattack, hack, internet outage, cloudflare, aws, holiday, black friday, winter, solstice]
+    format: calm, practical survival/prep shorts (storms, outages, food/water, camping gear; no doomsday/zombie)
+    entity_types_ok: []
+    strong: [hurricane, tropical storm, blizzard, winter storm, snowstorm, ice storm, tornado, tornadoes, wildfire, wildfires, flood, flooding, flash flood, earthquake, tsunami,
+             power outage, power outages, blackout, blackouts, power grid, heat wave, cold snap, freeze warning, polar vortex, evacuation, evacuations, fema, state of emergency,
+             generator, generators, boil water, water shortage, food recall, recalled, product recall, salmonella, e. coli, listeria, bird flu, measles, outbreak, carbon monoxide,
+             space heater, drought, volcano, eruption, national weather service, noaa, first aid, camping gear, emergency kit, preparedness, prepper, preppers, survival]
+    weak: [storm, weather, snow, ice, flu, water, food, supply, shortage, camping, battery, flashlight, road conditions, travel safety, winter, cyberattack, internet outage]
     exclude: [zombie, doomsday, apocalypse, nuclear war]
     angles:
-      - match: [hurricane, tropical storm, storm, blizzard, winter storm, snowstorm, ice storm, tornado, flood, wildfire, freeze, cold snap, heat wave, weather]
+      - match: [hurricane, tropical storm, blizzard, winter storm, snowstorm, ice storm, tornado, tornadoes, flood, flooding, flash flood, wildfire, wildfires, cold snap, freeze warning, polar vortex, heat wave]
         angle: "Calm 60-second checklist: what {topic} means for your home and the 3 things to do before it hits"
-      - match: [outage, blackout, grid, power, cloudflare, aws, internet outage, cyberattack]
+      - match: [power outage, power outages, blackout, blackouts, power grid, generator, generators]
         angle: "If {topic} happened to you tonight: the no-panic outage kit (light, heat/cool, water, phone power)"
-      - match: [recall, outbreak, salmonella, contamination, boil water, flu, measles]
+      - match: [recall, recalled, food recall, outbreak, salmonella, e. coli, listeria, boil water, measles, bird flu]
         angle: "{topic}: what to check in your pantry/fridge today and when to actually worry"
-      - match: [camping, gear, generator, battery, flashlight, space heater]
+      - match: [camping gear, space heater, carbon monoxide, first aid, emergency kit]
         angle: "Explainer: picking the right {topic} for real-life emergencies (and the safety mistake people make)"
       - match: []
         angle: "Practical prep angle on {topic}: what normal households should actually do"
+
   - id: silver-paradox
     name: Silver Paradox
-    format: premium documentary (long-form ~8+ min, needs real footage)
-    keywords:
-      30: [art, painting, paintings, museum, louvre, mona lisa, picasso, da vinci, van gogh, heist, stolen, theft, chernobyl, mystery, mysterious, unexplained, paradox, ancient, archaeolog, discovered, discovery, lost, hidden, secret, history, historic, anniversary, war, empire, ufo, uap, shipwreck, expedition, dinosaur, paleontology, fossil, extinction, deep sea, pyramid, tomb, artifact]
-      20: [space, nasa, moon, mars, black hole, physics, collapse, disaster, assassination, heist, scandal, investigation, documentary, biography, legend, record, first ever, world war, cold war, nuclear, volcano, earthquake, tsunami]
-      10: [death, dies, died, rise and fall, billion, empire, dynasty, trial]
+    format: "premium history/art documentaries (long-form 8-10 min + Shorts); recent: Picasso & the 1911 Mona Lisa theft, Chernobyl, mysteries"
+    entity_types_ok: []
+    strong: [mona lisa, louvre, picasso, da vinci, leonardo da vinci, van gogh, rembrandt, vermeer, michelangelo, painting, paintings, masterpiece, museum, art heist,
+             art theft, stolen painting, crown jewels, chernobyl, pripyat, elephant's foot, archaeology, archaeologists, archaeological, ancient, pharaoh, pyramid, tomb,
+             artifact, artefact, shipwreck, mummy, lost city, unexplained, mystery, mysteries, paradox, conspiracy, ufo, uap, declassified, cold war, world war ii,
+             world war i, soviet, titanic, pompeii, dead sea scrolls, anniversary of the, centuries-old, medieval, renaissance, hoax]
+    weak: [art, history, historian, historians, discovered, discovery, secret, hidden, lost, legend, documentary, investigation, empire, dynasty, expedition, nuclear,
+           fossil, dinosaur, extinction, deep sea]
     exclude: []
     angles:
-      - match: [art, painting, paintings, museum, louvre, mona lisa, picasso, da vinci, van gogh, heist, stolen, theft]
+      - match: [mona lisa, louvre, picasso, da vinci, leonardo da vinci, van gogh, rembrandt, vermeer, michelangelo, painting, paintings, masterpiece, museum, art heist, art theft, stolen painting, crown jewels]
         angle: "Art-history documentary: the real story behind {topic} (the detail almost everyone misses)"
-      - match: [ancient, archaeolog, pyramid, tomb, artifact, lost, hidden, shipwreck]
+      - match: [chernobyl, pripyat, elephant's foot, soviet, cold war, declassified]
+        angle: "Documentary: what really happened with {topic}, and what's still unresolved"
+      - match: [archaeology, archaeologists, archaeological, ancient, pharaoh, pyramid, tomb, artifact, artefact, shipwreck, mummy, lost city, pompeii, dead sea scrolls]
         angle: "Documentary: the story behind {topic} and the question nobody has answered"
-      - match: [anniversary, history, historic, war, world war, cold war, assassination]
-        angle: "Documentary retrospective: {topic}, what really happened and why it still matters"
-      - match: [ufo, uap, mystery, unexplained, paradox]
+      - match: [ufo, uap, mystery, mysteries, unexplained, paradox, hoax, conspiracy]
         angle: "The paradox of {topic}: evidence, explanations, and what doesn't add up"
       - match: []
         angle: "Long-form doc angle: the bigger story behind {topic}"
+
   - id: chess-blunder-club
     name: Chess Blunder Club / Clube do Vacilo
     format: "chess blunder/trap shorts (EN Chess Blunder Club + PT sister channel Clube do Vacilo; PT performs better)"
     links: [https://www.youtube.com/@chessblundercluben, https://www.youtube.com/@clubedovacilo, https://www.tiktok.com/@chessblunderclub, https://www.instagram.com/chessblunderclub/]
-    keywords:
-      40: [chess, xadrez, world chess championship, fide, gukesh, sindarov, magnus carlsen, carlsen, hikaru, nakamura, chess.com, lichess, grandmaster]
-      25: [checkmate, xeque mate, blunder, chess trap, scholar's mate, fool's mate, smothered mate, opening, candidates, chess olympiad, kasparov, deep blue, chess960, freestyle chess]
-      10: [board game, puzzle, prodigy, cheating scandal]
+    entity_types_ok: [chess_player, sports_event]
+    strong: [chess, xadrez, ajedrez, world chess championship, campeonato mundial de xadrez, fide, gukesh, sindarov, magnus carlsen, carlsen, hikaru, nakamura, caruana,
+             firouzja, giri, praggnanandhaa, chess.com, lichess, grandmaster, grande mestre, checkmate, xeque-mate, xeque mate, scholar's mate, fool's mate, smothered mate,
+             mate do pastor, chess trap, chess960, freestyle chess, candidates tournament, chess olympiad, total chess]
+    weak: [blunder, opening, endgame, tournament, prodigy, cheating, kasparov, deep blue, board game, puzzle]
     exclude: []
     angles:
-      - match: [world chess championship, gukesh, sindarov, fide]
+      - match: [world chess championship, campeonato mundial de xadrez, gukesh, sindarov, fide]
         angle: "Trap of the day: the opening trap from {topic}, explained in 30s (post EN + PT 'armadilha do dia')"
-      - match: [blunder, checkmate, chess trap, scholar's mate, fool's mate, smothered mate]
+      - match: [checkmate, xeque-mate, xeque mate, scholar's mate, fool's mate, smothered mate, mate do pastor, chess trap]
         angle: "How many Lichess players fall for it? {topic} as a blunder short (EN + PT)"
       - match: []
         angle: "Chess blunder angle on {topic} (EN + PT versions; PT does better)"

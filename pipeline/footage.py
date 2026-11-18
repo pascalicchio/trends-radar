@@ -2,6 +2,13 @@
 import re, requests
 from sources import S
 
+LICENSE = {
+    "Wikimedia Commons (video)": "per-file license (mostly CC BY / CC BY-SA / public domain): check the file page and credit as required",
+    "Internet Archive (movies)": "mixed: many public domain or CC, but uploads can be copyrighted; check each item's license/rights field",
+    "NASA Image & Video Library (video)": "generally not copyrighted (US gov); no NASA endorsement implied; third-party content and logos excepted",
+    "Library of Congress (film & video)": "varies: many items 'no known restrictions', others rights-restricted; check each item's Rights & Access",
+}
+
 def _q(label):
     q = re.sub(r"^(Film release|Rocket launch|\d+\w* anniversary):\s*", "", label)
     q = re.sub(r"[\(\)\[\]\"'|:#]", " ", q)
@@ -33,7 +40,17 @@ def check(label):
                                "url": "https://images.nasa.gov/search?q=" + requests.utils.quote(q) + "&page=1&media=video",
                                "examples": ["https://images.nasa.gov/details/" + i["data"][0]["nasa_id"] for i in j["collection"]["items"][:2]]})
     except Exception as e: res["checked"].append({"source": "NASA Image & Video Library (video)", "error": str(e)[:120]})
-    res["to_verify"] = ["YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
+    try:
+        j = S.get("https://www.loc.gov/film-and-videos/", params={"q": q, "fo": "json", "c": 2}, timeout=30).json()
+        n = j["pagination"]["of"]; hits += min(n, 20); srcs += n > 0
+        res["checked"].append({"source": "Library of Congress (film & video)", "hits": n,
+                               "url": "https://www.loc.gov/film-and-videos/?q=" + requests.utils.quote(q),
+                               "examples": [r.get("id") for r in j.get("results", [])[:2] if r.get("id")]})
+    except Exception as e: res["checked"].append({"source": "Library of Congress (film & video)", "error": str(e)[:120]})
+    for c in res["checked"]: c["license_hint"] = LICENSE.get(c["source"])
+    res["to_verify"] = [
+        "DVIDS (US military public-domain video): https://www.dvidshub.net/search/?q=" + requests.utils.quote(q) + "&filter%5Btype%5D=video (API needs a key; not auto-checked)",
+        "National Archives (NARA) catalog: https://catalog.archives.gov/search?q=" + requests.utils.quote(q) + "&typeOfMaterials=Moving%20Images (API needs a key; not auto-checked)","YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
                         "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"]
     res["confidence"] = "high" if hits >= 10 and srcs >= 2 else "medium" if hits >= 3 else "low" if hits >= 1 else "none-found"
     res["note"] = ("Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. "

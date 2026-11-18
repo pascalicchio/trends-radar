@@ -27,6 +27,10 @@ footer{padding:20px;color:var(--mut);font-size:12px;text-align:center}
 <div class="srcs" id="srcs"></div>
 <h2>Top 5 candidates <span class="mut small">(ranked by heat only)</span></h2><div class="top5" id="top5"></div>
 <div class="grid"><section><h2>🔥 Hot now</h2><div id="hot"></div></section><section><h2>📅 Coming up (next 8 weeks)</h2><div id="up"></div></section></div>
+<h2>🎯 Channel picks <span class="mut small">(top 5 by heat with channel fit, from the top ~350 topics)</span></h2><div class="top5" id="picks"></div>
+<div class="grid"><section><h2>📡 Niche feeds <span class="mut small">(chess, travel)</span></h2><div id="cfeeds"></div></section>
+<section><h2>🗓 Happened in the last 7 days <span class="mut small">(space, NASA, DoD, AARO)</span></h2><div id="last7"></div></section></div>
+<div class="grid"><section><h2>🔎 Fact-check desk</h2><div id="fc"></div></section><section><h2>🛸 Oddities desk</h2><div id="odd"></div></section></div>
 </div>
 <footer>Rank = heat only. Channel fit, angle hints, paradox signals and footage checks are informational. Footage counts are keyword hits in public archives; open the links to verify.</footer>
 <script>
@@ -47,6 +51,13 @@ function render(){
     <div>${h.sources.map(s=>`<span class="tag">${esc(s)}</span>`).join('')}${h.regions.map(r=>`<span class="tag">${esc(r)}</span>`).join('')}<span class="tag">${esc(h.status)}</span>${h.paradox_signals.length?`<span class="tag">paradox: ${esc(h.paradox_signals.join(', '))}</span>`:''}</div>
     ${fs.length?`<div class="small fit">${fs.map(([k,v])=>`${esc(chName(k))} ${v.score}`).join(' · ')}</div><div class="small">💡 ${esc(fs[0][1].angle_hint)}</div>`:''}
     <div class="links">${h.links.slice(0,6).map(l=>`<a href="${esc(l.url)}" target="_blank" rel="noopener" title="${esc(l.title+' | '+l.metric)}">${esc(l.source)}</a>`).join('')}</div>${foot(h.footage)}</div>`}).join('')||'<div class="mut">No topics match.</div>';
+  const li=x=>`<div class="small" style="margin:3px 0"><a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.title)}</a> <span class="mut">${esc(x.metric||'')}${x.lang&&x.lang!=='en'?' · '+esc(x.lang):''}</span></div>`;
+  const cs=D.channels.filter(c=>!ch||c.id===ch);
+  $('#picks').innerHTML=cs.map(c=>`<div class="t5"><b>${esc(c.name)}</b>${((D.channel_picks||{})[c.id]||[]).map(p=>`<div class="small" style="margin-top:4px">#${p.rank} <a href="${esc(p.url)}" target="_blank" rel="noopener">${esc(p.topic)}</a> <span class="mut">heat ${p.heat} · fit ${p.fit}</span></div>`).join('')||'<div class="small mut">no fitting topic this run</div>'}</div>`).join('');
+  $('#cfeeds').innerHTML=Object.entries(D.channel_feeds||{}).filter(([k])=>!ch||k===ch).map(([k,v])=>`<div class="card"><b>${esc(chName(k))}</b>${v.slice(0,12).map(li).join('')}</div>`).join('')||'<div class="mut small">No niche feed for this channel.</div>';
+  $('#last7').innerHTML=`<div class="card">${(D.happened_last_7_days||[]).slice(0,25).map(li).join('')}</div>`;
+  $('#fc').innerHTML=`<div class="card">${((D.desk_feeds||{}).factcheck||[]).slice(0,15).map(li).join('')}</div>`;
+  $('#odd').innerHTML=`<div class="card">${((D.desk_feeds||{}).oddities||[]).slice(0,15).map(li).join('')}</div>`;
   $('#up').innerHTML=D.coming_up.filter(e=>ok(e.channel_fit,e.name+' '+(e.tags||[]).join(' '))).map(e=>{
     const fs=fits(e.channel_fit,ch),hn=e.hype_now||{},ly=e.last_year||{};
     return `<div class="card"><div class="row"><div class="ttl">${esc(e.name)}</div><div class="heat">${e.likely_heat}</div></div>

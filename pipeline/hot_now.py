@@ -10,10 +10,13 @@ only own same so too very just also into over under after before about against b
 further once new says said say live update updates watch video photos report reports news today tonight week year years day days
 vs v first last next amid after over per via get gets got make makes made how why what top best""".split())
 WEEKDAYS = set("monday tuesday wednesday thursday friday saturday sunday january february march april may june july august september october november december".split())
-SOURCE_W = {"x": 1.0, "googletrends": 1.0, "reddit": 1.0, "wikipedia": 0.9, "googlenews": 0.9, "youtube": 0.8, "hackernews": 0.7}
+SOURCE_W = {"x": 1.0, "googletrends": 1.0, "reddit": 1.0, "wikipedia": 0.9, "googlenews": 0.9, "youtube": 0.8, "hackernews": 0.7,
+            "factcheck": 0.8, "oddities": 0.7, "chess": 0.5, "travel": 0.5, "space": 0.5, "defense": 0.4}
 
 ROMAN = {"ii": "2", "iii": "3", "iv": "4", "vi": "6", "vii": "7", "viii": "8", "ix": "9"}
+import unicodedata
 def norm(s):
+    s = unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode()
     w = re.sub(r"\s+", " ", re.sub(r"[^a-z0-9 ]", " ", s.lower())).strip().split()
     return " ".join(ROMAN.get(x, x) if i > 0 else x for i, x in enumerate(w))
 def acronym(title):
@@ -77,10 +80,45 @@ def cluster(items):
         if i not in assigned: groups.append([it]); labels.append(None)
     for g, l in zip(groups, labels):
         for it in g: it["_label"] = l
-    return groups, labels
+    return merge_duplicates(groups), labels
+
+class UF:
+    def __init__(s, n): s.p = list(range(n))
+    def f(s, x):
+        while s.p[x] != x: s.p[x] = s.p[s.p[x]]; x = s.p[x]
+        return x
+    def u(s, a, b): s.p[s.f(a)] = s.f(b)
+
+def canon_keys(group):
+    """Keys that identify the same subject: Wikipedia article titles (+ acronym), X trend names, the label."""
+    ks = set()
+    for it in group:
+        if it["source"] == "wikipedia" and it["extra"].get("geo") in (None, "en"):
+            base = re.sub(r"\s*\(.*?\)", "", it["title"]); ks.add(norm(base))
+            a = acronym(it["title"]); a and ks.add(a)
+        if it["source"] == "x" and it["extra"].get("kind") == "trend":
+            ks.add(norm(re.sub(r"(?<=[a-z])(?=[A-Z])", " ", it["title"].lstrip("#"))))
+    if group and group[0].get("_label"): ks.add(norm(group[0]["_label"]))
+    return {k for k in ks if len(k) >= 4}
+
+def merge_duplicates(groups):
+    keys = [canon_keys(g) for g in groups]
+    uf = UF(len(groups)); seen = {}
+    for i, ks in enumerate(keys):
+        for k in ks:
+            if k in seen: uf.u(i, seen[k])
+            else: seen[k] = i
+    merged = defaultdict(list)
+    for i, g in enumerate(groups): merged[uf.f(i)].extend(g)
+    out = []
+    for root, g in merged.items():
+        lab = groups[root][0].get("_label") if groups[root] else None
+        for it in g: it["_label"] = lab or it.get("_label")
+        out.append(g)
+    return out
 
 def label_for(group):
-    w = [it for it in group if it["source"] == "wikipedia"]
+    w = [it for it in group if it["source"] == "wikipedia" and not it["extra"].get("geo")] or [it for it in group if it["source"] == "wikipedia"]
     if w and len(group) > 1: return max(w, key=lambda it: (not it["title"].startswith("List of"), it["metric"]))["title"]
     if group and group[0].get("_label"):
         l = group[0]["_label"]
@@ -89,15 +127,27 @@ def label_for(group):
     best = sorted(group, key=lambda it: (pref.get(it["source"], 9), -it["metric"]))[0]
     return best["title"]
 
+HIST_FULL = defaultdict(list)  # key -> [(iso_t, date, heat)]
 def load_history(days=7):
     hist = defaultdict(list)
-    files = sorted(glob.glob(os.path.join(ROOT, "history", "*.jsonl")))[-days:]
-    for f in files:
+    files = sorted(glob.glob(os.path.join(ROOT, "history", "*.jsonl")))
+    for n, f in enumerate(files):
+        day = os.path.basename(f)[:10]
         for line in open(f):
             try: r = json.loads(line)
             except Exception: continue
-            for k in r.get("keys", []): hist[k].append(r["heat"])
+            for k in r.get("keys", []):
+                HIST_FULL[k].append((r["t"], day, r["heat"]))
+                if n >= len(files) - days: hist[k].append(r["heat"])
     return hist
+
+def history_fields(keys, today):
+    rows = [r for k in keys for r in HIST_FULL.get(k, [])]
+    if not rows: return {"first_seen": None, "days_trending": 0, "heat_yesterday": None}
+    y = str(today - __import__("datetime").timedelta(days=1))
+    hy = [h for t, d, h in rows if d == y]
+    return {"first_seen": min(t for t, d, h in rows), "days_trending": len({d for t, d, h in rows}),
+            "heat_yesterday": max(hy) if hy else None}
 
 def score(groups, n_by_source):
     hist = load_history()
@@ -117,10 +167,10 @@ def score(groups, n_by_source):
         for it in srcs.get("wikipedia", []):
             v = it["extra"].get("velocity")
             if v: vel = max(vel, min(1.0, (v - 1) / 4)); why_vel.append(f"Wikipedia views {v:.1f}x vs prior 4-day avg")
-        geos = {it["extra"].get("geo") for it in srcs.get("googletrends", [])} | {it["extra"].get("geo") for it in srcs.get("x", []) if it["extra"].get("geo")}
+        geos = {it["extra"].get("geo") for it in g}
         geos.discard(None)
         if len(geos) >= 2: vel = max(vel, 0.6); why_vel.append(f"trending in {len(geos)} regions ({', '.join(sorted(geos))})")
-        keys = sorted({norm(label_for(g))})
+        keys = sorted({norm(label_for(g))} | canon_keys(g))
         prev = [h for k in keys for h in hist.get(k, [])]
         status = "new" if not prev else "steady"
         h0 = 100 * (0.40 * cross + 0.45 * min(1.0, strength / 2.0) + 0.15 * vel)

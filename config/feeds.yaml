@@ -1,0 +1,47 @@
+# Extra free feeds. group = the source name used in clustering/exports.
+# kind: rss (RSS/Atom, regex fallback for slightly broken XML), gnews (Google News search RSS; q + lang),
+#       wikimostread (Wikipedia featured most-read for a language), wikivoyage_top, lichess_broadcasts, snapi
+# channels: which channel_feeds[] list the items also go to (informational niche feeds).
+# recent: true -> items also go to the "happened_last_7_days" list.
+feeds:
+  # --- fact-check desks (item 1) ---
+  - {id: snopes, group: factcheck, kind: rss, url: "https://www.snopes.com/feed/"}
+  - {id: afp_factcheck, group: factcheck, kind: gnews, q: "site:factcheck.afp.com", lang: en, note: "factcheck.afp.com RSS returns 403; read via Google News site: search"}
+  - {id: politifact, group: factcheck, kind: gnews, q: "site:politifact.com", lang: en, note: "politifact.com RSS returns 403/404; read via Google News site: search"}
+  - {id: reuters_factcheck, group: factcheck, kind: gnews, q: "site:reuters.com/fact-check", lang: en, note: "reuters.com RSS returns 401; read via Google News site: search"}
+  - {id: afp_factual_es, group: factcheck, kind: gnews, q: "site:factual.afp.com", lang: es, note: "AFP Factual (Spanish) via Google News site: search"}
+  # --- oddities / science-curiosity desks (item 1) ---
+  - {id: livescience, group: oddities, kind: rss, url: "https://www.livescience.com/feeds.xml"}
+  - {id: smithsonian, group: oddities, kind: rss, url: "https://www.smithsonianmag.com/rss/latest_articles/"}
+  - {id: atlasobscura, group: oddities, kind: rss, url: "https://www.atlasobscura.com/feeds/latest"}
+  - {id: coasttocoast, group: oddities, kind: gnews, q: "site:coasttocoastam.com", lang: en, note: "coasttocoastam.com RSS is malformed; read via Google News site: search"}
+  # --- Spanish / Portuguese news + Wikipedia (item 1) ---
+  - {id: gnews_es, group: googlenews, kind: gnews_top, lang: es, geo: MX}
+  - {id: gnews_pt, group: googlenews, kind: gnews_top, lang: pt, geo: BR}
+  - {id: wiki_es, group: wikipedia, kind: wikimostread, lang: es, geo: es-wiki}
+  - {id: wiki_pt, group: wikipedia, kind: wikimostread, lang: pt, geo: pt-wiki}
+  # --- chess (item 9) ---
+  - {id: fide, group: chess, kind: rss, url: "https://www.fide.com/feed/", channels: [chess-blunder-club]}
+  - {id: chesscom_news, group: chess, kind: rss, url: "https://www.chess.com/rss/news", channels: [chess-blunder-club]}
+  - {id: lichess_blog, group: chess, kind: rss, url: "https://lichess.org/blog.atom", channels: [chess-blunder-club]}
+  - {id: lichess_broadcasts, group: chess, kind: lichess_broadcasts, url: "https://lichess.org/api/broadcast/top?page=1", channels: [chess-blunder-club]}
+  - {id: wiki_chess_watch, group: chess, kind: wikiwatch, channels: [chess-blunder-club],
+     articles: ["World Chess Championship 2026", "Magnus Carlsen", "Gukesh Dommaraju", "Javokhir Sindarov", "Hikaru Nakamura", "Fabiano Caruana", "Alireza Firouzja",
+                "Chess", "Freestyle Chess Grand Slam Tour", "Scholar's mate", "pt:Xadrez", "pt:Magnus Carlsen", "es:Ajedrez"]}
+  - {id: gnews_chess_en, group: chess, kind: gnews, q: "chess when:3d", lang: en, channels: [chess-blunder-club]}
+  - {id: gnews_xadrez_pt, group: chess, kind: gnews, q: "xadrez when:3d", lang: pt, channels: [chess-blunder-club]}
+  - {id: gnews_ajedrez_es, group: chess, kind: gnews, q: "ajedrez when:3d", lang: es, channels: [chess-blunder-club]}
+  # --- travel (item 10) ---
+  - {id: gnews_overtourism, group: travel, kind: gnews, q: "overtourism OR \"tourist tax\" OR \"closed to tourists\" when:7d", lang: en, channels: [go-there-instead]}
+  - {id: gnews_airlines, group: travel, kind: gnews, q: "airline \"new route\" OR \"new routes\" OR \"flight cancellations\" when:7d", lang: en, channels: [go-there-instead]}
+  - {id: gnews_visa, group: travel, kind: gnews, q: "visa OR ETIAS OR \"entry requirements\" travelers when:7d", lang: en, channels: [go-there-instead]}
+  - {id: gnews_travel_news, group: travel, kind: gnews, q: "travel destination crowds OR \"where to go\" when:3d", lang: en, channels: [go-there-instead]}
+  - {id: gnews_christmas_markets, group: travel, kind: gnews, q: "\"christmas markets\" 2026 when:7d", lang: en, channels: [go-there-instead]}
+  - {id: wiki_travel_watch, group: travel, kind: wikiwatch, channels: [go-there-instead],
+     articles: ["Overtourism", "Christmas market", "Aurora", "Rovaniemi", "European Travel Information and Authorisation System", "Santorini", "Venice", "Kotor"]}
+  - {id: wikivoyage_top, group: travel, kind: wikivoyage_top, channels: [go-there-instead]}
+  # --- happened in the last 7 days (item 2) ---
+  - {id: spaceflight_news, group: space, kind: snapi, url: "https://api.spaceflightnewsapi.net/v4/articles/?limit=40&ordering=-published_at", recent: true}
+  - {id: nasa_news, group: space, kind: rss, url: "https://www.nasa.gov/news-release/feed/", recent: true}
+  - {id: dod_releases, group: defense, kind: rss, url: "https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=9&Site=945&max=20", recent: true}
+  - {id: aaro_news, group: defense, kind: gnews, q: "AARO UAP when:7d", lang: en, recent: true, note: "aaro.mil returns 403; UAP/AARO news via Google News search"}
