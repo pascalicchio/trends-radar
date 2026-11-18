@@ -1,4 +1,4 @@
-# Trends Radar: 2026-11-18 03:15 AM ET
+# Trends Radar: 2026-11-18 06:20 AM ET
 
 Machine-readable: https://trends-radar.pascalicchio.workers.dev/trends.json · Dashboard: https://trends-radar.pascalicchio.workers.dev/
 
@@ -8,10 +8,10 @@ Machine-readable: https://trends-radar.pascalicchio.workers.dev/trends.json · D
 
 - **hackernews**: ok (60 items)
 - **wikipedia**: ok (44 items) - most-read for 2026-11-17Z
-- **googlenews**: ok (247 items)
+- **googlenews**: ok (245 items)
 - **googletrends**: ok (30 items)
 - **reddit**: blocked (0 items) - Waiting for REDDIT_CLIENT_ID + REDDIT_CLIENT_SECRET (Reddit API access needs approval under the Responsible Builder Policy). Anonymous JSON/RSS returns 403 from the box, Cloudflare and GitHub Actions.
-- **x**: ok (268 items) - snapshot captured 2026-11-18T07:16:35+00:00 (1h ago)
+- **x**: ok (324 items) - snapshot captured 2026-11-18T11:19:33+00:00 (0h ago)
 - **youtube**: ok (100 items) - US/education: notFound
 - **feed:snopes**: ok (20 items)
 - **feed:afp_factcheck**: ok (40 items) - factcheck.afp.com RSS returns 403; read via Google News site: search
@@ -36,8 +36,8 @@ Machine-readable: https://trends-radar.pascalicchio.workers.dev/trends.json · D
 - **feed:gnews_ajedrez_es**: ok (40 items)
 - **feed:gnews_overtourism**: ok (40 items)
 - **feed:gnews_airlines**: ok (40 items)
-- **feed:gnews_visa**: ok (29 items)
-- **feed:gnews_travel_news**: ok (25 items)
+- **feed:gnews_visa**: ok (31 items)
+- **feed:gnews_travel_news**: ok (26 items)
 - **feed:gnews_christmas_markets**: ok (40 items)
 - **feed:wiki_travel_watch**: ok (8 items)
 - **feed:wikivoyage_top**: ok (40 items)
@@ -45,7 +45,7 @@ Machine-readable: https://trends-radar.pascalicchio.workers.dev/trends.json · D
 - **feed:nasa_news**: ok (10 items)
 - **feed:dod_releases**: ok (20 items)
 - **feed:aaro_news**: ok (4 items) - aaro.mil returns 403; UAP/AARO news via Google News search
-- **wikidata_entity_typing**: ok (124 items) - 149 Wikimedia API calls, 0 failed
+- **wikidata_entity_typing**: ok (124 items) - 152 Wikimedia API calls, 0 failed
 - **curated**: ok (12 items)
 - **nager_holidays**: ok (3 items)
 - **hebcal**: ok (1 items)
@@ -56,21 +56,21 @@ Machine-readable: https://trends-radar.pascalicchio.workers.dev/trends.json · D
 
 ## Top 5 candidates (by heat)
 
-1. **Grand Theft Auto VI** (heat 94.0) - best fit: none; footage: medium
-2. **Nvidia** (heat 85.0) - best fit: intern-broke-it; footage: high
+1. **China** (heat 94.0) - best fit: go-there-instead; footage: high
+   - angle hint: Travel news in 30s: what China means for your trip, and the smarter place or route to pick instead
+2. **Voyager 1** (heat 94.0) - best fit: none; footage: high
+3. **Grand Theft Auto VI** (heat 94.0) - best fit: none; footage: medium
+4. **Nvidia** (heat 94.0) - best fit: intern-broke-it; footage: high
    - angle hint: Skit: the intern lets the AI handle Nvidia... what could go wrong
-3. **Elimination Status** (heat 85.0) - best fit: none; footage: medium
-4. **New Zealand** (heat 83.1) - best fit: go-there-instead; footage: high
-   - angle hint: Travel news in 30s: what New Zealand means for your trip, and the smarter place or route to pick instead
 5. **James Bond** (heat 81.3) - best fit: none; footage: high
 
 ## Channel picks (top 5 by heat with channel fit)
 
-**Go There Instead** (`go-there-instead`): #4 [New Zealand](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LY0VVYTRCT2hjRzRpNlpUNVhrSm5yUHF2OE9VdEJoZWhrR20tWVFFVEFVVXhmT1FDLTJFQlBmcEFzU09TdkN3aG1EYTlIOFJFZ2VrNDdPdVBsTVE?oc=5) (heat 83.1, fit 90); #10 [Nationwide Ground Stop](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWEJfcUJNUlhPMEp4NXJHbmFvZ1ZxMUVSOS1aQU11RFpxeGx2TDZOeXFQenZGZkNmcWRsU3R5U0FGVmt0SFFPOUg3OFM5UnJQbV9IME1NMUpuMVBTTnNFUE5SRUFkZk1BNWNBdC1Pa2QyMlhka1hoYlp1NFJCZFE2SllVdjlKMUxfa0tBNU5mN3BxdU1MSHFZT3R6ak1XME9BX1JuTkFaM0VSdmNDLW5hc3BIclVDVnNhUTYySDRGa1N5S3pvb2Myc2l5TnlUTEI0YjRtODFzUk1nVkE?oc=5) (heat 62.4, fit 100); #43 [FAA Ground Stop](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSzNKYThTNWtRckJpRWtDT010WjFYOFNCdzlhMThucE52cnpDQzRoQlRtWHZNTGhXNjhGekhhdVBoLXQxLW5yS0xsZHQ1am1vU3NsMlJwcDk0Yktlb2ZPdzRYS0NnLUVkTWV1SzBSZF80SzlTWkFCb0F1Y1dmY1V4M0REcllZZWZweVBZaHNIMlRxRU8tSUZIaVBSUUNjaFRVWldlZUFZaHNDZ2F0cHlzMEVSak1Qd2t3ejZLalNUNGRYWFdFYjB0di1fZUtyUE5VcUVyUGxOd0FONXVPS1I5Mi1RQ01hSknSAewBQVVfeXFMTXJQSnEtWU5IZzRUOGZ1ejVMQ2ZSYUdyTFRXc3BlM2VFLUxBQ2xqbm5wMEpwUV9URzNsa09BRU9icU0yajlQSXhkdXZJdzhDVlpxU293SWNWNmtFVEN1UG5YNGZpT1prT0hQSHljbEZwSndnZC1RWUsxM24wM1EyekNCendsQXB2ZGloX2NSN0dkNWJWVUZqSW0xZ2syTkk3azZ1c1REX2JGMTlGQUlfUnZ2UlFDSUt3Y0FhUWprd1NCZWo4X3FkWXY4allzTnRGcFdYUmFFMmFiQVJzakRnMEVscjMwQ21RcklfQ2Q?oc=5) (heat 34.0, fit 98); #193 [Fabricated airport video circulates after US issues rare ground stop](https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tWkpMY25Sb3VZczltUVBkcl81bkh6YjNfZlN6UFFqOXBZQkZhSDlLLXhia0JOVWczRnNxUTFjY3hFOV9Fa3p3cGVYd3ZiWndGY0hxbXRHcUk?oc=5) (heat 17.3, fit 45); #253 [Northern Lights Forecast: 12 States May See Aurora This Tuesday Night](https://news.google.com/rss/articles/CBMixgFBVV95cUxNVmFNLVVaTVIyZ3MycEduTVVrb0pEVGZvbGNpSm9JOGxnQjM0WHl5a0FseVE4dHdjcGJtVzlyeEFadUI1TjFlTl9fSVhIaV9YaEhOQW83Ul90VkxqbUEwSzFWS1pwb2VVM2hmbEwzdVlBczRoWXdLWlRsRTdUS0Jtd0gwcko0bld5VFVIbk01ZkhwX2FTLWk2R1hjendSV2o3Q19IUGZHdHF3cnJGMFM1Z1RvVWtvRS1zRWV2bmZZQXRjUlA5LXc?oc=5) (heat 15.6, fit 45)
-**The Intern Broke It** (`intern-broke-it`): #2 [Nvidia](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZm55U0xfbUtyY3UyWE5OTmMtTjRmaVhabGQwVnlNSlhiUWhMV2hVb29kRlpEcE1tVnVoM1RTUks1X2NyTmNhcUNRSE9STWN4b3RaNUo4TG1DaEFraDFkN0RPRmdlV2hzQnhLTWh5RC1MeWdmX0xJTmdPX2dpSE5SLWZkZUk2VkVCLS1QRW9aTnhfa0M5RVcyVjNIT0xNYzZES0pZMjh4ejZRWVh2RXQ3MEpuM2g3X29KUGhFOGItdTJHT1FvOFNWcG9FVUZKTDBsS01ZdXhseWlRTHNaMllJ?oc=5) (heat 85.0, fit 100); #12 [Jensen Huang](https://en.wikipedia.org/wiki/Jensen_Huang) (heat 60.2, fit 45); #131 [Online Calls Grow for Hackers to Erase Debts and Student Loans](https://x.com/i/trending/2122614169044385977) (heat 19.1, fit 45); #138 [Java Vulnerability](https://trends.google.com/trends/explore?geo=GB&q=java%20vulnerability) (heat 18.8, fit 90); #222 [AI graphic amplifies US election conspiracies, inflates support for Ilhan Omar](https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zT3oyci01a1RLUEwxR1MtQUF6OUNQZTNLeVU4TmhkNGJySHcyLXNENE5nV09rcjJwMy1ocWRoQVdkUVJwMVNPNVp2SW1taC1JZGRVYUlpamg?oc=5) (heat 16.5, fit 45)
-**Plan Not Panic** (`plan-not-panic`): #101 [Flash Flooding Florida](https://trends.google.com/trends/explore?geo=US&q=flash%20flooding%20florida) (heat 20.2, fit 98); #165 [Fact Check: Mass blackout warning attributed online to Britain's National Grid is fake](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWlRlODhOb1h4YzVOcEZrb0VlWU1jUHI3VEE1VHFNMkU2WkxyRUV2OHlHdHJmUHNOQ3k0cmtrbnYta09FeEpfX0ZXaFR4QVY5SjRVaEtOdVhyLUlWenVTZzZtY2Vic3VRaWZEZzFIX1JXQVc0LWpSWGdGUFhQMzhrTXpfNFB6R2tfdGZYZTlhY2k2Rjl1VVNfVlNrbFJqTWxfeHF3eU1ZOFpJbTgzUmFiQ3pJQlZpa3Z2?oc=5) (heat 17.9, fit 45); #170 [No evidence that a U.S. blackout is expected Nov. 17](https://news.google.com/rss/articles/CBMimgFBVV95cUxOdWJHM0tpdTU2Nk9rX1VCelBTVFQ5SFFuZ2RXYXNPMXctdlc4cjAyQVBsN1V1M01FMVI5NTlOdVB0ejVqZnRkYm0xelg4YmJlN01DRlZjczYyZks2TEtzOXh2TVltal9WdElDem1qZGphUzZuNG5wX0E2RUQyOGROOVVqb0hJdWYtUkM0NEFkZUJiUFdEUlktdnRn?oc=5) (heat 17.8, fit 45); #226 [Doctors are raising concerns about U.S. babies born with measles](https://news.google.com/rss/articles/CBMioAFBVV95cUxONHZXcGMwVE1BTDhERTMwLVU0NUw5MVNmSTM3Z0RIS2RCcjg3MHVMVDJ4MzNZUy1nOWoyY2VBT3pWYnpYUV82aXFKVkROYzJSM3dlSjVqU0ZDcE1mMVotUDFMSmY3ZFdiZXZoS0dLSWhQeVFnYlYtX0VZWXhqQVJ2SXQ3Q3lFUTRMRENObmhUVzZTN2xYRGRPRmRMMVdKcTBJ?oc=5) (heat 16.3, fit 45); #254 [Second child dies of measles in Wisconsin, as state surpasses 650 cases](https://news.google.com/rss/articles/CBMisgFBVV95cUxPWnB4Q3ZVQUZJbVRndmdJY3k5NUlOcXJhaHprOVpHakgtUWxFTlhjMEk0OHB5YmdBYTFtbGVrQUZzaTI0bG43UkdKajNJZURVbWFwYnhjWC1vZ0JvSUJ6bmlvalA5bm55dGotY0syUGRDRHRGODd0TnNYOTlDQ3BLT3FjZ2hrZjZQalo0LU1WYTBLTUoyTWFoazhRMkM5VU9YbEdiUVp2SlJJNzZEWUJqeERR?oc=5) (heat 15.6, fit 45)
-**Silver Paradox** (`silver-paradox`): #75 [Saturn Devouring His Son](https://en.wikipedia.org/wiki/Saturn_Devouring_His_Son) (heat 24.0, fit 45); #380 [Jewish Heirs and Consignors Settle Claim Over $180 Million van Gogh Ahead of Sale](https://news.google.com/rss/articles/CBMipAFBVV95cUxPaURJVGRfQ1MxU0M1S3pNdUwxRXZsNnk0aXVaUmRXQ2xkaGxOdEIxVmJSQ2lQclMzV29CWkpFbTBkY0w1SWVrLVhZMHdoTkE1bkwxdXVqWTdwX3Baa0x1RU1xdGhOaHdOM2tQaU5KQ2tkWWdzeW1sSk9CMnVBX2VDNWdjMjdmNjVpVFdTcXBURlItYkIwWFpRUm51eG1jelMxQzMwTw?oc=5) (heat 13.1, fit 45); #414 ['Links with the British royal family would eventually prove crucial': How DNA solved the 70-year mystery of what happened to the executed members of the last Russian imperial family](https://www.livescience.com/health/genetics/links-with-the-british-royal-family-would-eventually-prove-crucial-how-dna-solved-the-70-year-mystery-of-what-happened-to-the-executed-members-of-the-last-russian-imperial-family) (heat 12.4, fit 45); #433 [Negro Leagues Baseball Museum in Kansas City, Missouri](https://www.atlasobscura.com/places/negro-leagues-baseball-museum) (heat 12.1, fit 45); #501 [Ancient Seafloor Canyons Helped Preserve Some of Earth’s Oldest Animal Fossils, New Study Says](https://news.google.com/rss/articles/CBMikAFBVV95cUxNTUVaUGFjZmpaYXl2Q1FSVk5EX1B2NUlZMUNVV21NWmNuZ09VV3doZ1hYcnlHcnRDTjhKWTEyWG0tbmhrMW4tWnB1OW1qR2p5X1RnS1ZpcG1UYW9Ma2lfTVZpMFhIZjBvMEtZdkJBNnpkWGM1cmhKQUYtVnpGaVBGODVNUE5BNW5xRVUyUUV5VEE?oc=5) (heat 11.0, fit 45)
-**Chess Blunder Club / Clube do Vacilo** (`chess-blunder-club`): #478 [Magnus Carlsen](https://en.wikipedia.org/wiki/Magnus_Carlsen) (heat 11.2, fit 90); #485 [Chess](https://en.wikipedia.org/wiki/Chess) (heat 11.2, fit 45); #494 [World Chess Championship 2026](https://en.wikipedia.org/wiki/World_Chess_Championship_2026) (heat 11.1, fit 90); #495 [Hikaru Nakamura](https://en.wikipedia.org/wiki/Hikaru_Nakamura) (heat 11.1, fit 90); #499 [Javokhir Sindarov](https://en.wikipedia.org/wiki/Javokhir_Sindarov) (heat 11.0, fit 90)
+**Go There Instead** (`go-there-instead`): #1 [China](https://x.com/search?q=China) (heat 94.0, fit 98); #10 [FAA Ground Stop](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSzNKYThTNWtRckJpRWtDT010WjFYOFNCdzlhMThucE52cnpDQzRoQlRtWHZNTGhXNjhGekhhdVBoLXQxLW5yS0xsZHQ1am1vU3NsMlJwcDk0Yktlb2ZPdzRYS0NnLUVkTWV1SzBSZF80SzlTWkFCb0F1Y1dmY1V4M0REcllZZWZweVBZaHNIMlRxRU8tSUZIaVBSUUNjaFRVWldlZUFZaHNDZ2F0cHlzMEVSak1Qd2t3ejZLalNUNGRYWFdFYjB0di1fZUtyUE5VcUVyUGxOd0FONXVPS1I5Mi1RQ01hSknSAewBQVVfeXFMTXJQSnEtWU5IZzRUOGZ1ejVMQ2ZSYUdyTFRXc3BlM2VFLUxBQ2xqbm5wMEpwUV9URzNsa09BRU9icU0yajlQSXhkdXZJdzhDVlpxU293SWNWNmtFVEN1UG5YNGZpT1prT0hQSHljbEZwSndnZC1RWUsxM24wM1EyekNCendsQXB2ZGloX2NSN0dkNWJWVUZqSW0xZ2syTkk3azZ1c1REX2JGMTlGQUlfUnZ2UlFDSUt3Y0FhUWprd1NCZWo4X3FkWXY4allzTnRGcFdYUmFFMmFiQVJzakRnMEVscjMwQ21RcklfQ2Q?oc=5) (heat 62.6, fit 98); #22 [New Zealand](https://x.com/search?q=New%20Zealand) (heat 49.0, fit 90); #36 [United Airlines](https://x.com/i/trending/2122827665400803616) (heat 37.1, fit 45); #191 [Fabricated airport video circulates after US issues rare ground stop](https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tWkpMY25Sb3VZczltUVBkcl81bkh6YjNfZlN6UFFqOXBZQkZhSDlLLXhia0JOVWczRnNxUTFjY3hFOV9Fa3p3cGVYd3ZiWndGY0hxbXRHcUk?oc=5) (heat 17.3, fit 45)
+**The Intern Broke It** (`intern-broke-it`): #1 [China](https://x.com/search?q=China) (heat 94.0, fit 90); #4 [Nvidia](https://news.google.com/rss/articles/CBMioAFBVV95cUxOU2Y4RXFidWlDS3JoZmNPano1a2YwcTBmNkxIbzRQRUVpWW1PWWFMNnZnRDJ1ajBsUzVMdGZ4aDhUcHpNU2RQS184UFk1cnkzUlkzckpsaXZVbVR1cWJKazBzSU5CeXJmeFVEUUxkbG1yU3F5SDVucjROY3JrbnBiWXJLUHExMjBTTmZCck5ON0ZJd3czMHdYOEF1TWhxWTd60gGmAUFVX3lxTE5KLXlfYjJnTHlMU05sVEFuSmFialBJR0FuWWhoa0FvRXEzVVZaYVJrblJUYTRWem1fU0doTkJwaFNhN3c3ZnRLVmx4WjlmbnFZZk9xSURWb0laRzhBd1dXVVBxZWtHaWdLaWV3X2I3eEx1YWliR0NTSmplcEVVTzBjd0FkS0k3UXQwR2RmTUo1d1F2R2lzcDR5clUyWmVnODdhal8xS3c?oc=5) (heat 94.0, fit 100); #7 [Amazon](https://www.livescience.com/animals/primates/scientists-discover-two-adorable-species-of-howler-monkey-in-the-amazon-and-theyre-already-endangered) (heat 69.6, fit 100); #11 [Jensen Huang](https://en.wikipedia.org/wiki/Jensen_Huang) (heat 60.7, fit 45); #34 [Astra and Sol](https://news.ycombinator.com/item?id=50535230) (heat 39.1, fit 90)
+**Plan Not Panic** (`plan-not-panic`): #169 [Fact Check: Mass blackout warning attributed online to Britain's National Grid is fake](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWlRlODhOb1h4YzVOcEZrb0VlWU1jUHI3VEE1VHFNMkU2WkxyRUV2OHlHdHJmUHNOQ3k0cmtrbnYta09FeEpfX0ZXaFR4QVY5SjRVaEtOdVhyLUlWenVTZzZtY2Vic3VRaWZEZzFIX1JXQVc0LWpSWGdGUFhQMzhrTXpfNFB6R2tfdGZYZTlhY2k2Rjl1VVNfVlNrbFJqTWxfeHF3eU1ZOFpJbTgzUmFiQ3pJQlZpa3Z2?oc=5) (heat 17.9, fit 45); #175 [No evidence that a U.S. blackout is expected Nov. 17](https://news.google.com/rss/articles/CBMimgFBVV95cUxOdWJHM0tpdTU2Nk9rX1VCelBTVFQ5SFFuZ2RXYXNPMXctdlc4cjAyQVBsN1V1M01FMVI5NTlOdVB0ejVqZnRkYm0xelg4YmJlN01DRlZjczYyZks2TEtzOXh2TVltal9WdElDem1qZGphUzZuNG5wX0E2RUQyOGROOVVqb0hJdWYtUkM0NEFkZUJiUFdEUlktdnRn?oc=5) (heat 17.8, fit 45); #222 [After US officially loses measles elimination status, RFK Jr. says will 'work to regain' it - ABC News](https://news.google.com/rss/articles/CBMingFBVV95cUxPRWp3d1BDLW1tYkhyOVRxeDVkYXBKTkg4R0ZMaFdzR0VOTjRMNDZ1eTNwMnRCbHdRdGlsblNVSlp2SXRJTENlWUl1Y1dUOWFMV2ltVVFUWno2Qnc4ZlE5dVJUXzFQRGl6cWFVVTRyOWFYT2Jxb1hzYXZtcG5EU1F1QXh2TTEzMUxQZW1MRF9semh6U3YtbGhPZnRob0J4Z9IBowFBVV95cUxPaTZZX0FOWXJuOHp1V2NYQmxrWHRtNGJyYjlUTnlxT0xkbnhreW9EaUR2QTJmbnI4RkNaZTlVNUJEOGllenE3TUdFS0FSWXBPWHJoYjI3cFRTSlRRNHNnUTI5T3g0ZkYtal9aS2l1cFRlN2JKa01OUEdiZjB5NkpkLU9oTUswbGFuSUt3RnNMeGNPRWliZ0VFVV9JeHB5YWdmSzJJ?oc=5) (heat 16.5, fit 45); #230 [Doctors are raising concerns about U.S. babies born with measles](https://news.google.com/rss/articles/CBMioAFBVV95cUxONHZXcGMwVE1BTDhERTMwLVU0NUw5MVNmSTM3Z0RIS2RCcjg3MHVMVDJ4MzNZUy1nOWoyY2VBT3pWYnpYUV82aXFKVkROYzJSM3dlSjVqU0ZDcE1mMVotUDFMSmY3ZFdiZXZoS0dLSWhQeVFnYlYtX0VZWXhqQVJ2SXQ3Q3lFUTRMRENObmhUVzZTN2xYRGRPRmRMMVdKcTBJ?oc=5) (heat 16.2, fit 45); #238 [Second child dies of measles in Wisconsin, as state surpasses 650 cases](https://news.google.com/rss/articles/CBMisgFBVV95cUxPWnB4Q3ZVQUZJbVRndmdJY3k5NUlOcXJhaHprOVpHakgtUWxFTlhjMEk0OHB5YmdBYTFtbGVrQUZzaTI0bG43UkdKajNJZURVbWFwYnhjWC1vZ0JvSUJ6bmlvalA5bm55dGotY0syUGRDRHRGODd0TnNYOTlDQ3BLT3FjZ2hrZjZQalo0LU1WYTBLTUoyTWFoazhRMkM5VU9YbEdiUVp2SlJJNzZEWUJqeERR?oc=5) (heat 16.0, fit 45)
+**Silver Paradox** (`silver-paradox`): #73 [Saturn Devouring His Son](https://en.wikipedia.org/wiki/Saturn_Devouring_His_Son) (heat 24.0, fit 45); #287 [Eagles hunt baboons weighing up to 60 pounds, raising questions about whether birds of prey hunted ancient humans](https://www.livescience.com/archaeology/human-evolution/eagles-hunt-baboons-weighing-up-to-60-pounds-raising-questions-about-whether-birds-of-prey-hunted-ancient-humans) (heat 15.1, fit 45); #446 [Negro Leagues Baseball Museum in Kansas City, Missouri](https://www.atlasobscura.com/places/negro-leagues-baseball-museum) (heat 12.1, fit 45); #500 ['Links with the British royal family would eventually prove crucial': How DNA solved the 70-year mystery of what happened to the executed members of the last Russian imperial family](https://www.livescience.com/health/genetics/links-with-the-british-royal-family-would-eventually-prove-crucial-how-dna-solved-the-70-year-mystery-of-what-happened-to-the-executed-members-of-the-last-russian-imperial-family) (heat 11.2, fit 45); #530 [Jewish Heirs and Consignors Settle Claim Over $180 Million van Gogh Ahead of Sale](https://news.google.com/rss/articles/CBMipAFBVV95cUxPaURJVGRfQ1MxU0M1S3pNdUwxRXZsNnk0aXVaUmRXQ2xkaGxOdEIxVmJSQ2lQclMzV29CWkpFbTBkY0w1SWVrLVhZMHdoTkE1bkwxdXVqWTdwX3Baa0x1RU1xdGhOaHdOM2tQaU5KQ2tkWWdzeW1sSk9CMnVBX2VDNWdjMjdmNjVpVFdTcXBURlItYkIwWFpRUm51eG1jelMxQzMwTw?oc=5) (heat 10.9, fit 45)
+**Chess Blunder Club / Clube do Vacilo** (`chess-blunder-club`): #68 [Carlsen Forfeits Final Game](https://news.google.com/rss/articles/CBMijAFBVV95cUxQVG9rQ0pKUzNQNDV6ZzF0TEhqN0dHR3YxOWp1SExpa2w0M2tKQ2JPQTBZNWtpU1d6bW5NaG1RNDZBRzNScG1vUWFiNnZtdmVtS0hkbWQ0cDUwV2JfYW5fVXh4VzNnYm1LWWd2aUl2RzY4SzhFTkJrb3dUS1FDVkNzU0NNZkhmaktvQlptUg?oc=5) (heat 26.5, fit 90); #495 [Magnus Carlsen](https://en.wikipedia.org/wiki/Magnus_Carlsen) (heat 11.2, fit 90); #501 [Chess](https://en.wikipedia.org/wiki/Chess) (heat 11.2, fit 45); #511 [World Chess Championship 2026](https://en.wikipedia.org/wiki/World_Chess_Championship_2026) (heat 11.1, fit 90); #512 [Hikaru Nakamura](https://en.wikipedia.org/wiki/Hikaru_Nakamura) (heat 11.1, fit 90)
 
 ### Niche feed: go-there-instead
 
@@ -123,6 +123,7 @@ Machine-readable: https://trends-radar.pascalicchio.workers.dev/trends.json · D
 
 ## Desk: factcheck
 
+- [Did Dolly Parton and Freddie Mercury sing 'Bohemian Rhapsody' together in London?](https://www.snopes.com/fact-check/dolly-parton-freddie-mercury-bohemian-rhapsody/) (snopes)
 - [Is US Army planning to detonate massive amount of lead azide in Middletown, Iowa?](https://www.snopes.com/fact-check/lead-azide-detonation-army-iowa/) (snopes)
 - [Does video show Sean Duffy shifting stance on need for FAA funding from 2023 to 2026?](https://www.snopes.com/fact-check/sean-duffy-faa-funding/) (snopes)
 - [Did NATO cancel summits until Trump leaves office over fears he'll share intel with Putin?](https://www.snopes.com/news/2026/11/17/nato-cancel-summits-trump-putin/) (snopes)
@@ -134,10 +135,12 @@ Machine-readable: https://trends-radar.pascalicchio.workers.dev/trends.json · D
 - [Does video show pterodactyl flying in Mexico?](https://www.snopes.com/fact-check/video-pterodactyl-mexico/) (snopes)
 - [Trump shared AI images of him comforting Markwayne Mullin's son after brain injury. Is the story real?](https://www.snopes.com/news/2026/11/16/trump-mullin-son-brain-injury/) (snopes)
 - [Did AI company tied to Sean Duffy's son-in-law cause FAA shutdown? What we know](https://www.snopes.com/news/2026/11/16/duffy-son-in-law-company-faa/) (snopes)
-- [Don't panic over fake Trump post warning of disruptions to food supply, banking services](https://www.snopes.com/fact-check/trump-food-banks-disruptions/) (snopes)
 
 ## Desk: oddities
 
+- [Man's 'silly experiment' at work led to a fatal 'rectal explosion'](https://www.livescience.com/health/mans-silly-experiment-at-work-led-to-a-fatal-rectal-explosion-diagnostic-dilemma) (livescience)
+- [For centuries, we drew the pregnant body without a head. Now we need to fill in what we left blank.](https://www.livescience.com/health/neuroscience/for-centuries-we-drew-the-pregnant-body-without-a-head-now-we-need-to-fill-in-what-we-left-blank-how-motherhood-affects-the-brain-opinion) (livescience)
+- [Eagles hunt baboons weighing up to 60 pounds, raising questions about whether birds of prey hunted ancient humans](https://www.livescience.com/archaeology/human-evolution/eagles-hunt-baboons-weighing-up-to-60-pounds-raising-questions-about-whether-birds-of-prey-hunted-ancient-humans) (livescience)
 - [CERN physicists measure the universe at the smallest scale ever: enter the 'zeptoverse'](https://www.livescience.com/physics-mathematics/particle-physics/cern-physicists-measure-the-universe-at-the-smallest-scale-ever-opening-best-chance-of-finding-new-physics) (livescience)
 - [Grizzlies could thrive in California — so why aren’t we reintroducing them?](https://www.livescience.com/animals/bears/grizzlies-could-thrive-in-california-so-why-arent-we-reintroducing-them) (livescience)
 - [Giant cloud of fish sperm glows green along Canadian island’s coast](https://www.livescience.com/planet-earth/rivers-oceans/giant-cloud-of-fish-sperm-glows-green-along-canadian-islands-coast-earth-from-space) (livescience)
@@ -147,155 +150,154 @@ Machine-readable: https://trends-radar.pascalicchio.workers.dev/trends.json · D
 - ['Out there, moving into the unknown': As Voyager 1 reaches one light-day from Earth, scientists reflect on its past — and its future](https://www.livescience.com/space/space-exploration/out-there-moving-into-the-unknown-as-voyager-1-reaches-one-light-day-from-earth-scientists-reflect-on-its-past-and-its-future) (livescience)
 - [Which animal would you most want to talk to, if you could?](https://www.livescience.com/animals/which-animal-would-you-most-want-to-talk-to-if-you-could) (livescience)
 - [NASA's Voyager 1 mission forever changed our view of Jupiter](https://www.livescience.com/space/space-exploration/voyager-1-forever-changed-our-view-of-jupiter-space-photo-of-the-week) (livescience)
-- [How did Cleopatra really die?](https://www.livescience.com/archaeology/ancient-egyptians/how-did-cleopatra-really-die) (livescience)
-- ['Flames soon engulfed us': Artemis II astronaut describes the historic mission's riskiest moment](https://www.livescience.com/space/space-exploration/flames-soon-engulfed-us-artemis-ii-astronaut-jeremy-hansen-describes-what-splashdown-felt-like-from-inside-the-orion-capsule) (livescience)
-- [Which animal farts the most?](https://www.livescience.com/animals/which-animal-farts-the-most) (livescience)
 
 ## Hot now
 
-### 1. Grand Theft Auto VI  (heat 94.0, steady)
-- Why: 4 source(s): googlenews, wikipedia, x, youtube; Wikipedia views 1.8x vs prior 4-day avg; Wikipedia views 1.8x vs prior 4-day avg; 153,037 views, 1.8x vs prior 4-day avg; X trend GB #3; Top #19, 5 outlets in cluster
+### 1. China  (heat 94.0, new)
+- Why: 8 source(s): chess, defense, factcheck, googlenews, googletrends, oddities, travel, x; trending in 2 regions (BR, MX); MX: 100+ searches; X trend MX #1; gnews_pt #2, G1
+- Fit: GTI 98, TIBI 90
+- Angle hint (go-there-instead): Travel news in 30s: what China means for your trip, and the smarter place or route to pick instead
+- Footage (info only): high - Wikimedia Commons (video): 7172; Internet Archive (movies): 22885; NASA Image & Video Library (video): 4; Library of Congress (film & video): 4236
+- Links: [x](https://x.com/search?q=China) · [googlenews](https://news.google.com/rss/articles/CBMixAFBVV95cUxOY2tWM2hKaF9pYmRhcmZmT3liR3NFTlV5bGxnVmxRQS1VQXZ6N19XYXlkeFNXSzVLcUNNWGhnbEE1X1VGNGY0TUdKY1FVNWZXazJRWXMwUlBDbThQT2hlMTJBblkzaHNpWVRRenZ0ZTVSd2hqWUE2M1pmdzZWNGhfdU5laWxmSWlzc3RmYVNBY01ENy1MWk1vTkktai1xajZsdy1KM3hwR21WSUlsQnFHRkViZXdYOTRjOG9VbUdERnBKTWxF0gHTAUFVX3lxTFBDc1pFUk13YnhMOGVUZGI0eEFnV1pOM01kNGZiX21PcV8yT2x1UEpPUFMyUy1yWllxVmIxQ3RoMnNRRjlpNjFTTXFSZ3R0Wnc4ZmFCNU1kRkZta1JraE9Ma3JRbUJpTmVhQ3NuX19NZFJ1MkwtREU0SS1xTlZ1YXl5X1FPMVVxc2JsUi1PS3pIcjlaQUZJQjBCRGxiNWdXc0laaE9FRjVZeHQwYVFnbU5yRkh3Y1hCZkJ0NUJpaWlIZUliTWdtMmt3TUpXazloQ2tuTjA?oc=5) · [googlenews](https://news.google.com/rss/articles/CBMixAFBVV95cUxORXM0U1NMNXF5dTdYQzhrbDFvc055WlMzU0tjdDM5YzJGN240Ni14dFBKV2cwX0xXcXdUTjFYWmFEc19hbG9Ua1p0RzViTzRBU2VmY2Q2ZFhvaUtyS252MzFHWmRPRHpYX0N1Y0lMYTJnNHREaS0yY3B0SnZvWldGS0sxeWxldmxXa2tSeFYwVDRRVkNwX0dSUnFKQTFaYXhyWWF0RkFEUnBhb1BGUkRhU0E1SS0xMUtnRWRHY0hvc0llVUJj?oc=5) · [travel](https://en.wikivoyage.org/wiki/China) · [googlenews](https://news.google.com/rss/articles/CBMikgFBVV95cUxQY2VKQ0t2dnhvUUstWjJ0WWZ4RFVwR0ZEMFJaTWJxRnpXMC1VRWF6RUxWb2xjbFBMUWJUcUd1ZUFMay1fQVFEdTZaM3JXaHJ5VDFHUm9TT3VKdHJvUXNuWUVpUlpBSmdET0RHNmdQbmJ1YTA4MzJubkd5bVUtTFo1WnB3SzJzRDJqRm1KYUdtVXlyQQ?oc=5)
+
+### 2. Voyager 1  (heat 94.0, new)
+- Why: 5 source(s): googlenews, hackernews, oddities, x, youtube; trending in 4 regions (BR, GB, MX, US); X trend US #23; gnews_es #20, BBC; 6 pts, 1 comments, 1h old; YouTube most popular US/science-tech #1: 7,473,518 views, 45h old, Past the Blue
+- Fit: no channel fit
+- Footage (info only): high - Wikimedia Commons (video): 138; Internet Archive (movies): 52; NASA Image & Video Library (video): 11; Library of Congress (film & video): err
+- Links: [youtube](https://www.youtube.com/watch?v=CWiJcimMA4Q) · [googlenews](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMTB2dkc1ZkZJWVNTYThiVUlrYmRLYjNPcDB0N0VnWkpnMHh0Z2lXTlRRODZsWEJwM0lIbFFTdFFIQUE1cVNQM000RUhEWENzUzFBS3U5MjJnZGtWcENwbmhpQkFmREw1cVNpQklXTVVlaW45ZDRUZ2J3Q3VMN2s0cm4tRF9veWpvSENF0gGaAUFVX3lxTE5FMHNrZVVQUzdGaE45VzdXdVdSTFd6UnVLVTVwdUlvLS16cHVqZFZsNFB4UU9OclEzM25KRTBqTHNUVmpWaU92LVJPSEZwSnRadmloYU5BS0wwbUczSHRFUGFFaXdwa1BkNGdSNGJneGcwTlNyenNTN2pDNGQwT2VOV2N4VVhFMlNXd2ZSVmEtNXVxVkJuanV3dVE?oc=5) · [googlenews](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2SHV5UF81UF83d1NaQk44WmFkcVJrdVdXT2tHS0dhcU9QVVI3OFBYVWJ6dTdPRXdiaW9FX3ZQWjdwdy1lSk45SkRWMjJkaEt4eFd3bmg3LUtPNFNa0gFiQVVfeXFMTnlic2NsSkRGRFJab1BURGozSnhZaFVrX3JReUYyNEx5bko3Wmp0RVB1Z1ZlSWFzQWNXSzFqQTlmdm91bXY4VkJ0RTJrOTktekc3WS1ncDBBcVhxdTFSSnhFOEE?oc=5) · [oddities](https://www.livescience.com/space/space-exploration/out-there-moving-into-the-unknown-as-voyager-1-reaches-one-light-day-from-earth-scientists-reflect-on-its-past-and-its-future) · [googlenews](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tdjFsUFZUZnBtOGdHLW9raXpkQUtSdjhaRUNFcHAybzZrVUZoekN6azBNVlo4clN1cGhBa2gxOGpWRzlyUEdHSlpySHFoRE9yS0MtZlI3REVuc0FHalI0?oc=5)
+
+### 3. Grand Theft Auto VI  (heat 94.0, steady)
+- Why: 4 source(s): googlenews, wikipedia, x, youtube; Wikipedia views 1.8x vs prior 4-day avg; Wikipedia views 1.8x vs prior 4-day avg; 153,037 views, 1.8x vs prior 4-day avg; X trend US #2; Technology #10, 5 outlets in cluster
 - Fit: no channel fit
 - Footage (info only): medium - Wikimedia Commons (video): 0; Internet Archive (movies): 91; NASA Image & Video Library (video): 0; Library of Congress (film & video): 0
-- Links: [x](https://x.com/search?q=GTA%206) · [wikipedia](https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI) · [x](https://x.com/search?q=GTA%20VI) · [youtube](https://www.youtube.com/watch?v=GKfom_Qa5Hs) · [x](https://x.com/search?q=GTA%206)
+- Links: [x](https://x.com/search?q=GTA%206) · [x](https://x.com/search?q=GTA%206) · [wikipedia](https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI) · [x](https://x.com/search?q=GTA%20VI) · [x](https://x.com/search?q=GTA%20VI)
 
-### 2. Nvidia  (heat 85.0, steady)
-- Why: 4 source(s): googlenews, hackernews, wikipedia, youtube; Wikipedia views 0.4x vs prior 4-day avg; 52,812 views, 0.4x vs prior 4-day avg; gnews_es #17, El Financiero; 512 pts, 231 comments, 15h old; YouTube most popular US/science-tech #23: 13,485,050 views, 278h old, VisionX Lab
+### 4. Nvidia  (heat 94.0, rising)
+- Why: 4 source(s): googlenews, hackernews, wikipedia, youtube; Wikipedia views 0.4x vs prior 4-day avg; trending in 2 regions (BR, MX); 52,812 views, 0.4x vs prior 4-day avg; gnews_es #16, El Financiero; 558 pts, 249 comments, 18h old
 - Fit: TIBI 100
 - Angle hint (intern-broke-it): Skit: the intern lets the AI handle Nvidia... what could go wrong
-- Footage (info only): high - Wikimedia Commons (video): 96; Internet Archive (movies): 1109; NASA Image & Video Library (video): 0; Library of Congress (film & video): 7
-- Links: [googlenews](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZm55U0xfbUtyY3UyWE5OTmMtTjRmaVhabGQwVnlNSlhiUWhMV2hVb29kRlpEcE1tVnVoM1RTUks1X2NyTmNhcUNRSE9STWN4b3RaNUo4TG1DaEFraDFkN0RPRmdlV2hzQnhLTWh5RC1MeWdmX0xJTmdPX2dpSE5SLWZkZUk2VkVCLS1QRW9aTnhfa0M5RVcyVjNIT0xNYzZES0pZMjh4ejZRWVh2RXQ3MEpuM2g3X29KUGhFOGItdTJHT1FvOFNWcG9FVUZKTDBsS01ZdXhseWlRTHNaMllJ?oc=5) · [youtube](https://www.youtube.com/watch?v=v3yS_mLzkVk) · [hackernews](https://news.ycombinator.com/item?id=50534631) · [googlenews](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTGswLW45X25uQXNodGZiZnNWeFk1dTdSWm5SRktfUXBTaTY3QlA2dFR3U3hFNnpDX2dwa3VHYllDS3Roa1VyWGFEMk16alc1dHRXR1p0eUVsRk1LMEliNDJyYlJIczVmam1OT25jMjRKbUZ2UE05bGtKLWUtdldySHpvOWMyRUdmenJUaFk0eTYtalRlZll0RkkzdGdzcnMwYkR1eWpKZTdqU3VRYXpLY1BSU2MwM04yMEJmbW9YOWZvZlRleUpqd3BseDhrTE5GVEFNN0FTM0hjUjdDTFBGUUQyOWVfUQ?oc=5) · [googlenews](https://news.google.com/rss/articles/CBMigwFBVV95cUxOUkhVeHlSOHlwY3dfOWVqSnVzNmhhcmtGWHk4SkdYQVlXSmxHdmtUVnBDMEpKbG5YQVpSVGJnbERVQUJPSElNbUh3Y3VTcURWQ2MyVlVKenZCRmtDVk9vcVlTSmJGbmdROVF6LUNORzd0UUI0TWo4M2JOSXFfRmlkZV9nYw?oc=5)
-
-### 3. Elimination Status  (heat 85.0, steady)
-- Why: 4 source(s): factcheck, googlenews, oddities, x; X news story (Health & Fitness); Health #1, 5 outlets in cluster
-- Fit: no channel fit
-- Footage (info only): medium - Wikimedia Commons (video): 37; Internet Archive (movies): 0; NASA Image & Video Library (video): 0; Library of Congress (film & video): err
-- Links: [factcheck](https://news.google.com/rss/articles/CBMimAFBVV95cUxPTE16cC1oeTB5bmF3dW42RzF5QU1JTlk3UDEwRU1sVWRLQW53WU9qSnV1MnBBb3JJWm9ZcmE4ZmVLYWw4dS1icnNYQklaWGdnRVFkZTlYcDhsazVmN1hpcF9PQ0Y1SXN5dzhjVzdhVFdvWG9oRG1kWUF2eDRFYnVsemRWN18xa0tGb1lOejNlZnl0V2tDV2tXTQ?oc=5) · [googlenews](https://news.google.com/rss/articles/CBMiggFBVV95cUxOWE9CWng2cDJoUlFIOEtFSmJnam0wajg2WnRBOHVpbmxqUkpVSlJBQ0tBYmh5dk9VWlZmVGhMTkFzY1Vld0tRVVlYeFB3c3hlQ2tTMUYtQWpQYmpKalNiMjJ0MDk4dHdVNVRvRmgzRThGQ2JaQXlaRm1LRm9qVEZFRTVB?oc=5) · [x](https://x.com/i/trending/2122936609993580770) · [oddities](https://www.smithsonianmag.com/smart-news/the-us-has-lost-its-measles-elimination-status-which-its-held-for-26-years-cases-have-now-surged-to-the-highest-levels-in-decades-180989878/)
-
-### 4. New Zealand  (heat 83.1, rising)
-- Why: 4 source(s): googlenews, googletrends, travel, x; US: 200+ searches; X trend US #31; Technology #10, 5 outlets in cluster
-- Fit: GTI 90
-- Angle hint (go-there-instead): Travel news in 30s: what New Zealand means for your trip, and the smarter place or route to pick instead
-- Footage (info only): high - Wikimedia Commons (video): 976; Internet Archive (movies): 1985; NASA Image & Video Library (video): 14; Library of Congress (film & video): 507
-- Links: [googlenews](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LY0VVYTRCT2hjRzRpNlpUNVhrSm5yUHF2OE9VdEJoZWhrR20tWVFFVEFVVXhmT1FDLTJFQlBmcEFzU09TdkN3aG1EYTlIOFJFZ2VrNDdPdVBsTVE?oc=5) · [x](https://x.com/search?q=New%20Zealand) · [travel](https://news.google.com/rss/articles/CBMivAFBVV95cUxQUHM5U1loX2U0OWVGcEdmMkVIcFhET0lKYXliVTlhVnVpSTRxa3I3VG1pR1JTOHl3djQzSFp4SGdiaTFtS29oMk9HU2JZNTlXZnpwbUs0TkUwbzZoOWxudVptMnl6dmhvUWp4eE9QaVR5dktwQkZreTZMQ1pLR0xONEx2c2M2MGVrVEdPOGx4QklOODkyRWdMV3RVc3hoZHRiQ0ZoUkMzUW42R3NmTy1keVh3VWdkNjV1bGtWNw?oc=5) · [googletrends](https://trends.google.com/trends/explore?geo=US&q=new%20zealand%20breakers) · [travel](https://news.google.com/rss/articles/CBMijwFBVV95cUxQSDNpdHJjMDJad0RjemIyQ2lNR3ppYUZ4RXY1UjNkMklTc0x6TU5GR0xvLWVxNzhrVlNVOUZfNTl3YjNveXVqUUFleks4aXluM2lXeFkydnFMV2Zwei1pSTZyNUJxNll5Z0hRZk5rcWpqZ0pGTzhNS2RzX2EwSjZaUVBybTJPUkM2U1lHbU1tdw?oc=5)
+- Footage (info only): high - Wikimedia Commons (video): 96; Internet Archive (movies): 1109; NASA Image & Video Library (video): 0; Library of Congress (film & video): err
+- Links: [googlenews](https://news.google.com/rss/articles/CBMioAFBVV95cUxOU2Y4RXFidWlDS3JoZmNPano1a2YwcTBmNkxIbzRQRUVpWW1PWWFMNnZnRDJ1ajBsUzVMdGZ4aDhUcHpNU2RQS184UFk1cnkzUlkzckpsaXZVbVR1cWJKazBzSU5CeXJmeFVEUUxkbG1yU3F5SDVucjROY3JrbnBiWXJLUHExMjBTTmZCck5ON0ZJd3czMHdYOEF1TWhxWTd60gGmAUFVX3lxTE5KLXlfYjJnTHlMU05sVEFuSmFialBJR0FuWWhoa0FvRXEzVVZaYVJrblJUYTRWem1fU0doTkJwaFNhN3c3ZnRLVmx4WjlmbnFZZk9xSURWb0laRzhBd1dXVVBxZWtHaWdLaWV3X2I3eEx1YWliR0NTSmplcEVVTzBjd0FkS0k3UXQwR2RmTUo1d1F2R2lzcDR5clUyWmVnODdhal8xS3c?oc=5) · [googlenews](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZm55U0xfbUtyY3UyWE5OTmMtTjRmaVhabGQwVnlNSlhiUWhMV2hVb29kRlpEcE1tVnVoM1RTUks1X2NyTmNhcUNRSE9STWN4b3RaNUo4TG1DaEFraDFkN0RPRmdlV2hzQnhLTWh5RC1MeWdmX0xJTmdPX2dpSE5SLWZkZUk2VkVCLS1QRW9aTnhfa0M5RVcyVjNIT0xNYzZES0pZMjh4ejZRWVh2RXQ3MEpuM2g3X29KUGhFOGItdTJHT1FvOFNWcG9FVUZKTDBsS01ZdXhseWlRTHNaMllJ?oc=5) · [youtube](https://www.youtube.com/watch?v=v3yS_mLzkVk) · [hackernews](https://news.ycombinator.com/item?id=50534631) · [wikipedia](https://en.wikipedia.org/wiki/Nvidia)
 
 ### 5. James Bond  (heat 81.3, steady)
-- Why: 3 source(s): googlenews, wikipedia, x; Wikipedia views 3.2x vs prior 4-day avg; Wikipedia views 3.4x vs prior 4-day avg; 120,511 views, 3.2x vs prior 4-day avg; X trend GB #1; Entertainment #7, 5 outlets in cluster
+- Why: 3 source(s): googlenews, wikipedia, x; Wikipedia views 3.2x vs prior 4-day avg; Wikipedia views 3.4x vs prior 4-day avg; 120,511 views, 3.2x vs prior 4-day avg; X trend MX #10; gnews_es #23, Infobae
 - Fit: no channel fit
 - Footage (info only): high - Wikimedia Commons (video): 183; Internet Archive (movies): 553; NASA Image & Video Library (video): 1; Library of Congress (film & video): 276
-- Links: [x](https://x.com/search?q=Bond) · [wikipedia](https://en.wikipedia.org/wiki/List_of_James_Bond_films) · [wikipedia](https://en.wikipedia.org/wiki/James_Bond) · [wikipedia](https://en.wikipedia.org/wiki/Portrayal_of_James_Bond_in_film) · [googlenews](https://news.google.com/rss/articles/CBMipwFBVV95cUxNYVlCbVcwbWJiTmFMdURydDZDSnBxalVRcmJZRlZNNU5zdnRHTFFidGpJM0NoUFdvamVBQ1p6RTBxTnBqd0xRWk94bzRhM2VYMVJoNUZlNEFWeGxBbWJjR0xiVlMtRGhrN290MExyWHpYYnRNRFVVX1NucjhZLTAxeWhNWVEwT0hFeXN0Y2djdWpic29FVDdRM18tYmU1aXlhaVhsVGtkUQ?oc=5)
+- Links: [wikipedia](https://en.wikipedia.org/wiki/List_of_James_Bond_films) · [x](https://x.com/search?q=James%20Bond) · [googlenews](https://news.google.com/rss/articles/CBMizAFBVV95cUxPX1NodE1hZXZ1bjZfaU9HN1E5YmtjRFpVbnJIVjVSbTVBVzRFSVZBN20tUkpzU0YxT0cycUtiTHJRcTZhTFNFLXJ6ZGU2ZXhrLUxua25sU2ZDNUx0VVBhMThSc2F5OUx0aWRwbVNySnoxQ0hLNWZ0N3kyc1A2c24tT3BXejlPQWwxU1dMUlp2VExzVEFibHBKemlyVEZ2ZkxjekQzOWFtb2xVUWlCRkd3V2dzdzFFeEpNTzBBMGJjelZtdXROaks3cV9QdUc?oc=5) · [googlenews](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUlNiSzlxWDQwdmVzVjlUTzVxengxWFZVeHZBWFNjMEVDaDNvcmNzZ01rQkh6QmFuZ3FULTVkc3Q3OHE5eDBxWGNYR2k3YWFLSzVpNTJJaUl5MGpHVUJTRlBxQUQyc05KdS1INXpjVGFhNVA0eEpNODZFZThxbzhNaUxSS19rX2gxMW1MZjEybjZEVlNIZHJQQVFrOGNCRWkwZXJXZ05zT2FtWlB0MGx3NENBcW9rWEhYNndIclBZdVlYZnV0cVgtakxMeFRhdUNHa1g2NjM2YlNIMUNfTnFsSdIB-wFBVV95cUxQS1d5SUItNkNnTVhxZG5LRFlmMVlBSl92dzItOWE3OTFBeVBaYlN2SGJkYkZ6MTRBeFN6SFRmTFlpT1c3Nk5SMjdqM2xqV243SllWV0lBYVp5eUJuTjFHSVhWZGlYYTJydG1tZndkT05FX21qY0Y3Y192LTJzSXZYUmpEXzRITGU1ZW5jNE5ZS0czUmIxTWZNTEFKcFRWWmdPLW5aSmp5SG1sRTktb29IOWFWUDU1Q2R4RUg2ZUlsOGg5VW9sdG5WN3JxSDlZQWJ4Z0ZOUjVSaFZLQWVFMnk0eW1ER2hXS2lLT3hhNUtKdGxja1NnQmNFMloxRQ?oc=5) · [wikipedia](https://en.wikipedia.org/wiki/James_Bond)
 
-### 6. Brasil  (heat 80.7, steady)
-- Why: 4 source(s): chess, factcheck, googlenews, wikipedia; Wikipedia views 1.1x vs prior 4-day avg; trending in 2 regions (BR, pt-wiki); wiki_pt #12, 4,214 views, 1.1x vs prior-days avg; gnews_pt #30, CBF
+### 6. Philippines  (heat 78.3, rising)
+- Why: 3 source(s): googlenews, travel, x; X trend US #17; Nation #8, 5 outlets in cluster
 - Fit: no channel fit
-- Footage (info only): high - Wikimedia Commons (video): 16253; Internet Archive (movies): 5881; NASA Image & Video Library (video): 0; Library of Congress (film & video): 14
-- Links: [factcheck](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NUk50azZLdW1renRsUm10R2lFTXhfeHNZX2gtU200d1E5MGNDQlZtZ0UyR0JhR0lKaVdoOVFEcjg4SmNsT2FxNzVoX0dBM0JIak1BUnFn?oc=5) · [chess](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdnJKWXV4QUQ0UDY1WU1LOGlJYWFvWjQwSUx6ZXlQeWdIZTVWVTZ3LWtjVzhUaVVMdW5fU0lPTXBEb0dzSU1RdWttakdRTGJHRXJoaEVfNlg5Wkc0OGk3QWVqNWpyMnY4UTZEWEFtLXFnMmQ0eE1lT2E0VEU2dlhiaDd3Y2lXTUlBekEw?oc=5) · [wikipedia](https://pt.wikipedia.org/wiki/Brasil) · [googlenews](https://news.google.com/rss/articles/CBMivwFBVV95cUxOZUxrQ1lmZnJQOUc0SHEwQ2dmdTU0UlQ5M0k2NFhiQzNGQVEtOUtKVm04bS1yV0RJN2lSVGlqd3l4RGRHZ3RwT3NLa19qeU5mb1NKd18zeVFLa2NFeVlWN09XTUVBam5aMjBWVDBNYmZzQ0laYlVHODZfSkYxY3VpLWY4dHdNVEdKNlhKRkxIQW5Tdkx1bXN3VFlyMGpMQjJCQlAtM0kwTTBsZnY1SVRRTU9DTHZZbTh6d1JKRElZSQ?oc=5)
+- Footage (info only): high - Wikimedia Commons (video): 2275; Internet Archive (movies): 2320; NASA Image & Video Library (video): 3; Library of Congress (film & video): err
+- Links: [travel](https://en.wikivoyage.org/wiki/Philippines) · [x](https://x.com/search?q=Philippines) · [googlenews](https://news.google.com/rss/articles/CBMitgFBVV95cUxPbFhhd2lWSVdoZFpSaDFwcVZLdk5DS185dnAydGt6LXl1bTlmdzRxOUl3UmF4ZTE4c2k2OGJVbDItaFd4M2swWDdXTlUydkw0eUJ0MnUzTWNCLS1KUWlTdm4zRFllT3JfS0lDckR5Q29rNnd6bjlWR09FcDFkMzhYenQ0eXNjQ2ExYzNHOGdmanJoeXlLSkZpODBCdi1YVXd3QVUwX2kwNEJDbklBdzBhVUFWQ1Njdw?oc=5) · [googlenews](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHX0FIQW16YUNkMVZrZXBWM3ozZm5rZGt3OVo5ek5yTW9CTGZoS0hXQzBRZ2htMXphbXRPdmk2cEZIZHFpUmJYdEk4NXZ6S2NFZU9GS3VXODhSaG8?oc=5)
 
-### 7. Robert Pattinson  (heat 80.7, steady)
-- Why: 3 source(s): googlenews, wikipedia, x; Wikipedia views 2.3x vs prior 4-day avg; Wikipedia views 2.5x vs prior 4-day avg; 840,972 views, 2.3x vs prior 4-day avg; X trend GB #4; gnews_pt #23, G1
+### 7. Amazon  (heat 69.6, new)
+- Why: 4 source(s): googlenews, oddities, space, x; X trend MX #41; Technology #26, 5 outlets in cluster
+- Fit: TIBI 100
+- Angle hint (intern-broke-it): Skit: the intern pushed one tiny change and caused Amazon
+- Footage (info only): high - Wikimedia Commons (video): 801; Internet Archive (movies): 3259; NASA Image & Video Library (video): 21; Library of Congress (film & video): err
+- Links: [oddities](https://www.livescience.com/animals/primates/scientists-discover-two-adorable-species-of-howler-monkey-in-the-amazon-and-theyre-already-endangered) · [space](https://www.nasaspaceflight.com/2026/11/launch-preview-111626/) · [x](https://x.com/search?q=Amazon) · [googlenews](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS0NlbFVQRXNDUjh1ZTZ0NTZxT0hXT2p2Yk5jaXRUMXBkYjdBVjU5d2ZLdkt2WGR1UFBGZEdDdzdyVzhXblhCcDluc0tjelA2SnVWUUdBUHhxaUVGQV9tMDNaTFBHU1lYRXZyZUtkQzFGS28tUEV4YlN6YVB2bG9DN2JXa2VjanBzb005WDQwRmtNNm5pMWZEWFJIa2NpZmswYzZhbkJZVUJnOXE0UW54WkpuYnhPenJJbUxoMWZRaFlRanl3ekdYbGNnbkdmYnlPWUE?oc=5) · [x](https://x.com/i/trending/2122938474852716910)
+
+### 8. Robert Pattinson  (heat 64.5, steady)
+- Why: 2 source(s): wikipedia, x; Wikipedia views 2.3x vs prior 4-day avg; Wikipedia views 2.5x vs prior 4-day avg; 840,972 views, 2.3x vs prior 4-day avg; X trend MX #3
 - Fit: no channel fit
-- Footage (info only): high - Wikimedia Commons (video): 0; Internet Archive (movies): 56; NASA Image & Video Library (video): 0; Library of Congress (film & video): 1
-- Links: [wikipedia](https://en.wikipedia.org/wiki/Robert_Pattinson) · [x](https://x.com/search?q=Robert%20Pattinson) · [wikipedia](https://en.wikipedia.org/wiki/Robert_Pattinson_filmography) · [googlenews](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUWdvLWNXWFJMd0MtVERZRzNleXhlZUR1N1A3YWxYWjQ2dFVsaGY2cm5JWHBsWGZiWGFCc3JkUTlHNUtfUUcwczVyZGZ6aFlYUE9yT2ZtUnptMEZLaXNKUHV1YnBObmdDWDhvdGNoUV9zOXhuUFZGQWJFTVQzdUhWT0ZJbWVmbExBOEtmNnBiX2dLbm9qN2o5YkJaWUUwN0h6SGJnT056bUF0RDFJQUxOTVh2TXFsNTZsZm5LM1FPMVZqbkZRR3AzR3htLVDSAdsBQVVfeXFMUGIzMUkxRUR4UEJubkdwaHNzdEQ5LTNDY19pS1l5WlJXU2ZJY0VfUnVlTmhQdWk5ODVBbDZoX1c3TWR5Zk5WSTV5U25xWWUybmJlSkdvS3ZnOHc4OEZ0VlB4ZnNwZU9yQnJLTTJBRktnSTQtWUZNY29xallfVTBfMHZOTEs4MUlocWtHSlV0aFFhU3pHa2Q2VHVSWDhFWlZKbWZ3YktIcktHMnVPb0FuOWZScUMxTWdxTUU4Z3FKdTJnNHZLWDZQRTFCZG9zZXdkZjdrZWV3THlhUFZV?oc=5) · [googlenews](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUlNiSzlxWDQwdmVzVjlUTzVxengxWFZVeHZBWFNjMEVDaDNvcmNzZ01rQkh6QmFuZ3FULTVkc3Q3OHE5eDBxWGNYR2k3YWFLSzVpNTJJaUl5MGpHVUJTRlBxQUQyc05KdS1INXpjVGFhNVA0eEpNODZFZThxbzhNaUxSS19rX2gxMW1MZjEybjZEVlNIZHJQQVFrOGNCRWkwZXJXZ05zT2FtWlB0MGx3NENBcW9rWEhYNndIclBZdVlYZnV0cVgtakxMeFRhdUNHa1g2NjM2YlNIMUNfTnFsSdIB-wFBVV95cUxQS1d5SUItNkNnTVhxZG5LRFlmMVlBSl92dzItOWE3OTFBeVBaYlN2SGJkYkZ6MTRBeFN6SFRmTFlpT1c3Nk5SMjdqM2xqV243SllWV0lBYVp5eUJuTjFHSVhWZGlYYTJydG1tZndkT05FX21qY0Y3Y192LTJzSXZYUmpEXzRITGU1ZW5jNE5ZS0czUmIxTWZNTEFKcFRWWmdPLW5aSmp5SG1sRTktb29IOWFWUDU1Q2R4RUg2ZUlsOGg5VW9sdG5WN3JxSDlZQWJ4Z0ZOUjVSaFZLQWVFMnk0eW1ER2hXS2lLT3hhNUtKdGxja1NnQmNFMloxRQ?oc=5)
+- Footage (info only): medium - Wikimedia Commons (video): 0; Internet Archive (movies): 56; NASA Image & Video Library (video): 0; Library of Congress (film & video): err
+- Links: [wikipedia](https://en.wikipedia.org/wiki/Robert_Pattinson) · [x](https://x.com/search?q=Robert%20Pattinson) · [wikipedia](https://en.wikipedia.org/wiki/Robert_Pattinson_filmography) · [x](https://x.com/search?q=Robert%20Pattinson) · [wikipedia](https://es.wikipedia.org/wiki/Robert_Pattinson)
 
-### 8. Game of the Year  (heat 70.8, rising)
-- Why: 3 source(s): googlenews, x, youtube; X trend GB #34; Technology #5, 5 outlets in cluster; YouTube most popular US/overall #15: 1,177,549 views, 15h old, thegameawards
+### 9. Sean Duffy  (heat 64.5, rising)
+- Why: 3 source(s): factcheck, wikipedia, x; Wikipedia views 0.5x vs prior 4-day avg; 93,303 views, 0.5x vs prior 4-day avg; X news story (Politics)
 - Fit: no channel fit
-- Footage (info only): high - Wikimedia Commons (video): 114; Internet Archive (movies): 511; NASA Image & Video Library (video): 4; Library of Congress (film & video): 1816
-- Links: [youtube](https://www.youtube.com/watch?v=_e0oJSfmIFU) · [googlenews](https://news.google.com/rss/articles/CBMiigFBVV95cUxNT0JTUFlEMy1QZ3FfekNuQWFlTW5Uc2lLMXVYOWU2dnVtTTlvX2dsZnlVZl9sQ3pCelhZcUkyYmhIUnIwVmNVTVF2MEhmbERJSGVDRzFXSUZ6YWlPczRNLU91cW9YVG1xZjZCTHN5WFE4RGxveThFY2E1cXRFU1BSMnNBQ2VzX0JWRHc?oc=5) · [x](https://x.com/search?q=Game%20of%20the%20Year)
+- Footage (info only): high - Wikimedia Commons (video): 13; Internet Archive (movies): 69; NASA Image & Video Library (video): 2; Library of Congress (film & video): err
+- Links: [wikipedia](https://en.wikipedia.org/wiki/Sean_Duffy) · [factcheck](https://www.snopes.com/fact-check/sean-duffy-faa-funding/) · [factcheck](https://www.snopes.com/news/2026/11/16/duffy-son-in-law-company-faa/) · [x](https://x.com/i/trending/2122770237837963585)
 
-### 9. Jamaica  (heat 64.9, rising)
-- Why: 2 source(s): googlenews, x; X trend MX #1; gnews_es #27, ESPN México
-- Fit: no channel fit
-- Footage (info only): high - Wikimedia Commons (video): 2602; Internet Archive (movies): 996; NASA Image & Video Library (video): 1; Library of Congress (film & video): 344
-- Links: [x](https://x.com/search?q=Jamaica) · [googlenews](https://news.google.com/rss/articles/CBMivgFBVV95cUxObExIR2NPUVFERmtWa2VnSFdCS2lDMVVfSFFpMElxM1RGdzBLZS1tYXEzRVpJMHZpUTFCc1A4WTJ2bDFra0hjeHZPdk53Z3BhTTdsMlo1R2ZRRTJveFMxMXhIWVUxekRuVGMwVWt5R19aM1VLeTJ4Y1ZGRW5zejZKRkgxeXJqLWJiTzRQWkc2WS00MmlhQmp6bVlKZjBkWlY4eGZzdFY4S2ZOS1ladlNTYU90ekphbWZzbDNpeldR?oc=5)
+### 10. FAA Ground Stop  (heat 62.6, rising)
+- Why: 3 source(s): factcheck, travel, x; X news story (Aviation)
+- Fit: GTI 98
+- Angle hint (go-there-instead): Travel news in 30s: what FAA Ground Stop means for your trip, and the smarter place or route to pick instead
+- Footage (info only): medium - Wikimedia Commons (video): 4; Internet Archive (movies): 4; NASA Image & Video Library (video): 0; Library of Congress (film & video): err
+- Links: [travel](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSzNKYThTNWtRckJpRWtDT010WjFYOFNCdzlhMThucE52cnpDQzRoQlRtWHZNTGhXNjhGekhhdVBoLXQxLW5yS0xsZHQ1am1vU3NsMlJwcDk0Yktlb2ZPdzRYS0NnLUVkTWV1SzBSZF80SzlTWkFCb0F1Y1dmY1V4M0REcllZZWZweVBZaHNIMlRxRU8tSUZIaVBSUUNjaFRVWldlZUFZaHNDZ2F0cHlzMEVSak1Qd2t3ejZLalNUNGRYWFdFYjB0di1fZUtyUE5VcUVyUGxOd0FONXVPS1I5Mi1RQ01hSknSAewBQVVfeXFMTXJQSnEtWU5IZzRUOGZ1ejVMQ2ZSYUdyTFRXc3BlM2VFLUxBQ2xqbm5wMEpwUV9URzNsa09BRU9icU0yajlQSXhkdXZJdzhDVlpxU293SWNWNmtFVEN1UG5YNGZpT1prT0hQSHljbEZwSndnZC1RWUsxM24wM1EyekNCendsQXB2ZGloX2NSN0dkNWJWVUZqSW0xZ2syTkk3azZ1c1REX2JGMTlGQUlfUnZ2UlFDSUt3Y0FhUWprd1NCZWo4X3FkWXY4allzTnRGcFdYUmFFMmFiQVJzakRnMEVscjMwQ21RcklfQ2Q?oc=5) · [travel](https://news.google.com/rss/articles/CBMiygFBVV95cUxNX29iSkphdGpEeTNsclgtNWtTQUppbmpBQ2Z0WS0ySFZpc3lUSTZic2Z4cG5PQWZyOEtJOVVKVkYyZVNiZ01GRGptSXpBR2RkZk90alFWVW1PY0JMeWUzdXEzdGdzRW1ZcEtoVkVkZ1BTX2wyaldaQW16Tk01V0FNLXhaZTVmczR5d1hCX2FqbFJyOEY5M1dOVkhxVy1YQ2FvX1lBXzBwajVNdml3bmVWMmhPODNOdVllcjF5d3FwYXZEOGRRaXBfdWtn?oc=5) · [travel](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdTlKSGx3QTg1WDhZeVhENDNkUEVVRVIxOXVSajVjdkJ1UzFRSjdrVC1OaElKZmVqZFVKdmJmQXdieGxwOWJpaFZqNWF2NHIyVFduWE5yWkExWWFjT2xwOXJCTjZRV3JMV2pNR2ZrWnA2TGhxM1ZJNzNoOW1Sb1NMTDMtNGpxSkNrSzQtaENQYkJDbUx3dldvZl9wYkh2Z3cxQXFnWjM4RUxWWElTRHV3S20xVjFUYzRMNkpQYXZUSS1fMi1GSFJ6VXA5X3JRck1FVGJGbk9nSQ?oc=5) · [factcheck](https://news.google.com/rss/articles/CBMilwFBVV95cUxQT3ZOaWw4X2JmZEJqLUVNY1p2NlZfak83Tk9aZElPNU80NHZYczk2bDdnVFJaUEFKRXhaSllKOVlaWm9obGczZkswNGlLT0ZCS25qaW1BeVh2eW5PLS0yMWJfMWxHZklsM0xHdlVfRVF3ZDViRnFKMUI1R3l4VmhMbXdoQkt2Qnc3MVRMTjM5Sm9uaVdXNWs0?oc=5) · [x](https://x.com/i/trending/2122763630642856280)
 
-### 10. Nationwide Ground Stop  (heat 62.4, rising)
-- Why: 3 source(s): googlenews, travel, x; X news story (Aviation); Business #5, 5 outlets in cluster
-- Fit: GTI 100
-- Angle hint (go-there-instead): Travel news in 30s: what Nationwide Ground Stop means for your trip, and the smarter place or route to pick instead
-- Footage (info only): high - Wikimedia Commons (video): 4; Internet Archive (movies): 6; NASA Image & Video Library (video): 5; Library of Congress (film & video): 89
-- Links: [travel](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWEJfcUJNUlhPMEp4NXJHbmFvZ1ZxMUVSOS1aQU11RFpxeGx2TDZOeXFQenZGZkNmcWRsU3R5U0FGVmt0SFFPOUg3OFM5UnJQbV9IME1NMUpuMVBTTnNFUE5SRUFkZk1BNWNBdC1Pa2QyMlhka1hoYlp1NFJCZFE2SllVdjlKMUxfa0tBNU5mN3BxdU1MSHFZT3R6ak1XME9BX1JuTkFaM0VSdmNDLW5hc3BIclVDVnNhUTYySDRGa1N5S3pvb2Myc2l5TnlUTEI0YjRtODFzUk1nVkE?oc=5) · [googlenews](https://news.google.com/rss/articles/CBMivwFBVV95cUxOenpFMDBkbl9rLU03MFp3ME5qVDh5QWRIT0Y0RFBCS01kZS1aTzlIVmRUbGZHZEpQb0F0eXEtNTlKQVlWSTRhYU10NVZYQW1tUHZXbjRmVEMwS3dkeDc4d3l3c2EwVzhyWXVHdktSd0FmQ2lleDJOZkZHVTBPSGZyRnRrWENYLUtDWVVyaXMtbHRiUzB0Ri1VNnRRVGlCSlNsMHBNSUlFT1JRbUhKLVNqTXlhbVBGMEJnSDN4SlV0Zw?oc=5) · [travel](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeWJ3Y2pHM3JDQTFpQUtEcEc4UHpXWjhoWW40QU9JYXN4WkhDTWN1ZkRqR0Q4emxJVkM4c2h1amxuZTIwN043R1ZDak5Yb0t5WmtmWXBGQTFIVkRuRXo3M3BRam4ta2FNUTl2MzlwOUJqN2haYlVuTWNSd1FDWWp4NkZnelhHVDk0aHlIQmRPbGZIVGV6SlF0T1Y2SkpmSmJiakZDTnBDUmtxaHdQYlB5V1dpbm5xd1VGNVNvNFE3amxMOFBqYWEyak5DZVQ2RlFQb1VrV05BcXpkYmVa?oc=5) · [travel](https://news.google.com/rss/articles/CBMiygFBVV95cUxPWHo0ZHdhbWswTzQ0ZGFaRlllV2preV9rMXA2MGdPdHhmWmNVZDVDS0U3MWlrM0E3dk10Tkd6bjFKbDZCYjdiMU1PVk1wOXlGNzlSSEp2enRxdkthbzNnNFZRMXh4VmNhYVhNT2pnSUdsMUNHaGprbXUyUUk0R1NiblVJLUlSTWtuenJsaTFaYk9sbFpMeU40VGgyWEZTUmxiNTJRSUs0VkRxWnhBUmlxODY0M0MyMm5ETE1iM2tuRURQc2hsM2p0VWhn0gHPAUFVX3lxTE41amM4eGUxVm5ZT1U4WXZSRk9jYWhXZUl1dURLQXd5bEYzVUJzRmhGVHhleHlnRVRibTQwTzVSaFdQZ0pzVWJEU1loUXRkcjRjQ0NBbkVmVnlKVHczVXF6S01haXRONklSVUlCUUlFdUExZF9rci1XRVQ1ZlRoUW1xOWZKODlVV3hZbXZvMi12QzZSSnhkb2YySjRQLXBHbVFrSGVjRy1GVWgzcE1LZ1kxNnFPR3FUWHZpOXJDS2VfQkJFT0xkakRoWmtmaU94VQ?oc=5) · [travel](https://news.google.com/rss/articles/CBMijAFBVV95cUxPbUprcHBjSEkxUFp5Y3FMTVI1eEc4ZzRZTGZMcTZVOXk1OGlzUlROb25jQzN2TXBxMlNyTlJSR1V5eWF3RmRmTkxZQTV4MVQzYzg1ZUNDWlpWaFlNN2piN05yT0YzaVBsdzVxbHFoQ2lYMVo5RkRLWlpQWGxxMVIyNmRiZDFGcnFjTk9oLQ?oc=5)
-
-### 11. Daniel Craig  (heat 61.1, steady)
-- Why: 2 source(s): wikipedia, x; Wikipedia views 3.0x vs prior 4-day avg; Wikipedia views 3.5x vs prior 4-day avg; 101,483 views, 3.0x vs prior 4-day avg; X trend GB #9
-- Fit: no channel fit
-- Footage (info only): high - Wikimedia Commons (video): 22; Internet Archive (movies): 56; NASA Image & Video Library (video): 1; Library of Congress (film & video): err
-- Links: [wikipedia](https://en.wikipedia.org/wiki/Daniel_Craig) · [x](https://x.com/search?q=Daniel%20Craig) · [wikipedia](https://es.wikipedia.org/wiki/Daniel_Craig) · [wikipedia](https://pt.wikipedia.org/wiki/Daniel_Craig)
-
-### 12. Jensen Huang  (heat 60.2, new)
-- Why: 2 source(s): googlenews, wikipedia; Wikipedia views 0.4x vs prior 4-day avg; Wikipedia views 0.4x vs prior 4-day avg; 144,823 views, 0.4x vs prior 4-day avg; gnews_es #15, CNN en Español
+### 11. Jensen Huang  (heat 60.7, steady)
+- Why: 2 source(s): googlenews, wikipedia; Wikipedia views 0.4x vs prior 4-day avg; Wikipedia views 0.4x vs prior 4-day avg; 144,823 views, 0.4x vs prior 4-day avg; gnews_es #11, CNN en Español
 - Fit: TIBI 45
 - Angle hint (intern-broke-it): Skit: the intern lets the AI handle Jensen Huang... what could go wrong
-- Footage (info only): high - Wikimedia Commons (video): 3; Internet Archive (movies): 81; NASA Image & Video Library (video): 0; Library of Congress (film & video): err
+- Footage (info only): high - Wikimedia Commons (video): 3; Internet Archive (movies): 82; NASA Image & Video Library (video): 0; Library of Congress (film & video): err
 - Links: [wikipedia](https://en.wikipedia.org/wiki/Jensen_Huang) · [googlenews](https://news.google.com/rss/articles/CBMihAFBVV95cUxPejI3NjQzRUs1N1k1Unp2eHNsY0k4UmZVVHBaVktoTkptYVpOeXZwaHliQ0t5clhLbFdwTW9hUE9qSEZPc0Nna0pvRnhXcnZicVBZc1hSR1dsMGR5MXdoMmVSbzlmTVc0QjY1MGI3dEZFZl9ndy1fNDNwWUF1TnJ5ejV5amk?oc=5) · [wikipedia](https://pt.wikipedia.org/wiki/Jensen_Huang)
 
-### 13. GOTY  (heat 60.0, steady)
-- Why: 2 source(s): googlenews, x; trending in 2 regions (GB, MX); X trend GB #8; gnews_es #22, Nintenderos
+### 12. Shenzhen  (heat 59.9, new)
+- Why: 2 source(s): googletrends, x; trending in 2 regions (MX, US); US: 1000+ searches; X trend MX #11
 - Fit: no channel fit
-- Footage (info only): high - Wikimedia Commons (video): 2; Internet Archive (movies): 199; NASA Image & Video Library (video): 0; Library of Congress (film & video): 0
-- Links: [x](https://x.com/search?q=GOTY) · [googlenews](https://news.google.com/rss/articles/CBMijgJBVV95cUxNcVp4M0t0Mk4xemhhNGhHREZRX1hNZEY3VmJVTW5wR1NqSENnbDl3dW1pcU8xeGpKWm8tN0RMZkdJZlpuMFZ6M2RGOFRhN19KVUUwcmRYQmZfRlVDTVlwUzdxUHQxeG42ZGpMOThkTGE5dldpMUxfNVV1VllWWm5jdzhuZlMtS2lVNHpUOFItNnlqMm9tV0E3c2xTZkZPZTltZkhQWmxLTUJwa21vTXZWRnlCTEltZ19VN1ViVkd1aGY3RmhGY3g4QzZjN2hoYnl3YURHekFhWW0xZnlDdHdvMC1DeURvekh1SmxuSm5DdF9CNUV0MmFnOTI4VnZzcmhncnM1cFpJOWlCSWJqX0E?oc=5)
+- Footage (info only): high - Wikimedia Commons (video): 54; Internet Archive (movies): 156; NASA Image & Video Library (video): 0; Library of Congress (film & video): err
+- Links: [x](https://x.com/search?q=Shenzhen) · [x](https://x.com/search?q=Shenzhen) · [googletrends](https://trends.google.com/trends/explore?geo=US&q=shenzhen)
 
-### 14. Vietnam  (heat 58.7, steady)
-- Why: 3 source(s): oddities, travel, x; X trend MX #31
+### 13. Daniel Craig  (heat 59.2, steady)
+- Why: 2 source(s): wikipedia, x; Wikipedia views 3.0x vs prior 4-day avg; Wikipedia views 3.5x vs prior 4-day avg; 101,483 views, 3.0x vs prior 4-day avg; X trend GB #16
 - Fit: no channel fit
-- Footage (info only): high - Wikimedia Commons (video): 1938; Internet Archive (movies): 5036; NASA Image & Video Library (video): 2; Library of Congress (film & video): 19210
-- Links: [travel](https://en.wikivoyage.org/wiki/Vietnam) · [oddities](https://www.atlasobscura.com/places/tam-thien-cave-system-tam-thien-d-ng) · [oddities](https://www.atlasobscura.com/places/hoang-de-citadel-thanh-hoang-d) · [x](https://x.com/search?q=Vietnam)
+- Footage (info only): high - Wikimedia Commons (video): 22; Internet Archive (movies): 56; NASA Image & Video Library (video): 1; Library of Congress (film & video): err
+- Links: [wikipedia](https://en.wikipedia.org/wiki/Daniel_Craig) · [x](https://x.com/search?q=Daniel%20Craig) · [wikipedia](https://es.wikipedia.org/wiki/Daniel_Craig) · [x](https://x.com/search?q=Daniel%20Craig) · [wikipedia](https://pt.wikipedia.org/wiki/Daniel_Craig)
 
-### 15. Philippines  (heat 58.0, rising)
-- Why: 3 source(s): googlenews, travel, x; X trend US #32; Entertainment #25, 5 outlets in cluster
+### 14. GOTY  (heat 58.8, steady)
+- Why: 2 source(s): googlenews, x; trending in 2 regions (GB, MX); X trend GB #13; gnews_es #22, Nintenderos
 - Fit: no channel fit
-- Footage (info only): high - Wikimedia Commons (video): 2275; Internet Archive (movies): 2320; NASA Image & Video Library (video): 3; Library of Congress (film & video): 5798
-- Links: [travel](https://en.wikivoyage.org/wiki/Philippines) · [x](https://x.com/search?q=Philippines) · [googlenews](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHX0FIQW16YUNkMVZrZXBWM3ozZm5rZGt3OVo5ek5yTW9CTGZoS0hXQzBRZ2htMXphbXRPdmk2cEZIZHFpUmJYdEk4NXZ6S2NFZU9GS3VXODhSaG8?oc=5)
+- Footage (info only): high - Wikimedia Commons (video): 2; Internet Archive (movies): 199; NASA Image & Video Library (video): 0; Library of Congress (film & video): err
+- Links: [googlenews](https://news.google.com/rss/articles/CBMijgJBVV95cUxNcVp4M0t0Mk4xemhhNGhHREZRX1hNZEY3VmJVTW5wR1NqSENnbDl3dW1pcU8xeGpKWm8tN0RMZkdJZlpuMFZ6M2RGOFRhN19KVUUwcmRYQmZfRlVDTVlwUzdxUHQxeG42ZGpMOThkTGE5dldpMUxfNVV1VllWWm5jdzhuZlMtS2lVNHpUOFItNnlqMm9tV0E3c2xTZkZPZTltZkhQWmxLTUJwa21vTXZWRnlCTEltZ19VN1ViVkd1aGY3RmhGY3g4QzZjN2hoYnl3YURHekFhWW0xZnlDdHdvMC1DeURvekh1SmxuSm5DdF9CNUV0MmFnOTI4VnZzcmhncnM1cFpJOWlCSWJqX0E?oc=5) · [x](https://x.com/search?q=GOTY) · [x](https://x.com/search?q=GOTY)
 
-### 16. Ray Tintori  (heat 56.9, steady)
-- Why: 2 source(s): googlenews, wikipedia; Wikipedia views 626.4x vs prior 4-day avg; 98,033 views, 626.4x vs prior 4-day avg; Entertainment #16, 5 outlets in cluster
+### 15. Metacritic  (heat 58.1, new)
+- Why: 2 source(s): googletrends, x; trending in 2 regions (MX, US); MX: 1000+ searches; X trend US #18
+- Fit: no channel fit
+- Footage (info only): medium - Wikimedia Commons (video): 0; Internet Archive (movies): 17; NASA Image & Video Library (video): 0; Library of Congress (film & video): err
+- Links: [googletrends](https://trends.google.com/trends/explore?geo=MX&q=metacritic) · [x](https://x.com/search?q=Metacritic)
+
+### 16. 2026–27 UEFA Nations League  (heat 57.6, rising)
+- Why: 2 source(s): googlenews, wikipedia; Wikipedia views 1.4x vs prior 4-day avg; Wikipedia views 1.3x vs prior 4-day avg; 93,874 views, 1.4x vs prior 4-day avg; gnews_es #6, ESPN México
+- Fit: no channel fit
+- Links: [googlenews](https://news.google.com/rss/articles/CBMivgFBVV95cUxObExIR2NPUVFERmtWa2VnSFdCS2lDMVVfSFFpMElxM1RGdzBLZS1tYXEzRVpJMHZpUTFCc1A4WTJ2bDFra0hjeHZPdk53Z3BhTTdsMlo1R2ZRRTJveFMxMXhIWVUxekRuVGMwVWt5R19aM1VLeTJ4Y1ZGRW5zejZKRkgxeXJqLWJiTzRQWkc2WS00MmlhQmp6bVlKZjBkWlY4eGZzdFY4S2ZOS1ladlNTYU90ekphbWZzbDNpeldR?oc=5) · [wikipedia](https://en.wikipedia.org/wiki/2026–27_UEFA_Nations_League) · [googlenews](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMXp5ZjBfdmkwSFNrUkxZM2hYRjhJY01leVdPN0JieGtFMjBWRk9jd01RaS1YTWY4R1BEQlJSR0E3cXNnTGZVYzZFampBNExjaFJlN0lWNmlTLWJDY2Q1dTk0NjR0MGl5bXRNd2NxeU5qbXVibHF6ekg0RkJRVkVSUXA5TE13U2xVWWx3TGJnNGZfbWNyVW90cTdmR0xpd0taRzNubnA0anM5Y3hEZXI2R3Q3dEQtVFpsNjRLelExbEPSAcABQVVfeXFMTTJBcG05Wk1HQWRld3NKU3NhYllGTEh6MlpZb0ZqMkkwN1ZuMlpjcTNVQ0wyemNBY1B6b2lTTjBCTDZleFBBTnZxYjlYSTdUYm1GLURza29lc3NpYW85TFlCU1BRQklLenlxN2QwampSbGo2TnM3RW1WeDBiNnlkQ2F0b0dKYnJ6Zjh1elRMRV9ycGlIcEpsN3A3WGsyMTVHYV9iYUZqWWtkYmltYUQ5VThRUTRQSXdFUnFWUTFNd2hD?oc=5) · [wikipedia](https://en.wikipedia.org/wiki/UEFA_Nations_League) · [googlenews](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOczNiRTlsaEJGUDdVdS1jcXV0OUNXLUdFSVhsbXBLbHdjMC1kOExvMW85U3ByRFFwajNuc0NTYk9BVUp0NzAtRUhwNU5VZXp2UE1CNUM4SVBQcGJ3a2UyTFREWE9melJNakkzVTVIcGxqN1V5ZkNaaUZid0FGSkVkNGFlR0VMMU9DcXpoejgzQjJGY1BtRlpscXJxTG1iVUNCT1NvNG9KdDJNNmgwZTRuWThIOUNlOERySzhGeEh0NTZEWEFWemR5ZGlucWEyM01LY2p5VGxCcw?oc=5)
+
+### 17. Brasil  (heat 54.3, cooling)
+- Why: 3 source(s): chess, factcheck, wikipedia; Wikipedia views 1.1x vs prior 4-day avg; wiki_pt #12, 4,214 views, 1.1x vs prior-days avg
+- Fit: no channel fit
+- Links: [factcheck](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NUk50azZLdW1renRsUm10R2lFTXhfeHNZX2gtU200d1E5MGNDQlZtZ0UyR0JhR0lKaVdoOVFEcjg4SmNsT2FxNzVoX0dBM0JIak1BUnFn?oc=5) · [chess](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdnJKWXV4QUQ0UDY1WU1LOGlJYWFvWjQwSUx6ZXlQeWdIZTVWVTZ3LWtjVzhUaVVMdW5fU0lPTXBEb0dzSU1RdWttakdRTGJHRXJoaEVfNlg5Wkc0OGk3QWVqNWpyMnY4UTZEWEFtLXFnMmQ0eE1lT2E0VEU2dlhiaDd3Y2lXTUlBekEw?oc=5) · [wikipedia](https://pt.wikipedia.org/wiki/Brasil)
+
+### 18. Ray Tintori  (heat 52.5, steady)
+- Why: 2 source(s): googlenews, wikipedia; Wikipedia views 626.4x vs prior 4-day avg; 98,033 views, 626.4x vs prior 4-day avg; Entertainment #25, 5 outlets in cluster
 - Fit: no channel fit
 - Links: [wikipedia](https://en.wikipedia.org/wiki/Ray_Tintori) · [googlenews](https://news.google.com/rss/articles/CBMixAFBVV95cUxOeUVSb1h1d2ljcWF4Z0hHcXhvNHRfbkxYd2hBSk11Q2pyZmQwdWtjeG5ySktXYlAyZ0pkQm00NXo0SWNNWlh4MFowTHg1cDRoRVVwdjRLOWYwa0ZFN0Q0NlpweE5xVnJYX0FnTFZsd2RERlhONEhhd2hwWVczLURqQmdEaFZFNGROaXRadE15UWF3YjY3ZFVSSkgtakVFVmd2THl5bnFlNUlydjFsOXkwaW9UUG9FRjZlVnhhUnFKWXdydVk5?oc=5)
 
-### 17. Mary Peltola  (heat 54.9, steady)
-- Why: 2 source(s): googlenews, x; trending in 2 regions (MX, US); X trend US #25; gnews_es #5, CNN en Español
-- Fit: no channel fit
-- Links: [googlenews](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd2ViNEJsamxZaGFOSTBZNHoxUkNTS2liMEtSX1p2TC1jbGlsNnk3UV9WY2tQQjd5UHJWZ0djeElhQ0tGOVlnTEt6bG11RER3cklKdmZuajVZME8xdjJUNnhzU1FSajJFMHFScXpvVF9hU2JGNUdDZWxreThJcTFZRUJ0SUkxbjAxSmo5SFhYeW9fQnNBQmxjNWdiRlNpQ3V5OXNZQl9adDhRbzNaWWJ6OVJkMDNQaF9sVnlj?oc=5) · [googlenews](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVkFROVltMWlvNVFIRVN4MTZTb1lWM04xUGRtM05odzZYUk9zNWxxZnVKZlluYnVfeG5PX3lYOTZTejdVSEIzS3A5b291STRFeW1seWM1cWJKU2ZoNm1kSHp3MW1Pa1p1bV9ZY2NNZEgyNzhGRnlKa1pMNXFOR3k2bThMWXk5ZHdYTmlrb1RDS19OWVZ2dU9wRDN4dmd1SWpF?oc=5) · [x](https://x.com/search?q=Mary%20Peltola)
-
-### 18. Brexit  (heat 54.2, rising)
-- Why: 2 source(s): googlenews, x; X trend GB #5; World #16, 5 outlets in cluster
+### 19. Brexit  (heat 51.7, rising)
+- Why: 2 source(s): googlenews, x; X trend GB #8; World #15, 5 outlets in cluster
 - Fit: no channel fit
 - Links: [x](https://x.com/search?q=Brexit) · [googlenews](https://news.google.com/rss/articles/CBMisgFBVV95cUxQeDk0RllKODNYcWtIaDhfZlltaVYwd2toNEtDaC1sY1FrMHBaOUJaWE0wdU1xSVA3NEhTTF9zWjZ2SkYzY0xGWUJRUUwxU1psY3lWQm1XN28zR2lNOU1GcWUtZXRmNjJlUVZoNDYwbW1QSlhRTEJoczBXR0szc2lUd0RpSUdLcVlkdm5oWHkzMmZ3LTRyRU1IdURaSmx0ZlcyUjQ1MnJfZnlLNWt5TFEtai1R?oc=5)
 
-### 19. Jacoby Brissett  (heat 52.3, steady)
-- Why: 2 source(s): googlenews, wikipedia; Wikipedia views 21.4x vs prior 4-day avg; 95,821 views, 21.4x vs prior 4-day avg; Sports #25, 5 outlets in cluster
+### 20. Bond  (heat 51.2, cooling)
+- Why: 2 source(s): googlenews, x; X trend GB #1; Entertainment #5, 5 outlets in cluster
+- Fit: no channel fit
+- Links: [x](https://x.com/search?q=Bond) · [googlenews](https://news.google.com/rss/articles/CBMipwFBVV95cUxNYVlCbVcwbWJiTmFMdURydDZDSnBxalVRcmJZRlZNNU5zdnRHTFFidGpJM0NoUFdvamVBQ1p6RTBxTnBqd0xRWk94bzRhM2VYMVJoNUZlNEFWeGxBbWJjR0xiVlMtRGhrN290MExyWHpYYnRNRFVVX1NucjhZLTAxeWhNWVEwT0hFeXN0Y2djdWpic29FVDdRM18tYmU1aXlhaVhsVGtkUQ?oc=5) · [googlenews](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWkJiNWtmcVlsMTBhNGRnczJEV1lEaHR1MUtpTjY2Nnctd2F2QlJyTGNBNFRwVU5KWU1neXdIZFh1ZUJjX29QZjZTSTRta2UxWVBHbE1WeTlmTGVEVUR0aXViS2ZQVkJfZm5IZWl0amdYcjFtek03S0lfdF9MUUdUeHVuSVR1bTZ2NTJHaU1Pai1ONXVmdXQxS29oSjc1SWJfcXBqTjBVU0w2TG8?oc=5)
+
+### 21. Jacoby Brissett  (heat 50.5, steady)
+- Why: 2 source(s): googlenews, wikipedia; Wikipedia views 21.4x vs prior 4-day avg; 95,821 views, 21.4x vs prior 4-day avg; Sports #29, 5 outlets in cluster
 - Fit: no channel fit
 - Links: [wikipedia](https://en.wikipedia.org/wiki/Jacoby_Brissett) · [googlenews](https://news.google.com/rss/articles/CBMilwFBVV95cUxQZC1mcDNkSV9FYkJRQU5jeUk0NzhRbGc4bEdCOEN4aXZCeWtRNW80MmFNaUN6NjFkS2lLUFBjNTNxbkxSZFFKMXdFWldwR1pTLXU1VDVRWFlybjE2c1dodXVuOWtNQjNjRUJQV2lCdXhmYWtMNGdmOHFaTXJDM2hBejdyY0lNTlpXUU80TnNoUkZCQlNJVk9v?oc=5)
 
-### 20. Sean Connery  (heat 51.2, steady)
-- Why: 2 source(s): wikipedia, x; Wikipedia views 3.2x vs prior 4-day avg; 59,397 views, 3.2x vs prior 4-day avg; X trend GB #21
+### 22. New Zealand  (heat 49.0, cooling)
+- Why: 2 source(s): travel, x; trending in 3 regions (GB, US, Worldwide); X trend US #3
+- Fit: GTI 90
+- Angle hint (go-there-instead): Travel news in 30s: what New Zealand means for your trip, and the smarter place or route to pick instead
+- Links: [x](https://x.com/search?q=New%20Zealand) · [x](https://x.com/search?q=New%20Zealand) · [travel](https://news.google.com/rss/articles/CBMivAFBVV95cUxQUHM5U1loX2U0OWVGcEdmMkVIcFhET0lKYXliVTlhVnVpSTRxa3I3VG1pR1JTOHl3djQzSFp4SGdiaTFtS29oMk9HU2JZNTlXZnpwbUs0TkUwbzZoOWxudVptMnl6dmhvUWp4eE9QaVR5dktwQkZreTZMQ1pLR0xONEx2c2M2MGVrVEdPOGx4QklOODkyRWdMV3RVc3hoZHRiQ0ZoUkMzUW42R3NmTy1keVh3VWdkNjV1bGtWNw?oc=5) · [x](https://x.com/search?q=New%20Zealand) · [travel](https://news.google.com/rss/articles/CBMijwFBVV95cUxQSDNpdHJjMDJad0RjemIyQ2lNR3ppYUZ4RXY1UjNkMklTc0x6TU5GR0xvLWVxNzhrVlNVOUZfNTl3YjNveXVqUUFleks4aXluM2lXeFkydnFMV2Zwei1pSTZyNUJxNll5Z0hRZk5rcWpqZ0pGTzhNS2RzX2EwSjZaUVBybTJPUkM2U1lHbU1tdw?oc=5)
+
+### 23. Crimea  (heat 47.8, steady)
+- Why: 2 source(s): googlenews, x; trending in 2 regions (GB, MX); X trend GB #48; gnews_es #13, DW.com
+- Fit: no channel fit
+- Links: [googlenews](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOUdrWGNXXzBpWnA4aE1NbnRXdUJfTWU4WndxTEhmZlhKSjRxQUJiSHg2dEs3Z2Y2MUVlNGN1eFdiUV9JellNbkFFLTdhQ3drcTRqcklldWV3QWUyN1ZvY3lKRjJGUXRaY3Y3US14eFZYaW9vdWRCakJER0MwckN1bzFZeGhkUUhaUW90dWJwajdPYUZvdktITllvR3RWWGxTNm8ybWdlYzVYRkpHcng1RlllZWQ4NE9xaU42QTl0djIxSnFzdVpid0ZBcE1QT09nZmJ5TzJqQUdXQUhWeUZUMtIB4AFBVV95cUxQSjNFNDVzMHVDRU15QXJpbDZvVEU0VThTX1ZaOXhEWmVJNWpIZFlHRm5PV05UN2VlLU1GMTRnb2VwaFI0TWdTckRBNklSMjdZYkRpRUVSQzhscG5xMU1KRmZPV3JFRThtNGI0bzVwd3EzNEplWkU4cWNOVTgyMkxuR2V6RkpvX3Y1WW5CWVczSlhuQWdnUGJyR29LRk9GRFk5Sk1Ya2taRFRKdFRFd0pFVU5mRklkUWcwYlZwYzNVVXRCYmxRTmcyQVU3S0h1MDhjRmVGRjJmYkhTcmhfbHdxdg?oc=5) · [x](https://x.com/search?q=Crimea)
+
+### 24. Sean Connery  (heat 46.6, steady)
+- Why: 2 source(s): wikipedia, x; Wikipedia views 3.2x vs prior 4-day avg; 59,397 views, 3.2x vs prior 4-day avg; X trend GB #38
 - Fit: no channel fit
 - Links: [wikipedia](https://en.wikipedia.org/wiki/Sean_Connery) · [x](https://x.com/search?q=Connery)
 
-### 21. Spain  (heat 48.6, steady)
-- Why: 3 source(s): oddities, travel, x; X trend GB #42
+### 25. Mary Peltola  (heat 46.4, steady)
+- Why: 2 source(s): googlenews, x; X trend US #19; Nation #1, 5 outlets in cluster
 - Fit: no channel fit
-- Links: [oddities](https://www.atlasobscura.com/places/astronaut-roundabout) · [travel](https://news.google.com/rss/articles/CBMidkFVX3lxTE0zUE1nUjdmamgwZlpvYnAtNFhpYU9vM21zYkhuNENyMTR0cU5zLXdydUt5S0pZRjBhcC1UQTNUbGtDTWhTQWtlTGlmanVVbnFlUVdwUFptYVlWTklnY3R2M0ozdmhFYXB1bGxZdHFFd3J3aERvQmc?oc=5) · [x](https://x.com/search?q=Spain)
-
-### 22. Jorge Campos  (heat 48.5, steady)
-- Why: 2 source(s): googlenews, x; X trend MX #12; gnews_es #29, El Universal
-- Fit: no channel fit
-- Links: [x](https://x.com/search?q=Jorge%20Campos) · [googlenews](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdmIzeGdhZnBjbXJBSmpYdGNUM1hqRG1NeDEzZUZ0Mlo4bXY0ZHg1Z1hXdDlWN0RZMDBaUXBDdThSU1lsQ25HN3djcENlb1oxRVZlbnQ4REFRSDRlcV84NjhuX3ZlYkVMT0VRMVVJRVVfZDROVlFpenRkUl94eklVYnU5X01SZGZ1Vmpwa0k0LXM4UVUzYlhVU2lycnc1bWstNS1qR1h3enl3RDlEQXplMHN4c3hWOVJuc3NhdmdVMi1sUW5uVkJPUzJNV2paOV9CRERDcU9SNnhuaElTMGpPM3NzZ184eTZW0gH8AUFVX3lxTE1ycGRkaTZZR0JMYnV3WGtsRUdZOVhEUExRSTJjNEhvRVV0cWE5MlFiMW1TQ1pjcTBqU3NzaHdXSmtsT054aXJBRE9tcV9iRHB2ZmlYaWxvMWRvaHhzQ1pqeXNhU3FQMk5kUkdGUkhIZkVlenNvZVA4bWNLSmlDYlUxMzhLbjFPMFk2S0wwUUVsVHBleF9KdXdodUUwSldTVUJwTmE2RWVWUmE5WkMybWNlWFNtWjJmQ29qODE0QXBSSkJMeXZCVF9wUVZqV3k0SGRKTTdEck5GM0R0UkNsYnZKTi1heE51aGx3VzdnYTNINmQ3blpMc0VpU0ZUaw?oc=5)
-
-### 23. Crimea  (heat 48.2, steady)
-- Why: 2 source(s): googlenews, x; trending in 2 regions (GB, MX); X trend GB #39; gnews_es #14, BBC
-- Fit: no channel fit
-- Links: [googlenews](https://news.google.com/rss/articles/CBMiXEFVX3lxTE43czR5TmVOZHl0NjEySDlZTnB1OW5kTUFrNFF4RVVPRndrRUdrYXVLazNZQktmeEZ3U3VfNTY3b1NuRWxMaFVZcmVQUDhOOVhIQ1k3NzNGY2kwNFhf0gFiQVVfeXFMTnQxWWdPRGtBdnViY1lvVW5rZEFFMUdLR2JYQ0Z1alY0S21QbTJfaG56aW12YXdIVjlVdU5hN0E1S2d2SktFOVNTRVBrYm1mV2pscHdQaXhwcThGUUp0RjlMdEE?oc=5) · [x](https://x.com/search?q=Crimea)
-
-### 24. Coby White  (heat 45.6, steady)
-- Why: 2 source(s): googletrends, x; trending in 3 regions (MX, US, Worldwide); MX: 100+ searches; X trend US #9
-- Fit: no channel fit
-- Links: [x](https://x.com/search?q=Coby%20White) · [x](https://x.com/search?q=Coby%20White) · [googletrends](https://trends.google.com/trends/explore?geo=MX&q=coby%20white)
-
-### 25. Grant Williams  (heat 44.3, steady)
-- Why: 2 source(s): googletrends, x; trending in 2 regions (MX, US); MX: 100+ searches; X trend US #16
-- Fit: no channel fit
-- Links: [x](https://x.com/search?q=Grant%20Williams) · [googletrends](https://trends.google.com/trends/explore?geo=MX&q=grant%20williams)
+- Links: [googlenews](https://news.google.com/rss/articles/CBMivgFBVV95cUxPOHlDZmRXbTJwaXgzUUlqOEx1X1VjN2ZQTlNjeEYxZ29MTGtmYnFnVExyS1NKOHlYbDFHamoxUkVtaDNpSzJkRHhySzBEQkpnWXF5LU90YlBReTVQcXdJYXVaZVR1ZnFtb1M0UHJzUVpNcTFmNFdzR092NXl3LTRTQ2d1bHFXZWQ1MHBINk5YOXFqYkI4S3hZUXdkdnY2TC1ySDd6ZmNWb2xKdUlsWHVXR1hGZ0ViOGM0WVMtTE5R?oc=5) · [x](https://x.com/search?q=Mary%20Peltola)
 
 ## Coming up (next 8 weeks)
 
