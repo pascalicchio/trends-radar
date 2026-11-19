@@ -1,166 +1,166 @@
-# X trends + cross-source radar: 2026-11-18 07:19 PM ET
+# X trends + cross-source radar: 2026-11-19 06:24 AM ET
 
-Source: Trends Radar (https://trends-radar.pascalicchio.workers.dev/). X status: ok - snapshot captured 2026-11-18T23:25:01+00:00 (1h ago)
+Source: Trends Radar (https://trends-radar.pascalicchio.workers.dev/). X status: ok - snapshot captured 2026-11-19T11:23:52+00:00 (0h ago)
 
 ## X trends: US
 
 1. [GTA 6](https://x.com/search?q=GTA%206)
-2. [GTA VI](https://x.com/search?q=GTA%20VI)
-3. [Marlon Humphrey](https://x.com/search?q=Marlon%20Humphrey)
-4. [Sonny Gray](https://x.com/search?q=Sonny%20Gray)
-5. [Gemini 4 Neon](https://x.com/search?q=Gemini%204%20Neon)
-6. [Lucia](https://x.com/search?q=Lucia)
-7. [Rockstar](https://x.com/search?q=Rockstar)
-8. [Merry Christmas](https://x.com/search?q=Merry%20Christmas)
-9. [Jason](https://x.com/search?q=Jason)
-10. [Social Security](https://x.com/search?q=Social%20Security)
-11. [Ponzi](https://x.com/search?q=Ponzi)
-12. [Dedan Thomas](https://x.com/search?q=Dedan%20Thomas)
-13. [Hakeem Jeffries](https://x.com/search?q=Hakeem%20Jeffries)
-14. [Grand Theft Auto](https://x.com/search?q=Grand%20Theft%20Auto)
-15. [Vice City](https://x.com/search?q=Vice%20City)
-16. [Al Green](https://x.com/search?q=Al%20Green)
-17. [Miracle Whip](https://x.com/search?q=Miracle%20Whip)
-18. [GTA 5](https://x.com/search?q=GTA%205)
-19. [Rob Manfred](https://x.com/search?q=Rob%20Manfred)
-20. [Ranger](https://x.com/search?q=Ranger)
-21. [#PMSLive](https://x.com/search?q=%23PMSLive)
-22. [Cyberpunk](https://x.com/search?q=Cyberpunk)
-23. [Twins](https://x.com/search?q=Twins)
-24. [Venmo](https://x.com/search?q=Venmo)
-25. [Mike Wise](https://x.com/search?q=Mike%20Wise)
+2. [Good Thursday](https://x.com/search?q=Good%20Thursday)
+3. [#GTAVI](https://x.com/search?q=%23GTAVI)
+4. [Mandy](https://x.com/search?q=Mandy)
+5. [Lucia](https://x.com/search?q=Lucia)
+6. [#عيد_ميلاد_رئيس_مصر_التاريخي](https://x.com/search?q=%23%D8%B9%D9%8A%D8%AF_%D9%85%D9%8A%D9%84%D8%A7%D8%AF_%D8%B1%D8%A6%D9%8A%D8%B3_%D9%85%D8%B5%D8%B1_%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A)
+7. [#DUOONEXFreenBecky](https://x.com/search?q=%23DUOONEXFreenBecky)
+8. [DUOONE FINAL MATCH](https://x.com/search?q=DUOONE%20FINAL%20MATCH)
+9. [respawn rumble](https://x.com/search?q=respawn%20rumble)
+10. [Shenzhen](https://x.com/search?q=Shenzhen)
+11. [Honey FM](https://x.com/search?q=Honey%20FM)
+12. [God in Christ Jesus](https://x.com/search?q=God%20in%20Christ%20Jesus)
+13. [#GrandTheftAutoVI](https://x.com/search?q=%23GrandTheftAutoVI)
+14. [GTA 5](https://x.com/search?q=GTA%205)
+15. [Myanmar](https://x.com/search?q=Myanmar)
+16. [Vladimir Putin](https://x.com/search?q=Vladimir%20Putin)
+17. [#CMAawards](https://x.com/search?q=%23CMAawards)
+18. [Neon](https://x.com/search?q=Neon)
+19. [APEC](https://x.com/search?q=APEC)
+20. [Jazz](https://x.com/search?q=Jazz)
+21. [Xi Jinping](https://x.com/search?q=Xi%20Jinping)
+22. [McBain](https://x.com/search?q=McBain)
+23. [Dark MAGA](https://x.com/search?q=Dark%20MAGA)
+24. [$DCTY](https://x.com/search?q=%24DCTY)
+25. [Jokic](https://x.com/search?q=Jokic)
 
 ## X trends: Worldwide
 
-1. [#GHVIPEstreno](https://x.com/search?q=%23GHVIPEstreno)
-2. [GTA 6](https://x.com/search?q=GTA%206)
-3. [GTA VI](https://x.com/search?q=GTA%20VI)
-4. [#旅の合間のてりやきマック](https://x.com/search?q=%23%E6%97%85%E3%81%AE%E5%90%88%E9%96%93%E3%81%AE%E3%81%A6%E3%82%8A%E3%82%84%E3%81%8D%E3%83%9E%E3%83%83%E3%82%AF)
-5. [#Arda500K](https://x.com/search?q=%23Arda500K)
-6. [İyikiDoğdun AvaYaman](https://x.com/search?q=%C4%B0yikiDo%C4%9Fdun%20AvaYaman)
-7. [#めざましディズニー](https://x.com/search?q=%23%E3%82%81%E3%81%96%E3%81%BE%E3%81%97%E3%83%87%E3%82%A3%E3%82%BA%E3%83%8B%E3%83%BC)
-8. [Rockstar](https://x.com/search?q=Rockstar)
-9. [Jason](https://x.com/search?q=Jason)
-10. [Lucia](https://x.com/search?q=Lucia)
-11. [Gemini 4 Neon](https://x.com/search?q=Gemini%204%20Neon)
-12. [#Jリーグサポーター選出の80選手登場](https://x.com/search?q=%23J%E3%83%AA%E3%83%BC%E3%82%B0%E3%82%B5%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%BC%E9%81%B8%E5%87%BA%E3%81%AE80%E9%81%B8%E6%89%8B%E7%99%BB%E5%A0%B4)
-13. [上のURL](https://x.com/search?q=%E4%B8%8A%E3%81%AEURL)
-14. [マッチングコード](https://x.com/search?q=%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0%E3%82%B3%E3%83%BC%E3%83%89)
-15. [フレンドリーマッチ](https://x.com/search?q=%E3%83%95%E3%83%AC%E3%83%B3%E3%83%89%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%83%E3%83%81)
-16. [Belén](https://x.com/search?q=Bel%C3%A9n)
-17. [GTA 5](https://x.com/search?q=GTA%205)
-18. [Siraj](https://x.com/search?q=Siraj)
-19. [Cyberpunk](https://x.com/search?q=Cyberpunk)
-20. [Sonny Gray](https://x.com/search?q=Sonny%20Gray)
-21. [Jorge Javier](https://x.com/search?q=Jorge%20Javier)
-22. [Vice City](https://x.com/search?q=Vice%20City)
-23. [世界トイレの日](https://x.com/search?q=%E4%B8%96%E7%95%8C%E3%83%88%E3%82%A4%E3%83%AC%E3%81%AE%E6%97%A5)
-24. [念の強さ](https://x.com/search?q=%E5%BF%B5%E3%81%AE%E5%BC%B7%E3%81%95)
-25. [Marlon Humphrey](https://x.com/search?q=Marlon%20Humphrey)
+1. [#ファミ通GTA6プレゼント](https://x.com/search?q=%23%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9AGTA6%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%88)
+2. [#RalphLaurenSGxNamping](https://x.com/search?q=%23RalphLaurenSGxNamping)
+3. [NAMPING AT RL HOLIDAY](https://x.com/search?q=NAMPING%20AT%20RL%20HOLIDAY)
+4. [#国会正門前大行動1119](https://x.com/search?q=%23%E5%9B%BD%E4%BC%9A%E6%AD%A3%E9%96%80%E5%89%8D%E5%A4%A7%E8%A1%8C%E5%8B%951119)
+5. [#STARスター](https://x.com/search?q=%23STAR%E3%82%B9%E3%82%BF%E3%83%BC)
+6. [ウィクロス](https://x.com/search?q=%E3%82%A6%E3%82%A3%E3%82%AF%E3%83%AD%E3%82%B9)
+7. [#DUOONEXFreenBecky](https://x.com/search?q=%23DUOONEXFreenBecky)
+8. [DUOONE FINAL MATCH](https://x.com/search?q=DUOONE%20FINAL%20MATCH)
+9. [WIXOSS](https://x.com/search?q=WIXOSS)
+10. [PERTH SANTA WITH LINE MAN LIVE](https://x.com/search?q=PERTH%20SANTA%20WITH%20LINE%20MAN%20LIVE)
+11. [念の強さ](https://x.com/search?q=%E5%BF%B5%E3%81%AE%E5%BC%B7%E3%81%95)
+12. [ハイゲドラフト](https://x.com/search?q=%E3%83%8F%E3%82%A4%E3%82%B2%E3%83%89%E3%83%A9%E3%83%95%E3%83%88)
+13. [TFO GUEST COMMENTATORS](https://x.com/search?q=TFO%20GUEST%20COMMENTATORS)
+14. [最後の雨](https://x.com/search?q=%E6%9C%80%E5%BE%8C%E3%81%AE%E9%9B%A8)
+15. [수능 보신](https://x.com/search?q=%EC%88%98%EB%8A%A5%20%EB%B3%B4%EC%8B%A0)
+16. [هارودز الايتمانيه](https://x.com/search?q=%D9%87%D8%A7%D8%B1%D9%88%D8%AF%D8%B2%20%D8%A7%D9%84%D8%A7%D9%8A%D8%AA%D9%85%D8%A7%D9%86%D9%8A%D9%87)
+17. [カメレオン](https://x.com/search?q=%E3%82%AB%E3%83%A1%E3%83%AC%E3%82%AA%E3%83%B3)
+18. [Puigdemont](https://x.com/search?q=Puigdemont)
+19. [ペルライ](https://x.com/search?q=%E3%83%9A%E3%83%AB%E3%83%A9%E3%82%A4)
+20. [ボジョレー](https://x.com/search?q=%E3%83%9C%E3%82%B8%E3%83%A7%E3%83%AC%E3%83%BC)
+21. [ラスカルスズカ](https://x.com/search?q=%E3%83%A9%E3%82%B9%E3%82%AB%E3%83%AB%E3%82%B9%E3%82%BA%E3%82%AB)
+22. [レコフェス](https://x.com/search?q=%E3%83%AC%E3%82%B3%E3%83%95%E3%82%A7%E3%82%B9)
+23. [緊急メンテ](https://x.com/search?q=%E7%B7%8A%E6%80%A5%E3%83%A1%E3%83%B3%E3%83%86)
+24. [🤕おでこ直撃](https://x.com/search?q=%F0%9F%A4%95%E3%81%8A%E3%81%A7%E3%81%93%E7%9B%B4%E6%92%83)
+25. [うんこちゃん](https://x.com/search?q=%E3%81%86%E3%82%93%E3%81%93%E3%81%A1%E3%82%83%E3%82%93)
 
 ## X trends: MX
 
-1. [Aeropuerto del Norte](https://x.com/search?q=Aeropuerto%20del%20Norte)
-2. [Apodaca](https://x.com/search?q=Apodaca)
-3. [GTA VI](https://x.com/search?q=GTA%20VI)
-4. [Monterrey-Nuevo Laredo](https://x.com/search?q=Monterrey-Nuevo%20Laredo)
-5. [#LosDuranguensesDeciden](https://x.com/search?q=%23LosDuranguensesDeciden)
-6. [GTA 6](https://x.com/search?q=GTA%206)
-7. [#CallesAl100](https://x.com/search?q=%23CallesAl100)
-8. [Cuidado y Protección](https://x.com/search?q=Cuidado%20y%20Protecci%C3%B3n)
-9. [#MásAcciónMásDiversión](https://x.com/search?q=%23M%C3%A1sAcci%C3%B3nM%C3%A1sDiversi%C3%B3n)
-10. [Rockstar](https://x.com/search?q=Rockstar)
-11. [Ley General](https://x.com/search?q=Ley%20General)
-12. [Animales](https://x.com/search?q=Animales)
-13. [Hermanos Serdán](https://x.com/search?q=Hermanos%20Serd%C3%A1n)
-14. [Poza Rica](https://x.com/search?q=Poza%20Rica)
-15. [El Topo](https://x.com/search?q=El%20Topo)
-16. [Lomas Flor del Bosque](https://x.com/search?q=Lomas%20Flor%20del%20Bosque)
-17. [#NuevoLeón](https://x.com/search?q=%23NuevoLe%C3%B3n)
-18. [Bugs](https://x.com/search?q=Bugs)
-19. [Cyberpunk](https://x.com/search?q=Cyberpunk)
-20. [Zapopan](https://x.com/search?q=Zapopan)
-21. [César Daniel "N"](https://x.com/search?q=C%C3%A9sar%20Daniel%20%22N%22)
-22. [Talleres Gráficos de México](https://x.com/search?q=Talleres%20Gr%C3%A1ficos%20de%20M%C3%A9xico)
-23. [Revolución Mexicana](https://x.com/search?q=Revoluci%C3%B3n%20Mexicana)
-24. [Ferrari](https://x.com/search?q=Ferrari)
-25. [Jaime Barrera](https://x.com/search?q=Jaime%20Barrera)
+1. [GTA VI](https://x.com/search?q=GTA%20VI)
+2. [GTA 6](https://x.com/search?q=GTA%206)
+3. [China](https://x.com/search?q=China)
+4. [APEC](https://x.com/search?q=APEC)
+5. [El Topo](https://x.com/search?q=El%20Topo)
+6. [Rockstar](https://x.com/search?q=Rockstar)
+7. [Shenzhen](https://x.com/search?q=Shenzhen)
+8. [Xi Jinping](https://x.com/search?q=Xi%20Jinping)
+9. [Panda](https://x.com/search?q=Panda)
+10. [talleres gráficos de méxico](https://x.com/search?q=talleres%20gr%C3%A1ficos%20de%20m%C3%A9xico)
+11. [#rafasiganaosipierde](https://x.com/search?q=%23rafasiganaosipierde)
+12. [#ConvoyEnChilango](https://x.com/search?q=%23ConvoyEnChilango)
+13. [Putin](https://x.com/search?q=Putin)
+14. [Tala](https://x.com/search?q=Tala)
+15. [poza rica](https://x.com/search?q=poza%20rica)
+16. [GOTY](https://x.com/search?q=GOTY)
+17. [aeropuerto del norte](https://x.com/search?q=aeropuerto%20del%20norte)
+18. [Robert Pattinson](https://x.com/search?q=Robert%20Pattinson)
+19. [#kornoydueñoenajenados](https://x.com/search?q=%23kornoydue%C3%B1oenajenados)
+20. [#SheinbaumLíderMundial](https://x.com/search?q=%23SheinbaumL%C3%ADderMundial)
+21. [#ViveLaFIELO2026](https://x.com/search?q=%23ViveLaFIELO2026)
+22. [Lira](https://x.com/search?q=Lira)
+23. [monterrey-nuevo laredo](https://x.com/search?q=monterrey-nuevo%20laredo)
+24. [Los Deltas](https://x.com/search?q=Los%20Deltas)
+25. [Lucia](https://x.com/search?q=Lucia)
 
 ## X trends: GB
 
-1. [#ImACeleb](https://x.com/search?q=%23ImACeleb)
-2. [Wattimena](https://x.com/search?q=Wattimena)
-3. [GTA 6](https://x.com/search?q=GTA%206)
-4. [Littler](https://x.com/search?q=Littler)
-5. [Mariella](https://x.com/search?q=Mariella)
-6. [Joanna](https://x.com/search?q=Joanna)
-7. [Birmingham](https://x.com/search?q=Birmingham)
-8. [GTA VI](https://x.com/search?q=GTA%20VI)
-9. [Leomie](https://x.com/search?q=Leomie)
-10. [#celebrityraceacrosstheworld](https://x.com/search?q=%23celebrityraceacrosstheworld)
-11. [Leigh](https://x.com/search?q=Leigh)
-12. [#grandslamofdarts](https://x.com/search?q=%23grandslamofdarts)
-13. [Keith Lemon](https://x.com/search?q=Keith%20Lemon)
-14. [Raise the Colours](https://x.com/search?q=Raise%20the%20Colours)
-15. [Rare](https://x.com/search?q=Rare)
-16. [GTA 5](https://x.com/search?q=GTA%205)
-17. [Lucia](https://x.com/search?q=Lucia)
-18. [#GSOD](https://x.com/search?q=%23GSOD)
-19. [Haymitch](https://x.com/search?q=Haymitch)
-20. [Rockstar](https://x.com/search?q=Rockstar)
-21. [Bunker Harry](https://x.com/search?q=Bunker%20Harry)
-22. [Petrol](https://x.com/search?q=Petrol)
-23. [Gerwyn Price](https://x.com/search?q=Gerwyn%20Price)
-24. [#EastEnders](https://x.com/search?q=%23EastEnders)
-25. [Jason](https://x.com/search?q=Jason)
+1. [GTA 6](https://x.com/search?q=GTA%206)
+2. [#عيد_ميلاد_رئيس_مصر_التاريخي](https://x.com/search?q=%23%D8%B9%D9%8A%D8%AF_%D9%85%D9%8A%D9%84%D8%A7%D8%AF_%D8%B1%D8%A6%D9%8A%D8%B3_%D9%85%D8%B5%D8%B1_%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A)
+3. [GTA VI](https://x.com/search?q=GTA%20VI)
+4. [#popmaster](https://x.com/search?q=%23popmaster)
+5. [#InternationalMensDay](https://x.com/search?q=%23InternationalMensDay)
+6. [Lucia](https://x.com/search?q=Lucia)
+7. [#ImACeleb](https://x.com/search?q=%23ImACeleb)
+8. [Bond](https://x.com/search?q=Bond)
+9. [Putin](https://x.com/search?q=Putin)
+10. [James Cleverly](https://x.com/search?q=James%20Cleverly)
+11. [HMOs](https://x.com/search?q=HMOs)
+12. [Jason](https://x.com/search?q=Jason)
+13. [Rockstar](https://x.com/search?q=Rockstar)
+14. [Vice City](https://x.com/search?q=Vice%20City)
+15. [#GrandTheftAutoVI](https://x.com/search?q=%23GrandTheftAutoVI)
+16. [Burnham](https://x.com/search?q=Burnham)
+17. [GTA 5](https://x.com/search?q=GTA%205)
+18. [Glastonbury](https://x.com/search?q=Glastonbury)
+19. [Wattimena](https://x.com/search?q=Wattimena)
+20. [Brexit](https://x.com/search?q=Brexit)
+21. [Birmingham](https://x.com/search?q=Birmingham)
+22. [Mandy](https://x.com/search?q=Mandy)
+23. [Calvin](https://x.com/search?q=Calvin)
+24. [New Zealand](https://x.com/search?q=New%20Zealand)
+25. [Mayor of London](https://x.com/search?q=Mayor%20of%20London)
 
 ## X news stories
 
-- [Debate Heats Up Over Medicare for All Costs and Wait Times](https://x.com/i/trending/2123003099128459369): Americans are sharing stories of steep medical bills and deductibles, fueling fresh talks on whether Medicare for All could fix the system or create new headaches.
-- [Users Joke Hackers Should Wipe Out Debts Amid Cyberattacks](https://x.com/i/trending/2122614169044385977): As websites and banks face real cyberattacks, people are wishing out loud that hackers would target something useful—like student loans and mortgages instead.
-- [U.S. Veteran Shares Canada MAID Pamphlet Story Amid Cancer Delays](https://x.com/i/trending/2122791718550650908): Kristin Logan waited months in Canada for a cancer diagnosis, only to receive a pamphlet on medical assistance in dying before her first oncologist appointment. She called it the most heartbreaking moment, feeling set up to die.
+- [German's Hilarious Guess at U.S. States Map Delights Everyone](https://x.com/i/trending/2123149196723413212): A German's wild stab at labeling all 50 U.S. states turned a simple map into comedy gold, with gems like 'Oreo' for Oregon and 'I crave cereal' for Pennsylvania.
 - [U.S. Embassy Urges Americans in UK to Stay Vigilant at Holiday Markets](https://x.com/i/trending/2122756895882776866): As Christmas markets light up across Britain, the U.S. Embassy in London is asking Americans to blend in and watch their surroundings amid terrorism worries.
-- [German's Hilarious Hand-Drawn Map Guesses All 50 U.S. States](https://x.com/i/trending/2123149196723413212): A German drew a map of the U.S. with labels like 'Oreo' for Oregon and 'Mountain Mama' for West Virginia, capturing the fun struggle of naming states from afar.
-- [U.S. Loses Measles Elimination Status After 26 Years](https://x.com/i/trending/2122763633654403292): After holding measles at bay since 2000, the U.S. has seen relentless outbreaks claim 10 young lives this year alone.
-- [Bernie Sanders Urges Democrats to Adopt Medicare for All After Gains](https://x.com/i/trending/2122223584437563491): With Democrats eyeing their next steps after recent wins, Bernie Sanders sees a clear path forward: bold moves like Medicare for All to tackle skyrocketing healthcare costs.
-- [Graphic Designer's 26-State U.S. Map Draws Jokes and Regional Pushback](https://x.com/i/trending/2122821525107544449): A designer's fresh take on splitting the U.S. into 26 states with new names like Cascadia and Deseret quickly unearthed regional pride and plenty of laughs.
-- [Chicken Wing Size Photos Spark US-Europe Food Debate](https://x.com/i/trending/2123128549456363793): Side-by-side shots of plump American chicken wings next to smaller European ones have people talking about what makes food different across the ocean.
-- [U.S. Measles Outbreak Sparks Clashes Over Vaccines and Immigration](https://x.com/i/trending/2123117791280562583): With over 5,400 measles cases hitting the U.S. this year, online debates erupt as some point to unvaccinated immigrants while others spotlight domestic vaccine hesitancy.
-- [Debate Over Family Savings: $140K Texas vs €85K Germany](https://x.com/i/trending/2122707238653464858): A Ukrainian developer crunched numbers for his family of four, pitting a $140,000 Texas salary against €85,000 in Germany over five years. Replies poured in, blending math with real-life tradeoffs.
-- [Young Voters Boost Democrats in 2026 Midterms as Idaho Republicans Outline Bold Platform](https://x.com/i/trending/2122844780124053796): Young Americans ages 18-29 showed up in force for the 2026 midterms, backing Democrats by a wide margin while young conservatives in Idaho laid out a fierce defense of their state's values.
+- [New York Street Video Sparks Nigerian Debate on Life Abroad](https://x.com/i/trending/2123349451393622428): A quick clip of a bustling, rundown New York street had Nigerians drawing direct parallels to Lagos neighborhoods like Mushin.
+- [Sanders Spotlights U.S. Healthcare Admin Costs, Pushes Medicare for All](https://x.com/i/trending/2123239755437547885): Bernie Sanders shared striking data: Americans spend over $1,000 per person yearly on healthcare paperwork alone—far more than peers like Switzerland or Canada.
+- [U.S. Loses Measles Elimination Status After 26 Years Amid Case Surge](https://x.com/i/trending/2123117791280562583): For the first time in 26 years, measles is spreading continuously across the U.S., with over 5,400 cases reported this year alone. Families and experts are calling for a check on vaccination records to protect the youngest kids.
+- [Online Debate Revives Cold War 'Second World' Term](https://x.com/i/trending/2123325672248738039): A simple question about 'second world countries' pulled people back to Cold War history, sparking shares of old geopolitical labels that few use today.
 - [U.S. Highway 2 Gains Fans as Underrated Scenic Drive Across America](https://x.com/i/trending/2123117784422875530): One driver shared video of a serene Lake Michigan stretch in Michigan’s Upper Peninsula, calling it one of the road’s nicest spots. Others remember family ties, like a grandfather who helped build part of the route.
+- [Veteran's Post on 100% VA Rating Sparks Fraud Debate](https://x.com/i/trending/2122901770988908879): A veteran shared how his service-connected injuries earned a 100% VA disability rating, yet he maintains an active career and full life. Critics called it proof of fraud, igniting pushback from defenders.
+- [Sunset and Beach Photos Fill Timelines with Shared Joy](https://x.com/i/trending/2123259574241337706): A peaceful ocean view paired with 'Good morning 💛' kicks off the day, while 'i <3 beach' and 'Happy 🍑 day' capture the playful affection for coastal bliss.
+- [Posts Highlight How Poverty Differs by Country, From Cars to Streets](https://x.com/i/trending/2123363919964307827): Actor Cornell Young IV shared how he slept in his car for months while chasing Hollywood dreams, staying positive through cold nights in the backseat.
 - [Debate Over $8,000 U.S. MRI Costs and Canadian Wait Times](https://x.com/i/trending/2123131838726316329): One post called U.S. health insurance a 'collaborative government scam' for hiding why an MRI can top $8,000, sparking explanations on who really foots the bill.
-- [Utqiaġvik Enters 65 Days of Polar Night as Sun Sets for Winter](https://x.com/i/trending/2123138847869673743): Today at 1:42 p.m. AKST, residents of America's northernmost town watched the sun dip below the horizon, knowing it won't return until January 23, 2027.
+- [Nationwide Thanks to School Support Staff on National Education Support Professionals Day](https://x.com/i/trending/2123038946812658029): On November 18, schools across the U.S. paused to thank the bus drivers, custodians, nurses, and cafeteria workers who make learning possible every day.
+- [Map Reveals Deadliest Mass Violence in Each U.S. State](https://x.com/i/trending/2123263811125706857): A simple state-by-state map uncovers forgotten battles and massacres from America's past, pulling viewers into debates over what counts as the deadliest day in their home state.
+- [WayV Teases US Tour Amid NCT 10th Anniversary Celebrations](https://x.com/i/trending/2123253071065354375): WayV dropped a simple question on social media: 'Ready for US?' Fans lit up with excitement, dreaming of finally seeing the group live.
 - [Map Claims Coolest Invention from Each U.S. State](https://x.com/i/trending/2123186109090009519): A fun map pinning everyday inventions to their home states has folks proudly defending their local gems, from New Jersey's pork roll to North Carolina's Pepsi.
 - [Gratitude Messages Fill November with Thanks to God and Blessings](https://x.com/i/trending/2123156691030003886): Even amid daily struggles, people are pausing to share heartfelt thanks for life's mercies and faith's steady hand.
-- [Debate Rages Over Raking Leaves Every Fall](https://x.com/i/trending/2122824472038354949): One simple question cut through the autumn routine: 'Why do people rake leaves? It’s just leaves, dude.' Thousands jumped in with stories and science.
 - [Online Banter Over 'Blick' vs. Registered Firearm](https://x.com/i/trending/2123053248269386209): A tweet joking that a registered gun isn't a 'blick' but just a 'firearm' drew laughs and sharp replies about what labels really mean when bullets fly.
+- [Stunning Sunrises and Sunsets Fill Feeds with Daily Wonder](https://x.com/i/trending/2122542837019586851): A silhouette of delicate plants glows against the horizon, captioned 'Just before the stars take over.' These simple shares capture quiet moments of beauty from around the world.
 - [LA Woman Blames Red-State Transplants for City's Woes, Draws Backlash](https://x.com/i/trending/2122953976408621305): A lifelong Angeleno vented in a video that red-state newcomers and Orange County folks ruined her city, claiming locals are out on 'patrols' fighting ICE to save democracy.
+- [Foreign-Born Population Grew Seven Times Faster Than U.S.-Born From 2021-2025](https://x.com/i/trending/2123163234832125978): Census data reveals a stark divide: the foreign-born population in the U.S. expanded nearly seven times faster than the native-born from 2021 to 2025.
 
 ## Rising international
 
-- **Grand Theft Auto VI** (heat 94.0; regions: GB, MX, US, Worldwide, es-wiki, pt-wiki) - 4 source(s): googlenews, wikipedia, x, youtube; Wikipedia views 1.8x vs prior 4-day avg; Wikipedia views 1.8x vs prior 4-day avg; 153,037 views, 1.8x vs prior 4-day avg; X trend US #1; Technology #28, 5 outlets in cluster
-- **Lucia** (heat 86.7; regions: GB, MX, US, Worldwide) - 3 source(s): googlenews, googletrends, x; trending in 4 regions (GB, MX, US, Worldwide); GB: 1000+ searches; X trend US #6; Technology #26, 5 outlets in cluster
-- **Nginx** (heat 85.1; regions: GB, Worldwide) - 4 source(s): googlenews, googletrends, hackernews, x; trending in 2 regions (GB, Worldwide); GB: 100+ searches; X trend Worldwide #44; Technology #19, 5 outlets in cluster; 1085 pts, 490 comments, 9h old
-- **Rare** (heat 85.0; regions: GB) - 4 source(s): factcheck, googlenews, travel, x; X trend GB #15; Science #9, 5 outlets in cluster
-- **Gemini 4 Neon** (heat 79.8; regions: US, Worldwide) - 3 source(s): googlenews, hackernews, x; trending in 2 regions (US, Worldwide); X trend US #5; Top #21, 5 outlets in cluster; 350 pts, 337 comments, 3h old
-- **Jensen Huang** (heat 79.8; regions: MX, pt-wiki) - 3 source(s): googlenews, wikipedia, youtube; Wikipedia views 0.4x vs prior 4-day avg; Wikipedia views 0.4x vs prior 4-day avg; 144,823 views, 0.4x vs prior 4-day avg; gnews_es #16, El Financiero; YouTube most popular US/science-tech #31: 1,392,070 views, 96h old, Virej
-- **Hakeem Jeffries** (heat 79.6; regions: US, Worldwide) - 3 source(s): factcheck, googlenews, x; trending in 2 regions (US, Worldwide); X trend US #13; Top #4, 5 outlets in cluster
-- **Putin** (heat 75.4; regions: BR, Worldwide) - 3 source(s): factcheck, googlenews, x; trending in 2 regions (BR, Worldwide); X trend Worldwide #27; gnews_pt #11, G1
-- **Brasileirao** (heat 69.4; regions: BR, US) - 3 source(s): chess, googlenews, googletrends; trending in 2 regions (BR, US); US: 500+ searches; gnews_pt #27, ESPN Brasil
-- **Mariella Frostrup** (heat 67.2; regions: GB) - 2 source(s): wikipedia, x; Wikipedia views 9.3x vs prior 4-day avg; 85,178 views, 9.3x vs prior 4-day avg; X trend GB #5
-- **James Bond** (heat 59.0; regions: MX, es-wiki, pt-wiki) - 2 source(s): googlenews, wikipedia; Wikipedia views 3.2x vs prior 4-day avg; Wikipedia views 3.4x vs prior 4-day avg; 120,511 views, 3.2x vs prior 4-day avg; gnews_es #25, EL PAÍS
-- **Vice City** (heat 58.6; regions: MX, US, Worldwide) - 2 source(s): googlenews, x; trending in 3 regions (MX, US, Worldwide); X trend US #15; gnews_es #22, PC Master Race Latinoamérica
+- **Voyager 1** (heat 100.0; regions: BR, es-wiki) - 6 source(s): googlenews, hackernews, oddities, space, wikipedia, youtube; Wikipedia views 5.3x vs prior 4-day avg; trending in 2 regions (BR, es-wiki); wiki_es #35, 7,086 views, 5.3x vs prior-days avg; gnews_pt #20, BBC; 208 pts, 50 comments, 19h old
+- **Grand Theft Auto VI** (heat 100.0; regions: GB, MX, US, es-wiki, pt-wiki) - 4 source(s): googlenews, wikipedia, x, youtube; Wikipedia views 5.0x vs prior 4-day avg; Wikipedia views 4.0x vs prior 4-day avg; 519,632 views, 5.0x vs prior 4-day avg; X trend US #1; Technology #4, 5 outlets in cluster
+- **China** (heat 94.0; regions: BR, MX) - 7 source(s): chess, factcheck, googlenews, oddities, travel, x, youtube; trending in 2 regions (BR, MX); X trend MX #3; gnews_pt #2, CNN Brasil; YouTube most popular US/science-tech #3: 3,534,746 views, 28h old, CarterPCs
+- **#STARスター** (heat 94.0; regions: GB, Worldwide) - 4 source(s): googlenews, oddities, space, x; trending in 2 regions (GB, Worldwide); X trend Worldwide #5; Science #4, 5 outlets in cluster
+- **León XIV** (heat 84.5; regions: MX, es-wiki) - 3 source(s): factcheck, googlenews, wikipedia; Wikipedia views 0.3x vs prior 4-day avg; trending in 2 regions (MX, es-wiki); wiki_es #27, 8,289 views, 0.3x vs prior-days avg; gnews_es #14, Vatican News
+- **Building** (heat 82.3; regions: GB) - 6 source(s): factcheck, googlenews, googletrends, hackernews, oddities, space; GB: 200+ searches; Nation #23, 5 outlets in cluster; 9 pts, 1 comments, 31h old
+- **Rockstar Games** (heat 81.5; regions: GB, MX) - 3 source(s): googlenews, wikipedia, x; Wikipedia views 3.6x vs prior 4-day avg; trending in 2 regions (GB, MX); 79,323 views, 3.6x vs prior 4-day avg; X trend MX #6; Technology #17, 5 outlets in cluster
+- **Google** (heat 80.8; regions: GB) - 4 source(s): googlenews, oddities, travel, x; X news story (Technology, AI); Technology #5, 5 outlets in cluster
+- **Robert Pattinson** (heat 80.7; regions: BR, MX, es-wiki, pt-wiki) - 3 source(s): googlenews, wikipedia, x; Wikipedia views 0.6x vs prior 4-day avg; Wikipedia views 0.6x vs prior 4-day avg; 337,514 views, 0.6x vs prior 4-day avg; X trend MX #18; gnews_pt #24, Omelete
+- **Putin** (heat 80.7; regions: GB, MX, US) - 3 source(s): factcheck, googlenews, x; trending in 3 regions (GB, MX, US); X trend GB #9; gnews_es #3, La Jornada
+- **List of James Bond films** (heat 80.7; regions: GB, MX, pt-wiki) - 3 source(s): googlenews, wikipedia, x; Wikipedia views 1.1x vs prior 4-day avg; Wikipedia views 1.1x vs prior 4-day avg; 73,650 views, 1.1x vs prior 4-day avg; X trend GB #8; gnews_es #23, Yahoo en Español Vida y Estilo
+- **Jensen Huang** (heat 70.7; regions: MX) - 3 source(s): googlenews, wikipedia, youtube; Wikipedia views 0.5x vs prior 4-day avg; 109,002 views, 0.5x vs prior 4-day avg; gnews_es #16, El Financiero; YouTube most popular US/science-tech #31: 1,444,421 views, 107h old, Virej
 
 ## Cross-source top 5 (by heat)
 
-1. **Grand Theft Auto VI** (heat 94.0, 4 sources) - 4 source(s): googlenews, wikipedia, x, youtube; Wikipedia views 1.8x vs prior 4-day avg; Wikipedia views 1.8x vs prior 4-day avg; 153,037 views, 1.8x vs prior 4-day avg; X trend US #1; Technology #28, 5 outlets in cluster
-   - [x](https://x.com/search?q=GTA%206) · [x](https://x.com/search?q=GTA%206) · [x](https://x.com/search?q=GTA%20VI) · [x](https://x.com/search?q=GTA%206)
-2. **Lucia** (heat 86.7, 3 sources) - 3 source(s): googlenews, googletrends, x; trending in 4 regions (GB, MX, US, Worldwide); GB: 1000+ searches; X trend US #6; Technology #26, 5 outlets in cluster
-   - [googletrends](https://trends.google.com/trends/explore?geo=GB&q=lucia%20gta) · [x](https://x.com/search?q=Lucia) · [x](https://x.com/search?q=Lucia) · [x](https://x.com/search?q=Lucia)
-3. **Nginx** (heat 85.1, 4 sources) - 4 source(s): googlenews, googletrends, hackernews, x; trending in 2 regions (GB, Worldwide); GB: 100+ searches; X trend Worldwide #44; Technology #19, 5 outlets in cluster; 1085 pts, 490 comments, 9h old
-   - [hackernews](https://news.ycombinator.com/item?id=50547374) · [googlenews](https://news.google.com/rss/articles/CBMifEFVX3lxTE1OWWloaVJwUDhtZHlyQzUtbl9wZzZZWjRTX3J0WXJGWkh4Tjc0TjI2NkFhZjVycVRIeFJINWFPSXhkVXh4ZmUwd3VNMUFZS2Q3Tk5EVTN4YU1yeGVSa2lYMVM3bnFuMElYcV9tMzRzSzBGN2ZQOTZoQlAtZEs?oc=5) · [x](https://x.com/search?q=nginx) · [googletrends](https://trends.google.com/trends/explore?geo=GB&q=nginx)
-4. **Rare** (heat 85.0, 4 sources) - 4 source(s): factcheck, googlenews, travel, x; X trend GB #15; Science #9, 5 outlets in cluster
-   - [factcheck](https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tWkpMY25Sb3VZczltUVBkcl81bkh6YjNfZlN6UFFqOXBZQkZhSDlLLXhia0JOVWczRnNxUTFjY3hFOV9Fa3p3cGVYd3ZiWndGY0hxbXRHcUk?oc=5) · [x](https://x.com/search?q=Rare) · [googlenews](https://news.google.com/rss/articles/CBMixgFBVV95cUxQZjRqNFAzSnVZd0N6M29kdnJSbXNnWmQtNjY1ZWFRR3Zmd290dGVmQmF4VzdCSktVSDlzZUVFa1dsLVBDbWVRdmZiVC10QVFvYWV4VnNkYUdVOXN3MUxWVHcweUZhMjIzcVI3VDNaNGI1OVZNWV9WUmFidnJLOHp2QkJlU3ZYN2M2TnpjQmV5MHRNZkJOa1JSUDNzcjZKY0pHU1RfekFqZS11N1poZEdCaEsxNDJpWWJfdWJlY3ZsY3Y4bU02V1E?oc=5) · [googlenews](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hTVBjZ3ZTR2x5c0NaYmhGUl9VUUg0enFwUWNmUW9RR0hNSElNN1NfRWxMRkdDWkx6UFZNY0xlMG9WNUJfU0V4amltWU1WOGN6Ykt6WVktakgwaG8?oc=5)
-5. **Gemini 4 Neon** (heat 79.8, 3 sources) - 3 source(s): googlenews, hackernews, x; trending in 2 regions (US, Worldwide); X trend US #5; Top #21, 5 outlets in cluster; 350 pts, 337 comments, 3h old
-   - [hackernews](https://news.ycombinator.com/item?id=50552424) · [x](https://x.com/search?q=Gemini%204%20Neon) · [x](https://x.com/search?q=Gemini%204%20Neon) · [googlenews](https://news.google.com/rss/articles/CBMibkFVX3lxTE5xeEdVUUtUSmN1UFZBdy1kS3BodGthd3Fyc3d1WGlZWWVYUUtBUFJrQ3BzVER5LUxycWtzMm1VVE8wZjR3cUVoSW4teWRCZHpZN2JvY3cwOUZCQVZMTElCdXhBQWRiaGJOV1BNUURn?oc=5)
+1. **Voyager 1** (heat 100.0, 6 sources) - 6 source(s): googlenews, hackernews, oddities, space, wikipedia, youtube; Wikipedia views 5.3x vs prior 4-day avg; trending in 2 regions (BR, es-wiki); wiki_es #35, 7,086 views, 5.3x vs prior-days avg; gnews_pt #20, BBC; 208 pts, 50 comments, 19h old
+   - [oddities](https://www.livescience.com/space/space-exploration/voyager-1s-light-day-milestone-50-years-of-amazing-solar-system-discoveries-in-photos) · [space](https://spacepolicyonline.com/news/voyager-1-reaches-new-milestone-one-light-day-from-earth/) · [youtube](https://www.youtube.com/watch?v=CWiJcimMA4Q) · [googlenews](https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtTVRfMkl1RHl2OEx5cm9ldkJxMm8tTU1PTE5qNnRLanZVcE5BMDFESFB2MWcyd3FwZXVSbzYzczJ4TWFSSkNoX2VrbGs1R19ueFFCbzNReFdlckdWOVpZU2JuNNIBaEFVX3lxTE1lNjVXME5HM09EdXg2dGM3cmxwOU1fY2w2dEkwbVBwVG1YREM1aHlHNXRxVWp1NTN2ODRMVHItam1hYmt6RDJBdGNXanMwREFmMURCV0JQb1A5ckh0VkoxbFZNYTZ1aS00?oc=5)
+2. **Grand Theft Auto VI** (heat 100.0, 4 sources) - 4 source(s): googlenews, wikipedia, x, youtube; Wikipedia views 5.0x vs prior 4-day avg; Wikipedia views 4.0x vs prior 4-day avg; 519,632 views, 5.0x vs prior 4-day avg; X trend US #1; Technology #4, 5 outlets in cluster
+   - [wikipedia](https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI) · [x](https://x.com/search?q=GTA%206) · [x](https://x.com/search?q=GTA%20VI) · [x](https://x.com/search?q=GTA%206)
+3. **China** (heat 94.0, 7 sources) - 7 source(s): chess, factcheck, googlenews, oddities, travel, x, youtube; trending in 2 regions (BR, MX); X trend MX #3; gnews_pt #2, CNN Brasil; YouTube most popular US/science-tech #3: 3,534,746 views, 28h old, CarterPCs
+   - [googlenews](https://news.google.com/rss/articles/CBMiugFBVV95cUxNWnN0Qk05S1RHRnFsUlNNRklBby1idXhwTnR2eGJqd2VYVXpoYW5nVnJuelZtU3FFejJseDlVLXdRQWdiWE1BNXEyUVZUN2ptUWJSeGlSTG9kcWJLWVJvbk9CbkoyRDJZYVJnZzY0bjEwQ0pQU1ZnQXB0WE5BUk15MkQwRnc0c1dUNllmWFlqdllrbGdrZ3pzUVN0U1lqRmYxQk03NTJYX3FTX0NOeHZFQTZGaHJseWxlTmc?oc=5) · [x](https://x.com/search?q=China) · [oddities](https://www.livescience.com/human-behavior/homo-erectus-and-denisovans-may-have-lived-alongside-each-other-in-china-study-suggests) · [travel](https://en.wikivoyage.org/wiki/China)
+4. **#STARスター** (heat 94.0, 4 sources) - 4 source(s): googlenews, oddities, space, x; trending in 2 regions (GB, Worldwide); X trend Worldwide #5; Science #4, 5 outlets in cluster
+   - [x](https://x.com/search?q=%23STAR%E3%82%B9%E3%82%BF%E3%83%BC) · [googlenews](https://news.google.com/rss/articles/CBMitwFBVV95cUxON2NqUGNSN0hpWFFpX1ZQVGpwV2hXT1l5d1I3VEN0Tk5lcEhCekhJWDJVekNhRE5WcWNCeE8zWTVZNDFNWmNkMTlQVndZeUxmYTVWaGpaUGV5Y3RfTGRVQTRRSGRjQjVwcEMteVJyYWZTYUEwc0tjNnJFVHdSVFltUnVQSVhhazVpX1lvbWdNWWZSX1ZfZmJOQ3I3c2pfYXNYdktiZzB1by1pdjc5bW1EQlFrbEE2U3M?oc=5) · [x](https://x.com/search?q=Old%20Park%20Star) · [oddities](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTWllOFlxSzU3T1pvM3QyN2NiQ01NUGJLd3ZUNFQtazBBaS1OcGo5ZGp0Mk1jNU9kSjd2U3d2eGJtekpxWFktcGNFVDBtZU10cVdfa3Y0cGY5bUd4V3k5OXowRDVSSEFaeGhVYTgzcG9tVXhobjB1elI0QmtTTEVlMm0xM203bUdGZ01SYXZ6N3VVaEI2TXBRcUE0aThGWVpaaXFBWlozZ1JkZG1UbUh3eWlwNXJxd1AtME16ekdSNm9EaXlwcE9VUkFhc3lHRzB4ZlhLUm1keE8wUDNvN3VoekR3?oc=5)
+5. **León XIV** (heat 84.5, 3 sources) - 3 source(s): factcheck, googlenews, wikipedia; Wikipedia views 0.3x vs prior 4-day avg; trending in 2 regions (MX, es-wiki); wiki_es #27, 8,289 views, 0.3x vs prior-days avg; gnews_es #14, Vatican News
+   - [factcheck](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hbGtZc2lVa05DakFBNi1LOVJTVHdfSERjRUtlcmxuRU1uZUtXTkVSZkhrdE1JQ3oyTURrZnhKa0ZXQkZNRF9UUUhvcXdJbklrMFRLR0pR?oc=5) · [factcheck](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxQUdqMy1CMHp1Z0Y4UG5GWGFZSVFqa1NyR250LUNOWWUtVVJ2c1VOTWhtZXRDNVZESHlUM0dKWkVpLVpOMmZVX2w3V0JmQ3pQV3FqNlpB?oc=5) · [googlenews](https://news.google.com/rss/articles/CBMiowFBVV95cUxQZkZCVTd0YU4ySXp0VFBmM3l2XzB1OHQ4aXE4QUx4ajBJZFlEVC1XaVZXbW5uTmZib2hQcVhnU0dCNVF6UVVxaVdZb2FUNzI4dlpnRzBWeEVrZ0habE1Ic2o1XzI5Vm1JWEpHZnUyQi1ESDFXR29wLTBISW1MeGtoeWVTUkVvODY1cVNrQTNqbE00VHdyUE9uM0s0aVNDZ25YS1lJ?oc=5) · [factcheck](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBc19fMHI4ek9FbHFqM2Y1RHY4Z0x3bWtHWDRXWGtyOTZZZGNOX196SHROWHp4MHdUSTc4R2RNenM1V3kxQXNsV1R0MXZhdV9YbU96a1FR?oc=5)
