@@ -1,7 +1,7 @@
 {
  "schema": "trends-radar/v1.1",
- "generated_at": "2026-11-19T11:24:32+00:00",
- "generated_at_et": "2026-11-19 06:24 AM ET",
+ "generated_at": "2026-11-19T11:33:11+00:00",
+ "generated_at_et": "2026-11-19 06:33 AM ET",
  "urls": {
   "dashboard": "https://trends-radar.pascalicchio.workers.dev/",
   "json": "https://trends-radar.pascalicchio.workers.dev/trends.json",
@@ -22,7 +22,7 @@
   },
   "googlenews": {
    "status": "ok",
-   "items": 246,
+   "items": 250,
    "note": ""
   },
   "googletrends": {
@@ -167,7 +167,7 @@
   },
   "feed:gnews_travel_news": {
    "status": "ok",
-   "items": 26,
+   "items": 27,
    "note": ""
   },
   "feed:gnews_christmas_markets": {
@@ -207,8 +207,8 @@
   },
   "wikidata_entity_typing": {
    "status": "ok",
-   "items": 117,
-   "note": "158 Wikimedia API calls, 0 failed"
+   "items": 115,
+   "note": "159 Wikimedia API calls, 0 failed"
   }
  },
  "coming_up_sources": {
@@ -310,8 +310,8 @@
   },
   {
    "rank": 5,
-   "topic": "León XIV",
-   "heat": 84.5,
+   "topic": "Building",
+   "heat": 82.4,
    "best_channel": null,
    "angle_hint": null,
    "footage_confidence": "high"
@@ -325,7 +325,7 @@
    "status": "steady",
    "velocity": 1.0,
    "first_seen": "2026-11-18T11:20:12+00:00",
-   "days_trending": 1,
+   "days_trending": 2,
    "heat_yesterday": 94.0,
    "why_hot": "6 source(s): googlenews, hackernews, oddities, space, wikipedia, youtube; Wikipedia views 5.3x vs prior 4-day avg; trending in 2 regions (BR, es-wiki); wiki_es #35, 7,086 views, 5.3x vs prior-days avg; gnews_pt #20, BBC; 208 pts, 50 comments, 19h old",
    "sources": [
@@ -407,16 +407,16 @@
      "metric": "spaceflight_news #4, 8h old, SpacePolicyOnline.com"
     },
     {
-     "source": "youtube",
-     "title": "Your Flashlight vs. Voyager 1",
-     "url": "https://www.youtube.com/watch?v=CWiJcimMA4Q",
-     "metric": "YouTube most popular US/science-tech #1: 11,256,628 views, 69h old, Past the Blue"
-    },
-    {
      "source": "googlenews",
      "title": "O disco de ouro com mensagens para extraterrestres levado pela sonda Voyager 1 (e como eles poderão decifrá-lo)",
      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtTVRfMkl1RHl2OEx5cm9ldkJxMm8tTU1PTE5qNnRLanZVcE5BMDFESFB2MWcyd3FwZXVSbzYzczJ4TWFSSkNoX2VrbGs1R19ueFFCbzNReFdlckdWOVpZU2JuNNIBaEFVX3lxTE1lNjVXME5HM09EdXg2dGM3cmxwOU1fY2w2dEkwbVBwVG1YREM1aHlHNXRxVWp1NTN2ODRMVHItam1hYmt6RDJBdGNXanMwREFmMURCV0JQb1A5ckh0VkoxbFZNYTZ1aS00?oc=5",
      "metric": "gnews_pt #20, BBC"
+    },
+    {
+     "source": "youtube",
+     "title": "Your Flashlight vs. Voyager 1",
+     "url": "https://www.youtube.com/watch?v=CWiJcimMA4Q",
+     "metric": "YouTube most popular US/science-tech #1: 11,264,069 views, 69h old, Past the Blue"
     },
     {
      "source": "space",
@@ -456,7 +456,7 @@
       "url": "https://commons.wikimedia.org/w/index.php?search=Voyager%201%20filetype%3Avideo&ns6=1",
       "examples": [
        "https://commons.wikimedia.org/wiki/File:Voyager_1_Launches.webm",
-       "https://commons.wikimedia.org/wiki/File:Voyager_2_Launches.webm"
+       "https://commons.wikimedia.org/wiki/File:JPL-19770905-VOYAGEf-0001-AVC2002151_Voyager_1_Launches.webm"
       ],
       "license_hint": "per-file license (mostly CC BY / CC BY-SA / public domain): check the file page and credit as required"
      },
@@ -482,12 +482,7 @@
      },
      {
       "source": "Library of Congress (film & video)",
-      "hits": 87,
-      "url": "https://www.loc.gov/film-and-videos/?q=Voyager%201",
-      "examples": [
-       "http://www.loc.gov/item/2021692042/",
-       "http://www.loc.gov/item/2021692490/"
-      ],
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "license_hint": "varies: many items 'no known restrictions', others rights-restricted; check each item's Rights & Access"
      }
     ],
@@ -508,9 +503,9 @@
    "status": "steady",
    "velocity": 1.0,
    "first_seen": "2026-11-18T07:18:51+00:00",
-   "days_trending": 1,
+   "days_trending": 2,
    "heat_yesterday": 94.0,
-   "why_hot": "4 source(s): googlenews, wikipedia, x, youtube; Wikipedia views 5.0x vs prior 4-day avg; Wikipedia views 4.0x vs prior 4-day avg; 519,632 views, 5.0x vs prior 4-day avg; X trend US #1; Technology #4, 5 outlets in cluster",
+   "why_hot": "4 source(s): googlenews, wikipedia, x, youtube; Wikipedia views 5.0x vs prior 4-day avg; Wikipedia views 4.0x vs prior 4-day avg; 519,632 views, 5.0x vs prior 4-day avg; X trend US #1; Technology #1, 5 outlets in cluster",
    "sources": [
     "googlenews",
     "wikipedia",
@@ -614,7 +609,7 @@
      "source": "youtube",
      "title": "GTA 6 Walkthrough Gameplay Part 1 - INTRO (GRAND THEFT AUTO 6)",
      "url": "https://www.youtube.com/watch?v=rQLEb0W7REo",
-     "metric": "YouTube most popular US/overall #18: 4,881,415 views, 19h old, theRadBrad"
+     "metric": "YouTube most popular US/overall #18: 4,905,404 views, 19h old, theRadBrad"
     },
     {
      "source": "x",
@@ -682,9 +677,9 @@
    "status": "steady",
    "velocity": 0.6,
    "first_seen": "2026-11-18T11:20:12+00:00",
-   "days_trending": 1,
+   "days_trending": 2,
    "heat_yesterday": 94.0,
-   "why_hot": "7 source(s): chess, factcheck, googlenews, oddities, travel, x, youtube; trending in 2 regions (BR, MX); X trend MX #3; gnews_pt #2, CNN Brasil; YouTube most popular US/science-tech #3: 3,534,746 views, 28h old, CarterPCs",
+   "why_hot": "7 source(s): chess, factcheck, googlenews, oddities, travel, x, youtube; trending in 2 regions (BR, MX); X trend MX #3; gnews_pt #1, G1; YouTube most popular US/science-tech #3: 3,540,893 views, 28h old, CarterPCs",
    "sources": [
     "chess",
     "factcheck",
@@ -711,8 +706,6 @@
     "go-there-instead": {
      "score": 90,
      "strong": [
-      "travel",
-      "tourist",
       "airline",
       "visa"
      ],
@@ -759,9 +752,9 @@
    "links": [
     {
      "source": "googlenews",
-     "title": "Reunião Xi-Putin-Trump tem importância histórica e promoverá paz, diz China",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWnN0Qk05S1RHRnFsUlNNRklBby1idXhwTnR2eGJqd2VYVXpoYW5nVnJuelZtU3FFejJseDlVLXdRQWdiWE1BNXEyUVZUN2ptUWJSeGlSTG9kcWJLWVJvbk9CbkoyRDJZYVJnZzY0bjEwQ0pQU1ZnQXB0WE5BUk15MkQwRnc0c1dUNllmWFlqdllrbGdrZ3pzUVN0U1lqRmYxQk03NTJYX3FTX0NOeHZFQTZGaHJseWxlTmc?oc=5",
-     "metric": "gnews_pt #2, CNN Brasil"
+     "title": "EUA e China podem ajudar a acabar com a guerra na Ucrânia, diz Trump a Xi antes de reunião trilateral com Putin",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc0hMTnJYU0Vsb1FHdVc3WXFkblY3ZTVubjJKMGoxV2hIRmF3VlRSWEJXREt0LWhZQ09zM3FQYnZUcGRleDRidXBuOTBQdG1fZ2FRNDdvNlJaUXVVS3RRMXJhaDY5dXlZNm5DdGcweXNxWFF5TzRUejhFdmY3X19Wdi1uOW8xTzh6TW5mVk5Gd3duclhJazN5Z2RkUTI5R2dDd0pwcG90VnYyX210STJvVTVxSWpXQmd3eWt3WW9tb3FPZ9IB0AFBVV95cUxPbFZFZVZhMkpPazZWVm5zM3JacUpfUjUyN29oMTBNajJHY200eUx2d2VEVTZyZS1Ob0lNdWF5Q1hlME9Lcl9rdGpaaWNvLUp4Nm5tTHpvNzBKd0ZlLVYxOTBSZGZ0ZUlybnY0dFZET3ZMR1lqTDQtS3NGQmZLeGlvMHZnZWROTHA4TUxZRjFzZm15ZEhlSHhPcjZYR1k3YWVWRWI2Ymw0RUVfQ1RQLUlEOVh0OXo1a3Q4ejBqNDIwdE4wQ3pnVjhyR2FCVG5TNFRX?oc=5",
+     "metric": "gnews_pt #1, G1"
     },
     {
      "source": "x",
@@ -791,7 +784,7 @@
      "source": "youtube",
      "title": "I flew to China for this phone..",
      "url": "https://www.youtube.com/watch?v=OD22QxqyfNI",
-     "metric": "YouTube most popular US/science-tech #3: 3,534,746 views, 28h old, CarterPCs"
+     "metric": "YouTube most popular US/science-tech #3: 3,540,893 views, 28h old, CarterPCs"
     },
     {
      "source": "googlenews",
@@ -818,7 +811,7 @@
     "checked": [
      {
       "source": "Wikimedia Commons (video)",
-      "hits": 7154,
+      "hits": 7174,
       "url": "https://commons.wikimedia.org/w/index.php?search=China%20filetype%3Avideo&ns6=1",
       "examples": [
        "https://commons.wikimedia.org/wiki/File:Why_China_Doesn't_Identify_with_the_West,_Explained.webm",
@@ -848,7 +841,12 @@
      },
      {
       "source": "Library of Congress (film & video)",
-      "error": "HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out. (read timeout=30)",
+      "hits": 4235,
+      "url": "https://www.loc.gov/film-and-videos/?q=China",
+      "examples": [
+       "http://lccn.loc.gov/2015601816",
+       "http://www.loc.gov/item/00694278/"
+      ],
       "license_hint": "varies: many items 'no known restrictions', others rights-restricted; check each item's Rights & Access"
      }
     ],
@@ -866,10 +864,10 @@
    "rank": 4,
    "topic": "#STARスター",
    "heat": 94.0,
-   "status": "new",
+   "status": "steady",
    "velocity": 0.6,
-   "first_seen": null,
-   "days_trending": 0,
+   "first_seen": "2026-11-19T11:24:32+00:00",
+   "days_trending": 1,
    "heat_yesterday": null,
    "why_hot": "4 source(s): googlenews, oddities, space, x; trending in 2 regions (GB, Worldwide); X trend Worldwide #5; Science #4, 5 outlets in cluster",
    "sources": [
@@ -964,12 +962,6 @@
      "title": "miHoYo Unveils Gamer AI That Plays Honkai: Star Rail Using Only Screenshots",
      "url": "https://x.com/i/trending/2123124719373464014",
      "metric": "X news story (Technology, AI)"
-    },
-    {
-     "source": "googlenews",
-     "title": "'Baywatch' Star Erika Eleniak Says OnlyFans Saved Her From Eviction",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV0k1TXJVTmVaRVJoTHY1RUw3MHJNUmNMV3ZjRmctV21FTHh2YWl0Qk9tWVBoUDZaaVNNZ1YzclpKSEItVkF0WVI4ZnhadU1tdGFpSWVKRkp6aDJxMDV1OTUyQkFacE4zUVR0a0NiWDNfV0JmOUcxUXlqUkhfWExCR3gwUG9HUWROLXIyNFZB?oc=5",
-     "metric": "Entertainment #7, 4 outlets in cluster"
     }
    ],
    "keys": [
@@ -1027,12 +1019,329 @@
   },
   {
    "rank": 5,
-   "topic": "León XIV",
-   "heat": 84.5,
-   "status": "rising",
-   "velocity": 0.89,
-   "first_seen": "2026-11-18T08:12:45+00:00",
+   "topic": "Building",
+   "heat": 82.4,
+   "status": "steady",
+   "velocity": 0.0,
+   "first_seen": "2026-11-19T11:24:32+00:00",
    "days_trending": 1,
+   "heat_yesterday": null,
+   "why_hot": "6 source(s): factcheck, googlenews, googletrends, hackernews, oddities, space; GB: 200+ searches; Nation #23, 5 outlets in cluster; 10 pts, 1 comments, 31h old",
+   "sources": [
+    "factcheck",
+    "googlenews",
+    "googletrends",
+    "hackernews",
+    "oddities",
+    "space"
+   ],
+   "regions": [
+    "GB"
+   ],
+   "broad_appeal": {
+    "n_sources": 6,
+    "n_regions": 1
+   },
+   "entity": {
+    "qid": "Q41176",
+    "type": "other",
+    "description": "structure, typically enclosed with a roof and walls, standing more or less permanently in one place",
+    "matched_via": "wikidata search 'Building' -> building",
+    "url": "https://www.wikidata.org/wiki/Q41176"
+   },
+   "paradox_signals": [],
+   "best_channel": null,
+   "channel_fit": {
+    "go-there-instead": {
+     "score": 0,
+     "strong": [],
+     "weak": [
+      "europe"
+     ],
+     "angle_hint": null
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "strong": [],
+     "weak": [
+      "empire"
+     ],
+     "angle_hint": null
+    },
+    "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    }
+   },
+   "links": [
+    {
+     "source": "space",
+     "title": "Empire State Building Goes Gold for Voyager",
+     "url": "https://www.nasa.gov/image-article/empire-state-building-goes-gold-for-voyager/",
+     "metric": "spaceflight_news #14, 18h old, NASA"
+    },
+    {
+     "source": "googletrends",
+     "title": "building",
+     "url": "https://trends.google.com/trends/explore?geo=GB&q=building",
+     "metric": "GB: 200+ searches"
+    },
+    {
+     "source": "factcheck",
+     "title": "Fact Check: Sheinbaum did not send message to Trump about ‘building a wall’",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOak44dnB0SEtwT21XYU1aTlh3Mk9KTl92LWU4VDJsQ1I2azA5QVlXd2p2VnhDVFFqblM3YUZaSVFjNTR2dmcwVnYzY1AwaU13TkRSaklXVnhiOVdfQVhXMi1ndEZNWTZBaDdLY3VLcEZFX0tycjhZOUNVVDJpZFc2TDFtS2MzZ0o3NTR1bkp0YkZXTzRDU3NzNzlvdzVwRW9fdTQ2bXJB?oc=5",
+     "metric": "reuters_factcheck #23, Reuters"
+    },
+    {
+     "source": "space",
+     "title": "Empire State Building Goes Gold for Voyager",
+     "url": "https://www.nasa.gov/image-article/empire-state-building-goes-gold-for-voyager/",
+     "metric": "nasa_news #6"
+    },
+    {
+     "source": "googlenews",
+     "title": "Video from MTA Bus Captures Moments Before Fatal Brooklyn Building Collapse",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNzZmVmZ3czZWY3pZc1ZRbVFHUjRmNnZ0Z0UzdWhWUlpjakx6SHBPcnpEd3BGcFZyd0N4MnpCTHZvSnN5ckFWek9rdXVyYWJoMUUzcW9MR2doMnVOYld3UUpHb3hlQkVqWjRlVk1xRGtHTTlLMUdoeTNyNnVUc1QyTTA1M0tlaWZ0?oc=5",
+     "metric": "Nation #23, 5 outlets in cluster"
+    },
+    {
+     "source": "oddities",
+     "title": "See Stunning Images of the Universe Captured by Europe's Euclid Space Telescope, Which Is Building the Biggest 3D Map of the Cosmos",
+     "url": "https://www.smithsonianmag.com/smart-news/see-stunning-images-of-the-universe-captured-by-europes-euclid-space-telescope-which-is-buildling-the-biggest-3d-map-of-the-cosmos-180989884/",
+     "metric": "smithsonian #8"
+    },
+    {
+     "source": "hackernews",
+     "title": "Building Lego Machines to Destroy Tall Lego Towers (2024)",
+     "url": "https://news.ycombinator.com/item?id=50541774",
+     "metric": "10 pts, 1 comments, 31h old"
+    }
+   ],
+   "keys": [
+    "building"
+   ],
+   "related_topics": [],
+   "footage": {
+    "query": "Building",
+    "checked": [
+     {
+      "source": "Wikimedia Commons (video)",
+      "hits": 7491,
+      "url": "https://commons.wikimedia.org/w/index.php?search=Building%20filetype%3Avideo&ns6=1",
+      "examples": [
+       "https://commons.wikimedia.org/wiki/File:Time-lapse_of_building_demolition_and_reconstruction_in_Zurich.webm",
+       "https://commons.wikimedia.org/wiki/File:Construction_of_the_Goodwater_Memorial_Rink,_1958.webm"
+      ],
+      "license_hint": "per-file license (mostly CC BY / CC BY-SA / public domain): check the file page and credit as required"
+     },
+     {
+      "source": "Internet Archive (movies)",
+      "hits": 23011,
+      "url": "https://archive.org/search?query=title%3A%28Building%29&and[]=mediatype%3A%22movies%22",
+      "examples": [
+       "https://archive.org/details/2021-12-08_JICA-Net-Library_Disaster_Risk_Reduction_Building_a_Flood_Resilient_N",
+       "https://archive.org/details/wheduma-WMS_Building_Committee_-_May_20th_2025_Meeting"
+      ],
+      "license_hint": "mixed: many public domain or CC, but uploads can be copyrighted; check each item's license/rights field"
+     },
+     {
+      "source": "NASA Image & Video Library (video)",
+      "hits": 718,
+      "url": "https://images.nasa.gov/search?q=Building&page=1&media=video",
+      "examples": [
+       "https://images.nasa.gov/details/PACE-Mission-Build-Timelapse",
+       "https://images.nasa.gov/details/U.S._Flag Retired from Marshall Building 4200_New Flag Raised at Building 4221"
+      ],
+      "license_hint": "generally not copyrighted (US gov); no NASA endorsement implied; third-party content and logos excepted"
+     },
+     {
+      "source": "Library of Congress (film & video)",
+      "error": "Expecting value: line 1 column 1 (char 0)",
+      "license_hint": "varies: many items 'no known restrictions', others rights-restricted; check each item's Rights & Access"
+     }
+    ],
+    "to_verify": [
+     "DVIDS (US military public-domain video): https://www.dvidshub.net/search/?q=Building&filter%5Btype%5D=video (API needs a key; not auto-checked)",
+     "National Archives (NARA) catalog: https://catalog.archives.gov/search?q=Building&typeOfMaterials=Moving%20Images (API needs a key; not auto-checked)",
+     "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
+     "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
+    ],
+    "confidence": "high",
+    "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
+   }
+  },
+  {
+   "rank": 6,
+   "topic": "Rockstar Games",
+   "heat": 81.5,
+   "status": "steady",
+   "velocity": 0.65,
+   "first_seen": "2026-11-18T23:25:39+00:00",
+   "days_trending": 2,
+   "heat_yesterday": 58.6,
+   "why_hot": "3 source(s): googlenews, wikipedia, x; Wikipedia views 3.6x vs prior 4-day avg; trending in 2 regions (GB, MX); 79,323 views, 3.6x vs prior 4-day avg; X trend MX #6; Technology #16, 5 outlets in cluster",
+   "sources": [
+    "googlenews",
+    "wikipedia",
+    "x"
+   ],
+   "regions": [
+    "GB",
+    "MX"
+   ],
+   "broad_appeal": {
+    "n_sources": 3,
+    "n_regions": 2
+   },
+   "entity": {
+    "qid": "Q94912",
+    "type": "other",
+    "description": "American video game publisher",
+    "matched_via": "wikipedia article",
+    "url": "https://www.wikidata.org/wiki/Q94912"
+   },
+   "paradox_signals": [
+    "how"
+   ],
+   "best_channel": null,
+   "channel_fit": {
+    "go-there-instead": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    }
+   },
+   "links": [
+    {
+     "source": "x",
+     "title": "Rockstar",
+     "url": "https://x.com/search?q=Rockstar",
+     "metric": "X trend MX #6"
+    },
+    {
+     "source": "wikipedia",
+     "title": "Rockstar Games",
+     "url": "https://en.wikipedia.org/wiki/Rockstar_Games",
+     "metric": "79,323 views, 3.6x vs prior 4-day avg"
+    },
+    {
+     "source": "x",
+     "title": "Rockstar",
+     "url": "https://x.com/search?q=Rockstar",
+     "metric": "X trend GB #13"
+    },
+    {
+     "source": "googlenews",
+     "title": "'Contrary to What People Think, We Don't Have Infinite Money or Time' — How GTA 6 Came Together at Rockstar North",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1fSWhHOFZseVhnYWYtSDk4dXJLQWJGQzFreTNPYjJFbVR0SEU1REdoXzg2cFNWRkQ4dDJ2bFVkSHVNeUo4SFJXTUUzY2Zva2h2VkJoN0owMExwSDhtOVVlOU0wRHlNZXVvYUhkVzNSNndKN1R3ZG9lRll3?oc=5",
+     "metric": "Technology #16, 5 outlets in cluster"
+    },
+    {
+     "source": "googlenews",
+     "title": "Take-Two stock jumps over 6% as Rockstar's long-awaited ‘GTA VI’ arrives after 13-year wait",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQVRJakcxRmVtREpMZWJFWGZGX1NnRWJSOGtqQ0xPVE1hOWxCTkhWUkZ6ajlaTUFocnlkZlFTLVA1bWpVWHVsaS1sNVZCenZMb2lnRElCSDNVcGlmc3dSMFl4dEhMdjhlQ3VUWjAwREwxbVhvUWJQNFZfZ1ZUSjQ3aE9SeFV2NTNOYVlGNkVHUlVBa2xLYjZlR2pleF9PWGR5dkJGYm9EcF9CY2ZrVlZmTDdFSGdHUDdOQ0JVTdIBwgFBVV95cUxPV1BYV2JCalNaZURZcGYzMVVoRTAyNGtvRjYtV2MzY0kwVi1MaVhPaXV1cmFGbkhHdnpoU3pFZlVidDNvMHAzNnlKNWlIYnFjTU1FYjJmWTBLNlV0bUFOTnVqa0Z5OEtCNGtOejA1ZzBUZGJZRWVpQkh6NlhGaHNZWHhMd05lWjBTYnU5NXI2WkEtaWhxLUFNNmw5Z0poRzlXN0hvZUh1TDZhZWRXV3IzVHFJV0xORk0yVTl1NmNvMjZ3dw?oc=5",
+     "metric": "Top #19, 5 outlets in cluster"
+    }
+   ],
+   "keys": [
+    "rockstar",
+    "rockstar games"
+   ],
+   "related_topics": [
+    "Grand Theft Auto VI"
+   ],
+   "footage": {
+    "query": "Rockstar Games",
+    "checked": [
+     {
+      "source": "Wikimedia Commons (video)",
+      "hits": 1,
+      "url": "https://commons.wikimedia.org/w/index.php?search=Rockstar%20Games%20filetype%3Avideo&ns6=1",
+      "examples": [
+       "https://commons.wikimedia.org/wiki/File:Geschichte_des_PCs_1969-2021_002_20210828.webm"
+      ],
+      "license_hint": "per-file license (mostly CC BY / CC BY-SA / public domain): check the file page and credit as required"
+     },
+     {
+      "source": "Internet Archive (movies)",
+      "hits": 81,
+      "url": "https://archive.org/search?query=title%3A%28Rockstar%20Games%29&and[]=mediatype%3A%22movies%22",
+      "examples": [
+       "https://archive.org/details/youtube-VAUb-MN2cFs",
+       "https://archive.org/details/youtube-vhwYOe-gCaA"
+      ],
+      "license_hint": "mixed: many public domain or CC, but uploads can be copyrighted; check each item's license/rights field"
+     },
+     {
+      "source": "NASA Image & Video Library (video)",
+      "hits": 0,
+      "url": "https://images.nasa.gov/search?q=Rockstar%20Games&page=1&media=video",
+      "examples": [],
+      "license_hint": "generally not copyrighted (US gov); no NASA endorsement implied; third-party content and logos excepted"
+     },
+     {
+      "source": "Library of Congress (film & video)",
+      "error": "Expecting value: line 1 column 1 (char 0)",
+      "license_hint": "varies: many items 'no known restrictions', others rights-restricted; check each item's Rights & Access"
+     }
+    ],
+    "to_verify": [
+     "DVIDS (US military public-domain video): https://www.dvidshub.net/search/?q=Rockstar%20Games&filter%5Btype%5D=video (API needs a key; not auto-checked)",
+     "National Archives (NARA) catalog: https://catalog.archives.gov/search?q=Rockstar%20Games&typeOfMaterials=Moving%20Images (API needs a key; not auto-checked)",
+     "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
+     "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
+    ],
+    "confidence": "high",
+    "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
+   }
+  },
+  {
+   "rank": 7,
+   "topic": "León XIV",
+   "heat": 81.0,
+   "status": "rising",
+   "velocity": 0.65,
+   "first_seen": "2026-11-18T08:12:45+00:00",
+   "days_trending": 2,
    "heat_yesterday": 42.7,
    "why_hot": "3 source(s): factcheck, googlenews, wikipedia; Wikipedia views 0.3x vs prior 4-day avg; trending in 2 regions (MX, es-wiki); wiki_es #27, 8,289 views, 0.3x vs prior-days avg; gnews_es #14, Vatican News",
    "sources": [
@@ -1163,7 +1472,7 @@
      },
      {
       "source": "Library of Congress (film & video)",
-      "error": "HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out. (read timeout=30)",
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "license_hint": "varies: many items 'no known restrictions', others rights-restricted; check each item's Rights & Access"
      }
     ],
@@ -1178,469 +1487,13 @@
    }
   },
   {
-   "rank": 6,
-   "topic": "Hakeem Jeffries",
-   "heat": 83.3,
-   "status": "steady",
-   "velocity": 1.0,
-   "first_seen": "2026-11-18T18:00:24+00:00",
-   "days_trending": 1,
-   "heat_yesterday": 94.0,
-   "why_hot": "3 source(s): factcheck, googlenews, wikipedia; Wikipedia views 6.8x vs prior 4-day avg; 92,218 views, 6.8x vs prior 4-day avg; Top #5, 5 outlets in cluster",
-   "sources": [
-    "factcheck",
-    "googlenews",
-    "wikipedia"
-   ],
-   "regions": [],
-   "broad_appeal": {
-    "n_sources": 3,
-    "n_regions": 0
-   },
-   "entity": {
-    "qid": "Q5640425",
-    "type": "politician",
-    "description": "American politician (born 1970)",
-    "matched_via": "wikipedia article",
-    "url": "https://www.wikidata.org/wiki/Q5640425"
-   },
-   "paradox_signals": [
-    "how"
-   ],
-   "best_channel": null,
-   "channel_fit": {
-    "go-there-instead": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "plan-not-panic": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "chess-blunder-club": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    }
-   },
-   "links": [
-    {
-     "source": "wikipedia",
-     "title": "Hakeem Jeffries",
-     "url": "https://en.wikipedia.org/wiki/Hakeem_Jeffries",
-     "metric": "92,218 views, 6.8x vs prior 4-day avg"
-    },
-    {
-     "source": "googlenews",
-     "title": "At least seven progressives voted against Hakeem Jeffries for speaker",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWWU5VTBGWlgxSlhrOUNTcFNNaWVXZ25hVUxTSlR2T0Y4RkVTZTdxN21Ma2dtS2Fxdld5SnJmUnJzWkllM1JUUE5rV2VOeGVvdDVCTjBGakVLelR5bU4ycWhoZXpoRlRNNnRqdW9TUlVLN2hwYVZVMU5TNnUtTXd6TXJXOTVBNEtldnFFbC1HY1FKSzNfbkVTYmRaZ3hudl8zRi1EY0ktYUlsd1RZeDNTSGRTMFQ?oc=5",
-     "metric": "Top #5, 5 outlets in cluster"
-    },
-    {
-     "source": "googlenews",
-     "title": "Chris Rabb was one of 11 Democrats to vote ‘no’ on Hakeem Jeffries for House speaker",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWkZ6TkFiTkhycnpXNU56eVJjNDJ6UkJoS1lTY3hhRUdscDdHVWNNTkhUSTJWaUtMTm1pNDNXNTFrMURaWGVGQmpGeUNGRF9lUmVVdml3N3dBbV95RDZFWVlKTEtUNTBnZnF2V3VGcU9lRGVVZXlMUTVEb2dSTmIxckZxSlNNNDNHS3pPWm1JZjdXN2hLTlNfMXVUQWpDMlZaOVE?oc=5",
-     "metric": "Nation #11, 5 outlets in cluster"
-    },
-    {
-     "source": "factcheck",
-     "title": "Did Hakeem Jeffries say Jerusalem is '6th borough' of NYC?",
-     "url": "https://www.snopes.com/fact-check/hakeem-jeffries-jerusalem-new-york/",
-     "metric": "snopes #3"
-    },
-    {
-     "source": "factcheck",
-     "title": "How much money does Hakeem Jeffries get from AIPAC? What we know",
-     "url": "https://www.snopes.com/fact-check/hakeem-jeffries-aipac-money/",
-     "metric": "snopes #5"
-    }
-   ],
-   "keys": [
-    "hakeem jeffries"
-   ],
-   "related_topics": [],
-   "footage": {
-    "query": "Hakeem Jeffries",
-    "checked": [
-     {
-      "source": "Wikimedia Commons (video)",
-      "hits": 6,
-      "url": "https://commons.wikimedia.org/w/index.php?search=Hakeem%20Jeffries%20filetype%3Avideo&ns6=1",
-      "examples": [
-       "https://commons.wikimedia.org/wiki/File:Hakeem_Jeffries_speech_2025-03-26_10-28-59_1.webm",
-       "https://commons.wikimedia.org/wiki/File:Press_On_speech_by_Hakeem_Jeffries_2025-03-26_10-34-34_1.webm"
-      ],
-      "license_hint": "per-file license (mostly CC BY / CC BY-SA / public domain): check the file page and credit as required"
-     },
-     {
-      "source": "Internet Archive (movies)",
-      "hits": 263,
-      "url": "https://archive.org/search?query=title%3A%28Hakeem%20Jeffries%29&and[]=mediatype%3A%22movies%22",
-      "examples": [
-       "https://archive.org/details/CSPAN_20191201_210600_Fox_News_Sunday_Rep._Hakeem_Jeffries_D-NY",
-       "https://archive.org/details/CSPAN_20251003_180400_House_Dem._Leader_Hakeem_Jeffries_Holds_a_Press_Conference_on_Day_3_of_the..."
-      ],
-      "license_hint": "mixed: many public domain or CC, but uploads can be copyrighted; check each item's license/rights field"
-     },
-     {
-      "source": "NASA Image & Video Library (video)",
-      "hits": 0,
-      "url": "https://images.nasa.gov/search?q=Hakeem%20Jeffries&page=1&media=video",
-      "examples": [],
-      "license_hint": "generally not copyrighted (US gov); no NASA endorsement implied; third-party content and logos excepted"
-     },
-     {
-      "source": "Library of Congress (film & video)",
-      "error": "Expecting value: line 1 column 1 (char 0)",
-      "license_hint": "varies: many items 'no known restrictions', others rights-restricted; check each item's Rights & Access"
-     }
-    ],
-    "to_verify": [
-     "DVIDS (US military public-domain video): https://www.dvidshub.net/search/?q=Hakeem%20Jeffries&filter%5Btype%5D=video (API needs a key; not auto-checked)",
-     "National Archives (NARA) catalog: https://catalog.archives.gov/search?q=Hakeem%20Jeffries&typeOfMaterials=Moving%20Images (API needs a key; not auto-checked)",
-     "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
-     "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
-    ],
-    "confidence": "high",
-    "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
-   }
-  },
-  {
-   "rank": 7,
-   "topic": "Building",
-   "heat": 82.3,
-   "status": "new",
-   "velocity": 0.0,
-   "first_seen": null,
-   "days_trending": 0,
-   "heat_yesterday": null,
-   "why_hot": "6 source(s): factcheck, googlenews, googletrends, hackernews, oddities, space; GB: 200+ searches; Nation #23, 5 outlets in cluster; 9 pts, 1 comments, 31h old",
-   "sources": [
-    "factcheck",
-    "googlenews",
-    "googletrends",
-    "hackernews",
-    "oddities",
-    "space"
-   ],
-   "regions": [
-    "GB"
-   ],
-   "broad_appeal": {
-    "n_sources": 6,
-    "n_regions": 1
-   },
-   "entity": {
-    "qid": "Q41176",
-    "type": "other",
-    "description": "structure, typically enclosed with a roof and walls, standing more or less permanently in one place",
-    "matched_via": "wikidata search 'Building' -> building",
-    "url": "https://www.wikidata.org/wiki/Q41176"
-   },
-   "paradox_signals": [],
-   "best_channel": null,
-   "channel_fit": {
-    "go-there-instead": {
-     "score": 0,
-     "strong": [],
-     "weak": [
-      "europe"
-     ],
-     "angle_hint": null
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "plan-not-panic": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
-     "score": 0,
-     "strong": [],
-     "weak": [
-      "empire"
-     ],
-     "angle_hint": null
-    },
-    "chess-blunder-club": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    }
-   },
-   "links": [
-    {
-     "source": "space",
-     "title": "Empire State Building Goes Gold for Voyager",
-     "url": "https://www.nasa.gov/image-article/empire-state-building-goes-gold-for-voyager/",
-     "metric": "spaceflight_news #14, 18h old, NASA"
-    },
-    {
-     "source": "googletrends",
-     "title": "building",
-     "url": "https://trends.google.com/trends/explore?geo=GB&q=building",
-     "metric": "GB: 200+ searches"
-    },
-    {
-     "source": "factcheck",
-     "title": "Fact Check: Sheinbaum did not send message to Trump about ‘building a wall’",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOak44dnB0SEtwT21XYU1aTlh3Mk9KTl92LWU4VDJsQ1I2azA5QVlXd2p2VnhDVFFqblM3YUZaSVFjNTR2dmcwVnYzY1AwaU13TkRSaklXVnhiOVdfQVhXMi1ndEZNWTZBaDdLY3VLcEZFX0tycjhZOUNVVDJpZFc2TDFtS2MzZ0o3NTR1bkp0YkZXTzRDU3NzNzlvdzVwRW9fdTQ2bXJB?oc=5",
-     "metric": "reuters_factcheck #23, Reuters"
-    },
-    {
-     "source": "space",
-     "title": "Empire State Building Goes Gold for Voyager",
-     "url": "https://www.nasa.gov/image-article/empire-state-building-goes-gold-for-voyager/",
-     "metric": "nasa_news #6"
-    },
-    {
-     "source": "googlenews",
-     "title": "Video from MTA Bus Captures Moments Before Fatal Brooklyn Building Collapse",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNzZmVmZ3czZWY3pZc1ZRbVFHUjRmNnZ0Z0UzdWhWUlpjakx6SHBPcnpEd3BGcFZyd0N4MnpCTHZvSnN5ckFWek9rdXVyYWJoMUUzcW9MR2doMnVOYld3UUpHb3hlQkVqWjRlVk1xRGtHTTlLMUdoeTNyNnVUc1QyTTA1M0tlaWZ0?oc=5",
-     "metric": "Nation #23, 5 outlets in cluster"
-    },
-    {
-     "source": "oddities",
-     "title": "See Stunning Images of the Universe Captured by Europe's Euclid Space Telescope, Which Is Building the Biggest 3D Map of the Cosmos",
-     "url": "https://www.smithsonianmag.com/smart-news/see-stunning-images-of-the-universe-captured-by-europes-euclid-space-telescope-which-is-buildling-the-biggest-3d-map-of-the-cosmos-180989884/",
-     "metric": "smithsonian #8"
-    },
-    {
-     "source": "hackernews",
-     "title": "Building Lego Machines to Destroy Tall Lego Towers (2024)",
-     "url": "https://news.ycombinator.com/item?id=50541774",
-     "metric": "9 pts, 1 comments, 31h old"
-    }
-   ],
-   "keys": [
-    "building"
-   ],
-   "related_topics": [],
-   "footage": {
-    "query": "Building",
-    "checked": [
-     {
-      "source": "Wikimedia Commons (video)",
-      "hits": 7491,
-      "url": "https://commons.wikimedia.org/w/index.php?search=Building%20filetype%3Avideo&ns6=1",
-      "examples": [
-       "https://commons.wikimedia.org/wiki/File:Time-lapse_of_building_demolition_and_reconstruction_in_Zurich.webm",
-       "https://commons.wikimedia.org/wiki/File:Construction_of_the_Goodwater_Memorial_Rink,_1958.webm"
-      ],
-      "license_hint": "per-file license (mostly CC BY / CC BY-SA / public domain): check the file page and credit as required"
-     },
-     {
-      "source": "Internet Archive (movies)",
-      "hits": 23011,
-      "url": "https://archive.org/search?query=title%3A%28Building%29&and[]=mediatype%3A%22movies%22",
-      "examples": [
-       "https://archive.org/details/2021-12-08_JICA-Net-Library_Disaster_Risk_Reduction_Building_a_Flood_Resilient_N",
-       "https://archive.org/details/wheduma-WMS_Building_Committee_-_May_20th_2025_Meeting"
-      ],
-      "license_hint": "mixed: many public domain or CC, but uploads can be copyrighted; check each item's license/rights field"
-     },
-     {
-      "source": "NASA Image & Video Library (video)",
-      "hits": 718,
-      "url": "https://images.nasa.gov/search?q=Building&page=1&media=video",
-      "examples": [
-       "https://images.nasa.gov/details/PACE-Mission-Build-Timelapse",
-       "https://images.nasa.gov/details/U.S._Flag Retired from Marshall Building 4200_New Flag Raised at Building 4221"
-      ],
-      "license_hint": "generally not copyrighted (US gov); no NASA endorsement implied; third-party content and logos excepted"
-     },
-     {
-      "source": "Library of Congress (film & video)",
-      "error": "Expecting value: line 1 column 1 (char 0)",
-      "license_hint": "varies: many items 'no known restrictions', others rights-restricted; check each item's Rights & Access"
-     }
-    ],
-    "to_verify": [
-     "DVIDS (US military public-domain video): https://www.dvidshub.net/search/?q=Building&filter%5Btype%5D=video (API needs a key; not auto-checked)",
-     "National Archives (NARA) catalog: https://catalog.archives.gov/search?q=Building&typeOfMaterials=Moving%20Images (API needs a key; not auto-checked)",
-     "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
-     "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
-    ],
-    "confidence": "high",
-    "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
-   }
-  },
-  {
    "rank": 8,
-   "topic": "Rockstar Games",
-   "heat": 81.5,
-   "status": "rising",
-   "velocity": 0.65,
-   "first_seen": "2026-11-18T23:25:39+00:00",
-   "days_trending": 1,
-   "heat_yesterday": 58.6,
-   "why_hot": "3 source(s): googlenews, wikipedia, x; Wikipedia views 3.6x vs prior 4-day avg; trending in 2 regions (GB, MX); 79,323 views, 3.6x vs prior 4-day avg; X trend MX #6; Technology #17, 5 outlets in cluster",
-   "sources": [
-    "googlenews",
-    "wikipedia",
-    "x"
-   ],
-   "regions": [
-    "GB",
-    "MX"
-   ],
-   "broad_appeal": {
-    "n_sources": 3,
-    "n_regions": 2
-   },
-   "entity": {
-    "qid": "Q94912",
-    "type": "other",
-    "description": "American video game publisher",
-    "matched_via": "wikipedia article",
-    "url": "https://www.wikidata.org/wiki/Q94912"
-   },
-   "paradox_signals": [
-    "how"
-   ],
-   "best_channel": null,
-   "channel_fit": {
-    "go-there-instead": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "plan-not-panic": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "chess-blunder-club": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    }
-   },
-   "links": [
-    {
-     "source": "x",
-     "title": "Rockstar",
-     "url": "https://x.com/search?q=Rockstar",
-     "metric": "X trend MX #6"
-    },
-    {
-     "source": "wikipedia",
-     "title": "Rockstar Games",
-     "url": "https://en.wikipedia.org/wiki/Rockstar_Games",
-     "metric": "79,323 views, 3.6x vs prior 4-day avg"
-    },
-    {
-     "source": "x",
-     "title": "Rockstar",
-     "url": "https://x.com/search?q=Rockstar",
-     "metric": "X trend GB #13"
-    },
-    {
-     "source": "googlenews",
-     "title": "'Contrary to What People Think, We Don't Have Infinite Money or Time' — How GTA 6 Came Together at Rockstar North",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1fSWhHOFZseVhnYWYtSDk4dXJLQWJGQzFreTNPYjJFbVR0SEU1REdoXzg2cFNWRkQ4dDJ2bFVkSHVNeUo4SFJXTUUzY2Zva2h2VkJoN0owMExwSDhtOVVlOU0wRHlNZXVvYUhkVzNSNndKN1R3ZG9lRll3?oc=5",
-     "metric": "Technology #17, 5 outlets in cluster"
-    }
-   ],
-   "keys": [
-    "rockstar",
-    "rockstar games"
-   ],
-   "related_topics": [
-    "Grand Theft Auto VI"
-   ],
-   "footage": {
-    "query": "Rockstar Games",
-    "checked": [
-     {
-      "source": "Wikimedia Commons (video)",
-      "hits": 1,
-      "url": "https://commons.wikimedia.org/w/index.php?search=Rockstar%20Games%20filetype%3Avideo&ns6=1",
-      "examples": [
-       "https://commons.wikimedia.org/wiki/File:Geschichte_des_PCs_1969-2021_002_20210828.webm"
-      ],
-      "license_hint": "per-file license (mostly CC BY / CC BY-SA / public domain): check the file page and credit as required"
-     },
-     {
-      "source": "Internet Archive (movies)",
-      "hits": 81,
-      "url": "https://archive.org/search?query=title%3A%28Rockstar%20Games%29&and[]=mediatype%3A%22movies%22",
-      "examples": [
-       "https://archive.org/details/youtube-VAUb-MN2cFs",
-       "https://archive.org/details/youtube-vhwYOe-gCaA"
-      ],
-      "license_hint": "mixed: many public domain or CC, but uploads can be copyrighted; check each item's license/rights field"
-     },
-     {
-      "source": "NASA Image & Video Library (video)",
-      "hits": 0,
-      "url": "https://images.nasa.gov/search?q=Rockstar%20Games&page=1&media=video",
-      "examples": [],
-      "license_hint": "generally not copyrighted (US gov); no NASA endorsement implied; third-party content and logos excepted"
-     },
-     {
-      "source": "Library of Congress (film & video)",
-      "error": "Expecting value: line 1 column 1 (char 0)",
-      "license_hint": "varies: many items 'no known restrictions', others rights-restricted; check each item's Rights & Access"
-     }
-    ],
-    "to_verify": [
-     "DVIDS (US military public-domain video): https://www.dvidshub.net/search/?q=Rockstar%20Games&filter%5Btype%5D=video (API needs a key; not auto-checked)",
-     "National Archives (NARA) catalog: https://catalog.archives.gov/search?q=Rockstar%20Games&typeOfMaterials=Moving%20Images (API needs a key; not auto-checked)",
-     "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
-     "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
-    ],
-    "confidence": "high",
-    "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
-   }
-  },
-  {
-   "rank": 9,
    "topic": "Google",
-   "heat": 80.8,
-   "status": "new",
+   "heat": 80.9,
+   "status": "steady",
    "velocity": 0.0,
-   "first_seen": null,
-   "days_trending": 0,
+   "first_seen": "2026-11-19T11:24:32+00:00",
+   "days_trending": 1,
    "heat_yesterday": null,
    "why_hot": "4 source(s): googlenews, oddities, travel, x; X news story (Technology, AI); Technology #5, 5 outlets in cluster",
    "sources": [
@@ -1716,12 +1569,6 @@
      "metric": "Technology #5, 5 outlets in cluster"
     },
     {
-     "source": "googlenews",
-     "title": "I Might Switch to Google AI Ultra With This New YouTube Upgrade",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUzdZb1pFbmxnSGZQRXNFZXpxNXNOUlktM1VscXZvSzctbXJGSWgtZW5QdEtOOUNISlZNdEZkLU1QZTZOYS1UVl8xcUpoNjRBTVEyb3dVNHBIZjJnMjJkSGpMbUV1Nm9SUnN1aVlBQVMwbFl1VDdLam1LbGRpeUpUUTFSb19yTGtQUVB0X21jcjJURUh5d2w2UUwxUllzUGhka1lrM1ZB?oc=5",
-     "metric": "Technology #6, 5 outlets in cluster"
-    },
-    {
      "source": "oddities",
      "title": "Your feedback will be used to help improve Google Translate",
      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xdWdVTmtkeXJzbE5XT0F0SzVxc2NjSWhiWmxYSnY1X1BTdWpQYlJFdThTbi1YZExfcURCYWlMNW9sdnExam9NbnUtSnVqX0VV?oc=5",
@@ -1743,7 +1590,7 @@
      "source": "googlenews",
      "title": "Google launches Gemini 4 Neon with Carbon quality at Flash speeds, live for AI Pro",
      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xeEdVUUtUSmN1UFZBdy1kS3BodGthd3Fyc3d1WGlZWWVYUUtBUFJrQ3BzVER5LUxycWtzMm1VVE8wZjR3cUVoSW4teWRCZHpZN2JvY3cwOUZCQVZMTElCdXhBQWRiaGJOV1BNUURn?oc=5",
-     "metric": "Technology #16, 5 outlets in cluster"
+     "metric": "Technology #17, 5 outlets in cluster"
     },
     {
      "source": "x",
@@ -1756,6 +1603,12 @@
      "title": "Navigate holiday traffic and crowds with Google Maps trends",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcEFQWm9PTG9McS1OVkRlOWFBS1BDTy11V3hWdTVpWnI3WXNQUGNWTWhBN1ZUc190QUloZXh6aGxUNHBYVWdMek5QM0FRWVN2OGEwOFJDNXhlaVVpT2FRdHlKM0w2S1FYZDVNaVBKRWdwNVR4bkNpcm1INUFaUUpqRkhNN1QyOWNybFNnXzN0WnpfLXVSdnZEZEJRRTB3dw?oc=5",
      "metric": "gnews_travel_news #8, blog.google"
+    },
+    {
+     "source": "x",
+     "title": "Google's SIM Lets AI Optimizers Remember Past Improvements",
+     "url": "https://x.com/i/trending/2123072001992798394",
+     "metric": "X news story (Technology, AI)"
     }
    ],
    "keys": [
@@ -1814,13 +1667,13 @@
    }
   },
   {
-   "rank": 10,
+   "rank": 9,
    "topic": "Robert Pattinson",
    "heat": 80.7,
-   "status": "rising",
+   "status": "steady",
    "velocity": 0.6,
    "first_seen": "2026-11-18T07:18:51+00:00",
-   "days_trending": 1,
+   "days_trending": 2,
    "heat_yesterday": 80.7,
    "why_hot": "3 source(s): googlenews, wikipedia, x; Wikipedia views 0.6x vs prior 4-day avg; Wikipedia views 0.6x vs prior 4-day avg; 337,514 views, 0.6x vs prior 4-day avg; X trend MX #18; gnews_pt #24, Omelete",
    "sources": [
@@ -1899,16 +1752,16 @@
      "metric": "X trend MX #18"
     },
     {
+     "source": "googlenews",
+     "title": "Pierce Brosnan Welcomes Robert Pattinson Into the James Bond Family: ‘You Are Going to Be Magnificent’",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM2VETVRUTTdISFZ2RHpPN1BLemwxcm12dzdYemYwSndCU2VOTkhvM3dNTzhlbXhtYlBLNl9qa0lCcHJlMk5pUW5uNldfTkRXdXp3QTBOWHdMTUFqMVVMOXJqZFNmMDBvMEF6MmVGNUR6VFpCX0c1bTZZTlhvbF8tc2xCX1RpbkNTUjBIRk1EVmpsM3M?oc=5",
+     "metric": "Entertainment #6, 5 outlets in cluster"
+    },
+    {
      "source": "wikipedia",
      "title": "Robert Pattinson filmography",
      "url": "https://en.wikipedia.org/wiki/Robert_Pattinson_filmography",
      "metric": "52,857 views, 0.6x vs prior 4-day avg"
-    },
-    {
-     "source": "googlenews",
-     "title": "Pierce Brosnan Welcomes Robert Pattinson Into the James Bond Family: ‘You Are Going to Be Magnificent’",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM2VETVRUTTdISFZ2RHpPN1BLemwxcm12dzdYemYwSndCU2VOTkhvM3dNTzhlbXhtYlBLNl9qa0lCcHJlMk5pUW5uNldfTkRXdXp3QTBOWHdMTUFqMVVMOXJqZFNmMDBvMEF6MmVGNUR6VFpCX0c1bTZZTlhvbF8tc2xCX1RpbkNTUjBIRk1EVmpsM3M?oc=5",
-     "metric": "Entertainment #10, 5 outlets in cluster"
     },
     {
      "source": "wikipedia",
@@ -1974,13 +1827,13 @@
    }
   },
   {
-   "rank": 11,
+   "rank": 10,
    "topic": "Putin",
    "heat": 80.7,
-   "status": "rising",
+   "status": "steady",
    "velocity": 0.6,
    "first_seen": "2026-11-18T11:20:12+00:00",
-   "days_trending": 1,
+   "days_trending": 2,
    "heat_yesterday": 75.4,
    "why_hot": "3 source(s): factcheck, googlenews, x; trending in 3 regions (GB, MX, US); X trend GB #9; gnews_es #3, La Jornada",
    "sources": [
@@ -2061,7 +1914,7 @@
     },
     {
      "source": "googlenews",
-     "title": "Live Updates: Trump Holds First Summit With Xi and Putin, Whom He Calls ‘Friend’",
+     "title": "Trump, Xi and Putin Meet for Their First Summit: Live Updates",
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1MQWU3M21LcmgtNFU4MmVaaEw2cnIyUGJVclVsc2JIWGZhcFVFMXE0SmJqaG5MQnpWN3BRLWZuWmh6cTRudTl0Nzc1SlJ4WVdQamZlR0hFMlRtTy04SEhhVVVsREp2RktrY0ZwUDFkcmpnaXM?oc=5",
      "metric": "World #1, 5 outlets in cluster"
     },
@@ -2070,6 +1923,12 @@
      "title": "Vladimir Putin",
      "url": "https://x.com/search?q=Vladimir%20Putin",
      "metric": "X trend US #16"
+    },
+    {
+     "source": "googlenews",
+     "title": "Putin's Crimean Bridge comes under attack again, Russian official says",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WV1BxNmRrQUFiOTMxd3laUEdOa2I1dzNZZWlqWnFfQW5ic05OSTJuYjhFTkpIMUprN2tyeWlEMGRmdWJEallEUVRjSnpzcXdEbTl5SXdFZEZtVWM?oc=5",
+     "metric": "Top #4, 5 outlets in cluster"
     },
     {
      "source": "googlenews",
@@ -2082,12 +1941,6 @@
      "title": "Did NATO cancel summits until Trump leaves office over fears he'll share intel with Putin?",
      "url": "https://www.snopes.com/news/2026/11/17/nato-cancel-summits-trump-putin/",
      "metric": "snopes #8"
-    },
-    {
-     "source": "x",
-     "title": "Risk Board Meme Captures Trump-Xi-Putin Summit Humor",
-     "url": "https://x.com/i/trending/2123310297347965194",
-     "metric": "X news story (Memes)"
     }
    ],
    "keys": [
@@ -2144,15 +1997,15 @@
    }
   },
   {
-   "rank": 12,
+   "rank": 11,
    "topic": "List of James Bond films",
    "heat": 80.7,
    "status": "steady",
    "velocity": 0.6,
    "first_seen": "2026-11-18T08:12:45+00:00",
-   "days_trending": 1,
+   "days_trending": 2,
    "heat_yesterday": 81.3,
-   "why_hot": "3 source(s): googlenews, wikipedia, x; Wikipedia views 1.1x vs prior 4-day avg; Wikipedia views 1.1x vs prior 4-day avg; 73,650 views, 1.1x vs prior 4-day avg; X trend GB #8; gnews_es #23, Yahoo en Español Vida y Estilo",
+   "why_hot": "3 source(s): googlenews, wikipedia, x; Wikipedia views 1.1x vs prior 4-day avg; Wikipedia views 1.1x vs prior 4-day avg; 73,650 views, 1.1x vs prior 4-day avg; X trend GB #8; gnews_es #24, Yahoo en Español Vida y Estilo",
    "sources": [
     "googlenews",
     "wikipedia",
@@ -2216,16 +2069,16 @@
      "metric": "X trend GB #8"
     },
     {
-     "source": "googlenews",
-     "title": "El inesperado casting de James Bond parece romper la regla de oro de la franquicia que ha estado en vigor durante los últimos 64 años",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZWozOHhaOVNiWkJleWJuUFpKcjNGUm5UZnFoelViUi1YNHBtTWtWNTY5Uklqa0dNT01WanJXa3B3MmNoMkFRN3lLcGVXUzFFV3YtWFVLUjA1RHJMTzVaZkt2V3NaLWVjVzNJTHc1QVBobW4tb1ZTYjlZaTdMRXZ1MVAxZGhhYUpNLVF3bXhMRmw?oc=5",
-     "metric": "gnews_es #23, Yahoo en Español Vida y Estilo"
-    },
-    {
      "source": "wikipedia",
      "title": "List of James Bond films",
      "url": "https://en.wikipedia.org/wiki/List_of_James_Bond_films",
      "metric": "73,650 views, 1.1x vs prior 4-day avg"
+    },
+    {
+     "source": "googlenews",
+     "title": "El inesperado casting de James Bond parece romper la regla de oro de la franquicia que ha estado en vigor durante los últimos 64 años",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZWozOHhaOVNiWkJleWJuUFpKcjNGUm5UZnFoelViUi1YNHBtTWtWNTY5Uklqa0dNT01WanJXa3B3MmNoMkFRN3lLcGVXUzFFV3YtWFVLUjA1RHJMTzVaZkt2V3NaLWVjVzNJTHc1QVBobW4tb1ZTYjlZaTdMRXZ1MVAxZGhhYUpNLVF3bXhMRmw?oc=5",
+     "metric": "gnews_es #24, Yahoo en Español Vida y Estilo"
     },
     {
      "source": "wikipedia",
@@ -2283,15 +2136,154 @@
    }
   },
   {
+   "rank": 12,
+   "topic": "Hakeem Jeffries",
+   "heat": 80.3,
+   "status": "steady",
+   "velocity": 1.0,
+   "first_seen": "2026-11-18T18:00:24+00:00",
+   "days_trending": 2,
+   "heat_yesterday": 94.0,
+   "why_hot": "3 source(s): factcheck, googlenews, wikipedia; Wikipedia views 6.8x vs prior 4-day avg; 92,218 views, 6.8x vs prior 4-day avg; Nation #11, 5 outlets in cluster",
+   "sources": [
+    "factcheck",
+    "googlenews",
+    "wikipedia"
+   ],
+   "regions": [],
+   "broad_appeal": {
+    "n_sources": 3,
+    "n_regions": 0
+   },
+   "entity": {
+    "qid": "Q5640425",
+    "type": "politician",
+    "description": "American politician (born 1970)",
+    "matched_via": "wikipedia article",
+    "url": "https://www.wikidata.org/wiki/Q5640425"
+   },
+   "paradox_signals": [
+    "how"
+   ],
+   "best_channel": null,
+   "channel_fit": {
+    "go-there-instead": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    }
+   },
+   "links": [
+    {
+     "source": "wikipedia",
+     "title": "Hakeem Jeffries",
+     "url": "https://en.wikipedia.org/wiki/Hakeem_Jeffries",
+     "metric": "92,218 views, 6.8x vs prior 4-day avg"
+    },
+    {
+     "source": "googlenews",
+     "title": "Chris Rabb was one of 11 Democrats to vote ‘no’ on Hakeem Jeffries for House speaker",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWkZ6TkFiTkhycnpXNU56eVJjNDJ6UkJoS1lTY3hhRUdscDdHVWNNTkhUSTJWaUtMTm1pNDNXNTFrMURaWGVGQmpGeUNGRF9lUmVVdml3N3dBbV95RDZFWVlKTEtUNTBnZnF2V3VGcU9lRGVVZXlMUTVEb2dSTmIxckZxSlNNNDNHS3pPWm1JZjdXN2hLTlNfMXVUQWpDMlZaOVE?oc=5",
+     "metric": "Nation #11, 5 outlets in cluster"
+    },
+    {
+     "source": "factcheck",
+     "title": "Did Hakeem Jeffries say Jerusalem is '6th borough' of NYC?",
+     "url": "https://www.snopes.com/fact-check/hakeem-jeffries-jerusalem-new-york/",
+     "metric": "snopes #3"
+    },
+    {
+     "source": "factcheck",
+     "title": "How much money does Hakeem Jeffries get from AIPAC? What we know",
+     "url": "https://www.snopes.com/fact-check/hakeem-jeffries-aipac-money/",
+     "metric": "snopes #5"
+    }
+   ],
+   "keys": [
+    "hakeem jeffries"
+   ],
+   "related_topics": [],
+   "footage": {
+    "query": "Hakeem Jeffries",
+    "checked": [
+     {
+      "source": "Wikimedia Commons (video)",
+      "hits": 6,
+      "url": "https://commons.wikimedia.org/w/index.php?search=Hakeem%20Jeffries%20filetype%3Avideo&ns6=1",
+      "examples": [
+       "https://commons.wikimedia.org/wiki/File:Hakeem_Jeffries_speech_2025-03-26_10-28-59_1.webm",
+       "https://commons.wikimedia.org/wiki/File:Press_On_speech_by_Hakeem_Jeffries_2025-03-26_10-34-34_1.webm"
+      ],
+      "license_hint": "per-file license (mostly CC BY / CC BY-SA / public domain): check the file page and credit as required"
+     },
+     {
+      "source": "Internet Archive (movies)",
+      "hits": 263,
+      "url": "https://archive.org/search?query=title%3A%28Hakeem%20Jeffries%29&and[]=mediatype%3A%22movies%22",
+      "examples": [
+       "https://archive.org/details/CSPAN_20191201_210600_Fox_News_Sunday_Rep._Hakeem_Jeffries_D-NY",
+       "https://archive.org/details/CSPAN_20251003_180400_House_Dem._Leader_Hakeem_Jeffries_Holds_a_Press_Conference_on_Day_3_of_the..."
+      ],
+      "license_hint": "mixed: many public domain or CC, but uploads can be copyrighted; check each item's license/rights field"
+     },
+     {
+      "source": "NASA Image & Video Library (video)",
+      "hits": 0,
+      "url": "https://images.nasa.gov/search?q=Hakeem%20Jeffries&page=1&media=video",
+      "examples": [],
+      "license_hint": "generally not copyrighted (US gov); no NASA endorsement implied; third-party content and logos excepted"
+     },
+     {
+      "source": "Library of Congress (film & video)",
+      "error": "Expecting value: line 1 column 1 (char 0)",
+      "license_hint": "varies: many items 'no known restrictions', others rights-restricted; check each item's Rights & Access"
+     }
+    ],
+    "to_verify": [
+     "DVIDS (US military public-domain video): https://www.dvidshub.net/search/?q=Hakeem%20Jeffries&filter%5Btype%5D=video (API needs a key; not auto-checked)",
+     "National Archives (NARA) catalog: https://catalog.archives.gov/search?q=Hakeem%20Jeffries&typeOfMaterials=Moving%20Images (API needs a key; not auto-checked)",
+     "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
+     "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
+    ],
+    "confidence": "high",
+    "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
+   }
+  },
+  {
    "rank": 13,
    "topic": "Jensen Huang",
    "heat": 70.7,
    "status": "steady",
    "velocity": 0.0,
    "first_seen": "2026-11-18T08:15:04+00:00",
-   "days_trending": 1,
+   "days_trending": 2,
    "heat_yesterday": 91.1,
-   "why_hot": "3 source(s): googlenews, wikipedia, youtube; Wikipedia views 0.5x vs prior 4-day avg; 109,002 views, 0.5x vs prior 4-day avg; gnews_es #16, El Financiero; YouTube most popular US/science-tech #31: 1,444,421 views, 107h old, Virej",
+   "why_hot": "3 source(s): googlenews, wikipedia, youtube; Wikipedia views 0.5x vs prior 4-day avg; 109,002 views, 0.5x vs prior 4-day avg; gnews_es #16, El Financiero; YouTube most popular US/science-tech #31: 1,444,880 views, 107h old, Virej",
    "sources": [
     "googlenews",
     "wikipedia",
@@ -2366,27 +2358,19 @@
      "source": "googlenews",
      "title": "Musk says Jensen Huang is irreplaceable, regrets midterm spending",
      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1IZzFuTWNYdk9Ic0Z4cGxSR2pBcVB1a0hMUE1icWUyYnNrYzBaOEphTmcwcDlncDJsZG5lY2Rjby1KOGZrU2liaGxNOGhPZlctcm5pOUFOeG1ZbTBYeXRjV0NZbGJUS21RbE5oYkhwYk5vSjQzdVFV0gF8QVVfeXFMTjBQalZjdEotUDUwTXJOOTdvUi0xcExrZUlNUkEtLWprdGhIdHUxb1ctUVRkaXFVczg3UWJJaC1Nalg5cW1KS2x3LVpydHMxejlJUEJYZWZiUWxKSzB4SXJSUEJEVFBJbkVqTno0STl0S2V1VDhDbEFnb1FLZA?oc=5",
-     "metric": "Business #3, 5 outlets in cluster"
-    },
-    {
-     "source": "googlenews",
-     "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa3VvcGJNZlJiaXZoWFBfdDFoWWpRTkcxby1rcVJNMGFGRWdoYmpOam5VWjlXNTVONWFfd0hLaTRnOFFnRUtPNEhsdmhNUWwyeDFJZE1HME45RnV5TF80dzBUUVJSVjFwc1B1VVkycnNXTzJiMGJfS0czM1JkS3BZMl9BdUktVUVrMlZWajB5eGp2NmVydm1Fcng2TXpwZmlIR3RVeGhFUEdkZDdSZVNiZTVkWXhaQQ?oc=5",
-     "metric": "Top #16, 5 outlets in cluster"
+     "metric": "Top #18, 5 outlets in cluster"
     },
     {
      "source": "youtube",
      "title": "Jensen Huang Nvidia on the iphone duo #shorts",
      "url": "https://www.youtube.com/watch?v=GC49MKwRIVY",
-     "metric": "YouTube most popular US/science-tech #31: 1,444,421 views, 107h old, Virej"
+     "metric": "YouTube most popular US/science-tech #31: 1,444,880 views, 107h old, Virej"
     }
    ],
    "keys": [
     "jensen huang"
    ],
-   "related_topics": [
-    "Elon Musk"
-   ],
+   "related_topics": [],
    "footage": {
     "query": "Jensen Huang",
     "checked": [
@@ -2435,14 +2419,146 @@
   },
   {
    "rank": 14,
+   "topic": "Xbox",
+   "heat": 68.4,
+   "status": "steady",
+   "velocity": 0.0,
+   "first_seen": "2026-11-19T11:24:32+00:00",
+   "days_trending": 1,
+   "heat_yesterday": null,
+   "why_hot": "3 source(s): googlenews, x, youtube; X trend GB #31; Technology #6, 5 outlets in cluster; YouTube most popular US/overall #45: 1,074,884 views, 8h old, DashieGames",
+   "sources": [
+    "googlenews",
+    "x",
+    "youtube"
+   ],
+   "regions": [
+    "GB"
+   ],
+   "broad_appeal": {
+    "n_sources": 3,
+    "n_regions": 1
+   },
+   "entity": null,
+   "paradox_signals": [
+    "how"
+   ],
+   "best_channel": null,
+   "channel_fit": {
+    "go-there-instead": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    }
+   },
+   "links": [
+    {
+     "source": "youtube",
+     "title": "IT'S ACTUALLY HERE!! PLAYING GTA 6 USING THE XBOX ALLIGATOR CONTROLLER!! [#01] [LIVE]",
+     "url": "https://www.youtube.com/watch?v=oY6WoNCB_f4",
+     "metric": "YouTube most popular US/overall #45: 1,074,884 views, 8h old, DashieGames"
+    },
+    {
+     "source": "googlenews",
+     "title": "'GTA 6' on Xbox Series S: How well it actually runs",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tTTVvM0JOMzF6MGFJOXNUa2lwOE5GWVQtRmU2TUY2dkFNcXhFUlR1NVJHTTVtakM0clFiUlV4Zzdhb3NnandTeVk0OEhfWWhfTzdMLXVDenp0cm5SYjF4SUd2bFp5N2IyZm1WRFZ6RmFfczl1?oc=5",
+     "metric": "Technology #6, 5 outlets in cluster"
+    },
+    {
+     "source": "x",
+     "title": "Xbox",
+     "url": "https://x.com/search?q=Xbox",
+     "metric": "X trend GB #31"
+    }
+   ],
+   "keys": [
+    "xbox"
+   ],
+   "related_topics": [
+    "Grand Theft Auto VI",
+    "PLAYING GTA"
+   ],
+   "footage": {
+    "query": "Xbox",
+    "checked": [
+     {
+      "source": "Wikimedia Commons (video)",
+      "hits": 464,
+      "url": "https://commons.wikimedia.org/w/index.php?search=Xbox%20filetype%3Avideo&ns6=1",
+      "examples": [
+       "https://commons.wikimedia.org/wiki/File:Asegúrate_de_configurar_el_SONIDO_de_tu_Xbox_Series_X-S.webm",
+       "https://commons.wikimedia.org/wiki/File:US_Army_XBOX_360_2010.webm"
+      ],
+      "license_hint": "per-file license (mostly CC BY / CC BY-SA / public domain): check the file page and credit as required"
+     },
+     {
+      "source": "Internet Archive (movies)",
+      "hits": 7157,
+      "url": "https://archive.org/search?query=title%3A%28Xbox%29&and[]=mediatype%3A%22movies%22",
+      "examples": [
+       "https://archive.org/details/youtube-UTeY_JOUY9Q",
+       "https://archive.org/details/facebook-10150445768239987"
+      ],
+      "license_hint": "mixed: many public domain or CC, but uploads can be copyrighted; check each item's license/rights field"
+     },
+     {
+      "source": "NASA Image & Video Library (video)",
+      "hits": 0,
+      "url": "https://images.nasa.gov/search?q=Xbox&page=1&media=video",
+      "examples": [],
+      "license_hint": "generally not copyrighted (US gov); no NASA endorsement implied; third-party content and logos excepted"
+     },
+     {
+      "source": "Library of Congress (film & video)",
+      "error": "Expecting value: line 1 column 1 (char 0)",
+      "license_hint": "varies: many items 'no known restrictions', others rights-restricted; check each item's Rights & Access"
+     }
+    ],
+    "to_verify": [
+     "DVIDS (US military public-domain video): https://www.dvidshub.net/search/?q=Xbox&filter%5Btype%5D=video (API needs a key; not auto-checked)",
+     "National Archives (NARA) catalog: https://catalog.archives.gov/search?q=Xbox&typeOfMaterials=Moving%20Images (API needs a key; not auto-checked)",
+     "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
+     "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
+    ],
+    "confidence": "high",
+    "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
+   }
+  },
+  {
+   "rank": 15,
    "topic": "New Zealand",
-   "heat": 64.2,
+   "heat": 64.1,
    "status": "steady",
    "velocity": 0.0,
    "first_seen": "2026-11-18T08:12:45+00:00",
-   "days_trending": 1,
+   "days_trending": 2,
    "heat_yesterday": 83.1,
-   "why_hot": "3 source(s): travel, x, youtube; X trend GB #24; YouTube most popular US/overall #9: 5,301,966 views, 4h old, TheBurntPeanut",
+   "why_hot": "3 source(s): travel, x, youtube; X trend GB #24; YouTube most popular US/overall #9: 5,304,912 views, 4h old, TheBurntPeanut",
    "sources": [
     "travel",
     "x",
@@ -2510,7 +2626,7 @@
      "source": "youtube",
      "title": "🔴LIVE | GTA 6 | BUNGULATION EDITION | IM IN NEW ZEALAND | #BUNGULATE",
      "url": "https://www.youtube.com/watch?v=0C_LS2lUWdg",
-     "metric": "YouTube most popular US/overall #9: 5,301,966 views, 4h old, TheBurntPeanut"
+     "metric": "YouTube most popular US/overall #9: 5,304,912 views, 4h old, TheBurntPeanut"
     },
     {
      "source": "x",
@@ -2528,7 +2644,7 @@
      "source": "travel",
      "title": "Global Microsoft outage: New Zealand suspends visa processing",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSDNpdHJjMDJad0RjemIyQ2lNR3ppYUZ4RXY1UjNkMklTc0x6TU5GR0xvLWVxNzhrVlNVOUZfNTl3YjNveXVqUUFleks4aXluM2lXeFkydnFMV2Zwei1pSTZyNUJxNll5Z0hRZk5rcWpqZ0pGTzhNS2RzX2EwSjZaUVBybTJPUkM2U1lHbU1tdw?oc=5",
-     "metric": "gnews_visa #19, VisasNews"
+     "metric": "gnews_visa #18, VisasNews"
     }
    ],
    "keys": [
@@ -2587,13 +2703,13 @@
    }
   },
   {
-   "rank": 15,
+   "rank": 16,
    "topic": "APEC",
    "heat": 64.1,
-   "status": "rising",
+   "status": "steady",
    "velocity": 0.6,
    "first_seen": "2026-11-18T11:20:12+00:00",
-   "days_trending": 1,
+   "days_trending": 2,
    "heat_yesterday": 68.7,
    "why_hot": "2 source(s): googlenews, x; trending in 3 regions (GB, MX, US); X trend MX #4; gnews_es #1, EL PAÍS",
    "sources": [
@@ -2672,13 +2788,13 @@
      "source": "googlenews",
      "title": "APEC serves as a backdrop as big power politics eclipse talk of open trade, AI",
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUVVfSnBmYmxWQU00Q3BpUWIwMVF3a3hJdHRma2ZjRmJZdVhkZ0dRYW5kaHJYYlI5eG56VndrRnFtaUp0ZURWVVVCNVl2emotekVucndwbW9RLXZGdEFBNW5DZ3BGMWZ4ZU1sRlJZV0dOdk41bUY0Y0k5SmFveWlyM25FY1lBMVpOUlNudlZkU1ZhSU55c1VzdDJyalJBZkE?oc=5",
-     "metric": "World #8, 5 outlets in cluster"
+     "metric": "World #7, 5 outlets in cluster"
     },
     {
      "source": "googlenews",
      "title": "From tarmac to APEC summit table, Japan's PM cuts a lonely figure",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV2lFRzhLTFFzUDAyQlFERWhQTjQwbzExSnlMaEVMYnhnOEdTRm9yNTJxWWgwRjluUHkxZVFWUnJYTXVOaVhoRGtGRE5PRXhiRF9WX3RtVVJGTkVIV3BLRDZPWVJQUFN0RjY3UXBpUktQSlNHQzlmS1N5Q0lCQkpLSjU4c29PQTM3bXI1cDlzSjAwTG95Vkt1Sk90NGlid0ptUG1v?oc=5",
-     "metric": "World #9, 5 outlets in cluster"
+     "metric": "World #10, 5 outlets in cluster"
     },
     {
      "source": "x",
@@ -2692,61 +2808,16 @@
    ],
    "related_topics": [
     "Shenzhen"
-   ],
-   "footage": {
-    "query": "APEC",
-    "checked": [
-     {
-      "source": "Wikimedia Commons (video)",
-      "hits": 57,
-      "url": "https://commons.wikimedia.org/w/index.php?search=APEC%20filetype%3Avideo&ns6=1",
-      "examples": [
-       "https://commons.wikimedia.org/wiki/File:1996_Asia_Pacific_Economic_Leaders_Meeting_(APEC)_Philippines_-_Press_Conference.webm",
-       "https://commons.wikimedia.org/wiki/File:APEC_Economic_Leaders'_Meeting_-_Manila,_Philippines_-_Economic_Leaders_engagement_with_the_APEC_Business_Advisory_Council_-_18_November_2015.webm"
-      ],
-      "license_hint": "per-file license (mostly CC BY / CC BY-SA / public domain): check the file page and credit as required"
-     },
-     {
-      "source": "Internet Archive (movies)",
-      "hits": 211,
-      "url": "https://archive.org/search?query=title%3A%28APEC%29&and[]=mediatype%3A%22movies%22",
-      "examples": [
-       "https://archive.org/details/tweeload_01b2emhp",
-       "https://archive.org/details/TheHeat--APECMeetingsInPeru11182016"
-      ],
-      "license_hint": "mixed: many public domain or CC, but uploads can be copyrighted; check each item's license/rights field"
-     },
-     {
-      "source": "NASA Image & Video Library (video)",
-      "hits": 0,
-      "url": "https://images.nasa.gov/search?q=APEC&page=1&media=video",
-      "examples": [],
-      "license_hint": "generally not copyrighted (US gov); no NASA endorsement implied; third-party content and logos excepted"
-     },
-     {
-      "source": "Library of Congress (film & video)",
-      "error": "Expecting value: line 1 column 1 (char 0)",
-      "license_hint": "varies: many items 'no known restrictions', others rights-restricted; check each item's Rights & Access"
-     }
-    ],
-    "to_verify": [
-     "DVIDS (US military public-domain video): https://www.dvidshub.net/search/?q=APEC&filter%5Btype%5D=video (API needs a key; not auto-checked)",
-     "National Archives (NARA) catalog: https://catalog.archives.gov/search?q=APEC&typeOfMaterials=Moving%20Images (API needs a key; not auto-checked)",
-     "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
-     "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
-    ],
-    "confidence": "high",
-    "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
-   }
+   ]
   },
   {
-   "rank": 16,
+   "rank": 17,
    "topic": "Shenzhen",
    "heat": 62.6,
-   "status": "rising",
+   "status": "steady",
    "velocity": 0.6,
    "first_seen": "2026-11-18T11:20:12+00:00",
-   "days_trending": 1,
+   "days_trending": 2,
    "heat_yesterday": 59.9,
    "why_hot": "2 source(s): googlenews, x; trending in 3 regions (GB, MX, US); X trend MX #7; gnews_es #6, DW.com",
    "sources": [
@@ -2843,19 +2914,19 @@
    "related_topics": []
   },
   {
-   "rank": 17,
-   "topic": "Xbox",
-   "heat": 60.1,
-   "status": "new",
+   "rank": 18,
+   "topic": "Russia",
+   "heat": 59.1,
+   "status": "steady",
    "velocity": 0.0,
-   "first_seen": null,
-   "days_trending": 0,
+   "first_seen": "2026-11-19T11:24:32+00:00",
+   "days_trending": 1,
    "heat_yesterday": null,
-   "why_hot": "3 source(s): googlenews, x, youtube; X trend GB #31; Technology #23, 5 outlets in cluster; YouTube most popular US/overall #42: 1,074,173 views, 8h old, DashieGames",
+   "why_hot": "3 source(s): googlenews, travel, x; X trend GB #46; World #4, 5 outlets in cluster",
    "sources": [
     "googlenews",
-    "x",
-    "youtube"
+    "travel",
+    "x"
    ],
    "regions": [
     "GB"
@@ -2864,7 +2935,13 @@
     "n_sources": 3,
     "n_regions": 1
    },
-   "entity": null,
+   "entity": {
+    "qid": "Q159",
+    "type": "other",
+    "description": "country in Eastern Europe and Northern Asia, the largest in the world by area",
+    "matched_via": "wikidata search 'Russia' -> Russia",
+    "url": "https://www.wikidata.org/wiki/Q159"
+   },
    "paradox_signals": [],
    "best_channel": null,
    "channel_fit": {
@@ -2901,40 +2978,61 @@
    },
    "links": [
     {
-     "source": "youtube",
-     "title": "IT'S ACTUALLY HERE!! PLAYING GTA 6 USING THE XBOX ALLIGATOR CONTROLLER!! [#01] [LIVE]",
-     "url": "https://www.youtube.com/watch?v=oY6WoNCB_f4",
-     "metric": "YouTube most popular US/overall #42: 1,074,173 views, 8h old, DashieGames"
-    },
-    {
-     "source": "x",
-     "title": "Xbox",
-     "url": "https://x.com/search?q=Xbox",
-     "metric": "X trend GB #31"
+     "source": "travel",
+     "title": "Russia",
+     "url": "https://en.wikivoyage.org/wiki/Russia",
+     "metric": "wikivoyage_top #27, 74 views"
     },
     {
      "source": "googlenews",
-     "title": "All GTA 6 cheats for PS5 and Xbox",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aYmU1VE1rblREaTNRbDltVVMxSEhCOHc2VE8wb2x0c1JQcmVqR0xBdnpyMkUzMHE4WjIyMHVzcHZrTUI0NW85VVRxNG94SS10RXhLYUlVdUdrcWl2aDZzWHhnVVlTaXpuTWMzMF93YW4?oc=5",
-     "metric": "Technology #23, 5 outlets in cluster"
+     "title": "Kerch attack: Bridge connecting Russia to occupied Crimea has been hit again",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMzRmTXhmRm1jLWp1c2JoZGc4Z0VwR1lvMFNNUnVKTmZPbGZ6QVY5bS01Rl96M3Y4WWtQdEtOLUVKMTJ3Z1hLMVlLQllYWW5hbTVQV0hrb2trQ2dYZUZKSVNDUDNKNzgzVUliRDlqWHBaMER2R2VnT05UM2lPS0w5N3haenNObzNYc3VR?oc=5",
+     "metric": "World #4, 5 outlets in cluster"
+    },
+    {
+     "source": "googlenews",
+     "title": "Prince Harry says he’d return to the military to face Russia if needed",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE00SXM4ZV9HMUpEV19aTVpRSnhiODY2N0wzdXQ2elJjMzZTbHhtdDBFdHVMcFhzbkhwd3ZXNG40aHVDSkxSLUtpSkFWeGlYX2VrdURDVUhNUDVLVzNfcW56OG0wc25HY2IyX3ZBUU5OejAwODdjaFVXR3A1TW4?oc=5",
+     "metric": "World #15, 5 outlets in cluster"
+    },
+    {
+     "source": "googlenews",
+     "title": "EU proposes €45 billion Ukraine loan, to be repaid after Russia pays reparations",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaFhjUFo4SHBqb20yY1dQWmZZNlZhV2VvZjRQLTFoQjlYeFItaHNXX0FZVmhuazRYODFqcEk5RThWZUNpX2lPOFJrZ0M5U0hEODBZZFNndnE3U18xNWRtVGhlYmRXU3V1My16RTUybkdaSXRvc3NIOWpNdllIWG1GMjE4Z2N1bm1naUZjNXF6bVBPSF9lalVpeHdNN1FQeWRtZDBfaTh3ZXBaQQ?oc=5",
+     "metric": "World #19, 5 outlets in cluster"
+    },
+    {
+     "source": "x",
+     "title": "Russia",
+     "url": "https://x.com/search?q=Russia",
+     "metric": "X trend GB #46"
+    },
+    {
+     "source": "googlenews",
+     "title": "'Russia will achieve none of its objectives' — Zelensky details upcoming allies meeting",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbS1jYWItTXh4YVJVZzFPa2N6dndwTDE1d0ZmdjZFWHM1TXlpMzUwZUk4YkxaOEU1cFJ3TmVJOGNkbndjS1k4RWgxQ0VFVXZDc2pPNlBBOVg3cENQWEw3RzdTR3hReFdIa19VWWVjaGwzTHA2T1ZQLWl4dlE3ekhOT09hajFiRnlIUThzdDdMM1EyZ3BPcUZLOGhsazhXbWdSOTBRbFJJR1JrUXpjbjFpRGtB?oc=5",
+     "metric": "World #22, 5 outlets in cluster"
+    },
+    {
+     "source": "googlenews",
+     "title": "EXCLUSIVE: Drone attacks nearly halve Russia's November oil refining, sources say",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOWZxREZPaThlNEtsN1Z2V2s3bVpMbkpiOEYyV19nS2paZndRczh0SG5pcURzTmFSMzYyNDlPbDJFRTIwZTBScFpSLUVrMDNtWm9xMndPT1JHdk00WTFNVlZOdGE1LS1TdHJJX0hsMXI4eEV2cEhEVTkzWVp6ZkNxWVdMbl9lS2FqRnl3TWlEbnRDb1NqLU1iYmtvSkxDa19GWEJpckk1bEI3U09TcDdvQ1ViS25jRXZTZ1U5RA?oc=5",
+     "metric": "World #25, 5 outlets in cluster"
     }
    ],
    "keys": [
-    "xbox"
+    "russia"
    ],
-   "related_topics": [
-    "Grand Theft Auto VI",
-    "PLAYING GTA"
-   ]
+   "related_topics": []
   },
   {
-   "rank": 18,
+   "rank": 19,
    "topic": "Vice City",
    "heat": 58.7,
    "status": "rising",
    "velocity": 0.6,
    "first_seen": "2026-11-18T11:20:12+00:00",
-   "days_trending": 1,
+   "days_trending": 2,
    "heat_yesterday": 58.6,
    "why_hot": "2 source(s): googlenews, x; trending in 3 regions (GB, MX, US); X trend GB #14; gnews_es #20, ESPN México",
    "sources": [
@@ -3015,6 +3113,12 @@
      "title": "Vice City",
      "url": "https://x.com/search?q=Vice%20City",
      "metric": "X trend US #37"
+    },
+    {
+     "source": "googlenews",
+     "title": "Giannis Antetokounmpo, Heat host Tyler Herro, Bucks for GTA 6-inspired 'Vice City' night",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSVRjb2FwVDNzelExRlU2QjUwbFdDR2Vva2tQQllfV19SY2lIT3hEUG9GRURMZWlJZmtnT3REYWZWYTJXYmMyM3NXLTZnMVpFMEhvNVhCS29WQzRqUnh1bHAyNEcyRW9VNXJBN3ktcVZBcFZkdFF5V2IyUGFsQzVDY1pwMGhUcGR1VWF3TGtsa0EwVzZONTVxTTRjY2JKOTlVUkR6TEpma01TemtLcjU3cmZVVnZLamZYYUxFMTZZZGFta2U2TzM5a3duZnJOVnFKaUE?oc=5",
+     "metric": "Top #20, 5 outlets in cluster"
     }
    ],
    "keys": [
@@ -3025,13 +3129,106 @@
    ]
   },
   {
-   "rank": 19,
+   "rank": 20,
+   "topic": "South Korea",
+   "heat": 57.7,
+   "status": "rising",
+   "velocity": 0.47,
+   "first_seen": "2026-11-18T08:12:45+00:00",
+   "days_trending": 1,
+   "heat_yesterday": 34.8,
+   "why_hot": "3 source(s): factcheck, googlenews, travel; World #11, 5 outlets in cluster",
+   "sources": [
+    "factcheck",
+    "googlenews",
+    "travel"
+   ],
+   "regions": [],
+   "broad_appeal": {
+    "n_sources": 3,
+    "n_regions": 0
+   },
+   "entity": {
+    "qid": "Q884",
+    "type": "other",
+    "description": "country in East Asia",
+    "matched_via": "wikidata search 'South Korea' -> South Korea",
+    "url": "https://www.wikidata.org/wiki/Q884"
+   },
+   "paradox_signals": [
+    "why"
+   ],
+   "best_channel": null,
+   "channel_fit": {
+    "go-there-instead": {
+     "score": 0,
+     "strong": [
+      "tourists"
+     ],
+     "weak": [],
+     "angle_hint": null,
+     "note": "only one strong keyword, and only in headlines"
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [
+      "cheating"
+     ],
+     "angle_hint": null
+    }
+   },
+   "links": [
+    {
+     "source": "googlenews",
+     "title": "After A.I. Cheating Scandal, South Korea Adopts New Restrictions for Grueling College Entrance Exam",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbVdyNlZRVEZ1REdCa3hWQnhDRmRYZ2VCSVpUVlloNWhYaGFCVHlsbEozMHAtbFp1NFFHbmFIU1RKOVhfYXh2TmQ0SW50Ym41bDNwVFgxUFF3VVlLOFB4X0tXTnBuVTVSeFJLc01Zb0NqVXBvdzZBdGRJSjRNQjNnTmlxWXhTZHhtbU1LdFFrYVluR252Mm5B?oc=5",
+     "metric": "World #11, 5 outlets in cluster"
+    },
+    {
+     "source": "factcheck",
+     "title": "Why Trader Joe's 'Everything but the Bagel' seasoning is banned in South Korea",
+     "url": "https://www.snopes.com/fact-check/trader-joes-everything-bagel-seasoning-morphine/",
+     "metric": "snopes #1"
+    },
+    {
+     "source": "travel",
+     "title": "Scarf vendor who discourages tourists from spending money draws crowds at South Korea market",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdmxyWG13TWRXRDJ0M2tMWDNuU3Qzb04xNjloM1pDcEV2bXhOTFJzY3hxN3hGRExPMnBjajJ4V2F6Yjd0WWY0UHBHRkhoVDdLX1pWNUZBcjlyX0tkUUpubVgyUE93S2F2WU5YMGFKVWVuWjVjLTJiODcxNmNKRVU0LXhrdE5HNDdzeVhZNjdZTlJoQjlnZnVIRFdSSU9DU0pLSHFRMDZfUGdaR2NLSTYyQWo2WTVLTm9LV1RvYzhsVDhzTUpVWEQxZDZfRTdGSDNHLWlUWFpRVlEwN18waGR5RXJB?oc=5",
+     "metric": "gnews_travel_news #18, VnExpress International"
+    }
+   ],
+   "keys": [
+    "south korea"
+   ],
+   "related_topics": []
+  },
+  {
+   "rank": 21,
    "topic": "Dancing with the Stars (American TV series) season 35",
-   "heat": 56.4,
-   "status": "new",
+   "heat": 56.3,
+   "status": "steady",
    "velocity": 1.0,
-   "first_seen": null,
-   "days_trending": 0,
+   "first_seen": "2026-11-19T11:24:32+00:00",
+   "days_trending": 1,
    "heat_yesterday": null,
    "why_hot": "2 source(s): googlenews, wikipedia; Wikipedia views 13.1x vs prior 4-day avg; 150,752 views, 13.1x vs prior 4-day avg; Entertainment #19, 5 outlets in cluster",
    "sources": [
@@ -3093,15 +3290,9 @@
     },
     {
      "source": "googlenews",
-     "title": "‘Dancing With The Stars’ Semi-Finals See Major Frontrunner Eliminated In Stunning Upset",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeEZUbTJvajY0LXJ2U2VBVm10bFRCSG9OakRYM0N1SUtUUUxIRElqd2hoNmg5RXFzODdZdkpVczlIdW54QktEOU5pUFdMZTJFdHdfYlBHZWQwdzVoMmpJWDZkMml6clFNWE5CdkliNXVCeU1iX0hNNmhxdXVYZ01CS0hXdWFqLTVMXzFPaDNRV2F0eG40UjUxRjhidy1MVzdnOWFsTDBfblJTTG9xSjF5dEtMUEwzcjktOWlUUVpZdDhNT0JidUt2MndHWS02X08yUzdFYXBCOA?oc=5",
-     "metric": "Entertainment #19, 5 outlets in cluster"
-    },
-    {
-     "source": "googlenews",
      "title": "‘Dancing With The Stars’ Finale Will Go Live Across The Country For The First Time",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRnlHS2xSZUdlR2ZwbzB2aVYtRmNZRm1wblhqZDB4MkRUdUI0RWwtdklycjZ3Z05zbmFVT05xVEdDbVlDMDFNbjR1Z3dMekNZd0VOUXlhajlPc2UwazJHUlZ0VWpvWnlzUzNiN0lLMVVXRENkeEhjS05UdFdLcU5zTUk4RXVPUDVNSXRRaDJzTGxtZDZiWDA2S1l3?oc=5",
-     "metric": "Entertainment #30, 5 outlets in cluster"
+     "metric": "Entertainment #19, 5 outlets in cluster"
     }
    ],
    "keys": [
@@ -3112,92 +3303,13 @@
    "related_topics": []
   },
   {
-   "rank": 20,
-   "topic": "Andrej Stojaković",
-   "heat": 54.5,
-   "status": "rising",
-   "velocity": 1.0,
-   "first_seen": "2026-11-18T07:21:27+00:00",
-   "days_trending": 1,
-   "heat_yesterday": 39.5,
-   "why_hot": "2 source(s): googlenews, wikipedia; Wikipedia views 315.3x vs prior 4-day avg; 97,435 views, 315.3x vs prior 4-day avg; Sports #20, 5 outlets in cluster",
-   "sources": [
-    "googlenews",
-    "wikipedia"
-   ],
-   "regions": [],
-   "broad_appeal": {
-    "n_sources": 2,
-    "n_regions": 0
-   },
-   "entity": {
-    "qid": "Q112161163",
-    "type": "athlete",
-    "description": "Serbian-Greek basketball player (born 2004)",
-    "matched_via": "wikipedia article",
-    "url": "https://www.wikidata.org/wiki/Q112161163"
-   },
-   "paradox_signals": [],
-   "best_channel": null,
-   "channel_fit": {
-    "go-there-instead": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "plan-not-panic": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "chess-blunder-club": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    }
-   },
-   "links": [
-    {
-     "source": "wikipedia",
-     "title": "Andrej Stojaković",
-     "url": "https://en.wikipedia.org/wiki/Andrej_Stojaković",
-     "metric": "97,435 views, 315.3x vs prior 4-day avg"
-    },
-    {
-     "source": "googlenews",
-     "title": "The Breakfast Buffet: Andrej Stojakovic, Illinois send message at Duke; RJ Luis's LSU status; UConn at Arizona",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdjV4OFVKRkxDWXJnSnJYRGFnRnJwc01FRmg5MVlNek00YU5helN0V01xc2llLWVIQ1lwYlRDamtFOGxiYXVERTJlSFpfYmR5OU44YjlweXFPeVY0ZmdpOGVoQmRjbGRVVks1S0RCWUU1UUlkNGNPTEQwSGJrUVRjQk1Sei1JUnFibXU0T0E3VzZuOEN0clpISUpiZjk1OTNJaXZIcFVvdWFhNlpFOWwyTlp3?oc=5",
-     "metric": "Sports #20, 5 outlets in cluster"
-    }
-   ],
-   "keys": [
-    "andrej stojakovic"
-   ],
-   "related_topics": []
-  },
-  {
-   "rank": 21,
+   "rank": 22,
    "topic": "Haymitch",
    "heat": 54.4,
-   "status": "new",
+   "status": "steady",
    "velocity": 0.6,
-   "first_seen": null,
-   "days_trending": 0,
+   "first_seen": "2026-11-19T11:24:32+00:00",
+   "days_trending": 1,
    "heat_yesterday": null,
    "why_hot": "2 source(s): googletrends, x; trending in 2 regions (MX, US); MX: 1000+ searches; X trend US #33",
    "sources": [
@@ -3277,121 +3389,15 @@
    "related_topics": []
   },
   {
-   "rank": 22,
-   "topic": "Russia",
-   "heat": 54.3,
-   "status": "new",
-   "velocity": 0.0,
-   "first_seen": null,
-   "days_trending": 0,
-   "heat_yesterday": null,
-   "why_hot": "3 source(s): googlenews, travel, x; X trend GB #46; World #14, 5 outlets in cluster",
-   "sources": [
-    "googlenews",
-    "travel",
-    "x"
-   ],
-   "regions": [
-    "GB"
-   ],
-   "broad_appeal": {
-    "n_sources": 3,
-    "n_regions": 1
-   },
-   "entity": {
-    "qid": "Q159",
-    "type": "other",
-    "description": "country in Eastern Europe and Northern Asia, the largest in the world by area",
-    "matched_via": "wikidata search 'Russia' -> Russia",
-    "url": "https://www.wikidata.org/wiki/Q159"
-   },
-   "paradox_signals": [],
-   "best_channel": null,
-   "channel_fit": {
-    "go-there-instead": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "plan-not-panic": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "chess-blunder-club": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    }
-   },
-   "links": [
-    {
-     "source": "travel",
-     "title": "Russia",
-     "url": "https://en.wikivoyage.org/wiki/Russia",
-     "metric": "wikivoyage_top #27, 74 views"
-    },
-    {
-     "source": "googlenews",
-     "title": "Prince Harry says he’d return to the military to face Russia if needed",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE00SXM4ZV9HMUpEV19aTVpRSnhiODY2N0wzdXQ2elJjMzZTbHhtdDBFdHVMcFhzbkhwd3ZXNG40aHVDSkxSLUtpSkFWeGlYX2VrdURDVUhNUDVLVzNfcW56OG0wc25HY2IyX3ZBUU5OejAwODdjaFVXR3A1TW4?oc=5",
-     "metric": "World #14, 5 outlets in cluster"
-    },
-    {
-     "source": "googlenews",
-     "title": "EU proposes €45 billion Ukraine loan, to be repaid after Russia pays reparations",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaFhjUFo4SHBqb20yY1dQWmZZNlZhV2VvZjRQLTFoQjlYeFItaHNXX0FZVmhuazRYODFqcEk5RThWZUNpX2lPOFJrZ0M5U0hEODBZZFNndnE3U18xNWRtVGhlYmRXU3V1My16RTUybkdaSXRvc3NIOWpNdllIWG1GMjE4Z2N1bm1naUZjNXF6bVBPSF9lalVpeHdNN1FQeWRtZDBfaTh3ZXBaQQ?oc=5",
-     "metric": "World #19, 5 outlets in cluster"
-    },
-    {
-     "source": "x",
-     "title": "Russia",
-     "url": "https://x.com/search?q=Russia",
-     "metric": "X trend GB #46"
-    },
-    {
-     "source": "googlenews",
-     "title": "EXCLUSIVE: Drone attacks nearly halve Russia's November oil refining, sources say",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOWZxREZPaThlNEtsN1Z2V2s3bVpMbkpiOEYyV19nS2paZndRczh0SG5pcURzTmFSMzYyNDlPbDJFRTIwZTBScFpSLUVrMDNtWm9xMndPT1JHdk00WTFNVlZOdGE1LS1TdHJJX0hsMXI4eEV2cEhEVTkzWVp6ZkNxWVdMbl9lS2FqRnl3TWlEbnRDb1NqLU1iYmtvSkxDa19GWEJpckk1bEI3U09TcDdvQ1ViS25jRXZTZ1U5RA?oc=5",
-     "metric": "World #25, 5 outlets in cluster"
-    },
-    {
-     "source": "googlenews",
-     "title": "'Russia will achieve none of its objectives' — Zelensky details upcoming allies meeting",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbS1jYWItTXh4YVJVZzFPa2N6dndwTDE1d0ZmdjZFWHM1TXlpMzUwZUk4YkxaOEU1cFJ3TmVJOGNkbndjS1k4RWgxQ0VFVXZDc2pPNlBBOVg3cENQWEw3RzdTR3hReFdIa19VWWVjaGwzTHA2T1ZQLWl4dlE3ekhOT09hajFiRnlIUThzdDdMM1EyZ3BPcUZLOGhsazhXbWdSOTBRbFJJR1JrUXpjbjFpRGtB?oc=5",
-     "metric": "World #27, 1 outlets in cluster"
-    }
-   ],
-   "keys": [
-    "russia"
-   ],
-   "related_topics": []
-  },
-  {
    "rank": 23,
    "topic": "Lucia",
-   "heat": 53.3,
+   "heat": 54.1,
    "status": "steady",
    "velocity": 0.6,
    "first_seen": "2026-11-18T23:25:39+00:00",
-   "days_trending": 1,
+   "days_trending": 2,
    "heat_yesterday": 86.7,
-   "why_hot": "2 source(s): googlenews, x; trending in 3 regions (GB, MX, US); X trend US #5; Entertainment #16, 5 outlets in cluster",
+   "why_hot": "2 source(s): googlenews, x; trending in 3 regions (GB, MX, US); X trend US #5; Entertainment #14, 5 outlets in cluster",
    "sources": [
     "googlenews",
     "x"
@@ -3469,7 +3475,7 @@
      "source": "googlenews",
      "title": "Glamorous actress behind GTA 6’s Lucia is unmasked after years of secrecy, ‘scary’ NDAs",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdnBFTFF4N3JMcy05bFctQzVHV0taa2Z3M19xQmM3QWR3bmNFYS1RTVh4b3NjSThpVFhmdWhhRlUzdko3TTBwX0E5UFhOR2JkZmM2RmRjekIxdW96WVRVWFVkV1JUT2RXNWZkWXFONmYtOHhIWGZUNVFjZGdLLXotYjBxbWVQdWtfRTJ3bURpODBIUlRhYzdadGZqUjBES1lRRUJfZ2drN205QkszRlJZdWdqV19IY2JpbU5ma3lMTQ?oc=5",
-     "metric": "Entertainment #16, 5 outlets in cluster"
+     "metric": "Entertainment #14, 5 outlets in cluster"
     }
    ],
    "keys": [
@@ -3479,12 +3485,170 @@
   },
   {
    "rank": 24,
+   "topic": "Andrej Stojaković",
+   "heat": 53.9,
+   "status": "rising",
+   "velocity": 1.0,
+   "first_seen": "2026-11-18T07:21:27+00:00",
+   "days_trending": 2,
+   "heat_yesterday": 39.5,
+   "why_hot": "2 source(s): googlenews, wikipedia; Wikipedia views 315.3x vs prior 4-day avg; 97,435 views, 315.3x vs prior 4-day avg; Sports #21, 5 outlets in cluster",
+   "sources": [
+    "googlenews",
+    "wikipedia"
+   ],
+   "regions": [],
+   "broad_appeal": {
+    "n_sources": 2,
+    "n_regions": 0
+   },
+   "entity": {
+    "qid": "Q112161163",
+    "type": "athlete",
+    "description": "Serbian-Greek basketball player (born 2004)",
+    "matched_via": "wikipedia article",
+    "url": "https://www.wikidata.org/wiki/Q112161163"
+   },
+   "paradox_signals": [],
+   "best_channel": null,
+   "channel_fit": {
+    "go-there-instead": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    }
+   },
+   "links": [
+    {
+     "source": "wikipedia",
+     "title": "Andrej Stojaković",
+     "url": "https://en.wikipedia.org/wiki/Andrej_Stojaković",
+     "metric": "97,435 views, 315.3x vs prior 4-day avg"
+    },
+    {
+     "source": "googlenews",
+     "title": "The Breakfast Buffet: Andrej Stojakovic, Illinois send message at Duke; RJ Luis's LSU status; UConn at Arizona",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdjV4OFVKRkxDWXJnSnJYRGFnRnJwc01FRmg5MVlNek00YU5helN0V01xc2llLWVIQ1lwYlRDamtFOGxiYXVERTJlSFpfYmR5OU44YjlweXFPeVY0ZmdpOGVoQmRjbGRVVks1S0RCWUU1UUlkNGNPTEQwSGJrUVRjQk1Sei1JUnFibXU0T0E3VzZuOEN0clpISUpiZjk1OTNJaXZIcFVvdWFhNlpFOWwyTlp3?oc=5",
+     "metric": "Sports #21, 5 outlets in cluster"
+    }
+   ],
+   "keys": [
+    "andrej stojakovic"
+   ],
+   "related_topics": []
+  },
+  {
+   "rank": 25,
+   "topic": "Harry Shum Jr.",
+   "heat": 51.2,
+   "status": "rising",
+   "velocity": 1.0,
+   "first_seen": "2026-11-19T11:24:32+00:00",
+   "days_trending": 1,
+   "heat_yesterday": null,
+   "why_hot": "2 source(s): googlenews, wikipedia; Wikipedia views 8.9x vs prior 4-day avg; 49,329 views, 8.9x vs prior 4-day avg; Entertainment #17, 5 outlets in cluster",
+   "sources": [
+    "googlenews",
+    "wikipedia"
+   ],
+   "regions": [],
+   "broad_appeal": {
+    "n_sources": 2,
+    "n_regions": 0
+   },
+   "entity": {
+    "qid": "Q348649",
+    "type": "actor",
+    "description": "American actor and dancer (born 1982)",
+    "matched_via": "wikipedia article",
+    "url": "https://www.wikidata.org/wiki/Q348649"
+   },
+   "paradox_signals": [],
+   "best_channel": null,
+   "channel_fit": {
+    "go-there-instead": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    }
+   },
+   "links": [
+    {
+     "source": "wikipedia",
+     "title": "Harry Shum Jr.",
+     "url": "https://en.wikipedia.org/wiki/Harry_Shum_Jr.",
+     "metric": "49,329 views, 8.9x vs prior 4-day avg"
+    },
+    {
+     "source": "googlenews",
+     "title": "DWTS’ Harry Shum Jr. Shares Message to Late Glee Costar Naya Rivera After “Valerie” Performance",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWFRqOEQ3NGhnWkxxWWpjX2JHU2diOGRJTXdMdTR6VWhzY2VodHJyb2w4eXgzY2lZcnNXUkNyaWJnd3BfMTM2QTRpVFkxQ2tfRVhPaVZwSFZVcWZLS2xpWlJSZm5Vd2JvN1ItSXkzazFKRHNTSmRuT1lFR0d2SkRLNDVjZUZLbHVGcVR2Q3RKQXM3UDNnX0VDbXVzN00?oc=5",
+     "metric": "Entertainment #17, 5 outlets in cluster"
+    }
+   ],
+   "keys": [
+    "harry shum jr"
+   ],
+   "related_topics": []
+  },
+  {
+   "rank": 26,
    "topic": "James Cleverly",
    "heat": 48.3,
-   "status": "new",
+   "status": "steady",
    "velocity": 0.0,
-   "first_seen": null,
-   "days_trending": 0,
+   "first_seen": "2026-11-19T11:24:32+00:00",
+   "days_trending": 1,
    "heat_yesterday": null,
    "why_hot": "2 source(s): googletrends, x; GB: 200+ searches; X trend GB #10",
    "sources": [
@@ -3559,13 +3723,188 @@
    "related_topics": []
   },
   {
-   "rank": 25,
+   "rank": 27,
+   "topic": "U.S. Loses Measles Elimination",
+   "heat": 48.2,
+   "status": "steady",
+   "velocity": 0.0,
+   "first_seen": "2026-11-18T07:18:51+00:00",
+   "days_trending": 1,
+   "heat_yesterday": 49.4,
+   "why_hot": "2 source(s): googlenews, x; X news story (News); Health #1, 5 outlets in cluster",
+   "sources": [
+    "googlenews",
+    "x"
+   ],
+   "regions": [],
+   "broad_appeal": {
+    "n_sources": 2,
+    "n_regions": 0
+   },
+   "entity": null,
+   "paradox_signals": [
+    "record"
+   ],
+   "best_channel": "plan-not-panic",
+   "channel_fit": {
+    "go-there-instead": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 45,
+     "strong": [
+      "measles"
+     ],
+     "weak": [],
+     "angle_hint": "U.S. Loses Measles Elimination: what to check in your pantry/fridge today and when to actually worry"
+    },
+    "silver-paradox": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    }
+   },
+   "links": [
+    {
+     "source": "googlenews",
+     "title": "Abdul El-Sayed Calls Out 'Grifter' RFK Jr. After U.S. Loses Measles Elimination Status",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMjNycmpVUl91RzVOSS1tTmxrUVNrUHk1N0JxcW1GdmRqa1F6T2VETGNuZFpWeUZYODlVS1ZXeGp3elpJQk5iUzRzZi05R2RnNVpwYk9xR00yLXZnX1YxNTRxRVRuVEtjUGctZk16M3pVXzRqcUtHaE5oYU9rN1VqTzVhN244OWVjdllYUzhOUjLSAZYBQVVfeXFMTXdCbzBFSGJZRzl6NXFwbjJEWTdzRDB1SFpqOHhtcmYtd2Z4UUZ4SXhoQ3hKVklDblh2THVpb0l5YkFBSHBYNENQUGFXLTN1bHllczVUc2pWeGdMY1FydHhiRHRTel9GS0Q4bU40X2owa1UtVEVUVkFCS0pETDVNYkRXX2JfbWR2RHVSQlB5cjVYT0V2bzd3?oc=5",
+     "metric": "Health #1, 5 outlets in cluster"
+    },
+    {
+     "source": "x",
+     "title": "U.S. Loses Measles Elimination Status After 26 Years Amid Case Surge",
+     "url": "https://x.com/i/trending/2123117791280562583",
+     "metric": "X news story (News)"
+    }
+   ],
+   "keys": [
+    "u s loses measles elimination"
+   ],
+   "related_topics": []
+  },
+  {
+   "rank": 28,
+   "topic": "Elon Musk",
+   "heat": 48.0,
+   "status": "steady",
+   "velocity": 0.0,
+   "first_seen": "2026-11-19T11:24:32+00:00",
+   "days_trending": 1,
+   "heat_yesterday": null,
+   "why_hot": "3 source(s): factcheck, googlenews, x; X news story (Technology, AI); Nation #3, 5 outlets in cluster",
+   "sources": [
+    "factcheck",
+    "googlenews",
+    "x"
+   ],
+   "regions": [],
+   "broad_appeal": {
+    "n_sources": 3,
+    "n_regions": 0
+   },
+   "entity": {
+    "qid": "Q317521",
+    "type": "politician",
+    "description": "American businessman (born 1971)",
+    "matched_via": "wikidata search 'Elon Musk' -> Elon Musk",
+    "url": "https://www.wikidata.org/wiki/Q317521"
+   },
+   "paradox_signals": [
+    "how",
+    "record"
+   ],
+   "best_channel": "intern-broke-it",
+   "channel_fit": {
+    "go-there-instead": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "intern-broke-it": {
+     "score": 90,
+     "strong": [
+      "ai",
+      "robot"
+     ],
+     "weak": [],
+     "angle_hint": "Skit: the intern lets the AI handle Elon Musk... what could go wrong"
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    }
+   },
+   "links": [
+    {
+     "source": "googlenews",
+     "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FM3BjWHRfbFlaeW94aHdZTVhaVUUxUUJsdFR6cHRjYVg2VVdFT1pPVVNuR2FQMnJQQlRlQUlVTWswb29vRXREMjlhOExQQ2lJR2RzNHBEbHJRbnc?oc=5",
+     "metric": "Nation #3, 5 outlets in cluster"
+    },
+    {
+     "source": "googlenews",
+     "title": "Elon Musk says he regrets midterm spending",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONG40N2lZRmcyWklFZ0ZlVzFybnNzaGJQU3lpQ05ReU80ekRmUEhlaFpPVUdmYVRPMmNDcU5nNlZ2TW9UMk5pOXJPQmNocGVyUnRfV0tLSGtYUGJQOE1ZMjRFaEU0YVJWOExHU2hMenVsU0xYcUNkUXlrSUlCSGZEOGZQVmhMZ2dRbHNDNC1CWk1hUE9ING4yczJB?oc=5",
+     "metric": "Top #5, 5 outlets in cluster"
+    },
+    {
+     "source": "factcheck",
+     "title": "Did Elon Musk pay Haley Stevens $2M to endorse Mike Rogers? There's no proof",
+     "url": "https://www.snopes.com/news/2026/11/03/musk-pay-haley-stevens-endorsement/",
+     "metric": "snopes #11"
+    },
+    {
+     "source": "x",
+     "title": "Elon Musk Shares Optimistic AI Post Amid Deception Warnings",
+     "url": "https://x.com/i/trending/2123051128954769801",
+     "metric": "X news story (Technology, AI)"
+    }
+   ],
+   "keys": [
+    "elon musk"
+   ],
+   "related_topics": []
+  },
+  {
+   "rank": 29,
    "topic": "Miguel Ángel Félix Gallardo",
    "heat": 48.0,
-   "status": "new",
+   "status": "steady",
    "velocity": 0.6,
-   "first_seen": null,
-   "days_trending": 0,
+   "first_seen": "2026-11-19T11:24:32+00:00",
+   "days_trending": 1,
    "heat_yesterday": null,
    "why_hot": "2 source(s): googlenews, wikipedia; Wikipedia views 0.3x vs prior 4-day avg; trending in 2 regions (MX, es-wiki); wiki_es #39, 6,574 views, 0.3x vs prior-days avg; gnews_es #7, Infobae",
    "sources": [
@@ -3635,13 +3974,13 @@
    "related_topics": []
   },
   {
-   "rank": 26,
+   "rank": 30,
    "topic": "Dia Nacional de Zumbi e da Consciência Negra",
-   "heat": 46.9,
-   "status": "new",
+   "heat": 47.0,
+   "status": "steady",
    "velocity": 0.6,
-   "first_seen": null,
-   "days_trending": 0,
+   "first_seen": "2026-11-19T11:24:32+00:00",
+   "days_trending": 1,
    "heat_yesterday": null,
    "why_hot": "2 source(s): googlenews, wikipedia; Wikipedia views 1.9x vs prior 4-day avg; trending in 2 regions (BR, pt-wiki); wiki_pt #9, 4,442 views, 1.9x vs prior-days avg; gnews_pt #8, G1",
    "sources": [
@@ -3712,13 +4051,13 @@
    "related_topics": []
   },
   {
-   "rank": 27,
+   "rank": 31,
    "topic": "Xi Jinping",
    "heat": 46.1,
    "status": "steady",
    "velocity": 0.72,
    "first_seen": "2026-11-18T11:20:12+00:00",
-   "days_trending": 1,
+   "days_trending": 2,
    "heat_yesterday": 72.4,
    "why_hot": "2 source(s): wikipedia, x; Wikipedia views 3.9x vs prior 4-day avg; trending in 3 regions (MX, US, pt-wiki); wiki_pt #32, 1,960 views, 3.9x vs prior-days avg; X trend MX #8",
    "sources": [
@@ -3805,15 +4144,15 @@
    "related_topics": []
   },
   {
-   "rank": 28,
+   "rank": 32,
    "topic": "Jason",
    "heat": 46.1,
    "status": "steady",
    "velocity": 0.6,
    "first_seen": "2026-11-18T23:25:39+00:00",
-   "days_trending": 1,
+   "days_trending": 2,
    "heat_yesterday": 49.3,
-   "why_hot": "2 source(s): hackernews, x; trending in 2 regions (GB, MX); X trend GB #12; 6 pts, 1 comments, 1h old",
+   "why_hot": "2 source(s): hackernews, x; trending in 2 regions (GB, MX); X trend GB #12; 6 pts, 2 comments, 1h old",
    "sources": [
     "hackernews",
     "x"
@@ -3884,7 +4223,7 @@
      "source": "hackernews",
      "title": "Air Force Maj. Jason Watson has been in solitary confinement for almost 100 days",
      "url": "https://news.ycombinator.com/item?id=50558191",
-     "metric": "6 pts, 1 comments, 1h old"
+     "metric": "6 pts, 2 comments, 1h old"
     }
    ],
    "keys": [
@@ -3893,15 +4232,15 @@
    "related_topics": []
   },
   {
-   "rank": 29,
+   "rank": 33,
    "topic": "Neon",
    "heat": 45.8,
-   "status": "new",
+   "status": "steady",
    "velocity": 0.0,
-   "first_seen": null,
-   "days_trending": 0,
+   "first_seen": "2026-11-19T11:24:32+00:00",
+   "days_trending": 1,
    "heat_yesterday": null,
-   "why_hot": "2 source(s): hackernews, x; X trend US #18; 856 pts, 682 comments, 14h old",
+   "why_hot": "2 source(s): hackernews, x; X trend US #18; 859 pts, 683 comments, 14h old",
    "sources": [
     "hackernews",
     "x"
@@ -3962,13 +4301,13 @@
      "source": "hackernews",
      "title": "Gemini 4 Neon",
      "url": "https://news.ycombinator.com/item?id=50552424",
-     "metric": "856 pts, 682 comments, 14h old"
+     "metric": "859 pts, 683 comments, 14h old"
     },
     {
      "source": "hackernews",
      "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
      "url": "https://news.ycombinator.com/item?id=50554374",
-     "metric": "233 pts, 72 comments, 11h old"
+     "metric": "233 pts, 73 comments, 11h old"
     },
     {
      "source": "x",
@@ -3983,107 +4322,15 @@
    "related_topics": []
   },
   {
-   "rank": 30,
-   "topic": "Elon Musk",
-   "heat": 45.3,
-   "status": "new",
-   "velocity": 0.0,
-   "first_seen": null,
-   "days_trending": 0,
-   "heat_yesterday": null,
-   "why_hot": "3 source(s): factcheck, googlenews, x; X news story (Technology, AI); Top #9, 5 outlets in cluster",
-   "sources": [
-    "factcheck",
-    "googlenews",
-    "x"
-   ],
-   "regions": [],
-   "broad_appeal": {
-    "n_sources": 3,
-    "n_regions": 0
-   },
-   "entity": {
-    "qid": "Q317521",
-    "type": "politician",
-    "description": "American businessman (born 1971)",
-    "matched_via": "wikidata search 'Elon Musk' -> Elon Musk",
-    "url": "https://www.wikidata.org/wiki/Q317521"
-   },
-   "paradox_signals": [
-    "how",
-    "record"
-   ],
-   "best_channel": "intern-broke-it",
-   "channel_fit": {
-    "go-there-instead": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "intern-broke-it": {
-     "score": 90,
-     "strong": [
-      "ai",
-      "robot"
-     ],
-     "weak": [],
-     "angle_hint": "Skit: the intern lets the AI handle Elon Musk... what could go wrong"
-    },
-    "plan-not-panic": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "chess-blunder-club": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    }
-   },
-   "links": [
-    {
-     "source": "googlenews",
-     "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FM3BjWHRfbFlaeW94aHdZTVhaVUUxUUJsdFR6cHRjYVg2VVdFT1pPVVNuR2FQMnJQQlRlQUlVTWswb29vRXREMjlhOExQQ2lJR2RzNHBEbHJRbnc?oc=5",
-     "metric": "Top #9, 5 outlets in cluster"
-    },
-    {
-     "source": "factcheck",
-     "title": "Did Elon Musk pay Haley Stevens $2M to endorse Mike Rogers? There's no proof",
-     "url": "https://www.snopes.com/news/2026/11/03/musk-pay-haley-stevens-endorsement/",
-     "metric": "snopes #11"
-    },
-    {
-     "source": "x",
-     "title": "Elon Musk Shares Optimistic AI Post Amid Deception Warnings",
-     "url": "https://x.com/i/trending/2123051128954769801",
-     "metric": "X news story (Technology, AI)"
-    }
-   ],
-   "keys": [
-    "elon musk"
-   ],
-   "related_topics": []
-  },
-  {
-   "rank": 31,
+   "rank": 34,
    "topic": "The Hunger Games: Sunrise on the Reaping",
-   "heat": 44.8,
+   "heat": 45.7,
    "status": "steady",
    "velocity": 0.24,
    "first_seen": "2026-11-18T07:18:51+00:00",
-   "days_trending": 1,
+   "days_trending": 2,
    "heat_yesterday": 53.0,
-   "why_hot": "2 source(s): googlenews, wikipedia; Wikipedia views 2.0x vs prior 4-day avg; 101,703 views, 2.0x vs prior 4-day avg; Entertainment #17, 5 outlets in cluster",
+   "why_hot": "2 source(s): googlenews, wikipedia; Wikipedia views 2.0x vs prior 4-day avg; 101,703 views, 2.0x vs prior 4-day avg; Entertainment #15, 5 outlets in cluster",
    "sources": [
     "googlenews",
     "wikipedia"
@@ -4145,7 +4392,7 @@
      "source": "googlenews",
      "title": "'Hunger Games: Sunrise One The Reaping' Box Office Global Forecast",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMURwU3prWllPRnJuMmczQ0FtQ0FCN1VUMlRlTDRlUDhrRzJCNHFVN2FsalhDTFpIOWh3QkxpeVF5UDY0YjFYdTBMa3c2eUphQXhUYUJjTy11Y3E4a1VCcVYxMUd4QkxzckN3TnpJVjM4S3lITUhRbnVRaW1aYWN2cnlTT05KU2dNWjVBMVQ0ejZoM29oTUJYaDJoZ2djcUhqUHY4RkZXaw?oc=5",
-     "metric": "Entertainment #17, 5 outlets in cluster"
+     "metric": "Entertainment #15, 5 outlets in cluster"
     }
    ],
    "keys": [
@@ -4156,15 +4403,15 @@
    "related_topics": []
   },
   {
-   "rank": 32,
+   "rank": 35,
    "topic": "JJ Gabriel",
-   "heat": 44.7,
-   "status": "new",
+   "heat": 44.8,
+   "status": "steady",
    "velocity": 1.0,
-   "first_seen": null,
-   "days_trending": 0,
+   "first_seen": "2026-11-19T11:24:32+00:00",
+   "days_trending": 1,
    "heat_yesterday": null,
-   "why_hot": "2 source(s): googlenews, wikipedia; Wikipedia views 4.7x vs prior 4-day avg; Wikipedia views 5.1x vs prior 4-day avg; 59,157 views, 4.7x vs prior 4-day avg; Sports #6, 1 outlets in cluster",
+   "why_hot": "2 source(s): googlenews, wikipedia; Wikipedia views 4.7x vs prior 4-day avg; Wikipedia views 5.1x vs prior 4-day avg; 59,157 views, 4.7x vs prior 4-day avg; Sports #9, 1 outlets in cluster",
    "sources": [
     "googlenews",
     "wikipedia"
@@ -4234,7 +4481,7 @@
      "source": "googlenews",
      "title": "JJ Gabriel, Max Dowman and the challenges and pitfalls of nurturing football’s wonderkids",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQenA4WnptVkVYbWtFN0g4eF90SXFPb19nX3E5MUYtNjNzVXNNNFFqLVctYkV3alVGUi1hY1hTUUVWdWNoWllOWGhVRGRmMWF1Vl9HSjVvMWg5RTJ6d2Nzc3YtRXlyUjNiRjUxbXE5UzJ2VWlETUZhRHg2XzhEWGxFRVJJbVljQmNaWGwzRHMtU1cweFhYZlRyRVBMZHRtNjByY1FvRnc0OUFyd3pZ?oc=5",
-     "metric": "Sports #6, 1 outlets in cluster"
+     "metric": "Sports #9, 1 outlets in cluster"
     }
    ],
    "keys": [
@@ -4243,15 +4490,15 @@
    "related_topics": []
   },
   {
-   "rank": 33,
+   "rank": 36,
    "topic": "Avengers: Doomsday",
    "heat": 44.3,
-   "status": "new",
+   "status": "steady",
    "velocity": 0.01,
-   "first_seen": null,
-   "days_trending": 0,
+   "first_seen": "2026-11-19T11:24:32+00:00",
+   "days_trending": 1,
    "heat_yesterday": null,
-   "why_hot": "2 source(s): wikipedia, youtube; Wikipedia views 1.0x vs prior 4-day avg; 50,378 views, 1.0x vs prior 4-day avg; YouTube most popular US/overall #2: 5,950,379 views, 18h old, Marvel Entertainment",
+   "why_hot": "2 source(s): wikipedia, youtube; Wikipedia views 1.0x vs prior 4-day avg; 50,378 views, 1.0x vs prior 4-day avg; YouTube most popular US/overall #2: 5,961,301 views, 19h old, Marvel Entertainment",
    "sources": [
     "wikipedia",
     "youtube"
@@ -4307,7 +4554,7 @@
      "source": "youtube",
      "title": "Avengers: Doomsday | The Return | In Theaters December 18",
      "url": "https://www.youtube.com/watch?v=Fg0jyss_YnU",
-     "metric": "YouTube most popular US/overall #2: 5,950,379 views, 18h old, Marvel Entertainment"
+     "metric": "YouTube most popular US/overall #2: 5,961,301 views, 19h old, Marvel Entertainment"
     },
     {
      "source": "wikipedia",
@@ -4319,25 +4566,25 @@
      "source": "youtube",
      "title": "Avengers: Doomsday | TV SPOT “DARKNESS” CONCEPT | Marvel Studios",
      "url": "https://www.youtube.com/watch?v=z59xy3GvSrk",
-     "metric": "YouTube most popular US/overall #50: 2,247,695 views, 45h old, MovieTrailers Entertainment"
+     "metric": "YouTube most popular US/overall #50: 2,248,137 views, 45h old, MovieTrailers Entertainment"
     },
     {
      "source": "youtube",
      "title": "AVENGERS: DOOMSDAY \"Dr. Doom\" Trailer (2026) Robert Downey Jr.",
      "url": "https://www.youtube.com/watch?v=2WbbQpLY6cA",
-     "metric": "YouTube most popular US/overall #29: 365,204 views, 14h old, MovieGasm‍․com"
+     "metric": "YouTube most popular US/overall #29: 366,764 views, 15h old, MovieGasm‍․com"
     },
     {
      "source": "youtube",
      "title": "AVENGERS DOOMSDAY TRAILER Doctor Doom and Iron Man Legacy",
      "url": "https://www.youtube.com/watch?v=Qi0Pc-cEKD8",
-     "metric": "YouTube most popular US/overall #14: 180,004 views, 9h old, Emergency Awesome"
+     "metric": "YouTube most popular US/overall #14: 181,314 views, 9h old, Emergency Awesome"
     },
     {
      "source": "youtube",
      "title": "AVENGERS DOOMSDAY NEW TRAILER - FINAL BATTLE TEASER",
      "url": "https://www.youtube.com/watch?v=y41iMsLC3H4",
-     "metric": "YouTube most popular US/overall #47: 33,918 views, 7h old, Everything Always"
+     "metric": "YouTube most popular US/overall #47: 34,370 views, 7h old, Everything Always"
     }
    ],
    "keys": [
@@ -4346,102 +4593,13 @@
    "related_topics": []
   },
   {
-   "rank": 34,
-   "topic": "Rohingya",
-   "heat": 43.7,
-   "status": "new",
-   "velocity": 0.0,
-   "first_seen": null,
-   "days_trending": 0,
-   "heat_yesterday": null,
-   "why_hot": "2 source(s): googlenews, googletrends; GB: 200+ searches; World #2, 5 outlets in cluster",
-   "sources": [
-    "googlenews",
-    "googletrends"
-   ],
-   "regions": [
-    "GB"
-   ],
-   "broad_appeal": {
-    "n_sources": 2,
-    "n_regions": 1
-   },
-   "entity": {
-    "qid": "Q3241177",
-    "type": "other",
-    "description": "Eastern Indo-Aryan language",
-    "matched_via": "wikidata search 'Rohingya' -> Rohingya",
-    "url": "https://www.wikidata.org/wiki/Q3241177"
-   },
-   "paradox_signals": [],
-   "best_channel": null,
-   "channel_fit": {
-    "go-there-instead": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "plan-not-panic": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "chess-blunder-club": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    }
-   },
-   "links": [
-    {
-     "source": "googlenews",
-     "title": "ICJ to rule on Rohingya genocide case against Myanmar",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQlJFTEhaVnVSbTFXX2JXczJfUUg4b0JJekNpVmZsTFU2M1pGT0d5d0tYOEczVlhSc3c3R1hkSURqM1dkVkJmZW9QaWQ0LXlENUY5TnpLRm1BTlpYV3ptUFA3dU45Q3lxSnVyX0pHdU41WjhpREZnWEpGUmZ1bW85dzNPTk5BWEZfN3A5TUp4clNsY0VkR1lzVnBJMNIBoAFBVV95cUxQdEx6a2ZsTlg1MkRNQ09mRDBhRTlVbGZ0QWhNRXdqb2JKYnlfMDJVdjNZNGNxVEp0WEM3Q2k2dzhYMkJfcWhDZk1XMEpPaXdkZW1HbjlrZ090UVVZQVJfZVdOdnVCYXg3RUpEdWxwVGxQNk5NUE1Ec3dMN3dJcS1taDVRWkRTcnEzaGNOVDdsZ0s3Qnp1a1hRNWdsYUJtY3Bf?oc=5",
-     "metric": "World #2, 5 outlets in cluster"
-    },
-    {
-     "source": "googletrends",
-     "title": "rohingya",
-     "url": "https://trends.google.com/trends/explore?geo=GB&q=rohingya",
-     "metric": "GB: 200+ searches"
-    },
-    {
-     "source": "googlenews",
-     "title": "ICJ to rule on Rohingya genocide case against Myanmar: What’s at stake?",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVDBmQlh6bmJPWUFLQ1dpaXJGVHF3anN6UGJ1Mm9VUWpPY190UVlJOW1HaVhnbGE2Qzl0by02T3VoQUhjbkxzWUZaVlV3SnJxRnJianktREZBOTJPUjJOTkNUM0xXaDlLbkFEUnFaaGFsdzRQMGpZb3dmdzhpdVllemZISUg5THlndlFEWnBkYXhQUWVmMUVmYnlVMGJtSHpxSlh1NTZiYThvOHEzdUFN0gG0AUFVX3lxTE9aMmVQY2lNRFRVNUh4V05CbzNfZTltZ0RiRFBETEdrMmpsbzRGRmZ0Zk5lVlB3aU1fY19jeG5XVkFkcjh0dmpPNkpwSjJ6bnRHTEw5X1ZQR1NSRFpIMEU4RkpRS3dzWW1md1BYdWQ2bk5VdWkwa1hJcDcwT0FaZlU2RUpKRjlETElyU3FoWmxkaHZycFA4eFZMYkJ4Tk9nYUlWOG1Kd3pXMVlsLXRWSm5iX0VJbA?oc=5",
-     "metric": "Top #11, 5 outlets in cluster"
-    }
-   ],
-   "keys": [
-    "rohingya"
-   ],
-   "related_topics": [
-    "Myanmar"
-   ]
-  },
-  {
-   "rank": 35,
+   "rank": 37,
    "topic": "Ley General",
    "heat": 43.3,
-   "status": "new",
+   "status": "steady",
    "velocity": 0.0,
-   "first_seen": null,
-   "days_trending": 0,
+   "first_seen": "2026-11-19T11:24:32+00:00",
+   "days_trending": 1,
    "heat_yesterday": null,
    "why_hot": "2 source(s): googlenews, x; X trend MX #38; gnews_es #4, La Jornada",
    "sources": [
@@ -4510,15 +4668,15 @@
    "related_topics": []
   },
   {
-   "rank": 36,
+   "rank": 38,
    "topic": "Hila",
-   "heat": 42.6,
-   "status": "new",
+   "heat": 42.9,
+   "status": "steady",
    "velocity": 0.0,
-   "first_seen": null,
-   "days_trending": 0,
+   "first_seen": "2026-11-19T11:24:32+00:00",
+   "days_trending": 1,
    "heat_yesterday": null,
-   "why_hot": "2 source(s): googlenews, x; X trend US #28; Entertainment #4, 5 outlets in cluster",
+   "why_hot": "2 source(s): googlenews, x; X trend US #28; Entertainment #3, 5 outlets in cluster",
    "sources": [
     "googlenews",
     "x"
@@ -4576,7 +4734,7 @@
      "source": "googlenews",
      "title": "Hila Klein Addresses Husband Ethan’s Alleged Affair: ‘My Whole Entire Life Just Shattered’",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNzNpVmdmWnN4ZDBrOGpPeTJ5TkFfNFRONXowbzdHMnhmZlVJcDVkOS1XS2o4V0NMTDU0bGxERTRpYXRYMzJKT3lCNG9ONVlUemExUWdYZElsY00zVnJWQlJEdmlCSmZ5eEtFRDAyelFSZTlSLXFrdmEtaVdpc0VoRFpfTEE5Q1FSdzB5QkJWaF9oM1BZT0JDbV9TcVNmNWNhN1lOb0dXSQ?oc=5",
-     "metric": "Entertainment #4, 5 outlets in cluster"
+     "metric": "Entertainment #3, 5 outlets in cluster"
     },
     {
      "source": "x",
@@ -4591,95 +4749,13 @@
    "related_topics": []
   },
   {
-   "rank": 37,
-   "topic": "Joseph Zada",
-   "heat": 41.9,
-   "status": "new",
-   "velocity": 0.6,
-   "first_seen": null,
-   "days_trending": 0,
-   "heat_yesterday": null,
-   "why_hot": "2 source(s): googletrends, x; trending in 2 regions (MX, US); MX: 200+ searches; X trend US #43",
-   "sources": [
-    "googletrends",
-    "x"
-   ],
-   "regions": [
-    "MX",
-    "US"
-   ],
-   "broad_appeal": {
-    "n_sources": 2,
-    "n_regions": 2
-   },
-   "entity": {
-    "qid": "Q134079852",
-    "type": "actor",
-    "description": "Australian actor (born 2005)",
-    "matched_via": "wikidata search 'Joseph Zada' -> Joseph Zada",
-    "url": "https://www.wikidata.org/wiki/Q134079852"
-   },
-   "paradox_signals": [],
-   "best_channel": null,
-   "channel_fit": {
-    "go-there-instead": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "plan-not-panic": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "chess-blunder-club": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    }
-   },
-   "links": [
-    {
-     "source": "googletrends",
-     "title": "joseph zada",
-     "url": "https://trends.google.com/trends/explore?geo=MX&q=joseph%20zada",
-     "metric": "MX: 200+ searches"
-    },
-    {
-     "source": "x",
-     "title": "Joseph Zada",
-     "url": "https://x.com/search?q=Joseph%20Zada",
-     "metric": "X trend US #43"
-    }
-   ],
-   "keys": [
-    "joseph zada"
-   ],
-   "related_topics": []
-  },
-  {
-   "rank": 38,
+   "rank": 39,
    "topic": "Holiday Markets",
    "heat": 41.5,
    "status": "steady",
    "velocity": 0.0,
    "first_seen": "2026-11-18T23:25:39+00:00",
-   "days_trending": 1,
+   "days_trending": 2,
    "heat_yesterday": 40.7,
    "why_hot": "2 source(s): travel, x; X news story (News)",
    "sources": [
@@ -4755,13 +4831,13 @@
    "related_topics": []
   },
   {
-   "rank": 39,
+   "rank": 40,
    "topic": "Mariella Frostrup",
    "heat": 41.2,
    "status": "steady",
    "velocity": 0.24,
    "first_seen": "2026-11-18T07:18:51+00:00",
-   "days_trending": 1,
+   "days_trending": 2,
    "heat_yesterday": 67.2,
    "why_hot": "2 source(s): wikipedia, x; Wikipedia views 2.0x vs prior 4-day avg; 59,061 views, 2.0x vs prior 4-day avg; X trend GB #41",
    "sources": [
@@ -4833,87 +4909,6 @@
    "keys": [
     "mariella",
     "mariella frostrup"
-   ],
-   "related_topics": []
-  },
-  {
-   "rank": 40,
-   "topic": "Birmingham",
-   "heat": 40.1,
-   "status": "steady",
-   "velocity": 0.0,
-   "first_seen": "2026-11-18T23:25:39+00:00",
-   "days_trending": 1,
-   "heat_yesterday": 44.0,
-   "why_hot": "2 source(s): travel, x; X trend GB #21",
-   "sources": [
-    "travel",
-    "x"
-   ],
-   "regions": [
-    "GB"
-   ],
-   "broad_appeal": {
-    "n_sources": 2,
-    "n_regions": 1
-   },
-   "entity": {
-    "qid": "Q2256",
-    "type": "other",
-    "description": "large city in the West Midlands region of England; classed as the 'second city' of the United Kingdom, behind London",
-    "matched_via": "wikidata search 'Birmingham' -> Birmingham",
-    "url": "https://www.wikidata.org/wiki/Q2256"
-   },
-   "paradox_signals": [],
-   "best_channel": null,
-   "channel_fit": {
-    "go-there-instead": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "plan-not-panic": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "chess-blunder-club": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    }
-   },
-   "links": [
-    {
-     "source": "travel",
-     "title": "Birmingham (Alabama)",
-     "url": "https://en.wikivoyage.org/wiki/Birmingham_(Alabama)",
-     "metric": "wikivoyage_top #10, 128 views"
-    },
-    {
-     "source": "x",
-     "title": "Birmingham",
-     "url": "https://x.com/search?q=Birmingham",
-     "metric": "X trend GB #21"
-    }
-   ],
-   "keys": [
-    "birmingham"
    ],
    "related_topics": []
   }
@@ -5962,8 +5957,8 @@
       "hits": 420,
       "url": "https://commons.wikimedia.org/w/index.php?search=New%20Year%20s%20Day%20filetype%3Avideo&ns6=1",
       "examples": [
-       "https://commons.wikimedia.org/wiki/File:Northern_Lights_to_Ring_in_the_New_Year_(CIRA_2025-01-02_-_nolabels).webm",
-       "https://commons.wikimedia.org/wiki/File:Northern_Lights_to_Ring_in_the_New_Year_(CIRA_2025-01-02_-_labels).webm"
+       "https://commons.wikimedia.org/wiki/File:Northern_Lights_to_Ring_in_the_New_Year_(CIRA_2025-01-02_-_labels).webm",
+       "https://commons.wikimedia.org/wiki/File:Northern_Lights_to_Ring_in_the_New_Year_(CIRA_2025-01-02_-_nolabels).webm"
       ],
       "license_hint": "per-file license (mostly CC BY / CC BY-SA / public domain): check the file page and credit as required"
      },
@@ -8139,18 +8134,16 @@
     "heat": 94.0,
     "fit": 90,
     "strong": [
-     "travel",
-     "tourist",
      "airline",
      "visa"
     ],
     "angle_hint": "Travel news in 30s: what China means for your trip, and the smarter place or route to pick instead",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWnN0Qk05S1RHRnFsUlNNRklBby1idXhwTnR2eGJqd2VYVXpoYW5nVnJuelZtU3FFejJseDlVLXdRQWdiWE1BNXEyUVZUN2ptUWJSeGlSTG9kcWJLWVJvbk9CbkoyRDJZYVJnZzY0bjEwQ0pQU1ZnQXB0WE5BUk15MkQwRnc0c1dUNllmWFlqdllrbGdrZ3pzUVN0U1lqRmYxQk03NTJYX3FTX0NOeHZFQTZGaHJseWxlTmc?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc0hMTnJYU0Vsb1FHdVc3WXFkblY3ZTVubjJKMGoxV2hIRmF3VlRSWEJXREt0LWhZQ09zM3FQYnZUcGRleDRidXBuOTBQdG1fZ2FRNDdvNlJaUXVVS3RRMXJhaDY5dXlZNm5DdGcweXNxWFF5TzRUejhFdmY3X19Wdi1uOW8xTzh6TW5mVk5Gd3duclhJazN5Z2RkUTI5R2dDd0pwcG90VnYyX210STJvVTVxSWpXQmd3eWt3WW9tb3FPZ9IB0AFBVV95cUxPbFZFZVZhMkpPazZWVm5zM3JacUpfUjUyN29oMTBNajJHY200eUx2d2VEVTZyZS1Ob0lNdWF5Q1hlME9Lcl9rdGpaaWNvLUp4Nm5tTHpvNzBKd0ZlLVYxOTBSZGZ0ZUlybnY0dFZET3ZMR1lqTDQtS3NGQmZLeGlvMHZnZWROTHA4TUxZRjFzZm15ZEhlSHhPcjZYR1k3YWVWRWI2Ymw0RUVfQ1RQLUlEOVh0OXo1a3Q4ejBqNDIwdE4wQ3pnVjhyR2FCVG5TNFRX?oc=5"
    },
    {
-    "rank": 14,
+    "rank": 15,
     "topic": "New Zealand",
-    "heat": 64.2,
+    "heat": 64.1,
     "fit": 90,
     "strong": [
      "travel",
@@ -8161,9 +8154,9 @@
     "url": "https://www.youtube.com/watch?v=0C_LS2lUWdg"
    },
    {
-    "rank": 41,
+    "rank": 42,
     "topic": "FAA Ground Stop",
-    "heat": 39.7,
+    "heat": 39.8,
     "fit": 98,
     "strong": [
      "airlines",
@@ -8187,7 +8180,7 @@
     "url": "https://en.wikivoyage.org/wiki/Hong_Kong"
    },
    {
-    "rank": 495,
+    "rank": 493,
     "topic": "Rovaniemi",
     "heat": 11.1,
     "fit": 45,
@@ -8209,12 +8202,12 @@
      "outages"
     ],
     "angle_hint": "Skit: the intern pushed one tiny change and caused China",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWnN0Qk05S1RHRnFsUlNNRklBby1idXhwTnR2eGJqd2VYVXpoYW5nVnJuelZtU3FFejJseDlVLXdRQWdiWE1BNXEyUVZUN2ptUWJSeGlSTG9kcWJLWVJvbk9CbkoyRDJZYVJnZzY0bjEwQ0pQU1ZnQXB0WE5BUk15MkQwRnc0c1dUNllmWFlqdllrbGdrZ3pzUVN0U1lqRmYxQk03NTJYX3FTX0NOeHZFQTZGaHJseWxlTmc?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc0hMTnJYU0Vsb1FHdVc3WXFkblY3ZTVubjJKMGoxV2hIRmF3VlRSWEJXREt0LWhZQ09zM3FQYnZUcGRleDRidXBuOTBQdG1fZ2FRNDdvNlJaUXVVS3RRMXJhaDY5dXlZNm5DdGcweXNxWFF5TzRUejhFdmY3X19Wdi1uOW8xTzh6TW5mVk5Gd3duclhJazN5Z2RkUTI5R2dDd0pwcG90VnYyX210STJvVTVxSWpXQmd3eWt3WW9tb3FPZ9IB0AFBVV95cUxPbFZFZVZhMkpPazZWVm5zM3JacUpfUjUyN29oMTBNajJHY200eUx2d2VEVTZyZS1Ob0lNdWF5Q1hlME9Lcl9rdGpaaWNvLUp4Nm5tTHpvNzBKd0ZlLVYxOTBSZGZ0ZUlybnY0dFZET3ZMR1lqTDQtS3NGQmZLeGlvMHZnZWROTHA4TUxZRjFzZm15ZEhlSHhPcjZYR1k3YWVWRWI2Ymw0RUVfQ1RQLUlEOVh0OXo1a3Q4ejBqNDIwdE4wQ3pnVjhyR2FCVG5TNFRX?oc=5"
    },
    {
-    "rank": 9,
+    "rank": 8,
     "topic": "Google",
-    "heat": 80.8,
+    "heat": 80.9,
     "fit": 100,
     "strong": [
      "ai",
@@ -8237,9 +8230,9 @@
     "url": "https://en.wikipedia.org/wiki/Jensen_Huang"
    },
    {
-    "rank": 30,
+    "rank": 28,
     "topic": "Elon Musk",
-    "heat": 45.3,
+    "heat": 48.0,
     "fit": 90,
     "strong": [
      "ai",
@@ -8251,7 +8244,7 @@
    {
     "rank": 87,
     "topic": "App Store Award",
-    "heat": 23.6,
+    "heat": 23.9,
     "fit": 61,
     "strong": [
      "app store"
@@ -8262,18 +8255,18 @@
   ],
   "plan-not-panic": [
    {
-    "rank": 163,
-    "topic": "U.S. Loses Measles Elimination Status After 26 Years Amid Case Surge",
-    "heat": 18.3,
+    "rank": 27,
+    "topic": "U.S. Loses Measles Elimination",
+    "heat": 48.2,
     "fit": 45,
     "strong": [
      "measles"
     ],
-    "angle_hint": "U.S. Loses Measles Elimination Status After 26 Years Amid Case Surge: what to check in your pantry/fridge today and when to actually worry",
-    "url": "https://x.com/i/trending/2123117791280562583"
+    "angle_hint": "U.S. Loses Measles Elimination: what to check in your pantry/fridge today and when to actually worry",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMjNycmpVUl91RzVOSS1tTmxrUVNrUHk1N0JxcW1GdmRqa1F6T2VETGNuZFpWeUZYODlVS1ZXeGp3elpJQk5iUzRzZi05R2RnNVpwYk9xR00yLXZnX1YxNTRxRVRuVEtjUGctZk16M3pVXzRqcUtHaE5oYU9rN1VqTzVhN244OWVjdllYUzhOUjLSAZYBQVVfeXFMTXdCbzBFSGJZRzl6NXFwbjJEWTdzRDB1SFpqOHhtcmYtd2Z4UUZ4SXhoQ3hKVklDblh2THVpb0l5YkFBSHBYNENQUGFXLTN1bHllczVUc2pWeGdMY1FydHhiRHRTel9GS0Q4bU40X2owa1UtVEVUVkFCS0pETDVNYkRXX2JfbWR2RHVSQlB5cjVYT0V2bzd3?oc=5"
    },
    {
-    "rank": 178,
+    "rank": 177,
     "topic": "Fact Check: Mass blackout warning attributed online to Britain's National Grid is fake",
     "heat": 17.9,
     "fit": 45,
@@ -8284,7 +8277,7 @@
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWlRlODhOb1h4YzVOcEZrb0VlWU1jUHI3VEE1VHFNMkU2WkxyRUV2OHlHdHJmUHNOQ3k0cmtrbnYta09FeEpfX0ZXaFR4QVY5SjRVaEtOdVhyLUlWenVTZzZtY2Vic3VRaWZEZzFIX1JXQVc0LWpSWGdGUFhQMzhrTXpfNFB6R2tfdGZYZTlhY2k2Rjl1VVNfVlNrbFJqTWxfeHF3eU1ZOFpJbTgzUmFiQ3pJQlZpa3Z2?oc=5"
    },
    {
-    "rank": 195,
+    "rank": 193,
     "topic": "No evidence that a U.S. blackout is expected Nov. 17",
     "heat": 17.4,
     "fit": 45,
@@ -8295,18 +8288,7 @@
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdWJHM0tpdTU2Nk9rX1VCelBTVFQ5SFFuZ2RXYXNPMXctdlc4cjAyQVBsN1V1M01FMVI5NTlOdVB0ejVqZnRkYm0xelg4YmJlN01DRlZjczYyZks2TEtzOXh2TVltal9WdElDem1qZGphUzZuNG5wX0E2RUQyOGROOVVqb0hJdWYtUkM0NEFkZUJiUFdEUlktdnRn?oc=5"
    },
    {
-    "rank": 230,
-    "topic": "America's measles return leaves infants vulnerable",
-    "heat": 16.5,
-    "fit": 45,
-    "strong": [
-     "measles"
-    ],
-    "angle_hint": "America's measles return leaves infants vulnerable: what to check in your pantry/fridge today and when to actually worry",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5neExMd21uMld4ZEh2Y1hnTnVEZ3V6Mk96OXBfSXlwUlN2SVF3bTJXUHdPZWxtaHZSLWw3alhCTW1RX3VpYlVrb24tMEhLVXUtM0k3VkVDZk13TTZmTnVWSVRuUFJHRE01TTZFSnJJN1ZjTFEx?oc=5"
-   },
-   {
-    "rank": 241,
+    "rank": 238,
     "topic": "L.A. County issues evacuation warnings as storm nears; snow, flooding expected",
     "heat": 16.1,
     "fit": 100,
@@ -8316,11 +8298,22 @@
     ],
     "angle_hint": "Calm 60-second checklist: what L.A. County issues evacuation warnings as storm nears; snow, flooding expected means for your home and the 3 things to do before it hits",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVjdLRXlKbC1xa25oMHVFSkdiTTNOLU5Ua3VyNnVrY1pZWl94NlI1WnJfZUlEN2daeXlOMFM4OWR3M2ZJV0JKMUZsaWdnbGF3OGN2Q3JSU09EM0prQXRXM0Fwc0hNeGN5Sms2ZXIxclFqd2x1Z0JlWFpEVURxZVlYZnpGMk9sME56bDNTQzdUMks4N3lXZER2VTViaGdqODhYU09senExaWNqQWl1VGl4SUEtVzJMdTE4SlBhOVI0T29EN0Fu?oc=5"
+   },
+   {
+    "rank": 243,
+    "topic": "Unvaccinated Pennsylvania resident dies amid historic US measles resurgence",
+    "heat": 16.0,
+    "fit": 45,
+    "strong": [
+     "measles"
+    ],
+    "angle_hint": "Unvaccinated Pennsylvania resident dies amid historic US measles resurgence: what to check in your pantry/fridge today and when to actually worry",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNHBYRnQzSUcybkh6SlVFcnJDRFphZWxuOGE1ZEhvdV9wcnR1VFRTVzlacHlGeWNOZ25wZEV0RWdpemR6REF5Ry1LWWZHUUJldUNqRGJPcFhkOTl4V2g0S0hVdEhIVUFyOUsxMjZCQmN2cUZIRko2aF9xTTMtNnk3NUFNdk9ZYks5RlNDUXAyNm4tdXBpYjF3Y3hnelpETng5MGR6RnhOUVpqa0UwYVFybkZDQi1IZlk30gG-AUFVX3lxTE5sZzRkemljbGt4UHNyazRfUHVOTHgtUmgzaktvcFYtbERfTkx5YXU4SFI2YkhyZDZiY1BZTG8wR21XaXdsSDBVc3NrRDdDTktMZWJWdDhiaGRvcVN3R1A5UjFyZy1pMkpyLUhLamdmVGhDOWYxLXkyYlQwZlRWSjFXUm1IVVZPNk8xY3lLZ0E0c0VYSVJoUURfZ1B6Um5qdXY1aGZLTUJrTC1HODl2T2tQczhPbFltZ3ZOcXFGVVE?oc=5"
    }
   ],
   "silver-paradox": [
    {
-    "rank": 173,
+    "rank": 171,
     "topic": "Online Debate Revives Cold War 'Second World' Term",
     "heat": 18.0,
     "fit": 53,
@@ -8331,7 +8324,7 @@
     "url": "https://x.com/i/trending/2123325672248738039"
    },
    {
-    "rank": 319,
+    "rank": 314,
     "topic": "2,000-year-old tomb of an elite nomad in Mongolia contained a Roman glass cup and Han-dynasty-inspired jade decorations",
     "heat": 14.5,
     "fit": 53,
@@ -8342,7 +8335,19 @@
     "url": "https://www.livescience.com/archaeology/2-000-year-old-tomb-of-an-elite-nomad-in-mongolia-contained-a-roman-glass-cup-and-han-dynasty-inspired-jade-decorations"
    },
    {
-    "rank": 362,
+    "rank": 320,
+    "topic": "Vincent van Gogh painting auctioned for record $190.4m after dispute over Nazi era sale",
+    "heat": 14.3,
+    "fit": 90,
+    "strong": [
+     "van gogh",
+     "painting"
+    ],
+    "angle_hint": "Art-history documentary: the real story behind Vincent van Gogh painting auctioned for record $190.4m after dispute over Nazi era sale (the detail almost everyone misses)",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd3VfR2J4b3psWUEyZUJLTk1vTndMQnI2cXJrSVh0Z3R6NXIwc2pZcHI2dUZjNTE2aGI1MUFYbHRZMXBJbURWYmtMdmpLVmdGS3dMWVNlVWxfVU9wRElxakJ2eWFpYTNEcmFPUTRPZ2c4NWRxc2YxMEF1SGRaR1U3YUd2RENXWTVfVEJiRWlCRUtqTFhIamM1dFVoMmJTX1lzdl9GcW1hUi1PUQ?oc=5"
+   },
+   {
+    "rank": 356,
     "topic": "Eagles hunt baboons weighing up to 60 pounds, raising questions about whether birds of prey hunted ancient humans",
     "heat": 13.7,
     "fit": 45,
@@ -8353,19 +8358,7 @@
     "url": "https://www.livescience.com/archaeology/human-evolution/eagles-hunt-baboons-weighing-up-to-60-pounds-raising-questions-about-whether-birds-of-prey-hunted-ancient-humans"
    },
    {
-    "rank": 426,
-    "topic": "Vincent van Gogh painting auctioned for record $190.4m after dispute over Nazi era sale",
-    "heat": 12.3,
-    "fit": 90,
-    "strong": [
-     "van gogh",
-     "painting"
-    ],
-    "angle_hint": "Art-history documentary: the real story behind Vincent van Gogh painting auctioned for record $190.4m after dispute over Nazi era sale (the detail almost everyone misses)",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd3VfR2J4b3psWUEyZUJLTk1vTndMQnI2cXJrSVh0Z3R6NXIwc2pZcHI2dUZjNTE2aGI1MUFYbHRZMXBJbURWYmtMdmpLVmdGS3dMWVNlVWxfVU9wRElxakJ2eWFpYTNEcmFPUTRPZ2c4NWRxc2YxMEF1SGRaR1U3YUd2RENXWTVfVEJiRWlCRUtqTFhIamM1dFVoMmJTX1lzdl9GcW1hUi1PUQ?oc=5"
-   },
-   {
-    "rank": 548,
+    "rank": 545,
     "topic": "Negro Leagues Baseball Museum in Kansas City, Missouri",
     "heat": 10.5,
     "fit": 45,
@@ -8394,7 +8387,7 @@
     "url": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-7"
    },
    {
-    "rank": 479,
+    "rank": 476,
     "topic": "Magnus Carlsen",
     "heat": 11.2,
     "fit": 90,
@@ -8410,7 +8403,7 @@
     "url": "https://en.wikipedia.org/wiki/Magnus_Carlsen"
    },
    {
-    "rank": 485,
+    "rank": 482,
     "topic": "Chess",
     "heat": 11.2,
     "fit": 45,
@@ -8421,7 +8414,7 @@
     "url": "https://en.wikipedia.org/wiki/Chess"
    },
    {
-    "rank": 490,
+    "rank": 487,
     "topic": "World Chess Championship",
     "heat": 11.1,
     "fit": 90,
@@ -8436,7 +8429,7 @@
     "url": "https://en.wikipedia.org/wiki/World_Chess_Championship_2026"
    },
    {
-    "rank": 491,
+    "rank": 488,
     "topic": "Javokhir Sindarov",
     "heat": 11.1,
     "fit": 90,
@@ -8822,12 +8815,12 @@
     "metric": "gnews_ajedrez_es #4, El Confidencial"
    },
    {
-    "title": "Educação municipal abre inscrições para o 5º Torneio de Xadrez em Campina Grande",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTFZhNTd4c3BuR3RvSkdiYWxvZGpPTHlWSmctVkh2TjB1RFAxR2hmZUxJcXBydUpzeFZqN3dFbjhhN0lTcldtdnQxaUxnRjdRX3ZDZzF1bC1wMnQyTUwtZW5zWkpVOXdmWkVRSi1BQm1jcTFNbmNtNGl3NkJIZVYyUnVaOThOcU92MFRTdUlLNllhSE1NMHdTOWxrbHBIRVFrd05BZ0FfNlBmbW5lWTYyNURCdw?oc=5",
+    "title": "Resultados Total Chess: Fabiano Caruana perde Armageddon dramático e Giri e Firouzja avançam à final",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeWlzWHI0dHhqYlFsT3gzTmFaVWlVLTdhWEUxVDZVTV8yM0FFN1BNNWlNalNkc2VEekVEMmhHcDhOT3NwY2pqOG8wVU1RLUsya2dYX3l0RjZULURBUm9lY3dYdV9uM3RaSENQajREQ1E2blAxc25BZmdwOEhSU0hOcVBpWl9xa242SHd6RkluWkZDVng2QkRlc1hJTVZtTU8wQ1QwQVZkRGIwZHJQMmhwSWEyYVYyamR0YzFOZHpaUmk2SWtLcUQtUGhB?oc=5",
     "feed": "gnews_xadrez_pt",
     "lang": "pt",
     "published": null,
-    "metric": "gnews_xadrez_pt #4, Prefeitura de Campina Grande"
+    "metric": "gnews_xadrez_pt #4, DAZN"
    },
    {
     "title": "Checkers To Become Charlotte Chess For What If? Night on Nov. 27",
@@ -8846,12 +8839,12 @@
     "metric": "wiki_chess_watch #13, 37 views, 1.3x vs prior-days avg"
    },
    {
-    "title": "Hans Niemann asegura que Magnus Carlsen recibe un trato de favor tras su polémica en Total Chess",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYTFWbTd3ZEd4S1pxQ0F0TmNqVkdVZ0gxb0NkVTM0T3RkckpsYnpma0Q4RnBuUTB2ZU9vbzhNOUNlRS1QeG5UaGhZOUoyRlluRHJxRE1QZFJEZ1Fnc2hfVnJYV2hGWFBTWDl1WFd1Ni1yTXBlc18xcEh6M0VZMnhLWjFMM2ctWlZhZm91eEpEbnA3c2x2ZldybFB1V0lrcGZzVHgycUNoZGZrU09BczhsNzJvd1FFeFdZdUctVV9UQXZLUkxVMTVWLU93?oc=5",
+    "title": "BEM VINDO A TODOS",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03UjM0QzRaR1hDWG52aFpTMmdTaDUtQVdNSWItNjV0LVE1TFpxNjJ2WXRHNWdDN1Y0RE5Nc2pYM216cTRFaEpBNnBhalR2Z0MwVExNRlNaUzZMX1N3Rm1mTFdZVlNWSDZLaE1PQXIydDBoeFBJWm9fd3N4Qmxzdw?oc=5",
     "feed": "gnews_ajedrez_es",
     "lang": "es",
     "published": null,
-    "metric": "gnews_ajedrez_es #5, DAZN"
+    "metric": "gnews_ajedrez_es #5, Chess.com"
    }
   ]
  },
@@ -9448,7 +9441,7 @@
    "feed": "spaceflight_news",
    "lang": "en",
    "published": "2026-11-18T22:02:00+00:00",
-   "metric": "spaceflight_news #7, 13h old, SpaceNews",
+   "metric": "spaceflight_news #7, 14h old, SpaceNews",
    "group": "space"
   },
   {
@@ -9637,7 +9630,7 @@
    "feed": "spaceflight_news",
    "lang": "en",
    "published": "2026-11-18T16:58:32+00:00",
-   "metric": "spaceflight_news #18, 18h old, Arstechnica",
+   "metric": "spaceflight_news #18, 19h old, Arstechnica",
    "group": "space"
   },
   {
@@ -9655,7 +9648,7 @@
    "feed": "spaceflight_news",
    "lang": "en",
    "published": "2026-11-18T16:56:05+00:00",
-   "metric": "spaceflight_news #19, 18h old, SpaceNews",
+   "metric": "spaceflight_news #19, 19h old, SpaceNews",
    "group": "space"
   },
   {
@@ -9700,7 +9693,7 @@
    "feed": "spaceflight_news",
    "lang": "en",
    "published": "2026-11-18T05:01:00+00:00",
-   "metric": "spaceflight_news #23, 30h old, NASA",
+   "metric": "spaceflight_news #23, 31h old, NASA",
    "group": "space"
   },
   {
