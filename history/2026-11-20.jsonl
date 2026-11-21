@@ -398,3 +398,83 @@
 {"t": "2026-11-21T02:11:18+00:00", "keys": ["al nassr"], "topic": "Al Nassr", "heat": 27.5, "sources": ["x"]}
 {"t": "2026-11-21T02:11:18+00:00", "keys": ["hong kong"], "topic": "Hong Kong", "heat": 27.3, "sources": ["travel", "x"]}
 {"t": "2026-11-21T02:11:18+00:00", "keys": ["olise"], "topic": "Olise", "heat": 27.3, "sources": ["x"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["anthropic"], "topic": "Anthropic", "heat": 100.0, "sources": ["googlenews", "hackernews", "oddities", "wikipedia", "x"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["lucia", "lucia caminos"], "topic": "Lucia Caminos", "heat": 100.0, "sources": ["googlenews", "wikipedia", "x", "youtube"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["grand theft auto 6", "gta 6"], "topic": "Grand Theft Auto VI", "heat": 94.3, "sources": ["googlenews", "wikipedia", "x", "youtube"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["china"], "topic": "China", "heat": 94.0, "sources": ["chess", "factcheck", "googlenews", "oddities", "travel", "x", "youtube"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["putin", "vladimir putin"], "topic": "Vladimir Putin", "heat": 94.0, "sources": ["chess", "googlenews", "wikipedia", "x"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["brasil"], "topic": "Brasil", "heat": 94.0, "sources": ["chess", "factcheck", "googlenews", "wikipedia"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["ukraine"], "topic": "Ukraine", "heat": 85.0, "sources": ["factcheck", "googlenews", "space", "travel", "x"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["black friday"], "topic": "Black Friday", "heat": 85.0, "sources": ["googlenews", "oddities", "x", "youtube"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["thanksgiving"], "topic": "Thanksgiving", "heat": 85.0, "sources": ["chess", "googlenews", "travel", "x"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["rockstar", "rockstar games"], "topic": "Rockstar Games", "heat": 79.1, "sources": ["googlenews", "wikipedia", "x"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["consciencia negra", "dia nacional de zumbi e da consciencia negra"], "topic": "Dia Nacional de Zumbi e da Consciência Negra", "heat": 65.0, "sources": ["chess", "googlenews", "wikipedia"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["vietnam"], "topic": "Vietnam", "heat": 64.1, "sources": ["oddities", "travel", "x"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["checks"], "topic": "Checks", "heat": 63.9, "sources": ["factcheck", "travel", "x"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["jensen huang"], "topic": "Jensen Huang", "heat": 62.4, "sources": ["googlenews", "wikipedia", "youtube"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["brexit"], "topic": "Brexit", "heat": 62.2, "sources": ["googlenews", "x"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["light day from earth"], "topic": "Light-Day From Earth", "heat": 60.6, "sources": ["googlenews", "oddities", "space"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["telcel"], "topic": "Telcel", "heat": 60.4, "sources": ["googlenews", "x"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["fiona", "fiona hippopotamus"], "topic": "Fiona (hippopotamus)", "heat": 60.3, "sources": ["googlenews", "wikipedia"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["bayern"], "topic": "Bayern", "heat": 59.6, "sources": ["googlenews", "x"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["riemann", "riemann hypothesis"], "topic": "Riemann", "heat": 58.5, "sources": ["hackernews", "x"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["rikers"], "topic": "Rikers", "heat": 58.4, "sources": ["googlenews", "x"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["grand theft auto", "grand theft auto 4", "grand theft auto v", "gta 4", "gta v"], "topic": "Grand Theft Auto", "heat": 58.0, "sources": ["googlenews", "wikipedia"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["los juegos del hambre", "los juegos del hambre amanecer en la cosecha"], "topic": "Los juegos del hambre: amanecer en la cosecha", "heat": 52.4, "sources": ["googletrends", "wikipedia"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["dodgers"], "topic": "Dodgers", "heat": 51.9, "sources": ["googlenews", "x"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["hunger games", "the hunger games sunrise on the reaping", "thgsr"], "topic": "The Hunger Games: Sunrise on the Reaping", "heat": 50.4, "sources": ["googlenews", "wikipedia"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["royce lewis"], "topic": "Royce Lewis", "heat": 48.8, "sources": ["googlenews", "x"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["robert pattinson"], "topic": "Robert Pattinson", "heat": 48.3, "sources": ["googlenews", "wikipedia"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["colts"], "topic": "Colts", "heat": 48.2, "sources": ["googlenews", "x"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["revolucion mexicana"], "topic": "Revolución mexicana", "heat": 47.9, "sources": ["wikipedia", "x"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["playa del carmen"], "topic": "Playa del Carmen", "heat": 47.7, "sources": ["googlenews", "x"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["achilles"], "topic": "Achilles", "heat": 45.6, "sources": ["googlenews", "x"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["puka"], "topic": "Puka", "heat": 45.6, "sources": ["googlenews", "x"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["dia internacional", "dia internacional del hombre"], "topic": "Día Internacional del Hombre", "heat": 45.3, "sources": ["chess", "wikipedia"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["vadhir derbez"], "topic": "Vadhir Derbez", "heat": 44.0, "sources": ["googlenews", "x"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["francisco gerardo"], "topic": "Francisco Gerardo", "heat": 43.9, "sources": ["googlenews", "x"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["nasdaq"], "topic": "Nasdaq", "heat": 43.9, "sources": ["googlenews", "x"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["la nueva familia michoacana"], "topic": "La Nueva Familia Michoacana", "heat": 43.8, "sources": ["googlenews", "x"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["south korea"], "topic": "South Korea", "heat": 43.2, "sources": ["factcheck", "googlenews", "x"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["playing gta"], "topic": "PLAYING GTA", "heat": 42.8, "sources": ["googlenews", "youtube"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["s p 500"], "topic": "S&P 500", "heat": 42.5, "sources": ["googlenews", "x"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["inkling 2 mini"], "topic": "Inkling 2 Mini", "heat": 41.9, "sources": ["hackernews", "x"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["la na minha terra"], "topic": "Lá na Minha Terra", "heat": 40.4, "sources": ["googlenews", "wikipedia"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["faa ground stop"], "topic": "FAA Ground Stop", "heat": 39.1, "sources": ["factcheck", "travel"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["taylor swift"], "topic": "Taylor Swift", "heat": 36.6, "sources": ["googlenews", "youtube"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["hakeem jeffries"], "topic": "Hakeem Jeffries", "heat": 36.5, "sources": ["factcheck", "wikipedia"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["fall"], "topic": "Fall", "heat": 36.4, "sources": ["googletrends", "travel"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["gtavi"], "topic": "#GTAVI", "heat": 36.4, "sources": ["x", "youtube"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["chess match"], "topic": "Chess Match", "heat": 36.3, "sources": ["chess", "googlenews"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["stephen wilson jr"], "topic": "Stephen Wilson Jr.", "heat": 34.9, "sources": ["wikipedia"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["ella langley"], "topic": "Ella Langley", "heat": 34.8, "sources": ["wikipedia"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["u s army"], "topic": "U.S. Army", "heat": 34.6, "sources": ["defense", "googlenews"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["ken mcelroy"], "topic": "Ken McElroy", "heat": 34.6, "sources": ["wikipedia"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["dia mundial", "dia mundial de la infancia"], "topic": "Día Mundial", "heat": 34.4, "sources": ["chess", "x"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["missile strike"], "topic": "Missile Strike", "heat": 34.2, "sources": ["factcheck", "x"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["dario amodei"], "topic": "Dario Amodei", "heat": 34.1, "sources": ["wikipedia"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["larry poindexter"], "topic": "Larry Poindexter", "heat": 33.9, "sources": ["wikipedia"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["international men s day"], "topic": "International Men's Day", "heat": 33.6, "sources": ["wikipedia"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["john madden"], "topic": "John Madden", "heat": 32.6, "sources": ["wikipedia"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["leigh nash"], "topic": "Leigh Nash", "heat": 32.5, "sources": ["wikipedia"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["daniela amodei"], "topic": "Daniela Amodei", "heat": 32.1, "sources": ["wikipedia"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["lainey wilson"], "topic": "Lainey Wilson", "heat": 32.0, "sources": ["wikipedia"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["susan smith"], "topic": "Susan Smith", "heat": 31.7, "sources": ["wikipedia"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["pedro sanchez"], "topic": "Pedro Sánchez", "heat": 31.6, "sources": ["chess", "wikipedia"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["the body", "the body tv series", "tv series"], "topic": "The Body (TV series)", "heat": 31.6, "sources": ["oddities", "wikipedia"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["maria casado paredes"], "topic": "María Casado Paredes", "heat": 31.5, "sources": ["wikipedia"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["blue origin"], "topic": "Blue Origin", "heat": 31.2, "sources": ["space", "x"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["middle east"], "topic": "Middle East", "heat": 30.9, "sources": ["defense", "travel"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["iron gate", "iron gate antioch"], "topic": "Iron Gate (Antioch)", "heat": 30.7, "sources": ["wikipedia"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["brooks dunn"], "topic": "Brooks & Dunn", "heat": 30.4, "sources": ["wikipedia"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["kane"], "topic": "Kane", "heat": 29.1, "sources": ["x"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["devlin hodges"], "topic": "Devlin Hodges", "heat": 29.0, "sources": ["wikipedia"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["daniel jones"], "topic": "Daniel Jones", "heat": 28.9, "sources": ["x"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["air force"], "topic": "Air Force", "heat": 28.8, "sources": ["defense", "x"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["stellar merger"], "topic": "Stellar Merger", "heat": 28.6, "sources": ["oddities", "space"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["lean"], "topic": "Lean", "heat": 28.6, "sources": ["x"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["tim mcgraw"], "topic": "Tim McGraw", "heat": 28.2, "sources": ["wikipedia"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["the red clay strays", "trcs"], "topic": "The Red Clay Strays", "heat": 28.1, "sources": ["wikipedia"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["pentagon releases eighth batch"], "topic": "Pentagon Releases Eighth Batch", "heat": 27.9, "sources": ["defense", "x"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["al nassr"], "topic": "Al Nassr", "heat": 27.9, "sources": ["x"]}
+{"t": "2026-11-21T02:19:53+00:00", "keys": ["olise"], "topic": "Olise", "heat": 27.7, "sources": ["x"]}

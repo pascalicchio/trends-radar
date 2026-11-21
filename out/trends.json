@@ -1,7 +1,7 @@
 {
  "schema": "trends-radar/v1.1",
- "generated_at": "2026-11-21T02:11:18+00:00",
- "generated_at_et": "2026-11-20 09:11 PM ET",
+ "generated_at": "2026-11-21T02:19:53+00:00",
+ "generated_at_et": "2026-11-20 09:19 PM ET",
  "urls": {
   "dashboard": "https://trends-radar.pascalicchio.workers.dev/",
   "json": "https://trends-radar.pascalicchio.workers.dev/trends.json",
@@ -22,7 +22,7 @@
   },
   "googlenews": {
    "status": "ok",
-   "items": 251,
+   "items": 245,
    "note": ""
   },
   "googletrends": {
@@ -37,7 +37,7 @@
   },
   "x": {
    "status": "ok",
-   "items": 319,
+   "items": 353,
    "note": "snapshot captured 2026-11-20T23:25:12+00:00 (3h ago)"
   },
   "youtube": {
@@ -162,7 +162,7 @@
   },
   "feed:gnews_visa": {
    "status": "ok",
-   "items": 36,
+   "items": 37,
    "note": ""
   },
   "feed:gnews_travel_news": {
@@ -207,7 +207,7 @@
   },
   "feed:gnews_uap": {
    "status": "ok",
-   "items": 33,
+   "items": 34,
    "note": ""
   },
   "feed:gnews_declassified": {
@@ -232,8 +232,8 @@
   },
   "wikidata_entity_typing": {
    "status": "ok",
-   "items": 134,
-   "note": "163 Wikimedia API calls, 0 failed"
+   "items": 154,
+   "note": "183 Wikimedia API calls, 0 failed"
   }
  },
  "coming_up_sources": {
@@ -316,6 +316,14 @@
   },
   {
    "rank": 2,
+   "topic": "Lucia Caminos",
+   "heat": 100.0,
+   "best_channel": null,
+   "angle_hint": null,
+   "footage_confidence": "high"
+  },
+  {
+   "rank": 3,
    "topic": "Grand Theft Auto VI",
    "heat": 94.3,
    "best_channel": null,
@@ -323,7 +331,7 @@
    "footage_confidence": "medium"
   },
   {
-   "rank": 3,
+   "rank": 4,
    "topic": "China",
    "heat": 94.0,
    "best_channel": "intern-broke-it",
@@ -331,16 +339,8 @@
    "footage_confidence": "high"
   },
   {
-   "rank": 4,
-   "topic": "Vladimir Putin",
-   "heat": 94.0,
-   "best_channel": null,
-   "angle_hint": null,
-   "footage_confidence": "high"
-  },
-  {
    "rank": 5,
-   "topic": "Brasil",
+   "topic": "Vladimir Putin",
    "heat": 94.0,
    "best_channel": null,
    "angle_hint": null,
@@ -367,11 +367,12 @@
    ],
    "regions": [
     "BR",
-    "GB"
+    "GB",
+    "MX"
    ],
    "broad_appeal": {
     "n_sources": 5,
-    "n_regions": 2
+    "n_regions": 3
    },
    "entity": {
     "qid": "Q116758847",
@@ -381,8 +382,7 @@
     "url": "https://www.wikidata.org/wiki/Q116758847"
    },
    "paradox_signals": [
-    "how",
-    "lost"
+    "how"
    ],
    "best_channel": "intern-broke-it",
    "channel_fit": {
@@ -419,9 +419,7 @@
     "silver-paradox": {
      "score": 0,
      "strong": [],
-     "weak": [
-      "lost"
-     ],
+     "weak": [],
      "angle_hint": null
     },
     "chess-blunder-club": {
@@ -468,12 +466,6 @@
      "metric": "gnews_es #15, CNN en Español"
     },
     {
-     "source": "googlenews",
-     "title": "Tombo das ações da Anthropic após estreia vira alerta para mercado de IA",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOd0NxS3pMenJydTdVdjY2ckpOekRCa0RCYkUyRmc5ODdwa3ozM2tEdTdWcE80U3NNV2dSTmJrTFJOeVBUZGo2cFZObGVsQ1dxd2lZVURaYU5MdmF5TC1VbTN1emRQWGhQTWUydUZyNjFmRWtZdmZoYWlHN2Q2d3NCV0VNbHZLaVBzTWJaNHBYUGhMYmhHblVWZEZYZ2xNakNmcEJiYUFjT2x2YVhndS1yT3FSU3FicWV6aUxRZkhsM2tPQUk?oc=5",
-     "metric": "gnews_pt #17, CNN Brasil"
-    },
-    {
      "source": "wikipedia",
      "title": "Anthropic",
      "url": "https://en.wikipedia.org/wiki/Anthropic",
@@ -481,15 +473,21 @@
     },
     {
      "source": "googlenews",
-     "title": "Stock Market News, Nov. 20, 2026: Tech Rout Deepens as Nvidia, Anthropic Slide",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObDJaNXRFdFZIWkwxWDRYUVg1U0N3MmpzMHN5aFlMd0ZJTGdBN3lhamZQSGpqbUY2UERnTGhKeVhzYUtsY0Q4V280cDR3WU9qNGtTVm0tdFIzZ0xXTFFxM0NFUjNhSkJLeHhfMG96Wi0xYVBxT2wzQVJPNXdCUEx3MF91QU5ZT2s?oc=5",
-     "metric": "Business #1, 5 outlets in cluster"
-    },
-    {
-     "source": "googlenews",
      "title": "Apple Working on Own AI Agent to Rival OpenAI and Anthropic",
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQzRPX3FrZlMybjdvY2FJVWhVOHU5M2lTTGNPazZYUW0zVlA3ZkVRcWxERk9XM2FvXzgzVDVUaTYwTzVzOXg0TGQtN25fOE9aeTRtUXhqTGE2Q01zQ21iTUg1dmFTNGZQRV9hTDVBV3BjWW4tUzYxXzBVTzA1UzkyOEtySVhfbWZlbmRXSFd1bVZLZElzSThUMmlQVnAyOHJIWUs0YTBNVTBIM29HV2ZieUtzQ1d0SDVIVTA2VTRTYk4?oc=5",
      "metric": "Technology #10, 5 outlets in cluster"
+    },
+    {
+     "source": "hackernews",
+     "title": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
+     "url": "https://news.ycombinator.com/item?id=50582280",
+     "metric": "43 pts, 3 comments, 5h old"
+    },
+    {
+     "source": "googlenews",
+     "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvWXdRRmxWOFNxR2NhcHRNVlFLaXJGVGtlY1dQcWs3U1M1dHNKVGxLbEJ5RGRvT0Q4WjB2c2FjeldhcVlWMGNqYTNJLXFXRXU5bVB4NTRlZUVlNnc?oc=5",
+     "metric": "Top #18, 5 outlets in cluster"
     }
    ],
    "keys": [
@@ -530,9 +528,12 @@
      },
      {
       "source": "Library of Congress (film & video)",
-      "hits": 0,
+      "hits": 14,
       "url": "https://www.loc.gov/film-and-videos/?q=Anthropic",
-      "examples": [],
+      "examples": [
+       "http://www.loc.gov/item/video-10754/",
+       "http://www.loc.gov/item/video-13110/"
+      ],
       "license_hint": "varies: many items 'no known restrictions', others rights-restricted; check each item's Rights & Access"
      }
     ],
@@ -548,6 +549,165 @@
   },
   {
    "rank": 2,
+   "topic": "Lucia Caminos",
+   "heat": 100.0,
+   "status": "rising",
+   "velocity": 1.0,
+   "first_seen": "2026-11-18T23:25:39+00:00",
+   "days_trending": 3,
+   "heat_yesterday": 54.1,
+   "why_hot": "4 source(s): googlenews, wikipedia, x, youtube; Wikipedia views 16.2x vs prior 4-day avg; trending in 3 regions (BR, GB, Worldwide); 65,359 views, 16.2x vs prior 4-day avg; X trend Worldwide #40, 365,792 posts; gnews_pt #20, Game Overdrive",
+   "sources": [
+    "googlenews",
+    "wikipedia",
+    "x",
+    "youtube"
+   ],
+   "regions": [
+    "BR",
+    "GB",
+    "Worldwide"
+   ],
+   "broad_appeal": {
+    "n_sources": 4,
+    "n_regions": 3
+   },
+   "entity": {
+    "qid": "Q119133151",
+    "type": "other",
+    "description": "Grand Theft Auto VI protagonist",
+    "matched_via": "wikipedia article",
+    "url": "https://www.wikidata.org/wiki/Q119133151"
+   },
+   "paradox_signals": [],
+   "best_channel": null,
+   "channel_fit": {
+    "go-there-instead": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    }
+   },
+   "links": [
+    {
+     "source": "x",
+     "title": "Lucia",
+     "url": "https://x.com/search?q=Lucia",
+     "metric": "X trend GB #9, 365,792 posts"
+    },
+    {
+     "source": "x",
+     "title": "Lucia",
+     "url": "https://x.com/search?q=Lucia",
+     "metric": "X trend Worldwide #40, 365,792 posts"
+    },
+    {
+     "source": "googlenews",
+     "title": "Todos os finais de GTA 6 explicados: o que acontece com Jason e Lucia",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qV3R3NldtSWdaZllpckJpYlBrbTRJVXNjdndkakZQOEdJTjRQU3JvODVsNW9nc295aUdZTkxQaDRmNmROVEVnNDE1bWNzNHo5em5MM3VieW5GWUpKbXo5VGxuaHozMFJGaXVR?oc=5",
+     "metric": "gnews_pt #20, Game Overdrive"
+    },
+    {
+     "source": "wikipedia",
+     "title": "Lucia Caminos",
+     "url": "https://en.wikipedia.org/wiki/Lucia_Caminos",
+     "metric": "65,359 views, 16.2x vs prior 4-day avg"
+    },
+    {
+     "source": "youtube",
+     "title": "GTA 6 Walkthrough Gameplay Part 3 - LUCIA CAMINOS (GRAND THEFT AUTO 6)",
+     "url": "https://www.youtube.com/watch?v=mATQ5maJ234",
+     "metric": "YouTube most popular US/overall #40: 501,386 views, 11h old, theRadBrad"
+    }
+   ],
+   "keys": [
+    "lucia",
+    "lucia caminos"
+   ],
+   "related_topics": [
+    "Grand Theft Auto VI",
+    "Grand Theft Auto"
+   ],
+   "footage": {
+    "query": "Lucia Caminos",
+    "checked": [
+     {
+      "source": "Wikimedia Commons (video)",
+      "hits": 119,
+      "url": "https://commons.wikimedia.org/w/index.php?search=Lucia%20Caminos%20filetype%3Avideo&ns6=1",
+      "examples": [
+       "https://commons.wikimedia.org/wiki/File:St-lucia-Canaries.ogv",
+       "https://commons.wikimedia.org/wiki/File:20200317_-_Saint_Lucia_-_Prime_Minister's_Address_on_Coronavirus.webm"
+      ],
+      "license_hint": "per-file license (mostly CC BY / CC BY-SA / public domain): check the file page and credit as required"
+     },
+     {
+      "source": "Internet Archive (movies)",
+      "hits": 1,
+      "url": "https://archive.org/search?query=title%3A%28Lucia%20Caminos%29&and[]=mediatype%3A%22movies%22",
+      "examples": [
+       "https://archive.org/details/youtube-q1S0tGpNQUY"
+      ],
+      "license_hint": "mixed: many public domain or CC, but uploads can be copyrighted; check each item's license/rights field"
+     },
+     {
+      "source": "NASA Image & Video Library (video)",
+      "hits": 0,
+      "url": "https://images.nasa.gov/search?q=Lucia%20Caminos&page=1&media=video",
+      "examples": [],
+      "license_hint": "generally not copyrighted (US gov); no NASA endorsement implied; third-party content and logos excepted"
+     },
+     {
+      "source": "Library of Congress (film & video)",
+      "hits": 0,
+      "url": "https://www.loc.gov/film-and-videos/?q=Lucia%20Caminos",
+      "examples": [],
+      "license_hint": "varies: many items 'no known restrictions', others rights-restricted; check each item's Rights & Access"
+     }
+    ],
+    "to_verify": [
+     "DVIDS (US military public-domain video): https://www.dvidshub.net/search/?q=Lucia%20Caminos&filter%5Btype%5D=video (API needs a key; not auto-checked)",
+     "National Archives (NARA) catalog: https://catalog.archives.gov/search?q=Lucia%20Caminos&typeOfMaterials=Moving%20Images (API needs a key; not auto-checked)",
+     "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
+     "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
+    ],
+    "confidence": "high",
+    "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
+   }
+  },
+  {
+   "rank": 3,
    "topic": "Grand Theft Auto VI",
    "heat": 94.3,
    "status": "steady",
@@ -555,7 +715,7 @@
    "first_seen": "2026-11-18T07:18:51+00:00",
    "days_trending": 3,
    "heat_yesterday": 100.0,
-   "why_hot": "4 source(s): googlenews, wikipedia, x, youtube; Wikipedia views 3.5x vs prior 4-day avg; Wikipedia views 3.5x vs prior 4-day avg; 750,227 views, 3.5x vs prior 4-day avg; X trend GB #5, 1,344,195 posts; Technology #1, 5 outlets in cluster",
+   "why_hot": "4 source(s): googlenews, wikipedia, x, youtube; Wikipedia views 3.5x vs prior 4-day avg; Wikipedia views 3.5x vs prior 4-day avg; 750,227 views, 3.5x vs prior 4-day avg; X trend GB #5, 1,344,195 posts; Technology #4, 5 outlets in cluster",
    "sources": [
     "googlenews",
     "wikipedia",
@@ -635,19 +795,7 @@
      "source": "googlenews",
      "title": "Grand Theft Auto VI Made $3.79 Billion in a Single Day",
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQXNYd3RqZTAwMjhVQ1VGQ2c1ZWpvdHktSlQza05md3N2VGVXSklEQ0xnMndaeEE3MVctMm1ocEotdG9NbEYyZG9YcVJBWW5ONzRnVjNDaXdqaDhianl6OVNVNEFWMWdwQWM5dGlDRlhpci1wY0pLWklFRjFGMFg4VzVlMG0?oc=5",
-     "metric": "Technology #1, 5 outlets in cluster"
-    },
-    {
-     "source": "youtube",
-     "title": "GTA 6 Walkthrough Gameplay Part 3 - LUCIA CAMINOS (GRAND THEFT AUTO 6)",
-     "url": "https://www.youtube.com/watch?v=mATQ5maJ234",
-     "metric": "YouTube most popular US/overall #40: 496,707 views, 11h old, theRadBrad"
-    },
-    {
-     "source": "googlenews",
-     "title": "Every Song Across All 24 Radio Stations in Grand Theft Auto VI",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFSFpXVUF2STZjYTZqb3BPMlJaQXdSTDJadU5EVVVSLVVCTTNndjExVnlzUHBlaDBkcG1mOWZYbUNiT0dFbUtKdmtJaldVUzRQZEJrdmlWbmNrMVZqemFJTmVSUk9XY3pPMmhYYzh3cFN5dDUwSUphS2Jn?oc=5",
-     "metric": "Entertainment #10, 5 outlets in cluster"
+     "metric": "Technology #4, 5 outlets in cluster"
     },
     {
      "source": "wikipedia",
@@ -659,13 +807,25 @@
      "source": "youtube",
      "title": "ABSOLUTE CINEMA | Grand Theft Auto 6 - Part 3",
      "url": "https://www.youtube.com/watch?v=hI4k9ewBEFA",
-     "metric": "YouTube most popular US/overall #42: 324,764 views, 9h old, jacksepticeye"
+     "metric": "YouTube most popular US/overall #42: 327,742 views, 9h old, jacksepticeye"
     },
     {
      "source": "googlenews",
      "title": "Basically All of Broadway Is in Grand Theft Auto VI",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX1hPM2Y2UEV4eTFRd0gzcnltRHRIQ2FMaV85YWJMa29QanQ3cVZtQ2tBak9Yc2JVRkZPNWlSck5aNUMxczZRLTRITXhJVEQyTmd0UU1LYWpETDJuV1VrRUE0VmhNZTBCVVhMa1N2SGdSYllBajFBQnBHcnlzSGgyalV4eDVET2FERHgwVXpsY1d3aEtjdlIyS3locXRtdW41SHlN?oc=5",
-     "metric": "Entertainment #14, 5 outlets in cluster"
+     "metric": "Entertainment #13, 5 outlets in cluster"
+    },
+    {
+     "source": "wikipedia",
+     "title": "Grand Theft Auto VI",
+     "url": "https://pt.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+     "metric": "wiki_pt #1, 10,438 views, 3.0x vs prior-days avg"
+    },
+    {
+     "source": "youtube",
+     "title": "GTA 6 (Grand Theft Auto 6) - Official Global Launch Trailer",
+     "url": "https://www.youtube.com/watch?v=3FbHbWWNH-c",
+     "metric": "YouTube most popular US/overall #8: 716,119 views, 36h old, IGN"
     }
    ],
    "keys": [
@@ -673,7 +833,6 @@
     "gta 6"
    ],
    "related_topics": [
-    "Lucia Caminos",
     "Grand Theft Auto"
    ],
    "footage": {
@@ -722,7 +881,7 @@
    }
   },
   {
-   "rank": 3,
+   "rank": 4,
    "topic": "China",
    "heat": 94.0,
    "status": "steady",
@@ -730,7 +889,7 @@
    "first_seen": "2026-11-18T11:20:12+00:00",
    "days_trending": 3,
    "heat_yesterday": 94.0,
-   "why_hot": "7 source(s): chess, factcheck, googlenews, oddities, travel, x, youtube; trending in 2 regions (GB, MX); X trend GB #50, 386,358 posts; gnews_es #8, EL PAÍS; YouTube most popular US/science-tech #3: 4,455,068 views, 43h old, CarterPCs",
+   "why_hot": "7 source(s): chess, factcheck, googlenews, oddities, travel, x, youtube; trending in 2 regions (GB, MX); X trend GB #50, 386,358 posts; gnews_es #11, La Jornada; YouTube most popular US/science-tech #3: 4,457,137 views, 43h old, CarterPCs",
    "sources": [
     "chess",
     "factcheck",
@@ -819,12 +978,6 @@
     },
     {
      "source": "googlenews",
-     "title": "Una intensa semana en China consolida al México de Sheinbaum en la escena internacional",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOVBRNXNpdmE4VnpQd0JzMUk5VVY3VjBacWhaX0ExTEF1Szd2Ni0tNzIyV2MzWlVmLWRXUTNRcFdJRVA1Tjh5QWFmQTNaZ2lfU1I5VzJRYzh6X25MUkZpaUNYeGY1bU5xUVNSVGY0MmFmTXJ4dW9YOTJQQk9ZSFFjaW13azRaaGI4MnE4MkMtcEpJaWlDb3hUbXZKMVFxZ1lRZWtyUkk5ekNDRmcxQkpQbFVhcTh6X2xBMzhYVGZ2YXNpWE96bWRKMw?oc=5",
-     "metric": "gnews_es #8, EL PAÍS"
-    },
-    {
-     "source": "googlenews",
      "title": "Se comprometen EU, China y Rusia a reformar la ONU",
      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FQmJlTmJPNWdET2FTM0VaeVB5bGxkRVB3LVpFZU4yOTctRV9IUHhPRWxVV0ZWVGpJRVJXZWVBdUJFLURBc0xIbWpNZmdTTkJyQzBsT0RobXQ3VVhJSG41alVkOVZKZw?oc=5",
      "metric": "gnews_es #11, La Jornada"
@@ -839,7 +992,7 @@
      "source": "youtube",
      "title": "I tried using AirPod’s live translation in China..",
      "url": "https://www.youtube.com/watch?v=FVMrZCt3gEM",
-     "metric": "YouTube most popular US/science-tech #3: 4,455,068 views, 43h old, CarterPCs"
+     "metric": "YouTube most popular US/science-tech #3: 4,457,137 views, 43h old, CarterPCs"
     },
     {
      "source": "factcheck",
@@ -852,6 +1005,12 @@
      "title": "Fact Check: China has not banned US citizens over hantavirus",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX0tKb09FcWM4cmU4ckFpLTVnaDdpVnhjM3BFUEk5OGhmbVJkZjMtbW44YU9wR3ZaUFdScEZiTGlwQ3hPbnJrVW5jRGh4eExTYXItSVNzelgyQ0c3Uk5LajZ4VTZtLV9FRGNZRUo3VmEzZXpwdlVOcmZmcG5RMkFOZkU2bmU0MW4weFRoNmlMbmRFYzJvMDBXQldZSQ?oc=5",
      "metric": "reuters_factcheck #14, Reuters"
+    },
+    {
+     "source": "oddities",
+     "title": "​​Homo erectus and Denisovans may have lived alongside each other in China, study suggests",
+     "url": "https://www.livescience.com/human-behavior/homo-erectus-and-denisovans-may-have-lived-alongside-each-other-in-china-study-suggests",
+     "metric": "livescience #17"
     }
    ],
    "keys": [
@@ -913,7 +1072,7 @@
    }
   },
   {
-   "rank": 4,
+   "rank": 5,
    "topic": "Vladimir Putin",
    "heat": 94.0,
    "status": "steady",
@@ -921,7 +1080,7 @@
    "first_seen": "2026-11-18T11:20:12+00:00",
    "days_trending": 3,
    "heat_yesterday": 94.0,
-   "why_hot": "4 source(s): chess, googlenews, wikipedia, x; Wikipedia views 2.7x vs prior 4-day avg; trending in 3 regions (BR, GB, pt-wiki); wiki_pt #31, 2,227 views, 2.7x vs prior-days avg; X trend GB #11, 360,360 posts; gnews_pt #12, G1",
+   "why_hot": "4 source(s): chess, googlenews, wikipedia, x; Wikipedia views 2.7x vs prior 4-day avg; trending in 4 regions (BR, GB, MX, pt-wiki); wiki_pt #31, 2,227 views, 2.7x vs prior-days avg; X trend GB #11, 360,360 posts; gnews_pt #12, G1",
    "sources": [
     "chess",
     "googlenews",
@@ -931,11 +1090,12 @@
    "regions": [
     "BR",
     "GB",
+    "MX",
     "pt-wiki"
    ],
    "broad_appeal": {
     "n_sources": 4,
-    "n_regions": 3
+    "n_regions": 4
    },
    "entity": {
     "qid": "Q7747",
@@ -1001,6 +1161,12 @@
      "metric": "gnews_pt #12, G1"
     },
     {
+     "source": "googlenews",
+     "title": "Rusia ataca Ucrania horas después de que Trump dijera que un Putin “cansado” está dispuesto a un acuerdo",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOG5qWWxldVBwRDJrVUVSNW9wSzhUUFROcVJvYmtqTHpUOWh3aWRPeFlydTFMRkk3ZUJFQXBMTzBqbE02LUE3RHRzNVNDWkZNdExPWjZuc1Qzb2hXRk9aSkplQjFvVGlYRW1jZVlPdzNnTWhlbk45bXRWSUEwNHhTczh1RUNON3M?oc=5",
+     "metric": "gnews_es #12, CNN en Español"
+    },
+    {
      "source": "chess",
      "title": "Xadrez Verbal #484 Xi recebe Trump e Putin",
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tUTZINE10Z1hJampKUHJ2NTFHaGpjWWRYamdCSjZtM2JrOTBLTHpxMlAyYnM2VjJUTEV4bUlfTWdqMU9fdkN2NlBDREhOZ0dURjJzNk1TandaSy1jc0lyQWtLVmh1Q24wYXpLMlhJeDBERTZv?oc=5",
@@ -1010,7 +1176,7 @@
      "source": "chess",
      "title": "Xadrez Verbal Podcast #484 – Xi recebe Trump e Putin",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd1V0X21fQ2VkelJyejhJTGJXYmpnTk1QSWVlalFJRTBFTkVSMG1NSXg5SnNBYnVDNGpvdjh3VmpoajlOaXBRY0RlMUZZVGY3N3RnTEpnZGhnSDAwQUZ6RlYyOUN0MHMyRm8zcTZFOFlxemhaM1pPa1ZUV09mak51ZDRqYV8yNFJhbGxiN1FHdw?oc=5",
-     "metric": "gnews_xadrez_pt #6, Xadrez Verbal"
+     "metric": "gnews_xadrez_pt #8, Xadrez Verbal"
     },
     {
      "source": "googlenews",
@@ -1022,19 +1188,13 @@
      "source": "googlenews",
      "title": "Trump defends calling Putin a friend but says he ‘can’t speak’ to whether he's a friend to the US",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQkhfc2NSR2FxMldlZzg4WHVHdUdTR0Q4eExlN3dTZUFydXRVeFM4Z2hwcENYU3VNcGtqeEhOZFpjbmZmVVRzY2hVLS1iMTVIUkdyZ0lyTHBHM25CSjBJQzhRc0Uxbmk2Zy0zQmpZbVVrM3pOaUVpX2MwTHB0Q0lFdlVsQkIxRHRMUDFCTS04OUlSZw?oc=5",
-     "metric": "Nation #9, 5 outlets in cluster"
+     "metric": "Nation #8, 5 outlets in cluster"
     },
     {
      "source": "googlenews",
      "title": "Deadly Russian strikes hit 3 Kyiv bridges after Putin vows revenge for Crimea attacks",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc2ZMT1N0Qk5yUzFfNEdMR3RYcFdxbG03VlBfeWtKOGhHM1ZkV0lXT3pVRjFNOGNjY2w1c3JtWVhMcFRoUXdZd2hKc0hlanVET0VoczdqNWlMbnFXSXROTlVUNnJsWjFtWGZjMEdqVEt0RDhpUk91SzBXY2RhQy1INHZhRzJRbnRHbVVBanVwTVphRUVvaC1jcTIxLXZ3MGt0OWZUMDJkRUprQ3E1bjJWYXl1eFZJQmhTY1E?oc=5",
-     "metric": "World #12, 5 outlets in cluster"
-    },
-    {
-     "source": "x",
-     "title": "Putin Praises Trump as Intelligent in 2024 Kazakhstan Speech",
-     "url": "https://x.com/i/trending/2123421383233286573",
-     "metric": "X news story (Politics)"
+     "metric": "World #11, 5 outlets in cluster"
     }
    ],
    "keys": [
@@ -1096,7 +1256,7 @@
    }
   },
   {
-   "rank": 5,
+   "rank": 6,
    "topic": "Brasil",
    "heat": 94.0,
    "status": "steady",
@@ -1104,7 +1264,7 @@
    "first_seen": "2026-11-18T08:12:45+00:00",
    "days_trending": 3,
    "heat_yesterday": 94.0,
-   "why_hot": "4 source(s): chess, factcheck, googlenews, wikipedia; Wikipedia views 0.9x vs prior 4-day avg; Wikipedia views 2.4x vs prior 4-day avg; wiki_pt #16, 3,226 views, 0.9x vs prior-days avg; gnews_pt #3, Poder360",
+   "why_hot": "4 source(s): chess, factcheck, googlenews, wikipedia; Wikipedia views 0.9x vs prior 4-day avg; Wikipedia views 2.4x vs prior 4-day avg; wiki_pt #16, 3,226 views, 0.9x vs prior-days avg; gnews_pt #2, Poder360",
    "sources": [
     "chess",
     "factcheck",
@@ -1174,7 +1334,7 @@
      "source": "googlenews",
      "title": "Trump diz que Filipinas deixarão de comprar produtos agrícolas do Brasil",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeFRKTEJVSFFfalhTQV9lSXcwV19DanRodGVhN1Z6WmlGeWxUYUdQempfbTJ0ZzRRQ3d0TDNwUDlNV2dkSEd5VTRMMEJYU2hBdnlEcEFsNHlEUG0yd2VtOGJvRXU5NzllX3Uwa1JjeW9LTkxmc2t6dVNNOG5oTUdDbXdQaFlsSFUwdmlXWGdmbVF2ZHBabmotUkVGQW1ZMkV3d1hoVkNuSjFhQUpFNEM0aW4wNGd3d1FBY0l3WDFR?oc=5",
-     "metric": "gnews_pt #3, Poder360"
+     "metric": "gnews_pt #2, Poder360"
     },
     {
      "source": "factcheck",
@@ -1266,140 +1426,6 @@
    }
   },
   {
-   "rank": 6,
-   "topic": "Haití",
-   "heat": 85.4,
-   "status": "rising",
-   "velocity": 1.0,
-   "first_seen": "2026-11-19T23:25:15+00:00",
-   "days_trending": 1,
-   "heat_yesterday": 32.4,
-   "why_hot": "3 source(s): factcheck, googlenews, googletrends; US: 1000+ searches; World #13, 5 outlets in cluster",
-   "sources": [
-    "factcheck",
-    "googlenews",
-    "googletrends"
-   ],
-   "regions": [
-    "US"
-   ],
-   "broad_appeal": {
-    "n_sources": 3,
-    "n_regions": 1
-   },
-   "entity": null,
-   "paradox_signals": [
-    "why"
-   ],
-   "best_channel": null,
-   "channel_fit": {
-    "go-there-instead": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "plan-not-panic": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "chess-blunder-club": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    }
-   },
-   "links": [
-    {
-     "source": "factcheck",
-     "title": "Video de reparto de agua en Costa de Marfil se vincula falsamente al despliegue militar en Haití",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uaHB3bHlxbzVXamFrR0J5UG1feUxJNDdhTDNTVDk5N2g1MHdSS1FtT3I1T0w0ZFVfX2diNVJGMTRmdlNxYVg2YXVzZWZjbnMtSThMRVdn?oc=5",
-     "metric": "afp_factual_es #4, AFP Factual"
-    },
-    {
-     "source": "googletrends",
-     "title": "haití",
-     "url": "https://trends.google.com/trends/explore?geo=US&q=hait%C3%AD",
-     "metric": "US: 1000+ searches"
-    },
-    {
-     "source": "googlenews",
-     "title": "Why are Bukele’s Salvadoran troops in Haiti and what have they achieved?",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd3FDbWxvUUY0TUJmam15dEU4TGpsRERpNDZYeWVUQjlFUzlxbXN0Y2lhcTc4Z0cxNWpObGlBN2FKM0NBUlplaGVZeUlqNlFoS2RfS294Q3VwQ2lNRTlfVlpmTE9Cak12SFR0RFRQVG1ha3ZOZC05cVBlMzR4azlMTXQ4MnZScURaWlRYck9BODJXc0VoLUlpamlKVGs1TFczOTctYUtoR1JtWkd5VW5JdldR0gG3AUFVX3lxTE1qLUZaZEFzamVUWEpvbTU1TXJXbVZCeVI4UzdCcDB1Z1ctWV85bDg0UVl2Z25pc3lIOTRQaksxRVNtNmRyV0FLZHJ1bF9VT3ctcElOaXNjMFJfbkhFQTBFa055aVgyb0JaNEJDcDRMay0xMHFpSmVDWUNOaFhVd2RNc0t3dmIzMFAwMVJSMmNYeDVWd3lTcHVYQWVZeWlhU2o5azdUaTRKRDFzS2tjb0hDdUl4Wl9NWQ?oc=5",
-     "metric": "World #13, 5 outlets in cluster"
-    }
-   ],
-   "keys": [
-    "haiti"
-   ],
-   "related_topics": [],
-   "footage": {
-    "query": "Haití",
-    "checked": [
-     {
-      "source": "Wikimedia Commons (video)",
-      "hits": 369,
-      "url": "https://commons.wikimedia.org/w/index.php?search=Hait%C3%AD%20filetype%3Avideo&ns6=1",
-      "examples": [
-       "https://commons.wikimedia.org/wiki/File:Haiti_earthquake_Coast_Guard_flyover_small.ogv",
-       "https://commons.wikimedia.org/wiki/File:Haiti_earthquake_Coast_Guard_flyover.ogv"
-      ],
-      "license_hint": "per-file license (mostly CC BY / CC BY-SA / public domain): check the file page and credit as required"
-     },
-     {
-      "source": "Internet Archive (movies)",
-      "hits": 1088,
-      "url": "https://archive.org/search?query=title%3A%28Hait%C3%AD%29&and[]=mediatype%3A%22movies%22",
-      "examples": [
-       "https://archive.org/details/PRESSTV_20221031_173200_Hidden_Files__THE_CASE_OF_HAITI",
-       "https://archive.org/details/youtube-Ow6uPRrAges"
-      ],
-      "license_hint": "mixed: many public domain or CC, but uploads can be copyrighted; check each item's license/rights field"
-     },
-     {
-      "source": "NASA Image & Video Library (video)",
-      "hits": 0,
-      "url": "https://images.nasa.gov/search?q=Hait%C3%AD&page=1&media=video",
-      "examples": [],
-      "license_hint": "generally not copyrighted (US gov); no NASA endorsement implied; third-party content and logos excepted"
-     },
-     {
-      "source": "Library of Congress (film & video)",
-      "hits": 593,
-      "url": "https://www.loc.gov/film-and-videos/?q=Hait%C3%AD",
-      "examples": [
-       "http://www.loc.gov/item/2021690441/",
-       "http://www.loc.gov/item/ihas.200003822/"
-      ],
-      "license_hint": "varies: many items 'no known restrictions', others rights-restricted; check each item's Rights & Access"
-     }
-    ],
-    "to_verify": [
-     "DVIDS (US military public-domain video): https://www.dvidshub.net/search/?q=Hait%C3%AD&filter%5Btype%5D=video (API needs a key; not auto-checked)",
-     "National Archives (NARA) catalog: https://catalog.archives.gov/search?q=Hait%C3%AD&typeOfMaterials=Moving%20Images (API needs a key; not auto-checked)",
-     "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
-     "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
-    ],
-    "confidence": "high",
-    "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
-   }
-  },
-  {
    "rank": 7,
    "topic": "Ukraine",
    "heat": 85.0,
@@ -1408,7 +1434,7 @@
    "first_seen": "2026-11-19T23:25:15+00:00",
    "days_trending": 2,
    "heat_yesterday": 85.0,
-   "why_hot": "5 source(s): factcheck, googlenews, space, travel, x; X trend GB #18, 243,630 posts; Top #13, 5 outlets in cluster",
+   "why_hot": "5 source(s): factcheck, googlenews, space, travel, x; X trend GB #18, 243,630 posts; Top #12, 5 outlets in cluster",
    "sources": [
     "factcheck",
     "googlenews",
@@ -1431,6 +1457,7 @@
     "url": "https://www.wikidata.org/wiki/Q212"
    },
    "paradox_signals": [
+    "discover",
     "why"
    ],
    "best_channel": "go-there-instead",
@@ -1444,6 +1471,7 @@
      ],
      "weak": [
       "europe",
+      "strike",
       "winter"
      ],
      "angle_hint": "Skip X, go to Y: the travel angle on Ukraine"
@@ -1468,7 +1496,9 @@
     "silver-paradox": {
      "score": 0,
      "strong": [],
-     "weak": [],
+     "weak": [
+      "discovery"
+     ],
      "angle_hint": null
     },
     "chess-blunder-club": {
@@ -1506,15 +1536,21 @@
     },
     {
      "source": "factcheck",
-     "title": "Fact Check: New York pro-Israel ad ‘bumping’ Ukraine message is fake",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcl8yd2hrSWdnc1JCbUN1SENNU1VUYllRMms0NnlmUU43MWUtbGNOVnBzZkxWMG1JVW1LT29YMjRsUm0xbkpDVnVEbnFzdmt0SXFvSXZzTEFDUjlFQy10T2hBa2V3c3pXUFpIZTZHTU81aWhOMFh1ZnUzdHFIeW10Q1VNcTlJcVNjamhWMlJZVGxIMTRTQlNoY1p6dFF5MWlwejNV?oc=5",
-     "metric": "reuters_factcheck #19, Reuters"
+     "title": "Ukraine depot explosion misrepresented as Middle East conflict",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16T2lkeWlKYkk0VFNUVmdBdVpqT05PNi1VM2J1bEw1X3RCcTVoWVcwRVRNLXdUQktOcFMtblphSWhpanZWalhWV1BZMS1PV0NlM0VYSm43Y2s?oc=5",
+     "metric": "afp_factcheck #15, AFP Fact Check"
+    },
+    {
+     "source": "factcheck",
+     "title": "No, the discovery of bodies in Ukraine's Bucha was not 'staged' with 'actors'",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVTU5TMTd0VWtodEZocEFUYUdMWW0ySVNKUzRtX2pYWXJRbVdDakJjQktWNTh1YV9mRjgxWGFMTXJGb2gxNi1TVkNMbDhFZlBIbTk3UG1LaXA?oc=5",
+     "metric": "afp_factcheck #18, AFP Fact Check"
     },
     {
      "source": "googlenews",
      "title": "Donald Trump seeks Ukraine peace deal before January",
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa18tQmF3YkRHVXNLbTI4N1pxOFAzeUdOeVlaM3k4b2ZSZVpKZVhFTzFxMmxMUm5Nb1lkT0I2WTFiRlA2SWJMZG1HSl9VVW0xSUU1VWhidjMtZHZ5T2N4Z2hwazlvWUdfN0hDUjRJeFoxeDY1a1JHcDduaUJwUFlKWE5Jb3U?oc=5",
-     "metric": "Top #13, 5 outlets in cluster"
+     "metric": "Top #12, 5 outlets in cluster"
     },
     {
      "source": "factcheck",
@@ -1529,22 +1565,10 @@
      "metric": "World #23, 5 outlets in cluster"
     },
     {
-     "source": "travel",
-     "title": "Where to Celebrate New Year's Eve 2027 in Ukraine: The Best Travel Destinations",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV1pKdVlkNXVlUENpbjBsMUF3RFZRRmh6RnE3N1VnZ2JPZ1hHSHp6TkduUXF1aWQxckg3Q2JYdE9xalNWblVBTUpWVHlxLUtKS3NJclhYS1RNSTNCTFpsZ0lCOHlLQTA3WW56NlpYY0dmSFkwUURVS3k1NjdQamliZUVWOTRIdnM2NkljU3laRkdUOWZGVjlnR0JMbXdtTXB6YVNPc3BoRmRjNld2SEgxSlVEeEU?oc=5",
-     "metric": "gnews_travel_news #20, Visit Ukraine.Today"
-    },
-    {
-     "source": "travel",
-     "title": "Where to Go to the Mountains in Winter: Ski Resorts and Vacation Spots in Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNXJqeWZDV21oMHNmeWJ4T0xud3V4TmdSUWUtUk40UjdvdTNnUnJqZnRuSFU1S0Y3azNLZ201T3EyQ0tpNy1MOWtTVk5VWWVFZVVWamk5c0tubjNnclZyenFRUi1UWURrelBmbGU5U2wwMjhac2Ric1ltclQ2eG5BTmQ0cmlmVTF2X0lWZ3FXRzY0cEVUcDRhUnNCSFZJWkJUTjROTFQtMEoxM0JYcHRaQmJkYWJOdHV3?oc=5",
-     "metric": "gnews_travel_news #23, Visit Ukraine.Today"
-    },
-    {
-     "source": "googlenews",
-     "title": "European troops from 11 countries hold a drill in Poland for a potential postwar Ukraine mission",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVGl6dU85bExfQlhuODY0Rkh6a3M2UVhRTlV1QmRsclI5ZHpRbWo5M3JIbUdydkRzOFNrZkZ6RDBIMHJVNGhqeklnRl9UVVAzRFpFUUk0OTVDVnU3RVh2VjdWZ2ktMUhMNmZZMUZkVDE5RFAtTjJ4UEZjUDlKZWd4YlhSaFBoYXdnYVI1ajFaRkdnTkpyMExkU0U4YjBHMTNSblZkRWt6aUVtTGJ5UWU1RVdrNA?oc=5",
-     "metric": "World #26, 1 outlets in cluster"
+     "source": "x",
+     "title": "Democrats Threaten to Block SpaceX Funding Over Ukraine Satellite Slowdowns",
+     "url": "https://x.com/i/trending/2123787197195161705",
+     "metric": "X news story (Politics, Space)"
     }
    ],
    "keys": [
@@ -1552,6 +1576,7 @@
    ],
    "related_topics": [
     "Vladimir Putin",
+    "Middle East",
     "Donald Trump"
    ],
    "footage": {
@@ -1586,7 +1611,12 @@
      },
      {
       "source": "Library of Congress (film & video)",
-      "error": "HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out. (read timeout=30)",
+      "hits": 450,
+      "url": "https://www.loc.gov/film-and-videos/?q=Ukraine",
+      "examples": [
+       "http://www.loc.gov/item/2024698340/",
+       "http://www.loc.gov/item/2024698301/"
+      ],
       "license_hint": "varies: many items 'no known restrictions', others rights-restricted; check each item's Rights & Access"
      }
     ],
@@ -1609,7 +1639,7 @@
    "first_seen": "2026-11-18T07:28:56+00:00",
    "days_trending": 2,
    "heat_yesterday": null,
-   "why_hot": "4 source(s): googlenews, oddities, x, youtube; X trend GB #31, 141,057 posts; Technology #2, 5 outlets in cluster; YouTube most popular US/science-tech #22: 886,088 views, 35h old, The Deal Guy",
+   "why_hot": "4 source(s): googlenews, oddities, x, youtube; X trend GB #31, 141,057 posts; Technology #5, 5 outlets in cluster; YouTube most popular US/science-tech #22: 887,545 views, 35h old, The Deal Guy",
    "sources": [
     "googlenews",
     "oddities",
@@ -1665,6 +1695,12 @@
      "strong": [],
      "weak": [],
      "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
     }
    },
    "links": [
@@ -1682,21 +1718,15 @@
     },
     {
      "source": "googlenews",
-     "title": "Apple Black Friday Deals Available Now: AirPods, Apple Watches, MacBooks, and More",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRzQ3TXlUbnpfS1pCR3Q5TzRRanAtZnJwcVNzUkRVaXZ0dHhXYTUwM0I0eGNBQkZfMVZfRFQ2Q0dtRDlDcU5rOENuUzQ3ZHhkb0U1bVV3MkpLY2dOZEZONXkyNkRKSVpqSDhGVmp0ZXFuX3ZmN05tbi03RDVWVG5mQUpGUDZ1UHlw?oc=5",
-     "metric": "Technology #2, 5 outlets in cluster"
-    },
-    {
-     "source": "googlenews",
      "title": "6 things you should buy — and 5 things you definitely shouldn’t — during Black Friday and Cyber Monday 2026",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVi10MzdkYlJhVDFXYnA2X2l5Y1hBcmdvQTg3QUQzVlJnSjhPZzNqemJRU3BnQUV5MGItSHhpOXlTb3Z3T3JpblExYXZleDJTWndEMW14R0NuRnY0M3lZakM2X280Q0Q5X0pjSUtwMWVFLWkxeUQ2bjE4OGpQd2pQeUUzNWlCSlBzY1p0SVdER0dERWxhZTM4V3VQVDQ?oc=5",
-     "metric": "Technology #6, 5 outlets in cluster"
+     "metric": "Technology #5, 5 outlets in cluster"
     },
     {
      "source": "youtube",
      "title": "Top 50 Amazon Black Friday 2026 Deals (Updated Hourly!! 🔥)",
      "url": "https://www.youtube.com/watch?v=z-4jDCUL7EI",
-     "metric": "YouTube most popular US/science-tech #22: 886,088 views, 35h old, The Deal Guy"
+     "metric": "YouTube most popular US/science-tech #22: 887,545 views, 35h old, The Deal Guy"
     },
     {
      "source": "googlenews",
@@ -1706,15 +1736,21 @@
     },
     {
      "source": "googlenews",
-     "title": "Sony’s WH-1000XM5 are cheaper than ever for Black Friday",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONUR5TkhqVnFrM0ppb3VRTU9PbmgzVEp6emFFazRFT2VtR3QzYjBla0hlOXRjT0NIQnV4UFBxWnRVM3dxa1hJMG1HODFIS3V0bDFnN2x3alBtTE5HcUZHTzh1c085YVF6c0FGanphMG9NRHRzR2luXzNaekdsVGdlWjY0UTVTdw?oc=5",
-     "metric": "Technology #14, 5 outlets in cluster"
+     "title": "US: Black Friday 2026 sale now on Nintendo eShop",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNHZiS2VRYU1weF9HT2xXS1VEOXpWaWZMeUhNaTRrNmkzaUtoZGJaampDQjBiMzZhcmRzLVpPWHJjS1dJV29NTTZzU0w5a1A3UjJoRmMwY1c5ZWZ3OFRRWi1DV0xOMk1UMUlHQVhsS25KUWRNRnFJaGlvQUlyU2FscnBOWDdpNl9qeFdCVjVHWQ?oc=5",
+     "metric": "Technology #18, 5 outlets in cluster"
     },
     {
      "source": "googlenews",
-     "title": "The Best Buy Black Friday Deals Include Gaming PCs, TVs, and Popular LEGO Sets",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10MkpPdklxNmRQMUZzOUtMRlo4RUIyRnpfU3cwYjZlbXFRaTI4c2tuSkRXUUg4SFJJVjhxdTJScTdrZmVpTktqMjhkN0ZsZGlKazBYVUtRUE84ODBJZGV1a1lhd01wVzFnVkY2bg?oc=5",
-     "metric": "Technology #15, 5 outlets in cluster"
+     "title": "Yes, you're getting ripped off on Black Friday. These tips will help you spot the bogus bargains",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZklHREtqOTdSa3B1OFNwbGJtNkdPcmR2LWtma0F1T0ZBNWZFdERadlFzeWVraldfTklFTlFfUzNZMV9PaXNBSjZpXzhFTHM4ckhvQjhwNEh1bm03MlVvOTl6dl93djh2c1FQREFwaTZXNThnd25PUENLMlhQYVl3dTJQZlFETDFTZ184?oc=5",
+     "metric": "Business #18, 5 outlets in cluster"
+    },
+    {
+     "source": "googlenews",
+     "title": "Apple Black Friday Deals Available Now: AirPods, Apple Watches, MacBooks, and More",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRzQ3TXlUbnpfS1pCR3Q5TzRRanAtZnJwcVNzUkRVaXZ0dHhXYTUwM0I0eGNBQkZfMVZfRFQ2Q0dtRDlDcU5rOENuUzQ3ZHhkb0U1bVV3MkpLY2dOZEZONXkyNkRKSVpqSDhGVmp0ZXFuX3ZmN05tbi03RDVWVG5mQUpGUDZ1UHlw?oc=5",
+     "metric": "Top #20, 5 outlets in cluster"
     }
    ],
    "keys": [
@@ -1756,7 +1792,12 @@
      },
      {
       "source": "Library of Congress (film & video)",
-      "error": "HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out. (read timeout=30)",
+      "hits": 593,
+      "url": "https://www.loc.gov/film-and-videos/?q=Black%20Friday",
+      "examples": [
+       "http://www.loc.gov/item/2021690221/",
+       "http://www.loc.gov/item/2024698324/"
+      ],
       "license_hint": "varies: many items 'no known restrictions', others rights-restricted; check each item's Rights & Access"
      }
     ],
@@ -1897,10 +1938,10 @@
      "metric": "Business #29, 5 outlets in cluster"
     },
     {
-     "source": "travel",
-     "title": "Thanksgiving Crowds Are Descending on Disney World—and 2026 Could Be the Busiest Holiday Rush Yet",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTWFLVXJ6Snd3aWRlSmQ5ZU5oY2g0U1VvLW9pcnZrOG9Hbnk0LW1iaTdaWlU0TDFFUWgtMkQzTWIzRTdER19ZYTFxbWZuN0JTZUlhalpBNFVFUmNCdFZvMm5nLV9qRkpfeDNXUGV0ZEN2a2xaWVB6MzctZU1uVTN6cWl4OFJzNzFDX0xuYzR1LWViMDFfSVVsNmNjcmJrTXpZcEtsTnJB?oc=5",
-     "metric": "gnews_travel_news #25, Disney Fanatic"
+     "source": "googlenews",
+     "title": "NBC Shakes Up Thanksgiving Broadcast With 9 Broadway Shows Performing a Medley",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUDhPSlh0cXhZdk4zZnc5aGZ2SUFsOWlSaVhSQVVuNTMxXy1Ka1AxTkFIZ0FMV3lydzFfQmRWSkF0SllzNVZlYXllR0M2T0p4MWxlOVVwZ2tvc3FDOHlid3hWSEFndWVIbVlXLVcyenhKdVRDM2tWNHByY3NmQVFIYlFnMHBaaVUycHVpY1lHYU9kYXJ1RENkcDlNN2RNb0lXMUJlR0tJVE1lSHB3OHFr?oc=5",
+     "metric": "Entertainment #30, 5 outlets in cluster"
     }
    ],
    "keys": [
@@ -1965,284 +2006,6 @@
   },
   {
    "rank": 10,
-   "topic": "Myanmar",
-   "heat": 80.7,
-   "status": "rising",
-   "velocity": 0.6,
-   "first_seen": "2026-11-19T20:30:22+00:00",
-   "days_trending": 2,
-   "heat_yesterday": 59.6,
-   "why_hot": "3 source(s): factcheck, googlenews, x; trending in 2 regions (GB, MX); X trend GB #29, 44,026 posts; gnews_es #14, BBC",
-   "sources": [
-    "factcheck",
-    "googlenews",
-    "x"
-   ],
-   "regions": [
-    "GB",
-    "MX"
-   ],
-   "broad_appeal": {
-    "n_sources": 3,
-    "n_regions": 2
-   },
-   "entity": {
-    "qid": "Q836",
-    "type": "other",
-    "description": "country in Southeast Asia",
-    "matched_via": "wikidata search 'Myanmar' -> Myanmar",
-    "url": "https://www.wikidata.org/wiki/Q836"
-   },
-   "paradox_signals": [],
-   "best_channel": null,
-   "channel_fit": {
-    "go-there-instead": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "plan-not-panic": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "chess-blunder-club": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    }
-   },
-   "links": [
-    {
-     "source": "googlenews",
-     "title": "Quiénes son los rohinyás, la \"minoría más perseguida del mundo\" por la que Myanmar fue condenado por genocidio",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OYjlNWVBoVnZEX1dEdlNVTlAyVHYzem4zNHRJbEJGN0RhcDM4cWZqTlk0RUJMaVJsdzlxeUtIY29hRE5WMnFzTGYyUFBYWm80OExLdmd1SjdWT0tQ0gFiQVVfeXFMUFVOQm9rMmpRU203WWVFR0dXWEpEb1VPSkFsNHpxSEhwa3l3NkN5emNtMHg2Y19OQ1BhcmhUcnFxZjdabjJEWXhoWVFYeDhhNlNlUmd1elB4SHZQWFRPcWRsVVE?oc=5",
-     "metric": "gnews_es #14, BBC"
-    },
-    {
-     "source": "x",
-     "title": "Myanmar",
-     "url": "https://x.com/search?q=Myanmar",
-     "metric": "X trend GB #29, 44,026 posts"
-    },
-    {
-     "source": "factcheck",
-     "title": "Manipulated video falsely linked to conflict in western Myanmar",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pVjVzMVFsMGJabWdSQXRLYTZvTlZRSndrbUk5bWNPaHFhcE05SE0yR21uR1Z3TlJRbjRZOHBrME9SRGlSTlVsbVN5Z3VpdnJFUGtxV1ZKSEI?oc=5",
-     "metric": "afp_factcheck #16, AFP Fact Check"
-    }
-   ],
-   "keys": [
-    "myanmar"
-   ],
-   "related_topics": [],
-   "footage": {
-    "query": "Myanmar",
-    "checked": [
-     {
-      "source": "Wikimedia Commons (video)",
-      "hits": 3785,
-      "url": "https://commons.wikimedia.org/w/index.php?search=Myanmar%20filetype%3Avideo&ns6=1",
-      "examples": [
-       "https://commons.wikimedia.org/wiki/File:CCTV_Footage_of_Myanmar_(Burmese)_Soldier_dying_near_Muse,_Shan_State.webm",
-       "https://commons.wikimedia.org/wiki/File:Rebels_raiding_a_Myanmar_(Burmese)_Junta_Militia_post_in_Muse,_Shan_State.webm"
-      ],
-      "license_hint": "per-file license (mostly CC BY / CC BY-SA / public domain): check the file page and credit as required"
-     },
-     {
-      "source": "Internet Archive (movies)",
-      "hits": 1108,
-      "url": "https://archive.org/search?query=title%3A%28Myanmar%29&and[]=mediatype%3A%22movies%22",
-      "examples": [
-       "https://archive.org/details/siv_Unreached_Peoples_The_Tribes_of_Myanmar_Burma_The_Long_Neck_Padaung",
-       "https://archive.org/details/fernOST_5_Von-Myanmar-nach-Bangkok"
-      ],
-      "license_hint": "mixed: many public domain or CC, but uploads can be copyrighted; check each item's license/rights field"
-     },
-     {
-      "source": "NASA Image & Video Library (video)",
-      "hits": 0,
-      "url": "https://images.nasa.gov/search?q=Myanmar&page=1&media=video",
-      "examples": [],
-      "license_hint": "generally not copyrighted (US gov); no NASA endorsement implied; third-party content and logos excepted"
-     },
-     {
-      "source": "Library of Congress (film & video)",
-      "hits": 856,
-      "url": "https://www.loc.gov/film-and-videos/?q=Myanmar",
-      "examples": [
-       "http://www.loc.gov/item/afc2001001.112455/",
-       "http://www.loc.gov/item/afc2001001.95771/"
-      ],
-      "license_hint": "varies: many items 'no known restrictions', others rights-restricted; check each item's Rights & Access"
-     }
-    ],
-    "to_verify": [
-     "DVIDS (US military public-domain video): https://www.dvidshub.net/search/?q=Myanmar&filter%5Btype%5D=video (API needs a key; not auto-checked)",
-     "National Archives (NARA) catalog: https://catalog.archives.gov/search?q=Myanmar&typeOfMaterials=Moving%20Images (API needs a key; not auto-checked)",
-     "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
-     "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
-    ],
-    "confidence": "high",
-    "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
-   }
-  },
-  {
-   "rank": 11,
-   "topic": "Rockstar Games",
-   "heat": 79.1,
-   "status": "steady",
-   "velocity": 0.5,
-   "first_seen": "2026-11-18T23:25:39+00:00",
-   "days_trending": 3,
-   "heat_yesterday": 81.5,
-   "why_hot": "3 source(s): googlenews, wikipedia, x; Wikipedia views 3.0x vs prior 4-day avg; 112,864 views, 3.0x vs prior 4-day avg; X trend GB #30, 192,758 posts; Top #19, 5 outlets in cluster",
-   "sources": [
-    "googlenews",
-    "wikipedia",
-    "x"
-   ],
-   "regions": [
-    "GB"
-   ],
-   "broad_appeal": {
-    "n_sources": 3,
-    "n_regions": 1
-   },
-   "entity": {
-    "qid": "Q94912",
-    "type": "other",
-    "description": "American video game publisher",
-    "matched_via": "wikipedia article",
-    "url": "https://www.wikidata.org/wiki/Q94912"
-   },
-   "paradox_signals": [],
-   "best_channel": null,
-   "channel_fit": {
-    "go-there-instead": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "plan-not-panic": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "chess-blunder-club": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "military-unclassified": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    }
-   },
-   "links": [
-    {
-     "source": "x",
-     "title": "Myanmar",
-     "url": "https://x.com/search?q=Myanmar",
-     "metric": "X trend GB #29, 44,026 posts"
-    },
-    {
-     "source": "googlenews",
-     "title": "Quiénes son los rohinyás, la \"minoría más perseguida del mundo\" por la que Myanmar fue condenado por genocidio",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OYjlNWVBoVnZEX1dEdlNVTlAyVHYzem4zNHRJbEJGN0RhcDM4cWZqTlk0RUJMaVJsdzlxeUtIY29hRE5WMnFzTGYyUFBYWm80OExLdmd1SjdWT0tQ0gFiQVVfeXFMUFVOQm9rMmpRU203WWVFR0dXWEpEb1VPSkFsNHpxSEhwa3l3NkN5emNtMHg2Y19OQ1BhcmhUcnFxZjdabjJEWXhoWVFYeDhhNlNlUmd1elB4SHZQWFRPcWRsVVE?oc=5",
-     "metric": "gnews_es #14, BBC"
-    },
-    {
-     "source": "factcheck",
-     "title": "Manipulated video falsely linked to conflict in western Myanmar",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pVjVzMVFsMGJabWdSQXRLYTZvTlZRSndrbUk5bWNPaHFhcE05SE0yR21uR1Z3TlJRbjRZOHBrME9SRGlSTlVsbVN5Z3VpdnJFUGtxV1ZKSEI?oc=5",
-     "metric": "afp_factcheck #16, AFP Fact Check"
-    }
-   ],
-   "keys": [
-    "myanmar"
-   ],
-   "related_topics": [],
-   "footage": {
-    "query": "Myanmar",
-    "checked": [
-     {
-      "source": "Wikimedia Commons (video)",
-      "hits": 3785,
-      "url": "https://commons.wikimedia.org/w/index.php?search=Myanmar%20filetype%3Avideo&ns6=1",
-      "examples": [
-       "https://commons.wikimedia.org/wiki/File:CCTV_Footage_of_Myanmar_(Burmese)_Soldier_dying_near_Muse,_Shan_State.webm",
-       "https://commons.wikimedia.org/wiki/File:Rebels_raiding_a_Myanmar_(Burmese)_Junta_Militia_post_in_Muse,_Shan_State.webm"
-      ],
-      "license_hint": "per-file license (mostly CC BY / CC BY-SA / public domain): check the file page and credit as required"
-     },
-     {
-      "source": "Internet Archive (movies)",
-      "hits": 1108,
-      "url": "https://archive.org/search?query=title%3A%28Myanmar%29&and[]=mediatype%3A%22movies%22",
-      "examples": [
-       "https://archive.org/details/siv_Unreached_Peoples_The_Tribes_of_Myanmar_Burma_The_Long_Neck_Padaung",
-       "https://archive.org/details/fernOST_5_Von-Myanmar-nach-Bangkok"
-      ],
-      "license_hint": "mixed: many public domain or CC, but uploads can be copyrighted; check each item's license/rights field"
-     },
-     {
-      "source": "NASA Image & Video Library (video)",
-      "hits": 0,
-      "url": "https://images.nasa.gov/search?q=Myanmar&page=1&media=video",
-      "examples": [],
-      "license_hint": "generally not copyrighted (US gov); no NASA endorsement implied; third-party content and logos excepted"
-     },
-     {
-      "source": "Library of Congress (film & video)",
-      "error": "Expecting value: line 1 column 1 (char 0)",
-      "license_hint": "varies: many items 'no known restrictions', others rights-restricted; check each item's Rights & Access"
-     }
-    ],
-    "to_verify": [
-     "DVIDS (US military public-domain video): https://www.dvidshub.net/search/?q=Myanmar&filter%5Btype%5D=video (API needs a key; not auto-checked)",
-     "National Archives (NARA) catalog: https://catalog.archives.gov/search?q=Myanmar&typeOfMaterials=Moving%20Images (API needs a key; not auto-checked)",
-     "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
-     "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
-    ],
-    "confidence": "high",
-    "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
-   }
-  },
-  {
-   "rank": 11,
    "topic": "Rockstar Games",
    "heat": 79.1,
    "status": "steady",
@@ -2388,11 +2151,309 @@
    }
   },
   {
-   "rank": 12,
-   "topic": "Checks",
-   "heat": 68.4,
+   "rank": 11,
+   "topic": "Dia Nacional de Zumbi e da Consciência Negra",
+   "heat": 65.0,
    "status": "rising",
-   "velocity": 0.33,
+   "velocity": 0.6,
+   "first_seen": "2026-11-19T11:24:32+00:00",
+   "days_trending": 2,
+   "heat_yesterday": 63.9,
+   "why_hot": "3 source(s): chess, googlenews, wikipedia; Wikipedia views 1.9x vs prior 4-day avg; trending in 2 regions (BR, pt-wiki); wiki_pt #7, 6,229 views, 1.9x vs prior-days avg; gnews_pt #10, Partido dos Trabalhadores",
+   "sources": [
+    "chess",
+    "googlenews",
+    "wikipedia"
+   ],
+   "regions": [
+    "BR",
+    "pt-wiki"
+   ],
+   "broad_appeal": {
+    "n_sources": 3,
+    "n_regions": 2
+   },
+   "entity": null,
+   "paradox_signals": [],
+   "best_channel": null,
+   "channel_fit": {
+    "go-there-instead": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    }
+   },
+   "links": [
+    {
+     "source": "googlenews",
+     "title": "‘Celebrar a Consciência Negra é reafirmar a luta por democracia, reparação e igualdade’",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd2loeVJyVjhHSU81amhSZV9xVWZQUFFoNjlTQnZHTWpqSTdOQU1tOHZjR2p3ckFaVmplNVBMbldLenNxNjhkbG5nSFNiR3dmdEdHeTlUd1VxcUM1QWJQRDFqLUtQUHI1akFnQko1TmE0VDZ0amRTWkxScDRTM216cXF0ckxFaXNGRC12RVpWMFNkQTRuREpKaDFfaFhrUFlhX21rX1R30gGuAUFVX3lxTE45RXhVT0RJaE1aNGdfeGpRN1d1dXFOU0FTMFA5dnJsVlNkc2FINzh1M0VsX0xnZ1lKNFZoNU5uYV83TDRtMzRBdjNESGlwR0dTUmRxa19DREc5bk52RHZyRE5EUnpraU55X1h5dXVCN3dvNWctVk5zaHp2a1pfQmQwVVh5M21nNUN6VEU2cUR3SG5OVHptVmdpSmVMaV9rZGo5a25zRWdVeHpNRnlZUQ?oc=5",
+     "metric": "gnews_pt #10, Partido dos Trabalhadores"
+    },
+    {
+     "source": "chess",
+     "title": "Feriado da Consciência Negra altera funcionamento de serviços públicos estaduais",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYk9JWDBaaXpZRnlEMDBqUVhRRVFXLW15LTdVeGFqaG0xS1FBbi1VZldQRTdmSjJLbkhxRm02SDVsblM3QURMTFYzdC01YTNIQUI0WDZWbjV2OWt6Q2ZwNS1NbTRZdW9Jd3RFd0h4UkVOYkpRcUlMc0JhZUZUZC10UE1va01xaFROQ1I2UFY2T1hCc2xnWExodEJOdlNpdnRoMVJ4ci0zZTNtQURRV2JUTGJSOWQ?oc=5",
+     "metric": "gnews_xadrez_pt #31, O Xadrez da Política"
+    },
+    {
+     "source": "wikipedia",
+     "title": "Dia Nacional de Zumbi e da Consciência Negra",
+     "url": "https://pt.wikipedia.org/wiki/Dia_Nacional_de_Zumbi_e_da_Consci%C3%AAncia_Negra",
+     "metric": "wiki_pt #7, 6,229 views, 1.9x vs prior-days avg"
+    }
+   ],
+   "keys": [
+    "consciencia negra",
+    "dia nacional de zumbi e da consciencia negra"
+   ],
+   "related_topics": [],
+   "footage": {
+    "query": "Dia Nacional de Zumbi e da",
+    "checked": [
+     {
+      "source": "Wikimedia Commons (video)",
+      "hits": 2,
+      "url": "https://commons.wikimedia.org/w/index.php?search=Dia%20Nacional%20de%20Zumbi%20e%20da%20filetype%3Avideo&ns6=1",
+      "examples": [
+       "https://commons.wikimedia.org/wiki/File:Ministra_alerta_sobre_a_importância_das_políticas_que_promovem_a_igualdade_racial_no_Brasil.webm",
+       "https://commons.wikimedia.org/wiki/File:Programa_do_governo_beneficiará_comunidades_quilombolas_de_todo_país.webm"
+      ],
+      "license_hint": "per-file license (mostly CC BY / CC BY-SA / public domain): check the file page and credit as required"
+     },
+     {
+      "source": "Internet Archive (movies)",
+      "hits": 0,
+      "url": "https://archive.org/search?query=title%3A%28Dia%20Nacional%20de%20Zumbi%20e%20da%29&and[]=mediatype%3A%22movies%22",
+      "examples": [],
+      "license_hint": "mixed: many public domain or CC, but uploads can be copyrighted; check each item's license/rights field"
+     },
+     {
+      "source": "NASA Image & Video Library (video)",
+      "hits": 0,
+      "url": "https://images.nasa.gov/search?q=Dia%20Nacional%20de%20Zumbi%20e%20da&page=1&media=video",
+      "examples": [],
+      "license_hint": "generally not copyrighted (US gov); no NASA endorsement implied; third-party content and logos excepted"
+     },
+     {
+      "source": "Library of Congress (film & video)",
+      "error": "Expecting value: line 1 column 1 (char 0)",
+      "license_hint": "varies: many items 'no known restrictions', others rights-restricted; check each item's Rights & Access"
+     }
+    ],
+    "to_verify": [
+     "DVIDS (US military public-domain video): https://www.dvidshub.net/search/?q=Dia%20Nacional%20de%20Zumbi%20e%20da&filter%5Btype%5D=video (API needs a key; not auto-checked)",
+     "National Archives (NARA) catalog: https://catalog.archives.gov/search?q=Dia%20Nacional%20de%20Zumbi%20e%20da&typeOfMaterials=Moving%20Images (API needs a key; not auto-checked)",
+     "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
+     "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
+    ],
+    "confidence": "low",
+    "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
+   }
+  },
+  {
+   "rank": 12,
+   "topic": "Vietnam",
+   "heat": 64.1,
+   "status": "steady",
+   "velocity": 0.0,
+   "first_seen": "2026-11-18T08:12:45+00:00",
+   "days_trending": 2,
+   "heat_yesterday": null,
+   "why_hot": "3 source(s): oddities, travel, x; X trend MX #17, 23,515 posts",
+   "sources": [
+    "oddities",
+    "travel",
+    "x"
+   ],
+   "regions": [
+    "MX"
+   ],
+   "broad_appeal": {
+    "n_sources": 3,
+    "n_regions": 1
+   },
+   "entity": {
+    "qid": "Q881",
+    "type": "other",
+    "description": "country in Southeast Asia",
+    "matched_via": "wikidata search 'Vietnam' -> Vietnam",
+    "url": "https://www.wikidata.org/wiki/Q881"
+   },
+   "paradox_signals": [
+    "record",
+    "why"
+   ],
+   "best_channel": "go-there-instead",
+   "channel_fit": {
+    "go-there-instead": {
+     "score": 90,
+     "strong": [
+      "travelers",
+      "new route",
+      "visa"
+     ],
+     "weak": [],
+     "angle_hint": "Travel news in 30s: what Vietnam means for your trip, and the smarter place or route to pick instead"
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    }
+   },
+   "links": [
+    {
+     "source": "travel",
+     "title": "Vietnam",
+     "url": "https://en.wikivoyage.org/wiki/Vietnam",
+     "metric": "wikivoyage_top #23, 105 views"
+    },
+    {
+     "source": "x",
+     "title": "Vietnam",
+     "url": "https://x.com/search?q=Vietnam",
+     "metric": "X trend MX #17, 23,515 posts"
+    },
+    {
+     "source": "travel",
+     "title": "Samsung Wallet Now Supports Visa QR Payments for Singapore Travelers in Malaysia, Vietnam",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTjhaTl8xR25oUmtpeEVTY0IxWTI5VXVaN0RWazl1VVBhRVVKMS0tTlF1UFUzd0R2QU5JSGdWNmNLQmNQZUV2cnVwd012a3R1SG51VjRHTkpSZ2o1NEVJVERQTG9QVFpOUjZLUGhLWWdyMzdranZQSndmSTQ5NlBWUm9qM0xUSUFWUHN1NA?oc=5",
+     "metric": "gnews_visa #8, TechRepublic"
+    },
+    {
+     "source": "oddities",
+     "title": "Binh Lam Champa Tower in Tuy Phước Đông, Vietnam",
+     "url": "https://www.atlasobscura.com/places/binh-lam-champa-tower",
+     "metric": "atlasobscura #10"
+    },
+    {
+     "source": "travel",
+     "title": "Why Vietnam should be your next new route: a record air market growing at 9%",
+     "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPX29MV2NIOEpfQnl0WkxBcnVDZy1PM2hERkUxc0NBQjQ5aTkyMVhaVEhpeG9fcVZwcEdnM0x1RmxHNG9YVS1lYVNmQkNvcE50ZkVYZnVEdk1fWl9PeEI3c2dING4tdGlYUWNyOVhMNDA4X056aUQ1a294NlZNZHZhZjd1YW9lbF94WTc2WFpIV0Rsek9DZ1hTb2lqR3hMLVdQMVFNV2JxVEExVEhwM0hvenliUkw1QlBYaW5FTlpHYXctdGZzY0lqOWxoSHJud0JOV3lLTEZvNHc2NlJxLUxwSDlfMUZXMFB3NHlwNWg5dEt4cmZJVUl5Mm9JemJRd2ZadnNLY2M5WDJaM1FzWG01R3IxQUlzSHYxREoyZk9KSQ?oc=5",
+     "metric": "gnews_airlines #20, Routesonline"
+    }
+   ],
+   "keys": [
+    "vietnam"
+   ],
+   "related_topics": [],
+   "footage": {
+    "query": "Vietnam",
+    "checked": [
+     {
+      "source": "Wikimedia Commons (video)",
+      "hits": 1938,
+      "url": "https://commons.wikimedia.org/w/index.php?search=Vietnam%20filetype%3Avideo&ns6=1",
+      "examples": [
+       "https://commons.wikimedia.org/wiki/File:Operation_of_the_Fierce_Tiger_Division_of_the_Republic_of_Korea_Armed_Forces_in_Vietnam,_1967.webm",
+       "https://commons.wikimedia.org/wiki/File:Booby_trap_explosion_of_the_Blue_Dragon_Division_of_the_Republic_of_Korea_Armed_Forces_in_Vietnam,_August_1969.webm"
+      ],
+      "license_hint": "per-file license (mostly CC BY / CC BY-SA / public domain): check the file page and credit as required"
+     },
+     {
+      "source": "Internet Archive (movies)",
+      "hits": 5037,
+      "url": "https://archive.org/search?query=title%3A%28Vietnam%29&and[]=mediatype%3A%22movies%22",
+      "examples": [
+       "https://archive.org/details/worma-Massachusetts_Vietnam_War_Veterans_Day_-_March_29_2018",
+       "https://archive.org/details/youtube-kBmQXMQ4yo0"
+      ],
+      "license_hint": "mixed: many public domain or CC, but uploads can be copyrighted; check each item's license/rights field"
+     },
+     {
+      "source": "NASA Image & Video Library (video)",
+      "hits": 2,
+      "url": "https://images.nasa.gov/search?q=Vietnam&page=1&media=video",
+      "examples": [
+       "https://images.nasa.gov/details/NHQ_2020_0225_Tuskegee Airman Wants YOU to Be an Astronaut",
+       "https://images.nasa.gov/details/NHQ_2020_0205_Trailblazers - Black History Month Program"
+      ],
+      "license_hint": "generally not copyrighted (US gov); no NASA endorsement implied; third-party content and logos excepted"
+     },
+     {
+      "source": "Library of Congress (film & video)",
+      "hits": 19210,
+      "url": "https://www.loc.gov/film-and-videos/?q=Vietnam",
+      "examples": [
+       "http://www.loc.gov/item/2021690519/",
+       "http://www.loc.gov/item/2021688782/"
+      ],
+      "license_hint": "varies: many items 'no known restrictions', others rights-restricted; check each item's Rights & Access"
+     }
+    ],
+    "to_verify": [
+     "DVIDS (US military public-domain video): https://www.dvidshub.net/search/?q=Vietnam&filter%5Btype%5D=video (API needs a key; not auto-checked)",
+     "National Archives (NARA) catalog: https://catalog.archives.gov/search?q=Vietnam&typeOfMaterials=Moving%20Images (API needs a key; not auto-checked)",
+     "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
+     "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
+    ],
+    "confidence": "high",
+    "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
+   }
+  },
+  {
+   "rank": 13,
+   "topic": "Checks",
+   "heat": 63.9,
+   "status": "steady",
+   "velocity": 0.0,
    "first_seen": "2026-11-20T23:26:37+00:00",
    "days_trending": 1,
    "heat_yesterday": null,
@@ -2532,7 +2593,7 @@
      },
      {
       "source": "Library of Congress (film & video)",
-      "error": "HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out. (read timeout=30)",
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "license_hint": "varies: many items 'no known restrictions', others rights-restricted; check each item's Rights & Access"
      }
     ],
@@ -2547,739 +2608,15 @@
    }
   },
   {
-   "rank": 13,
-   "topic": "Light-Day From Earth",
-   "heat": 67.1,
-   "status": "rising",
-   "velocity": 0.86,
-   "first_seen": "2026-11-20T11:23:20+00:00",
-   "days_trending": 1,
-   "heat_yesterday": null,
-   "why_hot": "3 source(s): googlenews, oddities, space; Science #5, 5 outlets in cluster",
-   "sources": [
-    "googlenews",
-    "oddities",
-    "space"
-   ],
-   "regions": [],
-   "broad_appeal": {
-    "n_sources": 3,
-    "n_regions": 0
-   },
-   "entity": null,
-   "paradox_signals": [],
-   "best_channel": null,
-   "channel_fit": {
-    "go-there-instead": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "plan-not-panic": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
-     "score": 0,
-     "strong": [],
-     "weak": [
-      "history"
-     ],
-     "angle_hint": null
-    },
-    "chess-blunder-club": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    }
-   },
-   "links": [
-    {
-     "source": "googlenews",
-     "title": "NASA says Voyager 1 has reached one light-day from Earth",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON1JtQXczWnFranhEV1YyaWMwYVU1XzRvM00zSU9ZNGZzRHdicFV4MmVIWFFQZGFINEEzRE1nU1lJZWlNWmlKellLTk9FcW9WMTJPS3JtUmdRMFd5N1JZMjNsVmhFNmM0WUF2OHQzRXFTRmYzeVhRX0J2NjlwZEYtcjNzWXhRUk8zOFRFaw?oc=5",
-     "metric": "Science #5, 5 outlets in cluster"
-    },
-    {
-     "source": "space",
-     "title": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
-     "url": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/",
-     "metric": "spaceflight_news #19, 36h old, NASA"
-    },
-    {
-     "source": "space",
-     "title": "Voyager 1 Reaches New Milestone: One Light-Day from Earth",
-     "url": "https://spacepolicyonline.com/news/voyager-1-reaches-new-milestone-one-light-day-from-earth/",
-     "metric": "spaceflight_news #24, 47h old, SpacePolicyOnline.com"
-    },
-    {
-     "source": "oddities",
-     "title": "'Out there, moving into the unknown': As Voyager 1 reaches one light-day from Earth, scientists reflect on its past — and its future",
-     "url": "https://www.livescience.com/space/space-exploration/out-there-moving-into-the-unknown-as-voyager-1-reaches-one-light-day-from-earth-scientists-reflect-on-its-past-and-its-future",
-     "metric": "livescience #29"
-    },
-    {
-     "source": "space",
-     "title": "NASA’s Voyager 1 is one light-day from Earth",
-     "url": "https://spaceflightnow.com/2026/11/18/nasas-voyager-1-is-one-light-day-from-earth/",
-     "metric": "spaceflight_news #35, 56h old, Spaceflight Now"
-    }
-   ],
-   "keys": [
-    "light day from earth"
-   ],
-   "related_topics": [],
-   "footage": {
-    "query": "Light-Day From Earth",
-    "checked": [
-     {
-      "source": "Wikimedia Commons (video)",
-      "hits": 370,
-      "url": "https://commons.wikimedia.org/w/index.php?search=Light-Day%20From%20Earth%20filetype%3Avideo&ns6=1",
-      "examples": [
-       "https://commons.wikimedia.org/wiki/File:How_Far_Away_Is_Voyager_1?_One_Light-Day,_Explained_(SVS15120_VoyagerLightDay_01_Launch_from_Earth_clean_4K_ProRes).webm",
-       "https://commons.wikimedia.org/wiki/File:How_Far_Away_Is_Voyager_1?_One_Light-Day,_Explained_(SVS15120_VoyagerLightDay_03_Earth_to_Moon_to_Neptune_clean_4K_ProRes).webm"
-      ],
-      "license_hint": "per-file license (mostly CC BY / CC BY-SA / public domain): check the file page and credit as required"
-     },
-     {
-      "source": "Internet Archive (movies)",
-      "hits": 0,
-      "url": "https://archive.org/search?query=title%3A%28Light-Day%20From%20Earth%29&and[]=mediatype%3A%22movies%22",
-      "examples": [],
-      "license_hint": "mixed: many public domain or CC, but uploads can be copyrighted; check each item's license/rights field"
-     },
-     {
-      "source": "NASA Image & Video Library (video)",
-      "hits": 13,
-      "url": "https://images.nasa.gov/search?q=Light-Day%20From%20Earth&page=1&media=video",
-      "examples": [
-       "https://images.nasa.gov/details/GSFC_20181022_ICON_m12902_Airglow",
-       "https://images.nasa.gov/details/GSFC_20150914_SDO_m11993_transit"
-      ],
-      "license_hint": "generally not copyrighted (US gov); no NASA endorsement implied; third-party content and logos excepted"
-     },
-     {
-      "source": "Library of Congress (film & video)",
-      "error": "HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out. (read timeout=30)",
-      "license_hint": "varies: many items 'no known restrictions', others rights-restricted; check each item's Rights & Access"
-     }
-    ],
-    "to_verify": [
-     "DVIDS (US military public-domain video): https://www.dvidshub.net/search/?q=Light-Day%20From%20Earth&filter%5Btype%5D=video (API needs a key; not auto-checked)",
-     "National Archives (NARA) catalog: https://catalog.archives.gov/search?q=Light-Day%20From%20Earth&typeOfMaterials=Moving%20Images (API needs a key; not auto-checked)",
-     "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
-     "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
-    ],
-    "confidence": "high",
-    "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
-   }
-  },
-  {
    "rank": 14,
-   "topic": "Lucia Caminos",
-   "heat": 66.1,
-   "status": "steady",
-   "velocity": 1.0,
-   "first_seen": "2026-11-18T23:25:39+00:00",
-   "days_trending": 3,
-   "heat_yesterday": 54.1,
-   "why_hot": "2 source(s): wikipedia, x; Wikipedia views 16.2x vs prior 4-day avg; trending in 2 regions (GB, Worldwide); 65,359 views, 16.2x vs prior 4-day avg; X trend Worldwide #40, 365,792 posts",
-   "sources": [
-    "wikipedia",
-    "x"
-   ],
-   "regions": [
-    "GB",
-    "Worldwide"
-   ],
-   "broad_appeal": {
-    "n_sources": 2,
-    "n_regions": 2
-   },
-   "entity": {
-    "qid": "Q119133151",
-    "type": "other",
-    "description": "Grand Theft Auto VI protagonist",
-    "matched_via": "wikipedia article",
-    "url": "https://www.wikidata.org/wiki/Q119133151"
-   },
-   "paradox_signals": [],
-   "best_channel": null,
-   "channel_fit": {
-    "go-there-instead": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "plan-not-panic": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "chess-blunder-club": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "military-unclassified": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    }
-   },
-   "links": [
-    {
-     "source": "x",
-     "title": "Lucia",
-     "url": "https://x.com/search?q=Lucia",
-     "metric": "X trend GB #9, 365,792 posts"
-    },
-    {
-     "source": "x",
-     "title": "Lucia",
-     "url": "https://x.com/search?q=Lucia",
-     "metric": "X trend Worldwide #40, 365,792 posts"
-    },
-    {
-     "source": "wikipedia",
-     "title": "Lucia Caminos",
-     "url": "https://en.wikipedia.org/wiki/Lucia_Caminos",
-     "metric": "65,359 views, 16.2x vs prior 4-day avg"
-    }
-   ],
-   "keys": [
-    "lucia",
-    "lucia caminos"
-   ],
-   "footage": {
-    "query": "Lucia Caminos",
-    "checked": [
-     {
-      "source": "Wikimedia Commons (video)",
-      "hits": 119,
-      "url": "https://commons.wikimedia.org/w/index.php?search=Lucia%20Caminos%20filetype%3Avideo&ns6=1",
-      "examples": [
-       "https://commons.wikimedia.org/wiki/File:St-lucia-Canaries.ogv",
-       "https://commons.wikimedia.org/wiki/File:20200317_-_Saint_Lucia_-_Prime_Minister's_Address_on_Coronavirus.webm"
-      ],
-      "license_hint": "per-file license (mostly CC BY / CC BY-SA / public domain): check the file page and credit as required"
-     },
-     {
-      "source": "Internet Archive (movies)",
-      "hits": 1,
-      "url": "https://archive.org/search?query=title%3A%28Lucia%20Caminos%29&and[]=mediatype%3A%22movies%22",
-      "examples": [
-       "https://archive.org/details/youtube-q1S0tGpNQUY"
-      ],
-      "license_hint": "mixed: many public domain or CC, but uploads can be copyrighted; check each item's license/rights field"
-     },
-     {
-      "source": "NASA Image & Video Library (video)",
-      "hits": 0,
-      "url": "https://images.nasa.gov/search?q=Lucia%20Caminos&page=1&media=video",
-      "examples": [],
-      "license_hint": "generally not copyrighted (US gov); no NASA endorsement implied; third-party content and logos excepted"
-     },
-     {
-      "source": "Library of Congress (film & video)",
-      "hits": 0,
-      "url": "https://www.loc.gov/film-and-videos/?q=Lucia%20Caminos",
-      "examples": [],
-      "license_hint": "varies: many items 'no known restrictions', others rights-restricted; check each item's Rights & Access"
-     }
-    ],
-    "to_verify": [
-     "DVIDS (US military public-domain video): https://www.dvidshub.net/search/?q=Lucia%20Caminos&filter%5Btype%5D=video (API needs a key; not auto-checked)",
-     "National Archives (NARA) catalog: https://catalog.archives.gov/search?q=Lucia%20Caminos&typeOfMaterials=Moving%20Images (API needs a key; not auto-checked)",
-     "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
-     "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
-    ],
-    "confidence": "high",
-    "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
-   }
-  },
-  {
-   "rank": 15,
-   "topic": "Bayern",
-   "heat": 65.5,
-   "status": "rising",
-   "velocity": 1.0,
-   "first_seen": "2026-11-20T23:26:37+00:00",
-   "days_trending": 1,
-   "heat_yesterday": null,
-   "why_hot": "2 source(s): googlenews, x; trending in 4 regions (GB, MX, US, Worldwide); X trend Worldwide #4, 45,755 posts; gnews_es #28, ESPN México",
-   "sources": [
-    "googlenews",
-    "x"
-   ],
-   "regions": [
-    "GB",
-    "MX",
-    "US",
-    "Worldwide"
-   ],
-   "broad_appeal": {
-    "n_sources": 2,
-    "n_regions": 4
-   },
-   "entity": {
-    "qid": "Q980",
-    "type": "other",
-    "description": "federated state in the south of Germany",
-    "matched_via": "wikidata search 'Bayern' -> Bavaria",
-    "url": "https://www.wikidata.org/wiki/Q980"
-   },
-   "paradox_signals": [],
-   "best_channel": null,
-   "channel_fit": {
-    "go-there-instead": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "plan-not-panic": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "chess-blunder-club": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    }
-   },
-   "links": [
-    {
-     "source": "x",
-     "title": "Bayern",
-     "url": "https://x.com/search?q=Bayern",
-     "metric": "X trend GB #20, 45,755 posts"
-    },
-    {
-     "source": "x",
-     "title": "Bayern",
-     "url": "https://x.com/search?q=Bayern",
-     "metric": "X trend MX #14, 45,755 posts"
-    },
-    {
-     "source": "x",
-     "title": "Bayern",
-     "url": "https://x.com/search?q=Bayern",
-     "metric": "X trend Worldwide #4, 45,755 posts"
-    },
-    {
-     "source": "x",
-     "title": "Bayern",
-     "url": "https://x.com/search?q=Bayern",
-     "metric": "X trend US #10, 45,058 posts"
-    },
-    {
-     "source": "googlenews",
-     "title": "Preocupación en Bayern: Harry Kane salió lesionado vs. Colonia",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSzk5aXQ2WGFmOEhLdkVZbjd3RkxCaGtndm84bXNEY0VhbEVsR3hZTU5mSzB4d2cwMTRlWldyOWY0am1EMl9GZkU0VGFkTWFNR1RDLWthWURLWkJ4Wmk3MHJaT1R0aXJXV2NaWVBDTjNNSkFxdVBZQXM4eDZlMjh4MC1ZREV1M3BqUUpvMWlYT2lXVGxILXFNWGJ3QjV1clNPN1pzbzF6ZktSQkF1TThldnBrN0s0Q0ZXM1hz?oc=5",
-     "metric": "gnews_es #28, ESPN México"
-    },
-    {
-     "source": "googlenews",
-     "title": "Harry Kane forced off with early injury as Bayern Munich held to draw",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObndkRmpvTEpQd3JZNVU0UC1GTUdIQTlpTmo3YXVxdG9JYXI3LTV4b09ISFNQRlRPOFNjYzNGOTB4Rmd5M0JVbjlBcnpIemNySDFXaTFYS1loUkl2Ykk2UHFEdkJaV0xnQ0pBaHBvQnNyaFAtODd0dllqMUtlOHlYbzFGTm5hQQ?oc=5",
-     "metric": "Top #29, 5 outlets in cluster"
-    }
-   ],
-   "keys": [
-    "bayern"
-   ],
-   "related_topics": [
-    "Kane"
-   ],
-   "footage": {
-    "query": "Bayern",
-    "checked": [
-     {
-      "source": "Wikimedia Commons (video)",
-      "hits": 968,
-      "url": "https://commons.wikimedia.org/w/index.php?search=Bayern%20filetype%3Avideo&ns6=1",
-      "examples": [
-       "https://commons.wikimedia.org/wiki/File:Hikers_on_a_swing_in_Steigerwald.webm",
-       "https://commons.wikimedia.org/wiki/File:Bavaria_Motorhome.ogv"
-      ],
-      "license_hint": "per-file license (mostly CC BY / CC BY-SA / public domain): check the file page and credit as required"
-     },
-     {
-      "source": "Internet Archive (movies)",
-      "hits": 626,
-      "url": "https://archive.org/search?query=title%3A%28Bayern%29&and[]=mediatype%3A%22movies%22",
-      "examples": [
-       "https://archive.org/details/TikTok-7518227488040865031",
-       "https://archive.org/details/DW_20180522_113000_Kick_off_-_Kick_off_Special_Champions_FC_Bayern"
-      ],
-      "license_hint": "mixed: many public domain or CC, but uploads can be copyrighted; check each item's license/rights field"
-     },
-     {
-      "source": "NASA Image & Video Library (video)",
-      "hits": 0,
-      "url": "https://images.nasa.gov/search?q=Bayern&page=1&media=video",
-      "examples": [],
-      "license_hint": "generally not copyrighted (US gov); no NASA endorsement implied; third-party content and logos excepted"
-     },
-     {
-      "source": "Library of Congress (film & video)",
-      "hits": 2,
-      "url": "https://www.loc.gov/film-and-videos/?q=Bayern",
-      "examples": [
-       "http://www.loc.gov/item/2021690936/",
-       "http://www.loc.gov/item/2021688276/"
-      ],
-      "license_hint": "varies: many items 'no known restrictions', others rights-restricted; check each item's Rights & Access"
-     }
-    ],
-    "to_verify": [
-     "DVIDS (US military public-domain video): https://www.dvidshub.net/search/?q=Bayern&filter%5Btype%5D=video (API needs a key; not auto-checked)",
-     "National Archives (NARA) catalog: https://catalog.archives.gov/search?q=Bayern&typeOfMaterials=Moving%20Images (API needs a key; not auto-checked)",
-     "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
-     "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
-    ],
-    "confidence": "high",
-    "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
-   }
-  },
-  {
-   "rank": 16,
-   "topic": "Dia Nacional de Zumbi e da Consciência Negra",
-   "heat": 65.0,
-   "status": "rising",
-   "velocity": 0.6,
-   "first_seen": "2026-11-19T11:24:32+00:00",
-   "days_trending": 2,
-   "heat_yesterday": 63.9,
-   "why_hot": "3 source(s): chess, googlenews, wikipedia; Wikipedia views 1.9x vs prior 4-day avg; trending in 2 regions (BR, pt-wiki); wiki_pt #7, 6,229 views, 1.9x vs prior-days avg; gnews_pt #10, Partido dos Trabalhadores",
-   "sources": [
-    "chess",
-    "googlenews",
-    "wikipedia"
-   ],
-   "regions": [
-    "BR",
-    "pt-wiki"
-   ],
-   "broad_appeal": {
-    "n_sources": 3,
-    "n_regions": 2
-   },
-   "entity": null,
-   "paradox_signals": [],
-   "best_channel": null,
-   "channel_fit": {
-    "go-there-instead": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "plan-not-panic": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "chess-blunder-club": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    }
-   },
-   "links": [
-    {
-     "source": "googlenews",
-     "title": "‘Celebrar a Consciência Negra é reafirmar a luta por democracia, reparação e igualdade’",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd2loeVJyVjhHSU81amhSZV9xVWZQUFFoNjlTQnZHTWpqSTdOQU1tOHZjR2p3ckFaVmplNVBMbldLenNxNjhkbG5nSFNiR3dmdEdHeTlUd1VxcUM1QWJQRDFqLUtQUHI1akFnQko1TmE0VDZ0amRTWkxScDRTM216cXF0ckxFaXNGRC12RVpWMFNkQTRuREpKaDFfaFhrUFlhX21rX1R30gGuAUFVX3lxTE45RXhVT0RJaE1aNGdfeGpRN1d1dXFOU0FTMFA5dnJsVlNkc2FINzh1M0VsX0xnZ1lKNFZoNU5uYV83TDRtMzRBdjNESGlwR0dTUmRxa19DREc5bk52RHZyRE5EUnpraU55X1h5dXVCN3dvNWctVk5zaHp2a1pfQmQwVVh5M21nNUN6VEU2cUR3SG5OVHptVmdpSmVMaV9rZGo5a25zRWdVeHpNRnlZUQ?oc=5",
-     "metric": "gnews_pt #10, Partido dos Trabalhadores"
-    },
-    {
-     "source": "chess",
-     "title": "Feriado da Consciência Negra altera funcionamento de serviços públicos estaduais",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYk9JWDBaaXpZRnlEMDBqUVhRRVFXLW15LTdVeGFqaG0xS1FBbi1VZldQRTdmSjJLbkhxRm02SDVsblM3QURMTFYzdC01YTNIQUI0WDZWbjV2OWt6Q2ZwNS1NbTRZdW9Jd3RFd0h4UkVOYkpRcUlMc0JhZUZUZC10UE1va01xaFROQ1I2UFY2T1hCc2xnWExodEJOdlNpdnRoMVJ4ci0zZTNtQURRV2JUTGJSOWQ?oc=5",
-     "metric": "gnews_xadrez_pt #31, O Xadrez da Política"
-    },
-    {
-     "source": "wikipedia",
-     "title": "Dia Nacional de Zumbi e da Consciência Negra",
-     "url": "https://pt.wikipedia.org/wiki/Dia_Nacional_de_Zumbi_e_da_Consci%C3%AAncia_Negra",
-     "metric": "wiki_pt #7, 6,229 views, 1.9x vs prior-days avg"
-    }
-   ],
-   "keys": [
-    "consciencia negra",
-    "dia nacional de zumbi e da consciencia negra"
-   ],
-   "related_topics": []
-  },
-  {
-   "rank": 17,
-   "topic": "Kane",
-   "heat": 64.1,
-   "status": "rising",
-   "velocity": 1.0,
-   "first_seen": "2026-11-20T23:26:37+00:00",
-   "days_trending": 1,
-   "heat_yesterday": null,
-   "why_hot": "2 source(s): googlenews, x; trending in 2 regions (GB, MX); X trend MX #19, 39,087 posts; Sports #3, 5 outlets in cluster",
-   "sources": [
-    "googlenews",
-    "x"
-   ],
-   "regions": [
-    "GB",
-    "MX"
-   ],
-   "broad_appeal": {
-    "n_sources": 2,
-    "n_regions": 2
-   },
-   "entity": {
-    "qid": "Q13570642",
-    "type": "other",
-    "description": "family name",
-    "matched_via": "wikidata search 'Kane' -> Kane",
-    "url": "https://www.wikidata.org/wiki/Q13570642"
-   },
-   "paradox_signals": [],
-   "best_channel": null,
-   "channel_fit": {
-    "go-there-instead": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "plan-not-panic": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "chess-blunder-club": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    }
-   },
-   "links": [
-    {
-     "source": "x",
-     "title": "Kane",
-     "url": "https://x.com/search?q=Kane",
-     "metric": "X trend GB #34, 39,087 posts"
-    },
-    {
-     "source": "x",
-     "title": "Kane",
-     "url": "https://x.com/search?q=Kane",
-     "metric": "X trend MX #19, 39,087 posts"
-    },
-    {
-     "source": "googlenews",
-     "title": "Ballon d'Or winner Harry Kane out a 'few months' after ankle injury",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObndkRmpvTEpQd3JZNVU0UC1GTUdIQTlpTmo3YXVxdG9JYXI3LTV4b09ISFNQRlRPOFNjYzNGOTB4Rmd5M0JVbjlBcnpIemNySDFXaTFYS1loUkl2Ykk2UHFEdkJaV0xnQ0pBaHBvQnNyaFAtODd0dllqMUtlOHlYbzFGTm5hQQ?oc=5",
-     "metric": "Sports #3, 5 outlets in cluster"
-    }
-   ],
-   "keys": [
-    "kane"
-   ],
-   "related_topics": []
-  },
-  {
-   "rank": 18,
-   "topic": "Vietnam",
-   "heat": 63.7,
-   "status": "steady",
-   "velocity": 0.0,
-   "first_seen": "2026-11-18T08:12:45+00:00",
-   "days_trending": 2,
-   "heat_yesterday": null,
-   "why_hot": "3 source(s): oddities, travel, x; X trend MX #17, 23,515 posts",
-   "sources": [
-    "oddities",
-    "travel",
-    "x"
-   ],
-   "regions": [
-    "MX"
-   ],
-   "broad_appeal": {
-    "n_sources": 3,
-    "n_regions": 1
-   },
-   "entity": {
-    "qid": "Q881",
-    "type": "other",
-    "description": "country in Southeast Asia",
-    "matched_via": "wikidata search 'Vietnam' -> Vietnam",
-    "url": "https://www.wikidata.org/wiki/Q881"
-   },
-   "paradox_signals": [
-    "record",
-    "why"
-   ],
-   "best_channel": "go-there-instead",
-   "channel_fit": {
-    "go-there-instead": {
-     "score": 90,
-     "strong": [
-      "travelers",
-      "new route",
-      "visa"
-     ],
-     "weak": [],
-     "angle_hint": "Travel news in 30s: what Vietnam means for your trip, and the smarter place or route to pick instead"
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "plan-not-panic": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "chess-blunder-club": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "military-unclassified": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    }
-   },
-   "links": [
-    {
-     "source": "travel",
-     "title": "Vietnam",
-     "url": "https://en.wikivoyage.org/wiki/Vietnam",
-     "metric": "wikivoyage_top #23, 105 views"
-    },
-    {
-     "source": "x",
-     "title": "Vietnam",
-     "url": "https://x.com/search?q=Vietnam",
-     "metric": "X trend MX #17, 23,515 posts"
-    },
-    {
-     "source": "travel",
-     "title": "Samsung Wallet Now Supports Visa QR Payments for Singapore Travelers in Malaysia, Vietnam",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTjhaTl8xR25oUmtpeEVTY0IxWTI5VXVaN0RWazl1VVBhRVVKMS0tTlF1UFUzd0R2QU5JSGdWNmNLQmNQZUV2cnVwd012a3R1SG51VjRHTkpSZ2o1NEVJVERQTG9QVFpOUjZLUGhLWWdyMzdranZQSndmSTQ5NlBWUm9qM0xUSUFWUHN1NA?oc=5",
-     "metric": "gnews_visa #8, TechRepublic"
-    },
-    {
-     "source": "oddities",
-     "title": "Binh Lam Champa Tower in Tuy Phước Đông, Vietnam",
-     "url": "https://www.atlasobscura.com/places/binh-lam-champa-tower",
-     "metric": "atlasobscura #10"
-    },
-    {
-     "source": "travel",
-     "title": "Why Vietnam should be your next new route: a record air market growing at 9%",
-     "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPX29MV2NIOEpfQnl0WkxBcnVDZy1PM2hERkUxc0NBQjQ5aTkyMVhaVEhpeG9fcVZwcEdnM0x1RmxHNG9YVS1lYVNmQkNvcE50ZkVYZnVEdk1fWl9PeEI3c2dING4tdGlYUWNyOVhMNDA4X056aUQ1a294NlZNZHZhZjd1YW9lbF94WTc2WFpIV0Rsek9DZ1hTb2lqR3hMLVdQMVFNV2JxVEExVEhwM0hvenliUkw1QlBYaW5FTlpHYXctdGZzY0lqOWxoSHJud0JOV3lLTEZvNHc2NlJxLUxwSDlfMUZXMFB3NHlwNWg5dEt4cmZJVUl5Mm9JemJRd2ZadnNLY2M5WDJaM1FzWG01R3IxQUlzSHYxREoyZk9KSQ?oc=5",
-     "metric": "gnews_airlines #20, Routesonline"
-    }
-   ],
-   "keys": [
-    "vietnam"
-   ],
-   "related_topics": []
-  },
-  {
-   "rank": 19,
    "topic": "Jensen Huang",
-   "heat": 63.1,
+   "heat": 62.4,
    "status": "steady",
    "velocity": 0.0,
    "first_seen": "2026-11-18T08:15:04+00:00",
    "days_trending": 3,
    "heat_yesterday": 71.1,
-   "why_hot": "3 source(s): googlenews, wikipedia, youtube; Wikipedia views 0.4x vs prior 4-day avg; 59,651 views, 0.4x vs prior 4-day avg; Business #6, 5 outlets in cluster; YouTube most popular US/science-tech #46: 1,647,033 views, 146h old, Virej",
+   "why_hot": "3 source(s): googlenews, wikipedia, youtube; Wikipedia views 0.4x vs prior 4-day avg; 59,651 views, 0.4x vs prior 4-day avg; Business #8, 5 outlets in cluster; YouTube most popular US/science-tech #46: 1,647,414 views, 146h old, Virej",
    "sources": [
     "googlenews",
     "wikipedia",
@@ -3335,6 +2672,12 @@
      "strong": [],
      "weak": [],
      "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
     }
    },
    "links": [
@@ -3348,30 +2691,77 @@
      "source": "googlenews",
      "title": "How Jensen Huang Made Humiliation Routine at Nvidia",
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV2xjNVlQNGJaN0dDY0FnLXZORHhwdG9nRlRaSU0zRHpSOXkzZ1VQQkNuQ0VaZzJ5ODc0blhmUFZzOVdRXzhLUmYtcUZMd2hOam1yWmxfMVpoZGpfaFJ2MXh6aTBUTF9UNGFJWksydE9SdWMzRWJCeGRqRHJnT0k0Y3I5ak0?oc=5",
-     "metric": "Business #6, 5 outlets in cluster"
+     "metric": "Business #8, 5 outlets in cluster"
     },
     {
      "source": "youtube",
      "title": "Jensen Huang Nvidia on the iphone duo #shorts",
      "url": "https://www.youtube.com/watch?v=GC49MKwRIVY",
-     "metric": "YouTube most popular US/science-tech #46: 1,647,033 views, 146h old, Virej"
+     "metric": "YouTube most popular US/science-tech #46: 1,647,414 views, 146h old, Virej"
     },
     {
      "source": "googlenews",
      "title": "Trump critiques Jensen Huang's replacement as he wades deeper into Nvidia turmoil",
      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQS3ZvR0JvcjNIRU9VTzVSbC1DS3hRZUc5Nkk0dkVQaUFuSFVuN3Q2TGt3Ny1wNWtJejZvRHFoUDNwRWhqSlJ4RnNTbXIxbVRkTWg3bmNFVkVEQXVhbzk0MHNzb0dKaG9OQkRwWWR4ZTZrWjZsUml1Smtuekg2cnRwVm55Y1pSdTEwWi1hb0o4Zm5yd29YdWxua3NLbGtkYmlUSHJLUWJLNUJHQTlOYTVpV2VlbTlVUUcxcUg2WWVKdGpoc0VVRDNMYUNCamJvQ2ZKMzJV?oc=5",
-     "metric": "Business #22, 5 outlets in cluster"
+     "metric": "Business #24, 5 outlets in cluster"
     }
    ],
    "keys": [
     "jensen huang"
    ],
-   "related_topics": []
+   "related_topics": [],
+   "footage": {
+    "query": "Jensen Huang",
+    "checked": [
+     {
+      "source": "Wikimedia Commons (video)",
+      "hits": 3,
+      "url": "https://commons.wikimedia.org/w/index.php?search=Jensen%20Huang%20filetype%3Avideo&ns6=1",
+      "examples": [
+       "https://commons.wikimedia.org/wiki/File:PM_Modi_is_such_an_incredible_student,_NVIDIA_CEO_Jensen_Huang.webm",
+       "https://commons.wikimedia.org/wiki/File:Gigabyte_AmpereOne_Arm_Server,_Ampere_Altra_Max_ATX_Motherboards,_Nvidia_Grace_Hopper,_Liquid_Cooled.webm"
+      ],
+      "license_hint": "per-file license (mostly CC BY / CC BY-SA / public domain): check the file page and credit as required"
+     },
+     {
+      "source": "Internet Archive (movies)",
+      "hits": 88,
+      "url": "https://archive.org/search?query=title%3A%28Jensen%20Huang%29&and[]=mediatype%3A%22movies%22",
+      "examples": [
+       "https://archive.org/details/b677020c-f3ac-46ab-8984-83aa2145281b",
+       "https://archive.org/details/archive-org_c020e8e93ec2c1b694baa0c9f8d805116696582f"
+      ],
+      "license_hint": "mixed: many public domain or CC, but uploads can be copyrighted; check each item's license/rights field"
+     },
+     {
+      "source": "NASA Image & Video Library (video)",
+      "hits": 0,
+      "url": "https://images.nasa.gov/search?q=Jensen%20Huang&page=1&media=video",
+      "examples": [],
+      "license_hint": "generally not copyrighted (US gov); no NASA endorsement implied; third-party content and logos excepted"
+     },
+     {
+      "source": "Library of Congress (film & video)",
+      "hits": 0,
+      "url": "https://www.loc.gov/film-and-videos/?q=Jensen%20Huang",
+      "examples": [],
+      "license_hint": "varies: many items 'no known restrictions', others rights-restricted; check each item's Rights & Access"
+     }
+    ],
+    "to_verify": [
+     "DVIDS (US military public-domain video): https://www.dvidshub.net/search/?q=Jensen%20Huang&filter%5Btype%5D=video (API needs a key; not auto-checked)",
+     "National Archives (NARA) catalog: https://catalog.archives.gov/search?q=Jensen%20Huang&typeOfMaterials=Moving%20Images (API needs a key; not auto-checked)",
+     "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
+     "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
+    ],
+    "confidence": "high",
+    "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
+   }
   },
   {
-   "rank": 20,
+   "rank": 15,
    "topic": "Brexit",
-   "heat": 62.0,
+   "heat": 62.2,
    "status": "rising",
    "velocity": 0.6,
    "first_seen": "2026-11-18T07:18:51+00:00",
@@ -3454,18 +2844,257 @@
      "source": "googlenews",
      "title": "Britain Announces Brexit Reset Deal at E.U. Summit: What to Know",
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBvUU1SLWZGMnpDTVE4bkRqX0RPTGl0eERIWTBwZTZRb3B6bTJheGVXbUNaUkZURlRsNlU2d1lLTGkyUk1ocjNMTkQwUWNEYjU1clVGWnNGSGVsemo3LW1Ja2FzaUtPWVhSNjg4ZGJYejc4cFE0ZkJKNERsX0E?oc=5",
-     "metric": "Top #11, 5 outlets in cluster"
+     "metric": "World #2, 5 outlets in cluster"
     }
    ],
    "keys": [
     "brexit"
    ],
+   "related_topics": [],
+   "footage": {
+    "query": "Brexit",
+    "checked": [
+     {
+      "source": "Wikimedia Commons (video)",
+      "hits": 81,
+      "url": "https://commons.wikimedia.org/w/index.php?search=Brexit%20filetype%3Avideo&ns6=1",
+      "examples": [
+       "https://commons.wikimedia.org/wiki/File:UK_-_Former_Member_of_EU_and_Brexit_Animation.webm",
+       "https://commons.wikimedia.org/wiki/File:Jonathan_Portes_-_Brexit_and_the_UK_Economy.webm"
+      ],
+      "license_hint": "per-file license (mostly CC BY / CC BY-SA / public domain): check the file page and credit as required"
+     },
+     {
+      "source": "Internet Archive (movies)",
+      "hits": 2316,
+      "url": "https://archive.org/search?query=title%3A%28Brexit%29&and[]=mediatype%3A%22movies%22",
+      "examples": [
+       "https://archive.org/details/youtube-DMg4zPm__OU",
+       "https://archive.org/details/youtube-xhUSPrA3uuM"
+      ],
+      "license_hint": "mixed: many public domain or CC, but uploads can be copyrighted; check each item's license/rights field"
+     },
+     {
+      "source": "NASA Image & Video Library (video)",
+      "hits": 0,
+      "url": "https://images.nasa.gov/search?q=Brexit&page=1&media=video",
+      "examples": [],
+      "license_hint": "generally not copyrighted (US gov); no NASA endorsement implied; third-party content and logos excepted"
+     },
+     {
+      "source": "Library of Congress (film & video)",
+      "error": "Expecting value: line 1 column 1 (char 0)",
+      "license_hint": "varies: many items 'no known restrictions', others rights-restricted; check each item's Rights & Access"
+     }
+    ],
+    "to_verify": [
+     "DVIDS (US military public-domain video): https://www.dvidshub.net/search/?q=Brexit&filter%5Btype%5D=video (API needs a key; not auto-checked)",
+     "National Archives (NARA) catalog: https://catalog.archives.gov/search?q=Brexit&typeOfMaterials=Moving%20Images (API needs a key; not auto-checked)",
+     "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
+     "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
+    ],
+    "confidence": "high",
+    "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
+   }
+  },
+  {
+   "rank": 16,
+   "topic": "Light-Day From Earth",
+   "heat": 60.6,
+   "status": "rising",
+   "velocity": 0.41,
+   "first_seen": "2026-11-20T11:23:20+00:00",
+   "days_trending": 1,
+   "heat_yesterday": null,
+   "why_hot": "3 source(s): googlenews, oddities, space; Science #5, 5 outlets in cluster",
+   "sources": [
+    "googlenews",
+    "oddities",
+    "space"
+   ],
+   "regions": [],
+   "broad_appeal": {
+    "n_sources": 3,
+    "n_regions": 0
+   },
+   "entity": null,
+   "paradox_signals": [],
+   "best_channel": null,
+   "channel_fit": {
+    "go-there-instead": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "strong": [],
+     "weak": [
+      "history"
+     ],
+     "angle_hint": null
+    },
+    "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    }
+   },
+   "links": [
+    {
+     "source": "googlenews",
+     "title": "NASA says Voyager 1 has reached one light-day from Earth",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON1JtQXczWnFranhEV1YyaWMwYVU1XzRvM00zSU9ZNGZzRHdicFV4MmVIWFFQZGFINEEzRE1nU1lJZWlNWmlKellLTk9FcW9WMTJPS3JtUmdRMFd5N1JZMjNsVmhFNmM0WUF2OHQzRXFTRmYzeVhRX0J2NjlwZEYtcjNzWXhRUk8zOFRFaw?oc=5",
+     "metric": "Science #5, 5 outlets in cluster"
+    },
+    {
+     "source": "space",
+     "title": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
+     "url": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/",
+     "metric": "spaceflight_news #19, 36h old, NASA"
+    },
+    {
+     "source": "space",
+     "title": "Voyager 1 Reaches New Milestone: One Light-Day from Earth",
+     "url": "https://spacepolicyonline.com/news/voyager-1-reaches-new-milestone-one-light-day-from-earth/",
+     "metric": "spaceflight_news #24, 47h old, SpacePolicyOnline.com"
+    },
+    {
+     "source": "oddities",
+     "title": "'Out there, moving into the unknown': As Voyager 1 reaches one light-day from Earth, scientists reflect on its past — and its future",
+     "url": "https://www.livescience.com/space/space-exploration/out-there-moving-into-the-unknown-as-voyager-1-reaches-one-light-day-from-earth-scientists-reflect-on-its-past-and-its-future",
+     "metric": "livescience #29"
+    },
+    {
+     "source": "space",
+     "title": "NASA’s Voyager 1 is one light-day from Earth",
+     "url": "https://spaceflightnow.com/2026/11/18/nasas-voyager-1-is-one-light-day-from-earth/",
+     "metric": "spaceflight_news #35, 57h old, Spaceflight Now"
+    }
+   ],
+   "keys": [
+    "light day from earth"
+   ],
    "related_topics": []
   },
   {
-   "rank": 21,
+   "rank": 17,
+   "topic": "Telcel",
+   "heat": 60.4,
+   "status": "steady",
+   "velocity": 0.6,
+   "first_seen": "2026-11-20T23:26:37+00:00",
+   "days_trending": 1,
+   "heat_yesterday": null,
+   "why_hot": "2 source(s): googlenews, x; trending in 2 regions (MX, Worldwide); X trend Worldwide #13, 16,044 posts; gnews_es #4, La Jornada",
+   "sources": [
+    "googlenews",
+    "x"
+   ],
+   "regions": [
+    "MX",
+    "Worldwide"
+   ],
+   "broad_appeal": {
+    "n_sources": 2,
+    "n_regions": 2
+   },
+   "entity": {
+    "qid": "Q3517255",
+    "type": "company",
+    "description": "Mobile telephony operator in Mexico",
+    "matched_via": "wikidata search 'Telcel' -> Telcel",
+    "url": "https://www.wikidata.org/wiki/Q3517255"
+   },
+   "paradox_signals": [],
+   "best_channel": null,
+   "channel_fit": {
+    "go-there-instead": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    }
+   },
+   "links": [
+    {
+     "source": "googlenews",
+     "title": "Telcel reconoce falla por trabajos de ampliación; AT&T atribuye problemas a causas externas",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdHNleElwS2V1S0E3MEp3aTRZOEVwZVBJTXFCWk5JU1FjZzZCWFh5MExNUVVlWVlEZlN1ak1IajRVZFY5cmNVME9xQjhzX0k2NGRHUlNLRnJWaDJFcDV4eHRhckdkV2JZbmVnQVVQOXlkMnFDaW9NODNsQ3RoYVQwNUp1d3pYandpY0lFanNNV0tBR2ZXRTQ0Mzh5d0tZWkZjOVZENEpMMThwVFdIanRRbWJ4R3ppeEJrY3ByNDV2QVJ0QQ?oc=5",
+     "metric": "gnews_es #4, La Jornada"
+    },
+    {
+     "source": "x",
+     "title": "Telcel",
+     "url": "https://x.com/search?q=Telcel",
+     "metric": "X trend MX #1, 16,044 posts"
+    },
+    {
+     "source": "x",
+     "title": "Telcel",
+     "url": "https://x.com/search?q=Telcel",
+     "metric": "X trend Worldwide #13, 16,044 posts"
+    }
+   ],
+   "keys": [
+    "telcel"
+   ],
+   "related_topics": []
+  },
+  {
+   "rank": 18,
    "topic": "Fiona (hippopotamus)",
-   "heat": 60.0,
+   "heat": 60.3,
    "status": "steady",
    "velocity": 1.0,
    "first_seen": "2026-11-18T18:00:24+00:00",
@@ -3545,7 +3174,7 @@
      "source": "googlenews",
      "title": "Fiona the hippo had hat lodged in small intestine, post-mortem exam shows",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYXoxamFXcVVFOUNXZW00Y1VyV2JQX3NNbmgteVpiQ21kZ1FuYVpqUXAwWDJVdXZhM3VrZkFWZm9aZnVXbjNLTEJXRDY1Y1d0cThKV1dmLUVMeUVKQXB4UGtUVEZxT2JtOGdXcWRpMjI1aW5uczBtREFBR1QyUWxqOVM0Sm9Jelg5M3c?oc=5",
-     "metric": "Top #5, 1 outlets in cluster"
+     "metric": "Top #6, 1 outlets in cluster"
     }
    ],
    "keys": [
@@ -3555,33 +3184,35 @@
    "related_topics": []
   },
   {
-   "rank": 22,
-   "topic": "Telcel",
-   "heat": 60.0,
-   "status": "steady",
+   "rank": 19,
+   "topic": "Bayern",
+   "heat": 59.6,
+   "status": "rising",
    "velocity": 0.6,
    "first_seen": "2026-11-20T23:26:37+00:00",
    "days_trending": 1,
    "heat_yesterday": null,
-   "why_hot": "2 source(s): googlenews, x; trending in 2 regions (MX, Worldwide); X trend Worldwide #13, 16,044 posts; gnews_es #3, La Jornada",
+   "why_hot": "2 source(s): googlenews, x; trending in 4 regions (GB, MX, US, Worldwide); X trend Worldwide #4, 45,755 posts; gnews_es #28, ESPN México",
    "sources": [
     "googlenews",
     "x"
    ],
    "regions": [
+    "GB",
     "MX",
+    "US",
     "Worldwide"
    ],
    "broad_appeal": {
     "n_sources": 2,
-    "n_regions": 2
+    "n_regions": 4
    },
    "entity": {
-    "qid": "Q3517255",
-    "type": "company",
-    "description": "Mobile telephony operator in Mexico",
-    "matched_via": "wikidata search 'Telcel' -> Telcel",
-    "url": "https://www.wikidata.org/wiki/Q3517255"
+    "qid": "Q980",
+    "type": "other",
+    "description": "federated state in the south of Germany",
+    "matched_via": "wikidata search 'Bayern' -> Bavaria",
+    "url": "https://www.wikidata.org/wiki/Q980"
    },
    "paradox_signals": [],
    "best_channel": null,
@@ -3615,35 +3246,175 @@
      "strong": [],
      "weak": [],
      "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
     }
    },
    "links": [
     {
+     "source": "x",
+     "title": "Bayern",
+     "url": "https://x.com/search?q=Bayern",
+     "metric": "X trend GB #20, 45,755 posts"
+    },
+    {
+     "source": "x",
+     "title": "Bayern",
+     "url": "https://x.com/search?q=Bayern",
+     "metric": "X trend MX #14, 45,755 posts"
+    },
+    {
+     "source": "x",
+     "title": "Bayern",
+     "url": "https://x.com/search?q=Bayern",
+     "metric": "X trend Worldwide #4, 45,755 posts"
+    },
+    {
+     "source": "x",
+     "title": "Bayern",
+     "url": "https://x.com/search?q=Bayern",
+     "metric": "X trend US #10, 45,058 posts"
+    },
+    {
      "source": "googlenews",
-     "title": "Telcel reconoce falla por trabajos de ampliación; AT&T atribuye problemas a causas externas",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdHNleElwS2V1S0E3MEp3aTRZOEVwZVBJTXFCWk5JU1FjZzZCWFh5MExNUVVlWVlEZlN1ak1IajRVZFY5cmNVME9xQjhzX0k2NGRHUlNLRnJWaDJFcDV4eHRhckdkV2JZbmVnQVVQOXlkMnFDaW9NODNsQ3RoYVQwNUp1d3pYandpY0lFanNNV0tBR2ZXRTQ0Mzh5d0tZWkZjOVZENEpMMThwVFdIanRRbWJ4R3ppeEJrY3ByNDV2QVJ0QQ?oc=5",
-     "metric": "gnews_es #3, La Jornada"
+     "title": "Preocupación en Bayern: Harry Kane salió lesionado vs. Colonia",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSzk5aXQ2WGFmOEhLdkVZbjd3RkxCaGtndm84bXNEY0VhbEVsR3hZTU5mSzB4d2cwMTRlWldyOWY0am1EMl9GZkU0VGFkTWFNR1RDLWthWURLWkJ4Wmk3MHJaT1R0aXJXV2NaWVBDTjNNSkFxdVBZQXM4eDZlMjh4MC1ZREV1M3BqUUpvMWlYT2lXVGxILXFNWGJ3QjV1clNPN1pzbzF6ZktSQkF1TThldnBrN0s0Q0ZXM1hz?oc=5",
+     "metric": "gnews_es #28, ESPN México"
     },
     {
-     "source": "x",
-     "title": "Telcel",
-     "url": "https://x.com/search?q=Telcel",
-     "metric": "X trend MX #1, 16,044 posts"
-    },
-    {
-     "source": "x",
-     "title": "Telcel",
-     "url": "https://x.com/search?q=Telcel",
-     "metric": "X trend Worldwide #13, 16,044 posts"
+     "source": "googlenews",
+     "title": "Bayern Munich’s Harry Kane facing around three months out with torn ankle ligaments",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOTFIZks1Y25PcDdTN3lYV1U0eXJFY1BQUG8zTzFXMjkzSUlrbUFpcE5uZTJyOG5XN2tDM0R3NGJKWU5NSl92NFNFbWR6Q1Q1Mmo5VHlUTVJEU0hqdGhPbEZ1NnZ3YXBDaDI2WWtEOV9hNUc5aGV5ZXhURjFOdHh1aWRVSTM0aDRaS1lua29YRlJKVGxqU01hVjBTUGF4R1FYMlFjUTJZQUNuUQ?oc=5",
+     "metric": "Top #29, 5 outlets in cluster"
     }
    ],
    "keys": [
-    "telcel"
+    "bayern"
+   ],
+   "related_topics": [
+    "Kane"
+   ]
+  },
+  {
+   "rank": 20,
+   "topic": "Riemann",
+   "heat": 58.5,
+   "status": "steady",
+   "velocity": 0.6,
+   "first_seen": "2026-11-20T23:26:37+00:00",
+   "days_trending": 1,
+   "heat_yesterday": null,
+   "why_hot": "2 source(s): hackernews, x; trending in 3 regions (GB, US, Worldwide); X trend US #5, 42,064 posts; 2386 pts, 1612 comments, 12h old",
+   "sources": [
+    "hackernews",
+    "x"
+   ],
+   "regions": [
+    "GB",
+    "US",
+    "Worldwide"
+   ],
+   "broad_appeal": {
+    "n_sources": 2,
+    "n_regions": 3
+   },
+   "entity": null,
+   "paradox_signals": [],
+   "best_channel": null,
+   "channel_fit": {
+    "go-there-instead": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    }
+   },
+   "links": [
+    {
+     "source": "hackernews",
+     "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+     "url": "https://news.ycombinator.com/item?id=50574968",
+     "metric": "2386 pts, 1612 comments, 12h old"
+    },
+    {
+     "source": "x",
+     "title": "Riemann",
+     "url": "https://x.com/search?q=Riemann",
+     "metric": "X trend Worldwide #11, 42,064 posts"
+    },
+    {
+     "source": "x",
+     "title": "Riemann",
+     "url": "https://x.com/search?q=Riemann",
+     "metric": "X trend US #5, 42,064 posts"
+    },
+    {
+     "source": "hackernews",
+     "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+     "url": "https://news.ycombinator.com/item?id=50578358",
+     "metric": "351 pts, 142 comments, 9h old"
+    },
+    {
+     "source": "hackernews",
+     "title": "Re: Riemann",
+     "url": "https://news.ycombinator.com/item?id=50583982",
+     "metric": "129 pts, 113 comments, 3h old"
+    },
+    {
+     "source": "x",
+     "title": "Riemann Hypothesis",
+     "url": "https://x.com/search?q=Riemann%20Hypothesis",
+     "metric": "X trend GB #41, 33,827 posts"
+    },
+    {
+     "source": "hackernews",
+     "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
+     "url": "https://news.ycombinator.com/item?id=50581084",
+     "metric": "221 pts, 194 comments, 6h old"
+    }
+   ],
+   "keys": [
+    "riemann",
+    "riemann hypothesis"
    ],
    "related_topics": []
   },
   {
-   "rank": 23,
+   "rank": 21,
    "topic": "Rikers",
    "heat": 58.4,
    "status": "steady",
@@ -3651,7 +3422,7 @@
    "first_seen": "2026-11-20T23:26:37+00:00",
    "days_trending": 1,
    "heat_yesterday": null,
-   "why_hot": "2 source(s): googlenews, x; trending in 2 regions (US, Worldwide); X trend US #8, 47,336 posts; Top #4, 5 outlets in cluster",
+   "why_hot": "2 source(s): googlenews, x; trending in 2 regions (US, Worldwide); X trend US #8, 47,336 posts; Top #5, 5 outlets in cluster",
    "sources": [
     "googlenews",
     "x"
@@ -3705,6 +3476,12 @@
      "strong": [],
      "weak": [],
      "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
     }
    },
    "links": [
@@ -3724,13 +3501,7 @@
      "source": "googlenews",
      "title": "Mamdani’s vow to close Rikers Island jail rekindles hope and some skepticism",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNjJKQ2RtbUdaYjB2eUtRYTA4SDJlRHdWaHBrWjhmTjVFTjBoQWs1NDM3MWNZV0hyOThyYVpPUW52NjhzbHJhcklkVGdWWnN6WmlEenJVUFRKM2V5SjlsZUtaa3B2WXd6bDFZYkpNN28xbEhOX0RBOWZYZGxjVVQyTkpVWEl2bC03QmdmWndJNXRoVmZMb1Vuay0wTXdYMF8yZG1SdmxVbVZ0S3VJbldiMg?oc=5",
-     "metric": "Nation #4, 5 outlets in cluster"
-    },
-    {
-     "source": "googlenews",
-     "title": "Mamdani reveals plan for closure of New York's Rikers Island jail",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hY24yQ0VKc3FYUVhGdzk3UG1jVk1JN05XTkRneEQ2RjRsQlBjWlVwcnBGeElOZDBQRFFWb3Njcy1JRlYzMmxpamVJNDZZN0pTczh4MlBrTndjdWM?oc=5",
-     "metric": "Top #4, 5 outlets in cluster"
+     "metric": "Top #5, 5 outlets in cluster"
     }
    ],
    "keys": [
@@ -3739,123 +3510,15 @@
    "related_topics": []
   },
   {
-   "rank": 24,
-   "topic": "Riemann",
-   "heat": 58.3,
-   "status": "steady",
-   "velocity": 0.6,
-   "first_seen": "2026-11-20T23:26:37+00:00",
-   "days_trending": 1,
-   "heat_yesterday": null,
-   "why_hot": "2 source(s): hackernews, x; trending in 3 regions (GB, US, Worldwide); X trend US #5, 42,064 posts; 2381 pts, 1608 comments, 12h old",
-   "sources": [
-    "hackernews",
-    "x"
-   ],
-   "regions": [
-    "GB",
-    "US",
-    "Worldwide"
-   ],
-   "broad_appeal": {
-    "n_sources": 2,
-    "n_regions": 3
-   },
-   "entity": null,
-   "paradox_signals": [],
-   "best_channel": null,
-   "channel_fit": {
-    "go-there-instead": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "plan-not-panic": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "chess-blunder-club": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    }
-   },
-   "links": [
-    {
-     "source": "hackernews",
-     "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
-     "url": "https://news.ycombinator.com/item?id=50574968",
-     "metric": "2381 pts, 1608 comments, 12h old"
-    },
-    {
-     "source": "hackernews",
-     "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
-     "url": "https://news.ycombinator.com/item?id=50578358",
-     "metric": "347 pts, 143 comments, 9h old"
-    },
-    {
-     "source": "x",
-     "title": "Riemann",
-     "url": "https://x.com/search?q=Riemann",
-     "metric": "X trend Worldwide #11, 42,064 posts"
-    },
-    {
-     "source": "x",
-     "title": "Riemann",
-     "url": "https://x.com/search?q=Riemann",
-     "metric": "X trend US #5, 42,064 posts"
-    },
-    {
-     "source": "hackernews",
-     "title": "Re: Riemann",
-     "url": "https://news.ycombinator.com/item?id=50583982",
-     "metric": "122 pts, 105 comments, 2h old"
-    },
-    {
-     "source": "x",
-     "title": "Riemann Hypothesis",
-     "url": "https://x.com/search?q=Riemann%20Hypothesis",
-     "metric": "X trend GB #41, 33,827 posts"
-    },
-    {
-     "source": "hackernews",
-     "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
-     "url": "https://news.ycombinator.com/item?id=50581084",
-     "metric": "220 pts, 191 comments, 6h old"
-    }
-   ],
-   "keys": [
-    "riemann",
-    "riemann hypothesis"
-   ],
-   "related_topics": []
-  },
-  {
-   "rank": 25,
+   "rank": 22,
    "topic": "Grand Theft Auto",
-   "heat": 57.3,
+   "heat": 58.0,
    "status": "steady",
    "velocity": 0.76,
    "first_seen": "2026-11-18T18:00:24+00:00",
    "days_trending": 3,
    "heat_yesterday": 60.7,
-   "why_hot": "2 source(s): googlenews, wikipedia; Wikipedia views 3.2x vs prior 4-day avg; Wikipedia views 2.5x vs prior 4-day avg; 171,292 views, 3.2x vs prior 4-day avg; Technology #9, 5 outlets in cluster",
+   "why_hot": "2 source(s): googlenews, wikipedia; Wikipedia views 3.2x vs prior 4-day avg; Wikipedia views 2.5x vs prior 4-day avg; 171,292 views, 3.2x vs prior 4-day avg; Technology #8, 5 outlets in cluster",
    "sources": [
     "googlenews",
     "wikipedia"
@@ -3907,6 +3570,12 @@
      "strong": [],
      "weak": [],
      "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
     }
    },
    "links": [
@@ -3923,16 +3592,16 @@
      "metric": "108,371 views, 2.5x vs prior 4-day avg"
     },
     {
+     "source": "googlenews",
+     "title": "A visual tour of ‘Grand Theft Auto VI’s’ stunningly realized Miami",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeGhKV0xIVE1UajJRRnVTSjdsSS1Od0M1UU9DSWc1VzJ6OTFDWWlfZDkxRWtUTkU3eTBIWW5yWTJnaDFKQUw0NHZDa3RoRlluZXJibXBhVDR3U1N6YUY3RFJPMVZBb0JvZkx0ZDBqT0JORG9EQVh5cnF1ZUluS2tkc0w0eTJXd1ktdm84OHFTS1cyMTJzYTlNTlh3SVhzeFV6T0VvTGNXMDE4WmQ0Y2JZUE5kQWRzTG5zTkNB?oc=5",
+     "metric": "Technology #8, 5 outlets in cluster"
+    },
+    {
      "source": "wikipedia",
      "title": "Grand Theft Auto (video game)",
      "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_(video_game)",
      "metric": "52,109 views, 3.3x vs prior 4-day avg"
-    },
-    {
-     "source": "googlenews",
-     "title": "A visual tour of ‘Grand Theft Auto VI’s’ stunningly realized Miami",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeGhKV0xIVE1UajJRRnVTSjdsSS1Od0M1UU9DSWc1VzJ6OTFDWWlfZDkxRWtUTkU3eTBIWW5yWTJnaDFKQUw0NHZDa3RoRlluZXJibXBhVDR3U1N6YUY3RFJPMVZBb0JvZkx0ZDBqT0JORG9EQVh5cnF1ZUluS2tkc0w0eTJXd1ktdm84OHFTS1cyMTJzYTlNTlh3SVhzeFV6T0VvTGNXMDE4WmQ0Y2JZUE5kQWRzTG5zTkNB?oc=5",
-     "metric": "Technology #9, 5 outlets in cluster"
     },
     {
      "source": "wikipedia",
@@ -3969,12 +3638,95 @@
    "related_topics": []
   },
   {
-   "rank": 26,
-   "topic": "Dodgers",
-   "heat": 51.3,
+   "rank": 23,
+   "topic": "Los juegos del hambre: amanecer en la cosecha",
+   "heat": 52.4,
    "status": "new",
    "velocity": 0.6,
-   "first_seen": "2026-11-20T23:26:37+00:00",
+   "first_seen": null,
+   "days_trending": 0,
+   "heat_yesterday": null,
+   "why_hot": "2 source(s): googletrends, wikipedia; Wikipedia views 2.5x vs prior 4-day avg; trending in 2 regions (MX, es-wiki); wiki_es #16, 10,456 views, 2.5x vs prior-days avg; MX: 2000+ searches",
+   "sources": [
+    "googletrends",
+    "wikipedia"
+   ],
+   "regions": [
+    "MX",
+    "es-wiki"
+   ],
+   "broad_appeal": {
+    "n_sources": 2,
+    "n_regions": 2
+   },
+   "entity": null,
+   "paradox_signals": [],
+   "best_channel": null,
+   "channel_fit": {
+    "go-there-instead": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    }
+   },
+   "links": [
+    {
+     "source": "googletrends",
+     "title": "los juegos del hambre",
+     "url": "https://trends.google.com/trends/explore?geo=MX&q=los%20juegos%20del%20hambre",
+     "metric": "MX: 2000+ searches"
+    },
+    {
+     "source": "wikipedia",
+     "title": "Los juegos del hambre: amanecer en la cosecha",
+     "url": "https://es.wikipedia.org/wiki/Los_juegos_del_hambre%3A_amanecer_en_la_cosecha",
+     "metric": "wiki_es #16, 10,456 views, 2.5x vs prior-days avg"
+    }
+   ],
+   "keys": [
+    "los juegos del hambre",
+    "los juegos del hambre amanecer en la cosecha"
+   ],
+   "related_topics": []
+  },
+  {
+   "rank": 24,
+   "topic": "Dodgers",
+   "heat": 51.9,
+   "status": "steady",
+   "velocity": 0.6,
+   "first_seen": "2026-11-21T02:11:18+00:00",
    "days_trending": 1,
    "heat_yesterday": null,
    "why_hot": "2 source(s): googlenews, x; trending in 2 regions (US, Worldwide); X trend US #4, 7,906 posts; Sports #11, 5 outlets in cluster",
@@ -4065,15 +3817,15 @@
    ]
   },
   {
-   "rank": 27,
+   "rank": 25,
    "topic": "The Hunger Games: Sunrise on the Reaping",
-   "heat": 49.8,
+   "heat": 50.4,
    "status": "steady",
    "velocity": 0.28,
    "first_seen": "2026-11-18T07:18:51+00:00",
    "days_trending": 3,
    "heat_yesterday": 45.7,
-   "why_hot": "2 source(s): googlenews, wikipedia; Wikipedia views 1.8x vs prior 4-day avg; Wikipedia views 2.1x vs prior 4-day avg; 121,672 views, 1.8x vs prior 4-day avg; Entertainment #9, 5 outlets in cluster",
+   "why_hot": "2 source(s): googlenews, wikipedia; Wikipedia views 1.8x vs prior 4-day avg; Wikipedia views 2.1x vs prior 4-day avg; 121,672 views, 1.8x vs prior 4-day avg; Entertainment #8, 5 outlets in cluster",
    "sources": [
     "googlenews",
     "wikipedia"
@@ -4124,6 +3876,12 @@
      "strong": [],
      "weak": [],
      "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
     }
    },
    "links": [
@@ -4137,13 +3895,13 @@
      "source": "googlenews",
      "title": "Box Office: ‘Hunger Games: Sunrise on the Reaping’ Makes $21 Million in Previews",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc0RSUGhNM1FKRnJTLW1OcFMwdTN3Q052dDd1MkJ6TDVxem5nMTlXbW5scjJxNkxfVnk5YWxIb1lHRElFUjFTbTA3VnNpNTAyNjZQc1lwMHI4MEo4RXJBSmZaSEVOb2dhcXB5MXNtc3NkZ253bTAtQzBoa1RGZGg3dFhNODFIM1RNZWU5eVRidk9mbHBNT3VodzNuNjktOXN0NlRRTTItMA?oc=5",
-     "metric": "Entertainment #9, 5 outlets in cluster"
+     "metric": "Entertainment #8, 5 outlets in cluster"
     },
     {
      "source": "googlenews",
      "title": "Northfield’s Ben Wang takes us behind the scenes of ‘Hunger Games’ film",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSHNWbTY3aGphaUpyeG1HQU9uQW9kdndhVWlaVjByNTZKUXNCdVRnOWNBLUZVaEpjeHhvTTd6QUVRcXdYblFyTkR6b29rZ2dDeU94dWY4eE1uWVFmYWVnNmpVdTNIYlh5bUVCUDFMSXQxanBrRFlKYVJqMmFlbGpBWlpEQkgxYzIzVlRKbExkMV9BVDNiMWVjZ0lPTkZNakxKNmtzblpCZElMZjNycnJEREJJcnVoY0dJ?oc=5",
-     "metric": "Entertainment #15, 1 outlets in cluster"
+     "metric": "Entertainment #14, 1 outlets in cluster"
     },
     {
      "source": "wikipedia",
@@ -4160,32 +3918,33 @@
    "related_topics": []
   },
   {
-   "rank": 28,
-   "topic": "Home Alone",
-   "heat": 48.7,
-   "status": "new",
-   "velocity": 0.0,
-   "first_seen": null,
-   "days_trending": 0,
+   "rank": 26,
+   "topic": "Royce Lewis",
+   "heat": 48.8,
+   "status": "steady",
+   "velocity": 0.6,
+   "first_seen": "2026-11-21T02:11:18+00:00",
+   "days_trending": 1,
    "heat_yesterday": null,
-   "why_hot": "2 source(s): googlenews, x; X trend US #48, 28,402 posts; Entertainment #2, 5 outlets in cluster",
+   "why_hot": "2 source(s): googlenews, x; trending in 2 regions (US, Worldwide); X trend US #1, 2,536 posts; Sports #12, 5 outlets in cluster",
    "sources": [
     "googlenews",
     "x"
    ],
    "regions": [
-    "US"
+    "US",
+    "Worldwide"
    ],
    "broad_appeal": {
     "n_sources": 2,
-    "n_regions": 1
+    "n_regions": 2
    },
    "entity": {
-    "qid": "Q3627883",
-    "type": "other",
-    "description": "American family comedy film series and media franchise",
-    "matched_via": "wikidata search 'Home Alone' -> Home Alone",
-    "url": "https://www.wikidata.org/wiki/Q3627883"
+    "qid": "Q28777605",
+    "type": "athlete",
+    "description": "American baseball player (born 1999)",
+    "matched_via": "wikidata search 'Royce Lewis' -> Royce Lewis",
+    "url": "https://www.wikidata.org/wiki/Q28777605"
    },
    "paradox_signals": [],
    "best_channel": null,
@@ -4219,31 +3978,47 @@
      "strong": [],
      "weak": [],
      "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
     }
    },
    "links": [
     {
      "source": "x",
-     "title": "Home Alone",
-     "url": "https://x.com/search?q=Home%20Alone",
-     "metric": "X trend US #48, 28,402 posts"
+     "title": "Royce Lewis",
+     "url": "https://x.com/search?q=Royce%20Lewis",
+     "metric": "X trend Worldwide #9, 2,536 posts"
+    },
+    {
+     "source": "x",
+     "title": "Royce Lewis",
+     "url": "https://x.com/search?q=Royce%20Lewis",
+     "metric": "X trend US #1, 2,536 posts"
     },
     {
      "source": "googlenews",
-     "title": "Home Alone sequel reportedly in development with Macaulay Culkin returning",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPekx2NG5zODAweDVram1mQTdlbGhEZ0ZjS3FyQnRUd0ctdXRuTGhZNFlCWlhhWVBRUHFzYm1scUFHRnlfOU51cWRXYy1HZ1RZdGlhb1ZMYmhOaHBUeDlOUENBc1hOZktOQmJIZ3NWZGJsVE03T1FCRHhERER5LTdBVFUtTEk?oc=5",
-     "metric": "Entertainment #2, 5 outlets in cluster"
+     "title": "Twins, Dodgers Swap Royce Lewis For Bobby Miller",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJai1UcW5vX2h4TGVtamZtNTBxSlBSdzN3ZndvdEU4ZDBmQk52ZldjNXprNGxyS0daMTNMaWczWW4xYmw0YlVtQkl1Y0lSUTFKajA1TmdUWkxXZVhxaVZsdXdKV3ZaUUp5UVQ3aVA1OG9SS3RqWkhrZFpBNA?oc=5",
+     "metric": "Sports #12, 5 outlets in cluster"
     }
    ],
    "keys": [
-    "home alone"
+    "royce lewis"
    ],
-   "related_topics": []
+   "related_topics": [
+    "Dodgers",
+    "Bobby Miller",
+    "Twins"
+   ]
   },
   {
-   "rank": 29,
+   "rank": 27,
    "topic": "Robert Pattinson",
-   "heat": 48.1,
+   "heat": 48.3,
    "status": "steady",
    "velocity": 0.6,
    "first_seen": "2026-11-18T07:18:51+00:00",
@@ -4338,16 +4113,12 @@
    "keys": [
     "robert pattinson"
    ],
-   "related_topics": [
-    "Dodgers",
-    "Bobby Miller",
-    "Twins"
-   ]
+   "related_topics": []
   },
   {
-   "rank": 30,
+   "rank": 28,
    "topic": "Colts",
-   "heat": 47.9,
+   "heat": 48.2,
    "status": "steady",
    "velocity": 0.6,
    "first_seen": "2026-11-20T02:18:11+00:00",
@@ -4443,7 +4214,7 @@
      "source": "googlenews",
      "title": "C.J. Stroud stays in 'groove' with another 3-TD night in Texans' blowout of Colts",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN2Vqc3NNZXZ0VDBCNGpYNzRKM1VCZFYyNXlidjl3VmdaUVRPNktJWW51bWFmR1NfWXhnNHhVSmJFN1R3Wk96WWQ5MWxfMUt4MDBuNUtDN2VQNGNGS2o1dHN2NlNHcHlaWExPS2RTMHBxYkkwaU40T0dmWTlrRDdibFFGZUtQRWU4R2JQN1VpQWxLZw?oc=5",
-     "metric": "Sports #30, 5 outlets in cluster"
+     "metric": "Sports #28, 5 outlets in cluster"
     }
    ],
    "keys": [
@@ -4454,7 +4225,7 @@
    ]
   },
   {
-   "rank": 31,
+   "rank": 29,
    "topic": "Revolución mexicana",
    "heat": 47.9,
    "status": "steady",
@@ -4549,15 +4320,15 @@
    "related_topics": []
   },
   {
-   "rank": 32,
+   "rank": 30,
    "topic": "Playa del Carmen",
-   "heat": 46.8,
+   "heat": 47.7,
    "status": "steady",
    "velocity": 0.0,
    "first_seen": "2026-11-20T23:26:37+00:00",
    "days_trending": 1,
    "heat_yesterday": null,
-   "why_hot": "2 source(s): googlenews, x; X trend MX #28, 3,650 posts; gnews_es #10, EL PAÍS",
+   "why_hot": "2 source(s): googlenews, x; X trend MX #28, 3,650 posts; gnews_es #9, EL PAÍS",
    "sources": [
     "googlenews",
     "x"
@@ -4615,7 +4386,7 @@
      "source": "googlenews",
      "title": "Detenida en Ciudad de México la exalcaldesa de Playa del Carmen Lili Campos",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYXVpano2d0RGZ3BwbEdyTmdzbVYyQklQVEx4eHkzOGJQa18weXVKOGgyd05XOEpCTk92YXhBem1TSmtJTENNMDRuLWpxdGJ4RW9JOWZBQzBDQS1HZzkzT1NrZEttNC01YkNSekcxTDBORk82cERaNlQ2bVYwUFl2TUdTb1A1M29hNmh1VFJlXzZSXzB1aWR5U0lrNG9naGtZSlJMZTk4Zk96ZTFQQmpONUhRdzBLRnFP?oc=5",
-     "metric": "gnews_es #10, EL PAÍS"
+     "metric": "gnews_es #9, EL PAÍS"
     },
     {
      "source": "x",
@@ -4626,6 +4397,186 @@
    ],
    "keys": [
     "playa del carmen"
+   ],
+   "related_topics": []
+  },
+  {
+   "rank": 31,
+   "topic": "Achilles",
+   "heat": 45.6,
+   "status": "steady",
+   "velocity": 0.0,
+   "first_seen": "2026-11-20T23:26:37+00:00",
+   "days_trending": 1,
+   "heat_yesterday": null,
+   "why_hot": "2 source(s): googlenews, x; X trend US #27, 21,304 posts; Sports #9, 5 outlets in cluster",
+   "sources": [
+    "googlenews",
+    "x"
+   ],
+   "regions": [
+    "US"
+   ],
+   "broad_appeal": {
+    "n_sources": 2,
+    "n_regions": 1
+   },
+   "entity": {
+    "qid": "Q41746",
+    "type": "other",
+    "description": "Greek mythological hero of the Trojan War",
+    "matched_via": "wikidata search 'Achilles' -> Achilles",
+    "url": "https://www.wikidata.org/wiki/Q41746"
+   },
+   "paradox_signals": [],
+   "best_channel": null,
+   "channel_fit": {
+    "go-there-instead": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    }
+   },
+   "links": [
+    {
+     "source": "x",
+     "title": "Achilles",
+     "url": "https://x.com/search?q=Achilles",
+     "metric": "X trend US #27, 21,304 posts"
+    },
+    {
+     "source": "googlenews",
+     "title": "Mamdani tears Achilles tendon while playing soccer",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYU9Bcnp4SklNcXYyNFpBTkt4YkxkS2tkQklVMlhCYVZmcjBhNk9qbG9UaUE1WUpRWVJOdHhIRlhPVENOUF8wZlFsVk9Sdm1CRy1kd0d4TVZBZkZoOXhyLUU0VnFJOF9rYk5LQkdqLVAzZlZuVGlidEU1MWxkRHNpMmxRSEF2WTZaNVBDSHpDV0Nub0VpRTlBMG15dGtmV3lMRHc?oc=5",
+     "metric": "Sports #9, 5 outlets in cluster"
+    },
+    {
+     "source": "googlenews",
+     "title": "49ers’ Mike Evans on track to play vs. Vikings after missing past month with Achilles injury - The Athletic",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdTBxOWFyVjJFbjBpNzc0YW03eTBPY1FIT25BZFFsVENDYWNjak1uT0ZsMGtSMk1FSjc0QzZlQnJ4NWpJclFwR2tYWnl5bGxTTFZRVE1ySnVJc1lFOXh0dGV2X05PNTk5S3NmWWVYUlNMdGtqX2VyZ19oeWtlN0FJc3hwZy13SGVoWVhYY1JpR0F6X2FSbUE?oc=5",
+     "metric": "Sports #20, 5 outlets in cluster"
+    }
+   ],
+   "keys": [
+    "achilles"
+   ],
+   "related_topics": []
+  },
+  {
+   "rank": 32,
+   "topic": "Puka",
+   "heat": 45.6,
+   "status": "steady",
+   "velocity": 0.0,
+   "first_seen": "2026-11-19T23:25:15+00:00",
+   "days_trending": 2,
+   "heat_yesterday": 43.4,
+   "why_hot": "2 source(s): googlenews, x; X trend US #29, 14,207 posts; Sports #8, 5 outlets in cluster",
+   "sources": [
+    "googlenews",
+    "x"
+   ],
+   "regions": [
+    "US"
+   ],
+   "broad_appeal": {
+    "n_sources": 2,
+    "n_regions": 1
+   },
+   "entity": {
+    "qid": "Q37082477",
+    "type": "other",
+    "description": "family name",
+    "matched_via": "wikidata search 'Puka' -> Puka",
+    "url": "https://www.wikidata.org/wiki/Q37082477"
+   },
+   "paradox_signals": [],
+   "best_channel": null,
+   "channel_fit": {
+    "go-there-instead": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    }
+   },
+   "links": [
+    {
+     "source": "x",
+     "title": "Puka",
+     "url": "https://x.com/search?q=Puka",
+     "metric": "X trend US #29, 14,207 posts"
+    },
+    {
+     "source": "googlenews",
+     "title": "Puka Nacua has knee surgery, likely out for season in latest setback for Rams",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQUJTUVc4bjlCMkE1bXgzal9tNVU3NGdtbVpCV0dqNXF1a0haZ1VUV2pUZXR2OUdrMGJCQ0d4cjZ0QTZ2NlVKOXJ6eUFkX0FfY1J6VzhjUTJpZ2RVdC1DY3ZUamQtVWxnNTZoNjlKVW1iRUkzV2lLdDhhTFNtZ3U5cUxORzdFRVd2b3FMX2N3NVV4QTlueVlkTmNPN1Fta2s?oc=5",
+     "metric": "Sports #8, 5 outlets in cluster"
+    }
+   ],
+   "keys": [
+    "puka"
    ],
    "related_topics": []
   },
@@ -4731,346 +4682,8 @@
   },
   {
    "rank": 34,
-   "topic": "Puka",
-   "heat": 45.0,
-   "status": "steady",
-   "velocity": 0.0,
-   "first_seen": "2026-11-19T23:25:15+00:00",
-   "days_trending": 2,
-   "heat_yesterday": 43.4,
-   "why_hot": "2 source(s): googlenews, x; X trend US #29, 14,207 posts; Sports #8, 5 outlets in cluster",
-   "sources": [
-    "googlenews",
-    "x"
-   ],
-   "regions": [
-    "US"
-   ],
-   "broad_appeal": {
-    "n_sources": 2,
-    "n_regions": 1
-   },
-   "entity": {
-    "qid": "Q37082477",
-    "type": "other",
-    "description": "family name",
-    "matched_via": "wikidata search 'Puka' -> Puka",
-    "url": "https://www.wikidata.org/wiki/Q37082477"
-   },
-   "paradox_signals": [],
-   "best_channel": null,
-   "channel_fit": {
-    "go-there-instead": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "plan-not-panic": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "chess-blunder-club": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    }
-   },
-   "links": [
-    {
-     "source": "x",
-     "title": "Puka",
-     "url": "https://x.com/search?q=Puka",
-     "metric": "X trend US #29, 14,207 posts"
-    },
-    {
-     "source": "googlenews",
-     "title": "Puka Nacua has knee surgery, likely out for season in latest setback for Rams",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQUJTUVc4bjlCMkE1bXgzal9tNVU3NGdtbVpCV0dqNXF1a0haZ1VUV2pUZXR2OUdrMGJCQ0d4cjZ0QTZ2NlVKOXJ6eUFkX0FfY1J6VzhjUTJpZ2RVdC1DY3ZUamQtVWxnNTZoNjlKVW1iRUkzV2lLdDhhTFNtZ3U5cUxORzdFRVd2b3FMX2N3NVV4QTlueVlkTmNPN1Fta2s?oc=5",
-     "metric": "Sports #8, 5 outlets in cluster"
-    }
-   ],
-   "keys": [
-    "puka"
-   ],
-   "related_topics": []
-  },
-  {
-   "rank": 35,
-   "topic": "Achilles",
-   "heat": 44.5,
-   "status": "steady",
-   "velocity": 0.0,
-   "first_seen": "2026-11-20T23:26:37+00:00",
-   "days_trending": 1,
-   "heat_yesterday": null,
-   "why_hot": "2 source(s): googlenews, x; X trend US #27, 21,304 posts; Sports #10, 5 outlets in cluster",
-   "sources": [
-    "googlenews",
-    "x"
-   ],
-   "regions": [
-    "US"
-   ],
-   "broad_appeal": {
-    "n_sources": 2,
-    "n_regions": 1
-   },
-   "entity": {
-    "qid": "Q41746",
-    "type": "other",
-    "description": "Greek mythological hero of the Trojan War",
-    "matched_via": "wikidata search 'Achilles' -> Achilles",
-    "url": "https://www.wikidata.org/wiki/Q41746"
-   },
-   "paradox_signals": [],
-   "best_channel": null,
-   "channel_fit": {
-    "go-there-instead": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "plan-not-panic": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "chess-blunder-club": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    }
-   },
-   "links": [
-    {
-     "source": "x",
-     "title": "Achilles",
-     "url": "https://x.com/search?q=Achilles",
-     "metric": "X trend US #27, 21,304 posts"
-    },
-    {
-     "source": "googlenews",
-     "title": "Mamdani tears Achilles tendon while playing soccer",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYU9Bcnp4SklNcXYyNFpBTkt4YkxkS2tkQklVMlhCYVZmcjBhNk9qbG9UaUE1WUpRWVJOdHhIRlhPVENOUF8wZlFsVk9Sdm1CRy1kd0d4TVZBZkZoOXhyLUU0VnFJOF9rYk5LQkdqLVAzZlZuVGlidEU1MWxkRHNpMmxRSEF2WTZaNVBDSHpDV0Nub0VpRTlBMG15dGtmV3lMRHc?oc=5",
-     "metric": "Sports #10, 5 outlets in cluster"
-    },
-    {
-     "source": "googlenews",
-     "title": "49ers’ Mike Evans on track to play vs. Vikings after missing past month with Achilles injury - The Athletic",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdTBxOWFyVjJFbjBpNzc0YW03eTBPY1FIT25BZFFsVENDYWNjak1uT0ZsMGtSMk1FSjc0QzZlQnJ4NWpJclFwR2tYWnl5bGxTTFZRVE1ySnVJc1lFOXh0dGV2X05PNTk5S3NmWWVYUlNMdGtqX2VyZ19oeWtlN0FJc3hwZy13SGVoWVhYY1JpR0F6X2FSbUE?oc=5",
-     "metric": "Sports #22, 5 outlets in cluster"
-    }
-   ],
-   "keys": [
-    "achilles"
-   ],
-   "related_topics": []
-  },
-  {
-   "rank": 36,
-   "topic": "Royce Lewis",
-   "heat": 44.4,
-   "status": "new",
-   "velocity": 0.6,
-   "first_seen": null,
-   "days_trending": 0,
-   "heat_yesterday": null,
-   "why_hot": "2 source(s): googlenews, x; trending in 2 regions (US, Worldwide); X trend US #1, 2,536 posts; Sports #19, 5 outlets in cluster",
-   "sources": [
-    "googlenews",
-    "x"
-   ],
-   "regions": [
-    "US",
-    "Worldwide"
-   ],
-   "broad_appeal": {
-    "n_sources": 2,
-    "n_regions": 2
-   },
-   "entity": {
-    "qid": "Q28777605",
-    "type": "athlete",
-    "description": "American baseball player (born 1999)",
-    "matched_via": "wikidata search 'Royce Lewis' -> Royce Lewis",
-    "url": "https://www.wikidata.org/wiki/Q28777605"
-   },
-   "paradox_signals": [],
-   "best_channel": null,
-   "channel_fit": {
-    "go-there-instead": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "plan-not-panic": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "chess-blunder-club": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    }
-   },
-   "links": [
-    {
-     "source": "x",
-     "title": "Royce Lewis",
-     "url": "https://x.com/search?q=Royce%20Lewis",
-     "metric": "X trend Worldwide #9, 2,536 posts"
-    },
-    {
-     "source": "x",
-     "title": "Royce Lewis",
-     "url": "https://x.com/search?q=Royce%20Lewis",
-     "metric": "X trend US #1, 2,536 posts"
-    },
-    {
-     "source": "googlenews",
-     "title": "Twins, Dodgers Swap Royce Lewis For Bobby Miller",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJai1UcW5vX2h4TGVtamZtNTBxSlBSdzN3ZndvdEU4ZDBmQk52ZldjNXprNGxyS0daMTNMaWczWW4xYmw0YlVtQkl1Y0lSUTFKajA1TmdUWkxXZVhxaVZsdXdKV3ZaUUp5UVQ3aVA1OG9SS3RqWkhrZFpBNA?oc=5",
-     "metric": "Sports #19, 5 outlets in cluster"
-    }
-   ],
-   "keys": [
-    "royce lewis"
-   ],
-   "related_topics": [
-    "Dodgers",
-    "Bobby Miller",
-    "Twins"
-   ]
-  },
-  {
-   "rank": 37,
-   "topic": "PLAYING GTA",
-   "heat": 43.6,
-   "status": "new",
-   "velocity": 0.0,
-   "first_seen": "2026-11-20T23:26:37+00:00",
-   "days_trending": 1,
-   "heat_yesterday": null,
-   "why_hot": "2 source(s): googlenews, youtube; Technology #11, 5 outlets in cluster; YouTube most popular US/overall #9: 2,472,093 views, 1h old, Kai Cenat Live",
-   "sources": [
-    "googlenews",
-    "youtube"
-   ],
-   "regions": [],
-   "broad_appeal": {
-    "n_sources": 2,
-    "n_regions": 0
-   },
-   "entity": null,
-   "paradox_signals": [],
-   "best_channel": null,
-   "channel_fit": {
-    "go-there-instead": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "intern-broke-it": {
-     "score": 0,
-     "strong": [
-      "nvidia"
-     ],
-     "weak": [],
-     "angle_hint": null,
-     "note": "only one strong keyword, and only in headlines"
-    },
-    "plan-not-panic": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "silver-paradox": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    },
-    "chess-blunder-club": {
-     "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
-    }
-   },
-   "links": [
-    {
-     "source": "youtube",
-     "title": "🌴PLAYING GTA 6 FOR THE FIRST TIME🌴 (DAY 3)",
-     "url": "https://www.youtube.com/watch?v=LHoHInbPkk0",
-     "metric": "YouTube most popular US/overall #9: 2,472,093 views, 1h old, Kai Cenat Live"
-    },
-    {
-     "source": "googlenews",
-     "title": "Modders are already playing GTA VI at 60fps on PC, complete with Nvidia DLSS 5",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52Y2xZZ1BrRWU1WndsM0pPWl83M3RjM1ptWW1qcVhXY2ZITTd3bmtCZUhHSlFfbHdWalNsZjc3TmxrREcyWlRINGtBRGNFOE45SWhIRk5fQjg?oc=5",
-     "metric": "Technology #11, 5 outlets in cluster"
-    }
-   ],
-   "keys": [
-    "playing gta"
-   ],
-   "related_topics": [
-    "Grand Theft Auto VI"
-   ]
-  },
-  {
-   "rank": 38,
    "topic": "Vadhir Derbez",
-   "heat": 43.1,
+   "heat": 44.0,
    "status": "steady",
    "velocity": 0.0,
    "first_seen": "2026-11-20T23:26:37+00:00",
@@ -5155,13 +4768,181 @@
    "related_topics": []
   },
   {
-   "rank": 39,
-   "topic": "La Nueva Familia Michoacana",
-   "heat": 42.5,
+   "rank": 35,
+   "topic": "Francisco Gerardo",
+   "heat": 43.9,
    "status": "new",
    "velocity": 0.0,
    "first_seen": null,
    "days_trending": 0,
+   "heat_yesterday": null,
+   "why_hot": "2 source(s): googlenews, x; X trend MX #15; gnews_es #10, El Financiero",
+   "sources": [
+    "googlenews",
+    "x"
+   ],
+   "regions": [
+    "MX"
+   ],
+   "broad_appeal": {
+    "n_sources": 2,
+    "n_regions": 1
+   },
+   "entity": null,
+   "paradox_signals": [],
+   "best_channel": null,
+   "channel_fit": {
+    "go-there-instead": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    }
+   },
+   "links": [
+    {
+     "source": "googlenews",
+     "title": "Detienen en exclusivo complejo de Cancún a Francisco Gerardo ‘N’, ligado al tráfico de drogas y armas a EU",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTnlYN0VIdkxONWRObkdnUlliNmc0WDRrTlNZSFVOSVQ5cXc5eENSaEltNGM3bHFnNHJwYUg2TkZzVnRod3g2TmU5ZDNJUWpibXVPOXlkOW5wRXE2NDF1VlB1RVhpNjg3UHNoREZwaWdPTTNEckFpcXhMV3lCNzdwSFE0d19ERWJJRG11bDI2VHJacnlVX21LOFB5TTNieHhpNnBzSEZTNzFfeEJBcHFIc1E0c0tVU0prVlZiY0EtWW52dWxPYUFoYXk4WnEyc19oRVM4eEFfVEU4Tm90Tm16eVFTVW43QQ?oc=5",
+     "metric": "gnews_es #10, El Financiero"
+    },
+    {
+     "source": "x",
+     "title": "Francisco Gerardo",
+     "url": "https://x.com/search?q=Francisco%20Gerardo",
+     "metric": "X trend MX #15"
+    }
+   ],
+   "keys": [
+    "francisco gerardo"
+   ],
+   "related_topics": []
+  },
+  {
+   "rank": 36,
+   "topic": "Nasdaq",
+   "heat": 43.9,
+   "status": "cooling",
+   "velocity": 0.0,
+   "first_seen": "2026-11-20T20:09:15+00:00",
+   "days_trending": 1,
+   "heat_yesterday": null,
+   "why_hot": "2 source(s): googlenews, x; X trend US #18, 39,034 posts; Business #15, 5 outlets in cluster",
+   "sources": [
+    "googlenews",
+    "x"
+   ],
+   "regions": [
+    "US"
+   ],
+   "broad_appeal": {
+    "n_sources": 2,
+    "n_regions": 1
+   },
+   "entity": {
+    "qid": "Q82059",
+    "type": "other",
+    "description": "American fully electronic stock exchange",
+    "matched_via": "wikidata search 'Nasdaq' -> Nasdaq",
+    "url": "https://www.wikidata.org/wiki/Q82059"
+   },
+   "paradox_signals": [],
+   "best_channel": null,
+   "channel_fit": {
+    "go-there-instead": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    }
+   },
+   "links": [
+    {
+     "source": "x",
+     "title": "Nasdaq",
+     "url": "https://x.com/search?q=Nasdaq",
+     "metric": "X trend US #18, 39,034 posts"
+    },
+    {
+     "source": "googlenews",
+     "title": "The Nasdaq Is In Its Third Correction of 2026. Here’s the Lesson Most Investors Are Missing.",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNGRyR3VpLUJxdEdqekgxRm9PaGltZXBJZDdjRm53c2RyZnRLZ205VXMyUXloN3BuV25xTWo5WWVoejhnZXhwUnpOYXhLRFlvRUppNkxJdl8xckloSkdNWnNCXzZ3X3ktRlYxUmNPLWRfY2lsX3RuTmZOUUp0Z1drYUZxVFdaT1oxMVdDOUVvTl84TURXcWZQaGNYSjdKekhzcFRTMnZUcVlLX0lJZU12T2U4U29LR09DRUhld0dtYk80dlV6eF85bUp4R0k2QQ?oc=5",
+     "metric": "Business #15, 5 outlets in cluster"
+    }
+   ],
+   "keys": [
+    "nasdaq"
+   ],
+   "related_topics": []
+  },
+  {
+   "rank": 37,
+   "topic": "La Nueva Familia Michoacana",
+   "heat": 43.8,
+   "status": "steady",
+   "velocity": 0.0,
+   "first_seen": "2026-11-21T02:11:18+00:00",
+   "days_trending": 1,
    "heat_yesterday": null,
    "why_hot": "2 source(s): googlenews, x; X trend MX #22; gnews_es #5, El Universal",
    "sources": [
@@ -5187,26 +4968,15 @@
    "channel_fit": {
     "go-there-instead": {
      "score": 0,
-     "strong": [
-      "travel"
-     ],
-     "weak": [
-      "booking"
-     ],
-     "angle_hint": null,
-     "note": "only one strong keyword, and only in headlines"
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
     },
     "intern-broke-it": {
      "score": 0,
-     "strong": [
-      "claude",
-      "anthropic"
-     ],
-     "weak": [
-      "tech"
-     ],
-     "angle_hint": null,
-     "note": "gated: entity type 'sports_heuristic' not a fit for this channel"
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
     },
     "plan-not-panic": {
      "score": 0,
@@ -5253,15 +5023,15 @@
    "related_topics": []
   },
   {
-   "rank": 40,
+   "rank": 38,
    "topic": "South Korea",
-   "heat": 42.4,
+   "heat": 43.2,
    "status": "steady",
    "velocity": 0.0,
    "first_seen": "2026-11-18T08:12:45+00:00",
-   "days_trending": 2,
+   "days_trending": 3,
    "heat_yesterday": 57.7,
-   "why_hot": "3 source(s): factcheck, googlenews, x; X news story (Education); Sports #18, 5 outlets in cluster",
+   "why_hot": "3 source(s): factcheck, googlenews, x; X news story (Education); Sports #16, 5 outlets in cluster",
    "sources": [
     "factcheck",
     "googlenews",
@@ -5313,6 +5083,12 @@
      "strong": [],
      "weak": [],
      "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
     }
    },
    "links": [
@@ -5320,7 +5096,7 @@
      "source": "googlenews",
      "title": "LPGA Tour: South Korea's A-Lim Kim hits hole-in-one on way to three-shot lead at Tour Championship",
      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE05SGtJYnNOZ3VwRGNyVDE0TjBEd2t4N2p5TEhQcUlVTXFiek4wazFOZy00a0gxRjlzV0VVbHI4NFEzMXR3bmpld3NLVUJIbHZtcEZ1czlXbUF2SGNlb1JDQU5nZw?oc=5",
-     "metric": "Sports #18, 5 outlets in cluster"
+     "metric": "Sports #16, 5 outlets in cluster"
     },
     {
      "source": "x",
@@ -5337,6 +5113,177 @@
    ],
    "keys": [
     "south korea"
+   ],
+   "related_topics": []
+  },
+  {
+   "rank": 39,
+   "topic": "PLAYING GTA",
+   "heat": 42.8,
+   "status": "steady",
+   "velocity": 0.0,
+   "first_seen": "2026-11-21T02:11:18+00:00",
+   "days_trending": 1,
+   "heat_yesterday": null,
+   "why_hot": "2 source(s): googlenews, youtube; Technology #13, 5 outlets in cluster; YouTube most popular US/overall #9: 2,484,014 views, 1h old, Kai Cenat Live",
+   "sources": [
+    "googlenews",
+    "youtube"
+   ],
+   "regions": [],
+   "broad_appeal": {
+    "n_sources": 2,
+    "n_regions": 0
+   },
+   "entity": null,
+   "paradox_signals": [],
+   "best_channel": null,
+   "channel_fit": {
+    "go-there-instead": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "strong": [
+      "nvidia"
+     ],
+     "weak": [],
+     "angle_hint": null,
+     "note": "only one strong keyword, and only in headlines"
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    }
+   },
+   "links": [
+    {
+     "source": "youtube",
+     "title": "🌴PLAYING GTA 6 FOR THE FIRST TIME🌴 (DAY 3)",
+     "url": "https://www.youtube.com/watch?v=LHoHInbPkk0",
+     "metric": "YouTube most popular US/overall #9: 2,484,014 views, 1h old, Kai Cenat Live"
+    },
+    {
+     "source": "googlenews",
+     "title": "Modders are already playing GTA VI at 60fps on PC, complete with Nvidia DLSS 5",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52Y2xZZ1BrRWU1WndsM0pPWl83M3RjM1ptWW1qcVhXY2ZITTd3bmtCZUhHSlFfbHdWalNsZjc3TmxrREcyWlRINGtBRGNFOE45SWhIRk5fQjg?oc=5",
+     "metric": "Technology #13, 5 outlets in cluster"
+    }
+   ],
+   "keys": [
+    "playing gta"
+   ],
+   "related_topics": [
+    "Grand Theft Auto VI"
+   ]
+  },
+  {
+   "rank": 40,
+   "topic": "S&P 500",
+   "heat": 42.5,
+   "status": "steady",
+   "velocity": 0.0,
+   "first_seen": "2026-11-21T02:11:18+00:00",
+   "days_trending": 1,
+   "heat_yesterday": null,
+   "why_hot": "2 source(s): googlenews, x; X trend US #46, 22,733 posts; Top #15, 5 outlets in cluster",
+   "sources": [
+    "googlenews",
+    "x"
+   ],
+   "regions": [
+    "US"
+   ],
+   "broad_appeal": {
+    "n_sources": 2,
+    "n_regions": 1
+   },
+   "entity": {
+    "qid": "Q242345",
+    "type": "other",
+    "description": "American stock market index",
+    "matched_via": "wikidata search 'S&P 500' -> S&P 500",
+    "url": "https://www.wikidata.org/wiki/Q242345"
+   },
+   "paradox_signals": [],
+   "best_channel": null,
+   "channel_fit": {
+    "go-there-instead": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    }
+   },
+   "links": [
+    {
+     "source": "x",
+     "title": "S&P 500",
+     "url": "https://x.com/search?q=S%26P%20500",
+     "metric": "X trend US #46, 22,733 posts"
+    },
+    {
+     "source": "googlenews",
+     "title": "Stock Market Today: Dow, S&P 500 Enter Correction Territory — Live Updates",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObDJaNXRFdFZIWkwxWDRYUVg1U0N3MmpzMHN5aFlMd0ZJTGdBN3lhamZQSGpqbUY2UERnTGhKeVhzYUtsY0Q4V280cDR3WU9qNGtTVm0tdFIzZ0xXTFFxM0NFUjNhSkJLeHhfMG96Wi0xYVBxT2wzQVJPNXdCUEx3MF91QU5ZT2s?oc=5",
+     "metric": "Top #15, 5 outlets in cluster"
+    }
+   ],
+   "keys": [
+    "s p 500"
    ],
    "related_topics": []
   }
@@ -5451,7 +5398,7 @@
      },
      {
       "source": "Library of Congress (film & video)",
-      "error": "HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out. (read timeout=30)",
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "license_hint": "varies: many items 'no known restrictions', others rights-restricted; check each item's Rights & Access"
      }
     ],
@@ -5559,7 +5506,7 @@
      },
      {
       "source": "Library of Congress (film & video)",
-      "error": "HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out. (read timeout=30)",
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "license_hint": "varies: many items 'no known restrictions', others rights-restricted; check each item's Rights & Access"
      }
     ],
@@ -5675,7 +5622,7 @@
      },
      {
       "source": "Library of Congress (film & video)",
-      "error": "HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out. (read timeout=30)",
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "license_hint": "varies: many items 'no known restrictions', others rights-restricted; check each item's Rights & Access"
      }
     ],
@@ -5795,7 +5742,7 @@
      },
      {
       "source": "Library of Congress (film & video)",
-      "error": "HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out. (read timeout=30)",
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "license_hint": "varies: many items 'no known restrictions', others rights-restricted; check each item's Rights & Access"
      }
     ],
@@ -5900,12 +5847,7 @@
      },
      {
       "source": "Library of Congress (film & video)",
-      "hits": 8,
-      "url": "https://www.loc.gov/film-and-videos/?q=Elsinore%20film",
-      "examples": [
-       "http://www.loc.gov/item/2021690474/",
-       "http://www.loc.gov/item/afc2001001.106414/"
-      ],
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "license_hint": "varies: many items 'no known restrictions', others rights-restricted; check each item's Rights & Access"
      }
     ],
@@ -5915,7 +5857,7 @@
      "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
      "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
     ],
-    "confidence": "medium",
+    "confidence": "none-found",
     "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
    }
   },
@@ -6012,7 +5954,7 @@
      },
      {
       "source": "Library of Congress (film & video)",
-      "error": "HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out. (read timeout=30)",
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "license_hint": "varies: many items 'no known restrictions', others rights-restricted; check each item's Rights & Access"
      }
     ],
@@ -6120,9 +6062,7 @@
      },
      {
       "source": "Library of Congress (film & video)",
-      "hits": 0,
-      "url": "https://www.loc.gov/film-and-videos/?q=Focker-in-Law",
-      "examples": [],
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "license_hint": "varies: many items 'no known restrictions', others rights-restricted; check each item's Rights & Access"
      }
     ],
@@ -6242,12 +6182,7 @@
      },
      {
       "source": "Library of Congress (film & video)",
-      "hits": 11,
-      "url": "https://www.loc.gov/film-and-videos/?q=Cyber%20Monday",
-      "examples": [
-       "http://www.loc.gov/item/video-11024/",
-       "http://www.loc.gov/item/2024697441/"
-      ],
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "license_hint": "varies: many items 'no known restrictions', others rights-restricted; check each item's Rights & Access"
      }
     ],
@@ -6367,12 +6302,7 @@
      },
      {
       "source": "Library of Congress (film & video)",
-      "hits": 13,
-      "url": "https://www.loc.gov/film-and-videos/?q=Christmas",
-      "examples": [
-       "http://lccn.loc.gov/2023600187",
-       "http://lccn.loc.gov/2018601695"
-      ],
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "license_hint": "varies: many items 'no known restrictions', others rights-restricted; check each item's Rights & Access"
      }
     ],
@@ -6492,7 +6422,7 @@
      },
      {
       "source": "Library of Congress (film & video)",
-      "error": "HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out. (read timeout=30)",
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "license_hint": "varies: many items 'no known restrictions', others rights-restricted; check each item's Rights & Access"
      }
     ],
@@ -6615,7 +6545,7 @@
      },
      {
       "source": "Library of Congress (film & video)",
-      "error": "HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out. (read timeout=30)",
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "license_hint": "varies: many items 'no known restrictions', others rights-restricted; check each item's Rights & Access"
      }
     ],
@@ -6735,12 +6665,7 @@
      },
      {
       "source": "Library of Congress (film & video)",
-      "hits": 29,
-      "url": "https://www.loc.gov/film-and-videos/?q=Hanukkah",
-      "examples": [
-       "http://www.loc.gov/item/2021687899/",
-       "http://www.loc.gov/item/2025661587/"
-      ],
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "license_hint": "varies: many items 'no known restrictions', others rights-restricted; check each item's Rights & Access"
      }
     ],
@@ -6863,7 +6788,7 @@
      },
      {
       "source": "Library of Congress (film & video)",
-      "error": "HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out. (read timeout=30)",
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "license_hint": "varies: many items 'no known restrictions', others rights-restricted; check each item's Rights & Access"
      }
     ],
@@ -6968,7 +6893,7 @@
      },
      {
       "source": "Library of Congress (film & video)",
-      "error": "HTTPSConnectionPool(host='www.loc.gov', port=443): Read timed out.",
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "license_hint": "varies: many items 'no known restrictions', others rights-restricted; check each item's Rights & Access"
      }
     ],
@@ -7070,9 +6995,7 @@
      },
      {
       "source": "Library of Congress (film & video)",
-      "hits": 0,
-      "url": "https://www.loc.gov/film-and-videos/?q=College%20Football%20Playoff%20final%20rankings%20/",
-      "examples": [],
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "license_hint": "varies: many items 'no known restrictions', others rights-restricted; check each item's Rights & Access"
      }
     ],
@@ -8854,9 +8777,9 @@
     "url": "https://x.com/search?q=Thanksgiving"
    },
    {
-    "rank": 18,
+    "rank": 12,
     "topic": "Vietnam",
-    "heat": 63.7,
+    "heat": 64.1,
     "fit": 90,
     "strong": [
      "travelers",
@@ -8867,7 +8790,7 @@
     "url": "https://en.wikivoyage.org/wiki/Vietnam"
    },
    {
-    "rank": 44,
+    "rank": 43,
     "topic": "FAA Ground Stop",
     "heat": 39.1,
     "fit": 98,
@@ -8880,9 +8803,9 @@
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT3FNSjE5QUxONjdBenBaSlBfSjlnTDZsOS1HUmFXR2NwVVBhOHgwSVBtSDU3WUxQeG5QM24xNEg3MmEweE4wWUNnV2NuaXRmRlZjMUNoWjJKVHU2TVVab1hXdG9sMnlGb0NLME5ZWDlPWHdvTkZ5cXFhWlVZdHNNbHJzZUpGQ0w1aklGZjJB?oc=5"
    },
    {
-    "rank": 94,
+    "rank": 98,
     "topic": "Malaysia Ends Visa-Free Entry",
-    "heat": 23.6,
+    "heat": 23.3,
     "fit": 90,
     "strong": [
      "travelers",
@@ -8910,7 +8833,7 @@
     "url": "https://x.com/search?q=Anthropic"
    },
    {
-    "rank": 3,
+    "rank": 4,
     "topic": "China",
     "heat": 94.0,
     "fit": 90,
@@ -8923,9 +8846,9 @@
     "url": "https://x.com/search?q=China"
    },
    {
-    "rank": 19,
+    "rank": 14,
     "topic": "Jensen Huang",
-    "heat": 63.1,
+    "heat": 62.4,
     "fit": 53,
     "strong": [
      "nvidia"
@@ -8934,9 +8857,9 @@
     "url": "https://en.wikipedia.org/wiki/Jensen_Huang"
    },
    {
-    "rank": 93,
+    "rank": 54,
     "topic": "Missile Strike",
-    "heat": 23.8,
+    "heat": 34.2,
     "fit": 90,
     "strong": [
      "ai",
@@ -8946,20 +8869,21 @@
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yLWtRbEVYbUFBY1pBUi1DNUREdFo2dE9BNDI2YnFfMHRLNlVMdF9GRWp1Xzh0VUY3RHJYUFZhSloyaERRMFFNcVI3UFh6U2h6R2YtZ0Z2bjQ?oc=5"
    },
    {
-    "rank": 169,
-    "topic": "‘Voy a orinar en tu cerebro’: Huang tenía ‘política de humillación’ a empleados de Nvidia, revela NYT",
-    "heat": 18.0,
-    "fit": 45,
+    "rank": 200,
+    "topic": "As AI detects flaws in computer systems, is it causing more tech outages and disruptions?",
+    "heat": 17.4,
+    "fit": 98,
     "strong": [
-     "nvidia"
+     "ai",
+     "outages"
     ],
-    "angle_hint": "Skit: the intern lets the AI handle ‘Voy a orinar en tu cerebro’: Huang tenía ‘política de humillación’ a empleados de Nvidia, revela NYT... what could go wrong",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTkdlQWE0UGdSQUVBYzJfd18wV0J2em9nWmdHRUI0bGMzZlVHZmd3ZTE5VmU4dWN2dHVUUWZlSlNWUTBOUkFKZHcybGp6MFFOaVl6eXliWnlLVFZNeFFjOF96b0NXNEUzS3RsSHgwa0dIV0ZGU21aelRZVDJ0S1lXSDZmdWJTRlFLbnotNUV3T0NuZXNHcTQ0cjg4d1pKNi1JSFRqazgwZDZaTVp1eW1iUm5kVjByQ0RzZTAyeC1XTVc4RGRVUFhHZ09PVUNXTGVHbVotN1JyLVdOYkMxNGc?oc=5"
+    "angle_hint": "Skit: the intern pushed one tiny change and caused As AI detects flaws in computer systems, is it causing more tech outages and disruptions?",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdlZfVXVENWt1NEE0YVBWRWtmNkVVVjZZOGNGX00yVld2WXlUWDZINlJ0NExpLVVSUGFuNXVDT0wzMjRNZnMzSWlEZVJOOWY3ejFkbGZLMTY1bXRuR241V0tZSlB5R2N0NVV3Vkt4U2U2Q3RZNjJpUzhEVzZzUzZkLXBxNTFMWjMxRmszWFgtUTIzTjNZ?oc=5"
    }
   ],
   "plan-not-panic": [
    {
-    "rank": 172,
+    "rank": 177,
     "topic": "Fact Check: Mass blackout warning attributed online to Britain's National Grid is fake",
     "heat": 17.9,
     "fit": 45,
@@ -8970,7 +8894,7 @@
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWlRlODhOb1h4YzVOcEZrb0VlWU1jUHI3VEE1VHFNMkU2WkxyRUV2OHlHdHJmUHNOQ3k0cmtrbnYta09FeEpfX0ZXaFR4QVY5SjRVaEtOdVhyLUlWenVTZzZtY2Vic3VRaWZEZzFIX1JXQVc0LWpSWGdGUFhQMzhrTXpfNFB6R2tfdGZYZTlhY2k2Rjl1VVNfVlNrbFJqTWxfeHF3eU1ZOFpJbTgzUmFiQ3pJQlZpa3Z2?oc=5"
    },
    {
-    "rank": 225,
+    "rank": 234,
     "topic": "Young child dies of measles, marking first death of year in Virginia, VDH says",
     "heat": 16.6,
     "fit": 45,
@@ -8981,9 +8905,9 @@
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON2MyaDhQMXMzYlNrM2E0UWhzZ2JjMGU4QjIwV1FKM0x3M2paN0hlaVFJcHdtZFdOLTlqUjZoN2Q0Y093QmRvYy1tNGc2azVRNFlyR0hPWE9PNHBxSlRPUTRoN0hhQ0JxZTVLcF93TzdfNThpUGhJWktNTmJKa0xROGhOdHJzQjVrZGJhcU1nLTNvMFRTZllUSzk2cHRaYkZwN0pNNA?oc=5"
    },
    {
-    "rank": 251,
+    "rank": 260,
     "topic": "U.S. measles cases are at a 35-year high. Here’s how to protect yourself.",
-    "heat": 15.9,
+    "heat": 16.0,
     "fit": 45,
     "strong": [
      "measles"
@@ -8992,7 +8916,7 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUGNoR2JFQ1FlN0pEUXh5Um9sVDVrelhyLVdObHctZnJHUUpGeWpWUU5uWmU1eUdQOXJKNElIRWJLTEFtUDRKY0pYSDN0QmdSR05CblVHUUszc0RBSUNQdEhSbmpFbmwwbHFucmt1aGRnSzgyWUlnd1MzVHRoRnNTbXAxd2RFQkgzWnJsTDFzYXF5Q0ZLSEtTTXNUTFFuSE9Ja1JQYkVTTHJOR1BOSGpBZWpB?oc=5"
    },
    {
-    "rank": 279,
+    "rank": 295,
     "topic": "No evidence that a U.S. blackout is expected Nov. 17",
     "heat": 15.4,
     "fit": 45,
@@ -9003,9 +8927,9 @@
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdWJHM0tpdTU2Nk9rX1VCelBTVFQ5SFFuZ2RXYXNPMXctdlc4cjAyQVBsN1V1M01FMVI5NTlOdVB0ejVqZnRkYm0xelg4YmJlN01DRlZjczYyZks2TEtzOXh2TVltal9WdElDem1qZGphUzZuNG5wX0E2RUQyOGROOVVqb0hJdWYtUkM0NEFkZUJiUFdEUlktdnRn?oc=5"
    },
    {
-    "rank": 310,
+    "rank": 315,
     "topic": "Pennsylvania DOH confirms 8th measles-related death amid growing outbreak",
-    "heat": 14.7,
+    "heat": 14.9,
     "fit": 90,
     "strong": [
      "measles",
@@ -9017,7 +8941,41 @@
   ],
   "silver-paradox": [
    {
-    "rank": 477,
+    "rank": 67,
+    "topic": "Middle East",
+    "heat": 30.9,
+    "fit": 98,
+    "strong": [
+     "ufo",
+     "uap"
+    ],
+    "angle_hint": "The paradox of Middle East: evidence, explanations, and what doesn't add up",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSjdOZjd5dTVtc3lfMVo3OVRvWWpZWjRrQ0cteE16VE9YeHFkTzBkdlVzb2xKZG4zQ1lOZVhVMUZTUTVtcHVFaWl4SDdSX1dGSEUxNnJqLXVCRHdwMWVVUzVoVFNkbW9uMEgzTDk5ZnJhWnNwUWJ1MjlKdXl0cXRURUJqT21MV3hoWTRDUk55Q2JWLTFVZ3k4N1k1SGNMbnBDbGJfMVpFVVFEZ2hqNGc5U2tnVS1mQUQ0UE5Rc2NPcFdIYmxHd1pUZTg2cklHWU9RRlQ5alV30gHbAUFVX3lxTE5iaUpzSGItT3lnTHNwbzRLb010dlpLaUs3ZUtvRTR2Smd2c1VYTGlmamVweTNHQnZZeWdTWFMxSGc1MERTQnc1ZmRFVXFDeXZ6dElNZnVSOVFySUJ0emJaYkdralB6NGJkcXFpTU5fLUtzUWtsRklmSFkyS24zd0UzV3dpemktWENsWjJYTFNhaHZyd3pZVDZQY2xuS3FRQUNrRlpCOEJMd3JHbU1JemFibU9xZWQyWGliMVljRW9FUHV4b1RoeEFpRmlxRF92NzhZeXoyVzhtVXgzcw?oc=5"
+   },
+   {
+    "rank": 279,
+    "topic": "AI-generated image fuels Epstein conspiracy theories",
+    "heat": 15.7,
+    "fit": 45,
+    "strong": [
+     "conspiracy"
+    ],
+    "angle_hint": "The paradox of AI-generated image fuels Epstein conspiracy theories: evidence, explanations, and what doesn't add up",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rVXpDTGhEck04cFd2aFNHNEcwYTFlNnBVTUpjQzFOVFA2dmN5MVA1eWs5eU1OZGxxRmV2VXNqYTQ2MXNuX1VJbWZkZ2pQdFB6bHlGNnNZS3E?oc=5"
+   },
+   {
+    "rank": 435,
+    "topic": "Hoax circulates about United Nations' 'mission goals'",
+    "heat": 12.5,
+    "fit": 45,
+    "strong": [
+     "hoax"
+    ],
+    "angle_hint": "The paradox of Hoax circulates about United Nations' 'mission goals': evidence, explanations, and what doesn't add up",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbXlnU2g3SFZVUDBoRFRXSkxDaVFkQndQRTBVb1lNNUlXbmFuLUlydm9BalBCQkUtVDhvTEg4WmM3X0xjWFBJY3BlcTdNNHktUEo4OUFXTXRwak5JSmNLRHh6M3hhcEZqeGRNaVpTT2lTbk9KQ1VTcFZnNVNoSDZQRF9B?oc=5"
+   },
+   {
+    "rank": 496,
     "topic": "Visulahti Wax Museum in Mikkeli, Finland",
     "heat": 11.3,
     "fit": 45,
@@ -9028,7 +8986,7 @@
     "url": "https://www.atlasobscura.com/places/visulahti-wax-museum"
    },
    {
-    "rank": 509,
+    "rank": 537,
     "topic": "City Island Nautical Museum in The Bronx, New York",
     "heat": 10.9,
     "fit": 45,
@@ -9037,47 +8995,13 @@
     ],
     "angle_hint": "Art-history documentary: the real story behind City Island Nautical Museum in The Bronx, New York (the detail almost everyone misses)",
     "url": "https://www.atlasobscura.com/places/city-island-nautical-museum"
-   },
-   {
-    "rank": 595,
-    "topic": "2,000-year-old tomb of an elite nomad in Mongolia contained a Roman glass cup and Han-dynasty-inspired jade decorations",
-    "heat": 10.0,
-    "fit": 53,
-    "strong": [
-     "tomb"
-    ],
-    "angle_hint": "Documentary: the story behind 2,000-year-old tomb of an elite nomad in Mongolia contained a Roman glass cup and Han-dynasty-inspired jade decorations and the question nobody has answered",
-    "url": "https://www.livescience.com/archaeology/2-000-year-old-tomb-of-an-elite-nomad-in-mongolia-contained-a-roman-glass-cup-and-han-dynasty-inspired-jade-decorations"
-   },
-   {
-    "rank": 658,
-    "topic": "Abdulla Avloni Memorial Museum in Tashkent, Uzbekistan",
-    "heat": 9.3,
-    "fit": 45,
-    "strong": [
-     "museum"
-    ],
-    "angle_hint": "Art-history documentary: the real story behind Abdulla Avloni Memorial Museum in Tashkent, Uzbekistan (the detail almost everyone misses)",
-    "url": "https://www.atlasobscura.com/places/abdulla-avloni-memorial-museum"
-   },
-   {
-    "rank": 686,
-    "topic": "Unidentified Anomalous Phenomena",
-    "heat": 9.0,
-    "fit": 90,
-    "strong": [
-     "ufo",
-     "uap"
-    ],
-    "angle_hint": "The paradox of Unidentified Anomalous Phenomena: evidence, explanations, and what doesn't add up",
-    "url": "https://www.war.gov/News/Releases/Release/Article/4655441/department-of-war-publishes-eighth-release-of-unidentified-anomalous-phenomena/"
    }
   ],
   "chess-blunder-club": [
    {
-    "rank": 120,
+    "rank": 128,
     "topic": "Carlsen Forfeits Rapid Games",
-    "heat": 20.4,
+    "heat": 20.1,
     "fit": 90,
     "strong": [
      "chess",
@@ -9091,7 +9015,7 @@
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oZEF2bTcwM0MyNkxJTllMMjFqdVBiRGh5ckJVOEN5Zl9zanVYUm1JTEU3TDZBX0N0WGlJNkIwWGw5TDJ0V0pmTXZaTE9DTHE5MVRWQWdLSUkwYlJDSXE1S2xLMFJ3N2NBMDg5WQ?oc=5"
    },
    {
-    "rank": 206,
+    "rank": 227,
     "topic": "Total Chess Pilot",
     "heat": 16.7,
     "fit": 90,
@@ -9106,7 +9030,7 @@
     "url": "https://x.com/i/trending/2123443560842244381"
    },
    {
-    "rank": 479,
+    "rank": 500,
     "topic": "Magnus Carlsen",
     "heat": 11.2,
     "fit": 90,
@@ -9122,7 +9046,7 @@
     "url": "https://en.wikipedia.org/wiki/Magnus_Carlsen"
    },
    {
-    "rank": 484,
+    "rank": 507,
     "topic": "Chess",
     "heat": 11.2,
     "fit": 45,
@@ -9133,7 +9057,7 @@
     "url": "https://en.wikipedia.org/wiki/Chess"
    },
    {
-    "rank": 489,
+    "rank": 513,
     "topic": "World Chess Championship",
     "heat": 11.1,
     "fit": 90,
@@ -9151,9 +9075,9 @@
   ],
   "military-unclassified": [
    {
-    "rank": 65,
+    "rank": 67,
     "topic": "Middle East",
-    "heat": 30.7,
+    "heat": 30.9,
     "fit": 100,
     "strong": [
      "uap",
@@ -9164,7 +9088,7 @@
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSjdOZjd5dTVtc3lfMVo3OVRvWWpZWjRrQ0cteE16VE9YeHFkTzBkdlVzb2xKZG4zQ1lOZVhVMUZTUTVtcHVFaWl4SDdSX1dGSEUxNnJqLXVCRHdwMWVVUzVoVFNkbW9uMEgzTDk5ZnJhWnNwUWJ1MjlKdXl0cXRURUJqT21MV3hoWTRDUk55Q2JWLTFVZ3k4N1k1SGNMbnBDbGJfMVpFVVFEZ2hqNGc5U2tnVS1mQUQ0UE5Rc2NPcFdIYmxHd1pUZTg2cklHWU9RRlQ5alV30gHbAUFVX3lxTE5iaUpzSGItT3lnTHNwbzRLb010dlpLaUs3ZUtvRTR2Smd2c1VYTGlmamVweTNHQnZZeWdTWFMxSGc1MERTQnc1ZmRFVXFDeXZ6dElNZnVSOVFySUJ0emJaYkdralB6NGJkcXFpTU5fLUtzUWtsRklmSFkyS24zd0UzV3dpemktWENsWjJYTFNhaHZyd3pZVDZQY2xuS3FRQUNrRlpCOEJMd3JHbU1JemFibU9xZWQyWGliMVljRW9FUHV4b1RoeEFpRmlxRF92NzhZeXoyVzhtVXgzcw?oc=5"
    },
    {
-    "rank": 71,
+    "rank": 73,
     "topic": "Air Force",
     "heat": 28.8,
     "fit": 98,
@@ -9177,9 +9101,9 @@
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLVRYczd5dnZUSUhhNmtjbGNUc05pUkYwSkc3b0ZvU0xRZVNkc0RQQWJ6VG4yVzRkRzViNFpUczVoMXY4SDBuQVVPSDBkYVVXQTV0V2xYR3Rpb0gyUlZ4Yk1HT2NmZHBjR2ZtbHdzU3podm12UlhCLWVNekpfRndRRGV4TEtNSFNSOEsyQmdPbHJ2U1VHaF9XTjRSZWdUSnV2OWlBZQ?oc=5"
    },
    {
-    "rank": 77,
+    "rank": 78,
     "topic": "Pentagon Releases Eighth Batch",
-    "heat": 27.8,
+    "heat": 27.9,
     "fit": 90,
     "strong": [
      "military",
@@ -9193,20 +9117,20 @@
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORjNxM0ZST2JRVGlVRHpkR1NISWk4OHA2SVkwMzZzZVNPVENTWmNBUl9xd21jb2JWUmhMb05TOWlNSzB5UlFGcGI4am1pcTJ5OVVTaFphYlJrQ0xXVXFoX2dDa2dNRWt2cGhqTGFhMHhzc2t5Q2gwM3h3cUFDNXRtSnE0amE1XzNWOHVneUdR?oc=5"
    },
    {
-    "rank": 348,
-    "topic": "Fact Check: Images depicting capture of US ‘Delta Force’ troops in Iran are-AI generated",
-    "heat": 14.3,
-    "fit": 53,
+    "rank": 297,
+    "topic": "Video game footage misrepresented as US warship downing Iranian jet",
+    "heat": 15.3,
+    "fit": 45,
     "strong": [
-     "delta force"
+     "warship"
     ],
-    "angle_hint": "The declassified story of Fact Check: Images depicting capture of US ‘Delta Force’ troops in Iran are-AI generated: what was acknowledged, and what stayed secret",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSkxhS05PYWpmSGR1TENwcUFVZU45c2FnSmk5Mmc3SGFTWTVfMzlLZWU5XzlKblJrQnhpckZBSDJ4aWpBOER5dmJDcVdpVjR1SlpZTzRMZ3lTVU5vTDFrNk1tLXJFSXcxZG9MSDlJWmxqOWxWWm9YQmxONUo5NGdFS3d3ekdnaEJTV0JTalhNOFhnVDEtMkNxR3kyV3l3dG96ZkdMVVZqTWVEQlZ3UGFrbkxDWXgyQQ?oc=5"
+    "angle_hint": "Military engineering explainer: how Video game footage misrepresented as US warship downing Iranian jet works, and the part that was classified until recently",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HeWgzSHU5eEpvQ3FiYkdta3BQUHhJMzJvc2RxNTF3dWc5MXlLZE9idjg3THMtTVk4R3k0cXFNb1lKRWp6WmNOa1h0REkwTXRIZ1h2RFo1LVc?oc=5"
    },
    {
-    "rank": 467,
+    "rank": 448,
     "topic": "Russian missiles land in Poland, as Europe held military drills nearby. NATO calls it a violation",
-    "heat": 11.8,
+    "heat": 12.2,
     "fit": 53,
     "strong": [
      "military"
@@ -9620,6 +9544,208 @@
     "published": null,
     "metric": "gnews_xadrez_pt #5, Gazeta de Toledo"
    }
+  ],
+  "military-unclassified": [
+   {
+    "title": "Lockheed Martin F-35 Lightning II",
+    "url": "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II",
+    "feed": "wiki_military_watch",
+    "lang": "en",
+    "published": null,
+    "metric": "wiki_military_watch #1, 3,585 views, 0.9x vs prior-days avg"
+   },
+   {
+    "title": "Area 51",
+    "url": "https://en.wikipedia.org/wiki/Area_51",
+    "feed": "wiki_military_watch",
+    "lang": "en",
+    "published": null,
+    "metric": "wiki_military_watch #2, 3,450 views, 1.0x vs prior-days avg"
+   },
+   {
+    "title": "Lockheed SR-71 Blackbird",
+    "url": "https://en.wikipedia.org/wiki/Lockheed_SR-71_Blackbird",
+    "feed": "wiki_military_watch",
+    "lang": "en",
+    "published": null,
+    "metric": "wiki_military_watch #3, 2,495 views, 0.8x vs prior-days avg"
+   },
+   {
+    "title": "United States Navy SEALs",
+    "url": "https://en.wikipedia.org/wiki/United_States_Navy_SEALs",
+    "feed": "wiki_military_watch",
+    "lang": "en",
+    "published": null,
+    "metric": "wiki_military_watch #4, 1,694 views, 0.9x vs prior-days avg"
+   },
+   {
+    "title": "Northrop Grumman B-21 Raider",
+    "url": "https://en.wikipedia.org/wiki/Northrop_Grumman_B-21_Raider",
+    "feed": "wiki_military_watch",
+    "lang": "en",
+    "published": null,
+    "metric": "wiki_military_watch #5, 1,668 views, 0.7x vs prior-days avg"
+   },
+   {
+    "title": "Aircraft carrier",
+    "url": "https://en.wikipedia.org/wiki/Aircraft_carrier",
+    "feed": "wiki_military_watch",
+    "lang": "en",
+    "published": null,
+    "metric": "wiki_military_watch #6, 1,218 views, 0.8x vs prior-days avg"
+   },
+   {
+    "title": "DARPA",
+    "url": "https://en.wikipedia.org/wiki/DARPA",
+    "feed": "wiki_military_watch",
+    "lang": "en",
+    "published": null,
+    "metric": "wiki_military_watch #7, 984 views, 1.0x vs prior-days avg"
+   },
+   {
+    "title": "Skunk Works",
+    "url": "https://en.wikipedia.org/wiki/Skunk_Works",
+    "feed": "wiki_military_watch",
+    "lang": "en",
+    "published": null,
+    "metric": "wiki_military_watch #8, 876 views, 0.9x vs prior-days avg"
+   },
+   {
+    "title": "Unidentified flying object",
+    "url": "https://en.wikipedia.org/wiki/Unidentified_flying_object",
+    "feed": "wiki_military_watch",
+    "lang": "en",
+    "published": null,
+    "metric": "wiki_military_watch #9, 769 views, 0.8x vs prior-days avg"
+   },
+   {
+    "title": "Directed-energy weapon",
+    "url": "https://en.wikipedia.org/wiki/Directed-energy_weapon",
+    "feed": "wiki_military_watch",
+    "lang": "en",
+    "published": null,
+    "metric": "wiki_military_watch #10, 448 views, 1.0x vs prior-days avg"
+   },
+   {
+    "title": "Pentagon UFO videos",
+    "url": "https://en.wikipedia.org/wiki/Pentagon_UFO_videos",
+    "feed": "wiki_military_watch",
+    "lang": "en",
+    "published": null,
+    "metric": "wiki_military_watch #11, 434 views, 0.9x vs prior-days avg"
+   },
+   {
+    "title": "Stealth aircraft",
+    "url": "https://en.wikipedia.org/wiki/Stealth_aircraft",
+    "feed": "wiki_military_watch",
+    "lang": "en",
+    "published": null,
+    "metric": "wiki_military_watch #12, 423 views, 1.0x vs prior-days avg"
+   },
+   {
+    "title": "Hypersonic weapon",
+    "url": "https://en.wikipedia.org/wiki/Hypersonic_weapon",
+    "feed": "wiki_military_watch",
+    "lang": "en",
+    "published": null,
+    "metric": "wiki_military_watch #13, 274 views, 1.2x vs prior-days avg"
+   },
+   {
+    "title": "Project Blue Book",
+    "url": "https://en.wikipedia.org/wiki/Project_Blue_Book",
+    "feed": "wiki_military_watch",
+    "lang": "en",
+    "published": null,
+    "metric": "wiki_military_watch #14, 225 views, 0.9x vs prior-days avg"
+   },
+   {
+    "title": "All-domain Anomaly Resolution Office",
+    "url": "https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office",
+    "feed": "wiki_military_watch",
+    "lang": "en",
+    "published": null,
+    "metric": "wiki_military_watch #15, 94 views, 1.0x vs prior-days avg"
+   },
+   {
+    "title": "Advanced Aerospace Threat Identification Program",
+    "url": "https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program",
+    "feed": "wiki_military_watch",
+    "lang": "en",
+    "published": null,
+    "metric": "wiki_military_watch #16, 50 views, 0.8x vs prior-days avg"
+   },
+   {
+    "title": "Budd Introduces Bill to Elevate Special Operations Leadership within the Department of War",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeW1zZ2ZGX1FRR1lfTTZFdFAwLVBwZHFUcGRyU3c4ODBXOC1JY1A2OG5BZ092N3lWUzRqWkVhanYya1lIa0VnNEU2YTJkV19jSXVBYmJLenpZR0haNUVEbEEtZWNPYTFtRzhBb3lXVzNwZE1oTWtQYXE4d1hKVkhDc0hKWURJOFpFX253M3BaaHMtamI4QWV0OERreG82ZG1jd2xiVzFSbWlFbWlxeDhXNHdZaURtaWdjSlBYZFotZ3hnTlItVkRYWE9B?oc=5",
+    "feed": "gnews_sof",
+    "lang": "en",
+    "published": null,
+    "metric": "gnews_sof #1, U.S. Senator Ted Budd (.gov)"
+   },
+   {
+    "title": "Directed Energy Day highlights research, partnerships in national security",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaEN0REpXU3NKeHpSSV9USi12V1FGVjNGUXdUb3cyUFU2dk5lYXdKUVJRUVpxempsb2hEV2s3WTNBcTN5X09Ic1VWeUdQc3JVMHFfVXlreWNkaFZwQTV6NlEwT2NTUWtaWWxRcjJTSTBFZFJSQ0dXWEc5VW00RlRXcDE4Qmp6TG9Kelh0XzJWMUZNZy1PRXpuNDh6M05XbmhVUU42NmJ5WjB2Wi0xazlr?oc=5",
+    "feed": "gnews_weapons_tech",
+    "lang": "en",
+    "published": null,
+    "metric": "gnews_weapons_tech #1, The Pennsylvania State University"
+   },
+   {
+    "title": "7th Special Forces Group Soldiers honor veterans, inspire students during Ruckel Middle School visit",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRmk4dE5rZHF1cVh0bWpqNE9nMm9xX0VKc20zTnNxTDdGcGgxS01JZ3ZybVNJOGlCMTZvdlFxVEN6cWZWT1NjWGtXNzRpeWpvZTF2ZkNUN3dGSVQ0Vi1iN01iWmhET2h4TGkwVEVuZUl1QTFoTnkwM0hpYjdjUWlWdzQwTWwyRmN3ZVBRc2xJRlFfREVMYnJ1NTNkdWpGZ3Y2X21XMEFDbkp2amxIQkNxRmZUUl8yUkNTdWl3OVdoODZXd29zSUxqNm9zZkFWYnUtM25kamh30gHWAUFVX3lxTE1GaTh0TmtkcXVxWHRtamo0T2cyb3FfRUpzbTNOc3FMN0ZwaDFLTUlndnJtU0k4aUIxNm92UXFUQ3pxZlZPU2NYa1c3NGl5am9lMXZmQ1Q3d0ZJVDRWLWI3TWJaaERPaHhMaTBURW5lSXVBMWhOeTAzSGliN2NRaVZ3NDBNbDJGY3dlUFFzbElGUV9ERUxicnU1M2R1akZndjZfbVcwQUNuSnZqbEhCQ3FGZlRSXzJSQ1N1aXc5V2g4Nld3b3NJTGo2b3NmQVZidS0zbmRqaHc?oc=5",
+    "feed": "gnews_sof",
+    "lang": "en",
+    "published": null,
+    "metric": "gnews_sof #2, Army.mil"
+   },
+   {
+    "title": "Navy taps one-star admiral to advance hypersonic weapons, SLCM-N integration at Crane",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS1VWcTBLVXdHY2ZYakd0WUpWTWJnOUl3TXR1VVMwQzczTFdQelhyRzNiaDkwLXFOQk9NSEpZS1dBb3FkWllfSHZkRDFvUkloTF9PZ0FHaWZJOFdnRElydXloSjdOX01jdmw3UzRuQWthUndCY1hzT05UUGxHV2xMMlItc0EtbmY4ZFFRZHVzMXdFUHVvQnVqVUlNOFJiYmkxamdSWExveFBJdTZiQWhQZjJLLVg5eVJzd1R4M3Rn?oc=5",
+    "feed": "gnews_weapons_tech",
+    "lang": "en",
+    "published": null,
+    "metric": "gnews_weapons_tech #2, Breaking Defense"
+   },
+   {
+    "title": "The civilian office overseeing special operations forces could get $45 million budget, 100 staffers",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTXlwSE5CNDB0Rl9NSEJVNjl5eEE3djE3bVhuakRMM1B1cWZmV0VjVzR6dUxycFI0TFNLOGdyX1UtZWFCVGZ1OVdhLXJLdWUzdEhYTGlDRno1UTRwUHZINVFzeTBuYmJTeE5OMERGc2Q2aTd4b0s3YUNVU0FnVm9uRlVVeHpNWk1hZmFITWoxMXBWUFctaW1XQ3pHdkRmdHk1SHhKLU80Y0ozaDNpeDhyOHV0aTAzMVhNX0hMTTN4UlNKcHRNVHc2QVExY2FwUEJFaUFGdGhwUHUwLUE?oc=5",
+    "feed": "gnews_sof",
+    "lang": "en",
+    "published": null,
+    "metric": "gnews_sof #3, Defense One"
+   },
+   {
+    "title": "Melbourne-designed B-21 Raider stealth bomber conducts first weapon test",
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNZkM4N3NJUUJSZW5ZTC1aWXUtUWlBWXNMVVdrYmVIYWhSLVBKeWhJSl80V1V1RWpwQlNRaDhmZ25DLUhQV0I0TjFuVy1zMjlNTGVmejIxcFNTdzU0SUo2SHJ2eE1Dekt3X2NzV0UxRzN0Rk9GemhOZXFiN3JqdndINUExSUp5eDM4dEVteDNEV28ybW9vYkJCZkJtejdaY1AtUF9RYW5yN1NhN1dIOUhFa0hDNTJnLU95cElvZ18yRDd5SnVhWE5EOGdua1NWOUdfMEpKc3BWYl8tR09zZjBuOUMzRjNWN21vUW5WYXlEbUROVTJTWF9vWUVXRQ?oc=5",
+    "feed": "gnews_weapons_tech",
+    "lang": "en",
+    "published": null,
+    "metric": "gnews_weapons_tech #3, Florida Today"
+   },
+   {
+    "title": "Special Operations Command seeks AI platform for its acquisition staff",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOalRzT1I5bXZ0aDdPb3UtN3IzbE8xUEpCSjFKNkFwN21Ua3JwdU1wUDVCY1FiemcxTmc5VUtNcWVkRXRxZG5JbDdieExpTmxrUk11dXVRbngtNlBGaHhzUEN4MFNVZEx6SDQtb3BoLVlYV1ZXbDl3ZzMzNHU5ZGN1LWlXdXBoVjgzQlVZVkRUb0NGeHZQeEtPY2NYczNFeGVrSmdobzJWRWtGYzRkcndYamRVZUhvWS0wa1NCSnplbDZiVDJuNi1yZWtKc1VfUFc5WVVGNUVySVZQQVlVNlFXbGhBbnVudVU?oc=5",
+    "feed": "gnews_sof",
+    "lang": "en",
+    "published": null,
+    "metric": "gnews_sof #4, Washington Technology"
+   },
+   {
+    "title": "Third US aircraft carrier arrives in Middle Eastern waters amid Iran standoff - Al-Monitor",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYkplZ0Q2N2I4VUpFRkh3cTRsMDNhTkg4Z0RiQ1hkdEkxRlpHbjlBNDJfbnNWNEhxUzFHVURmWjVib2FKWWIwX25hZXAtendMUUgwUUdZb1I3WmlDWVF5UnpxNnFNMllPN2RITWZ4ckNVRTB5OHdqODhKNlJGeW92QXpWbkZiTmZHaFkwanllUjd5bnkwbEI5a3V5X0IzMDlxbno5VXJmSDlFallzU0w4b19jSFpGdFZDMWVn?oc=5",
+    "feed": "gnews_weapons_tech",
+    "lang": "en",
+    "published": null,
+    "metric": "gnews_weapons_tech #4"
+   },
+   {
+    "title": "A new Air Force stunt plane, plus a shakeup for special operations",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLVRYczd5dnZUSUhhNmtjbGNUc05pUkYwSkc3b0ZvU0xRZVNkc0RQQWJ6VG4yVzRkRzViNFpUczVoMXY4SDBuQVVPSDBkYVVXQTV0V2xYR3Rpb0gyUlZ4Yk1HT2NmZHBjR2ZtbHdzU3podm12UlhCLWVNekpfRndRRGV4TEtNSFNSOEsyQmdPbHJ2U1VHaF9XTjRSZWdUSnV2OWlBZQ?oc=5",
+    "feed": "gnews_sof",
+    "lang": "en",
+    "published": null,
+    "metric": "gnews_sof #5, Breaking Defense"
+   }
   ]
  },
  "desk_feeds": {
@@ -9801,24 +9927,24 @@
     "metric": "afp_factcheck #2, AFP Fact Check"
    },
    {
-    "title": "Old S. Korea emergency guidelines misrepresented as new 'war' advisory",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XZ1c2SV9USDl0ejh5b1FYTzR5OFJGbWYySHREVUNwMlBwSE1pN1Q0Q2taM29JN3M1c2VwSnpuQWk4bUF0alQtUkxRMzFoZ3hpVG1sNVhNal8?oc=5",
+    "title": "About AFP",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5EelE1cm94RjJKWmVleEJveXowaUZKWDJibnNpTHRTb0ZVT1RtSURodVFyMlJRV2J6WFlYWW95aExGSGVyM3NtZGs5bw?oc=5",
     "feed": "afp_factcheck",
     "lang": "en",
     "published": null,
     "metric": "afp_factcheck #3, AFP Fact Check"
    },
    {
-    "title": "Image of Trump in British army redcoat is AI fabrication",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaemZkSXhvdlNhdWF1R1Q5czRrdXItdDdjeUZGMEE2cXNHMDE4ejFfcFpwM0N1WGxGLWZNUm1lNERaWjRJQXM0S3EteE9ZQWpRUVB2cUMwSlQ?oc=5",
+    "title": "AFP Sri Lanka",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE90bUhBYS1scXZaSjdMZDNBeVphRENSaldRal9BWXZCWm1lMHQ1ck9QMkg1THFma2xLTERYX1lZTzBqWFVpTFJUQnVvc2ZjSUFm?oc=5",
     "feed": "afp_factcheck",
     "lang": "en",
     "published": null,
     "metric": "afp_factcheck #4, AFP Fact Check"
    },
    {
-    "title": "Niagara Falls blue lights not in honor of Democrats US midterms win",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB6MDVmZk9fUDlHalNqLVJiR0dTdlFyWmJabXFmUUdXdWl6c0RXSnpUWDdWWEw4MVlFb1FyN2t0TmppY2tUUzdjMlcta21zRkRNR3dLenBBaDA?oc=5",
+    "title": "AI video of burning ship does not show USS Abraham Lincoln sinking after missile strike",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yLWtRbEVYbUFBY1pBUi1DNUREdFo2dE9BNDI2YnFfMHRLNlVMdF9GRWp1Xzh0VUY3RHJYUFZhSloyaERRMFFNcVI3UFh6U2h6R2YtZ0Z2bjQ?oc=5",
     "feed": "afp_factcheck",
     "lang": "en",
     "published": null,
@@ -10125,7 +10251,7 @@
    "feed": "spaceflight_news",
    "lang": "en",
    "published": "2026-11-20T19:49:06+00:00",
-   "metric": "spaceflight_news #4, 6h old, NASASpaceflight",
+   "metric": "spaceflight_news #4, 7h old, NASASpaceflight",
    "group": "space"
   },
   {
@@ -10174,12 +10300,12 @@
    "group": "defense"
   },
   {
-   "title": "Alaska Ke Aasmaan Mein Jellyfish UFO?! Woh Kaali Cheez Thi Kya",
-   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA4Q0JqS25oaGlPUFNlbDY1Zk5rRy1Pa3JxS1JjMV9fRUlRSGw0NzVNaFFQSWF2U1UtMWtpaE1DU20yQQ?oc=5",
+   "title": "18 Reports of Jellyfish-Shaped Objects Floating in the Sky",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZnBzOEZlOTBCYUNhd0g5V3BmaDZMcmVOWkduVkNJbmhUUlVUX0EyUHVlc255WC1Ya1hfUnpHMEQ3c01kU3hQdWsyUjdvbkFZSnIyUVdiX2lWemg3TEkweWdzWjNoUTFXU09HSzlYVDZtQVBfbkhTcjN4WG1XOVhIZ05YMVZTOVBx?oc=5",
    "feed": "aaro_news",
    "lang": "en",
    "published": null,
-   "metric": "aaro_news #5, YouTube",
+   "metric": "aaro_news #5, HackerNoon",
    "group": "defense"
   },
   {
@@ -10201,12 +10327,12 @@
    "group": "defense"
   },
   {
-   "title": "18 Reports of Jellyfish-Shaped Objects Floating in the Sky",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZnBzOEZlOTBCYUNhd0g5V3BmaDZMcmVOWkduVkNJbmhUUlVUX0EyUHVlc255WC1Ya1hfUnpHMEQ3c01kU3hQdWsyUjdvbkFZSnIyUVdiX2lWemg3TEkweWdzWjNoUTFXU09HSzlYVDZtQVBfbkhTcjN4WG1XOVhIZ05YMVZTOVBx?oc=5",
+   "title": "Alaska Ke Aasmaan Mein Jellyfish UFO?! Woh Kaali Cheez Thi Kya",
+   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA4Q0JqS25oaGlPUFNlbDY1Zk5rRy1Pa3JxS1JjMV9fRUlRSGw0NzVNaFFQSWF2U1UtMWtpaE1DU20yQQ?oc=5",
    "feed": "aaro_news",
    "lang": "en",
    "published": null,
-   "metric": "aaro_news #6, HackerNoon",
+   "metric": "aaro_news #6, YouTube",
    "group": "defense"
   },
   {
@@ -10476,7 +10602,7 @@
    "feed": "spaceflight_news",
    "lang": "en",
    "published": "2026-11-19T06:41:35+00:00",
-   "metric": "spaceflight_news #21, 43h old, European Spaceflight",
+   "metric": "spaceflight_news #21, 44h old, European Spaceflight",
    "group": "space"
   }
  ]
