@@ -11,7 +11,7 @@ further once new says said say live update updates watch video photos report rep
 vs v first last next amid after over per via get gets got make makes made how why what top best""".split())
 WEEKDAYS = set("monday tuesday wednesday thursday friday saturday sunday january february march april may june july august september october november december".split())
 SOURCE_W = {"x": 1.0, "googletrends": 1.0, "reddit": 1.0, "wikipedia": 0.9, "googlenews": 0.9, "youtube": 0.8, "hackernews": 0.7,
-            "factcheck": 0.8, "oddities": 0.7, "chess": 0.5, "travel": 0.5, "space": 0.5, "defense": 0.4}
+            "factcheck": 0.8, "oddities": 0.7, "chess": 0.5, "travel": 0.5, "space": 0.5, "defense": 0.5}
 
 ROMAN = {"ii": "2", "iii": "3", "iv": "4", "vi": "6", "vii": "7", "viii": "8", "ix": "9"}
 import unicodedata

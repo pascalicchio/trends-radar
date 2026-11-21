@@ -115,3 +115,30 @@ channels:
         angle: "How many Lichess players fall for it? {topic} as a blunder short (EN + PT)"
       - match: []
         angle: "Chess blunder angle on {topic} (EN + PT versions; PT does better)"
+
+  - id: military-unclassified
+    name: Military Unclassified
+    format: "military engineering explainers plus declassified Pentagon/Navy/CIA UAP records and secret military technology (long-form + Shorts)"
+    entity_types_ok: []
+    strong: [military, pentagon, department of defense, u.s. defense, us defense, war.gov, aaro, uap, ufo, unidentified anomalous, unidentified aerial, pentagon ufo, pentagon uap,
+             declassified, foia, black budget, special access program, cia, nsa, nro, darpa, aatip, aawsap, project blue book, tic tac ufo, area 51, skunk works,
+             hypersonic, stealth aircraft, stealth bomber, stealth technology, b-21, b-21 raider, b-2 spirit, f-35, f-22, f-117, sr-71, fighter jet, sixth-generation,
+             aircraft carrier, nuclear submarine, virginia-class, ohio-class, warship, directed energy, directed-energy, railgun, icbm, ballistic missile, cruise missile,
+             himars, thaad, patriot missile, iron dome, drone swarm, loyal wingman, collaborative combat aircraft, mq-9, reaper drone,
+             special forces, navy seals, navy seal, delta force, green berets, special operations, jsoc, devgru, army rangers,
+             us air force, u.s. air force, united states air force, air force base, space force, marine corps, us navy, u.s. navy, united states navy,
+             operation paperclip, mkultra, project mogul, project azorian, stargate project, lockheed martin, northrop grumman]
+    weak: [defense, defence, classified, weapons, weapon, missile, missiles, drone, drones, fighter, bomber, submarine, submarines, carrier, radar, stealth,
+           surveillance, reconnaissance, intelligence, satellite, troops, soldier, navy, army, marines, air force, nuclear, cold war, military history]
+    exclude: []
+    angles:
+      - match: [aaro, uap, ufo, unidentified anomalous, unidentified aerial, pentagon ufo, pentagon uap, project blue book, tic tac ufo, area 51, aatip, aawsap]
+        angle: "Declassified files on {topic}: what the Pentagon, Navy, or CIA actually released, and what is still withheld"
+      - match: [hypersonic, stealth aircraft, stealth bomber, stealth technology, b-21, b-21 raider, b-2 spirit, f-35, f-22, f-117, sr-71, fighter jet, sixth-generation,
+                aircraft carrier, nuclear submarine, virginia-class, ohio-class, warship, directed energy, directed-energy, railgun, icbm, ballistic missile,
+                cruise missile, himars, drone swarm, loyal wingman, collaborative combat aircraft, mq-9, reaper drone, darpa, skunk works, lockheed martin, northrop grumman]
+        angle: "Military engineering explainer: how {topic} works, and the part that was classified until recently"
+      - match: [special forces, navy seals, navy seal, delta force, green berets, special operations, jsoc, devgru, army rangers, declassified, foia, operation paperclip, mkultra, project azorian, stargate project]
+        angle: "The declassified story of {topic}: what was acknowledged, and what stayed secret"
+      - match: []
+        angle: "Military Unclassified take: the tech, the files, and what {topic} still isn't telling us"

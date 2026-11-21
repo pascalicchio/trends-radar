@@ -5130,6 +5130,1229 @@
    "summary": "She pushed back, called a supervisor, and got through after the supervisor shrugged it off as just food. Travelers chimed in with their own tales of sneaking birthday cakes, fried rice, and steak dinners past security, plus jokes about pre-checkpoint pocket pat-downs for forgotten knives or guns. TSA rules allow solid foods like cooked meats and seafood in carry-ons, though officers have final say and creamy dishes sometimes spark extra scrutiny.",
    "updated_at": "2026-11-20T01:46:19.000Z",
    "url": "https://x.com/i/trending/2123592158003478599"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [
+      "war with Iran"
+     ],
+     "organizations": [
+      "Government Accountability Office",
+      "Pentagon",
+      "Department of Defense"
+     ],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "News",
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "U.S. forces burned through 850 Tomahawk missiles in the war's first month alone, exposing deep gaps in the Pentagon's arsenal that officials had denied.",
+   "id": "2123612930142875788",
+   "name": "GAO Report Reveals Pentagon Munitions Shortfalls Amid Iran War",
+   "summary": "A new Government Accountability Office report contradicts President Trump and senior officials by highlighting persistent munitions shortages worsened by the Iran conflict. The Army has nearly exhausted long-range missiles like ATACMS, while the Navy has even used some expired ones, and the Pentagon lacks a unified plan or office to fix department-wide gaps. GAO urges a comprehensive strategy tying production to needs, better data, and coordinated leadership to avoid risks during ongoing operations, as Congress debates a $350 billion defense package.",
+   "updated_at": "2026-11-20T03:10:01.000Z",
+   "url": "https://x.com/i/trending/2123612930142875788"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "Rafael",
+      "Raytheon"
+     ],
+     "people": [],
+     "places": [
+      "Israel"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "News"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "After Iranian barrages strained supplies this year, Israel quickly upgraded its David's Sling system to handle more threats without burning through pricier interceptors.",
+   "id": "2123736571082068197",
+   "name": "Israel Upgrades David's Sling to Counter Iranian Missiles at Lower Cost",
+   "summary": "The enhancements expand David's Sling's range and let it intercept a wider variety of Iranian ballistic missiles, with each Stunner costing about $1 million compared to $3 million for Arrow 3 or over $4 million for U.S. Patriots. A senior Israeli Air Force official said the system can now withstand weeks of sustained attacks, fitting between short-range Iron Dome and long-range Arrow in the multilayered defenses co-developed with RTX. The upgrades, turned around in days from combat data, cut costs dramatically—stopping 1,700 missiles would cost $1.7 billion versus nearly $7 billion with Patriots—strengthening Israel's posture against Iran's stockpile of at least 1,700 missiles produced at 50 per month.",
+   "updated_at": "2026-11-20T14:16:52.000Z",
+   "url": "https://x.com/i/trending/2123736571082068197"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [
+      "detonation of 9,500 pounds of unstable lead azide"
+     ],
+     "organizations": [
+      "U.S. Court of Appeals for the Eighth Circuit",
+      "U.S. Army",
+      "Environmental Protection Agency",
+      "Iowa Environmental Council",
+      "Sierra Club"
+     ],
+     "people": [],
+     "places": [
+      "Iowa Army Ammunition Plant",
+      "Middletown"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "News"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Residents near the Iowa Army Ammunition Plant feared a toxic lead plume drifting over homes, farms, and schools after just five days' notice of the blast plan.",
+   "id": "2123160061799239686",
+   "name": "Army Delays Iowa Explosives Detonation After Public Outcry Over Lead Risks",
+   "summary": "The U.S. Army postponed detonating 9,700 pounds of unstable lead azide at its Middletown, Iowa plant, originally set for Friday, due to concerns about lead dust spreading up to 100 miles into communities like Burlington and the Quad Cities. Critics, including Illinois Gov. JB Pritzker and environmental groups, highlighted risks to children, water, and farmland, plus the short warning despite months of planning. Acting Army Secretary Adam Telle delayed it to Monday, November 23, stressing public safety and better coordination amid a lawsuit challenging the EPA permit.",
+   "updated_at": "2026-11-20T19:57:59.000Z",
+   "url": "https://x.com/i/trending/2123160061799239686"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [
+      "Iran War",
+      "Epic Fury"
+     ],
+     "organizations": [
+      "Wall Street Journal",
+      "USS George Washington"
+     ],
+     "people": [
+      "Shelby Holliday"
+     ],
+     "places": [
+      "USS George Washington"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Business & Finance"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "In the Arabian Sea, sailors on the USS George Washington grab Uncrustables like kids at recess, turning the frozen PB&J into a mission essential.",
+   "id": "2123850736798941495",
+   "name": "USS George Washington Sailors Obsessed with Uncrustables Amid Iran Conflict",
+   "summary": "The 5,000-person crew eats about 48,000 Uncrustables monthly, with fighter pilots refusing missions without them and supply officers fixated on stocks amid suspected hoarding. WSJ reporter Shelby Holliday, embedded aboard, noted pilots rave about the snack providing a taste of home in high-stress times far from port. Navy Chief Adm. Daryl Caudle endorsed the trend, saying good chow like Uncrustables fuels the fleet, while sales across military branches rose 60% last year.",
+   "updated_at": "2026-11-20T22:00:00.000Z",
+   "url": "https://x.com/i/trending/2123850736798941495"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [],
+     "people": [],
+     "places": [
+      "Navarre",
+      "Tyndall Air Force Base"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "News",
+     "Natural Disasters"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Homes rattled with three powerful booms in under an hour, leaving residents from Navarre to Tyndall Air Force Base wondering what caused the deep rumblings.",
+   "id": "2123911534783123809",
+   "name": "Mysterious Booms Shake Florida Panhandle Homes Near Air Force Bases",
+   "summary": "Loud explosions and vibrations hit communities across Florida's Panhandle this week, with reports clustering near military bases like Tyndall, Eglin, and Hurlburt Field. Locals described wall-shaking noises akin to massive blasts, while online chatter mixed worry, jokes about tin foil hats, and practical explanations tied to routine training like explosive demolitions and munitions tests. Hurlburt announced similar exercises for November 24, noting weather could amplify the sounds, and past events trace back to Eglin—highlighting how standard operations often explain these recurring disturbances.",
+   "updated_at": "2026-11-21T01:30:57.000Z",
+   "url": "https://x.com/i/trending/2123911534783123809"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [
+      "controlled detonation of lead azide"
+     ],
+     "organizations": [
+      "8th U.S. Circuit Court of Appeals",
+      "U.S. Army",
+      "Environmental Protection Agency",
+      "Iowa Environmental Council",
+      "Sierra Club Iowa Chapter"
+     ],
+     "people": [],
+     "places": [
+      "Iowa Army Ammunition Plant",
+      "Middletown, Iowa"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "News"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Residents feared a massive toxic lead dust plume from nearly five tons of unstable explosives at an Iowa plant. A federal appeals court stepped in just in time to halt the plan.",
+   "id": "2123885582405566815",
+   "name": "Appeals Court Blocks Army's Lead Explosives Detonation in Iowa",
+   "summary": "The U.S. Army planned to detonate 9,500 pounds of degraded lead azide at the Iowa Army Ammunition Plant in Middletown, calling it the safest way to avoid an accidental blast. Environmental groups sued the EPA over the emergency permit, arguing it ignored health risks like brain damage from lead exposure and safer disposal options. The Eighth Circuit Court issued an indefinite stay late Thursday, postponing the event originally set for November 23, while Iowa's governor activated an emergency center to monitor the situation.",
+   "updated_at": "2026-11-21T01:58:24.000Z",
+   "url": "https://x.com/i/trending/2123885582405566815"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [
+      "Project Pursue"
+     ],
+     "organizations": [
+      "U.S. Department of Defense",
+      "Bigelow Aerospace"
+     ],
+     "people": [
+      "Donald Trump"
+     ],
+     "places": [
+      "Skinwalker Ranch, Utah",
+      "Nevada",
+      "Middle East"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "News"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "The Pentagon just dropped three military sensor videos of unidentified objects zipping across screens, adding fresh fuel to decades of mystery sightings.",
+   "id": "2123770853724954691",
+   "name": "Pentagon Releases Eighth Batch of UAP Files with Unresolved Videos",
+   "summary": "On Friday, the All-domain Anomaly Resolution Office released 43 new UAP records, including 40 documents and three short videos from U.S. Central Command in the Middle East. The clips, from 2020, 2023, and 2026, show unresolved 'areas of contrast' with no official explanations provided. Highlights among the documents include a 2009 plan for a secure Nevada vault to store potential exotic materials and 1950s CIA briefings on flying saucer reports. Skeptics like analyst Mick West called the footage 'blurry dots, possible birds,' while more releases are expected.",
+   "updated_at": "2026-11-20T23:40:58.000Z",
+   "url": "https://x.com/i/trending/2123770853724954691"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "The Washington Post",
+      "Pentagon",
+      "NATO",
+      "North American Aerospace Defense Command (NORAD)"
+     ],
+     "people": [
+      "Pete Hegseth",
+      "Sean Parnell"
+     ],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "In a move straining neighborly bonds, Defense Secretary Pete Hegseth issued a classified memo last week limiting U.S.-Canada defense cooperation amid rising tensions.",
+   "id": "2123935847846408279",
+   "name": "Defense Secretary Hegseth Restricts U.S.-Canada Military Ties via Classified Memo",
+   "summary": "The directive, first reported by The Washington Post, escalates friction between Washington and Ottawa, fueled by President Trump's annexation rhetoric. While exact limits remain secret, Pentagon spokesman Sean Parnell assured no impact on intelligence sharing, NATO, or NORAD cooperation, with focus on U.S. priorities and Canada's NATO role. Reactions split sharply: critics like veteran Amy McGrath call it illogical amid ties with Venezuela, while the memo risks broader strain in a key alliance forged through shared conflicts like Afghanistan.",
+   "updated_at": "2026-11-21T01:41:56.000Z",
+   "url": "https://x.com/i/trending/2123935847846408279"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "Anthropic",
+      "Department of Defense"
+     ],
+     "people": [
+      "Emil Michael"
+     ],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": [
+      "ANTH"
+     ]
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Technology",
+     "Business & Finance"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Anthropic's stock took a sharp hit on its second trading day when a top Pentagon official labeled the AI firm a supply chain risk over its strict terms of service.",
+   "id": "2123828731856711977",
+   "name": "Anthropic Shares Drop 10% After Pentagon Calls It Supply Chain Risk",
+   "summary": "Pentagon technology chief Emil Michael told CNBC that Anthropic poses a risk because its terms ban uses like weapons development, clashing with military needs. This reinforced an existing designation limiting the company's defense work, causing shares to fall from near $90 to the low $83s before a partial rebound around $87. The slide followed Anthropic's record $81.3 billion IPO at $83 per share, which had surged 17% on debut to close at $97.17, highlighting how Washington policy signals can quickly sway AI investor sentiment.",
+   "updated_at": "2026-11-20T22:01:26.000Z",
+   "url": "https://x.com/i/trending/2123828731856711977"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "U.S. Air Force"
+     ],
+     "people": [],
+     "places": [
+      "Strait of Hormuz",
+      "Al Dhafra Air Base",
+      "Abu Dhabi",
+      "United Arab Emirates"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Aviation"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "A U.S. Air Force F-16 suddenly dropped from 32,000 feet while crossing the tense Strait of Hormuz, signaling a general emergency before touching down safely at a UAE base.",
+   "id": "2123900446259466375",
+   "name": "U.S. F-16 Declares Emergency Near Strait of Hormuz, Lands Safely in UAE",
+   "summary": "On November 20, 2026, the F-16CM with registration 87-0355 squawked the 7700 distress code, showed erratic speed and altitude changes, and descended nearly 28,000 feet to land at Al Dhafra Air Base. Social media posts linked the incident to unverified reports of an Iranian surface-to-air missile near Qeshm Island amid regional tensions following U.S. strikes on Iranian sites. The 7700 code indicates general distress from possible mechanical, medical, or other issues, with no U.S. military confirmation on the cause or any hostile action.",
+   "updated_at": "2026-11-21T01:05:15.000Z",
+   "url": "https://x.com/i/trending/2123900446259466375"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [
+      "Kızılelma acceptance tests"
+     ],
+     "organizations": [
+      "Baykar",
+      "Turkish Security Forces"
+     ],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Aviation"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "President Erdoğan signed one of the sleek, dark gray jets in front of a cheering crowd, marking a proud moment for Turkey's defense ambitions.",
+   "id": "2123451540966895616",
+   "name": "Turkey Inducts First Bayraktar Kızılelma Unmanned Fighter Jets",
+   "summary": "On November 19, 2026, Turkey added the first three Bayraktar Kızılelma unmanned fighter jets to its military after 20 years of development and 600 test flights. The jet-powered aircraft handles air-to-air combat and precision ground strikes, with features like an internal weapons bay and beyond-visual-range missiles. Officials hailed it as the world's first unmanned fighter jet in operational service, boosting Turkey's self-reliance in defense technology. Further deliveries are planned as production ramps up.",
+   "updated_at": "2026-11-20T19:18:19.000Z",
+   "url": "https://x.com/i/trending/2123451540966895616"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [
+      "DealBook"
+     ],
+     "organizations": [
+      "Anduril",
+      "New York Times"
+     ],
+     "people": [
+      "Palmer Luckey"
+     ],
+     "places": [
+      "missile base"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Business & Finance"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Palmer Luckey revealed he owns a 200-foot underground missile base, but stressed everyday readiness over hidden bunkers.",
+   "id": "2123524019542773916",
+   "name": "Palmer Luckey Urges Three Days of Emergency Supplies Amid Cyber Risks",
+   "summary": "At the New York Times DealBook Summit on November 18, Anduril founder Palmer Luckey warned of AI-powered cyberattacks outpacing defenses, citing recent outages at Apple, Microsoft, the NSA, and FAA. He advised everyone to stock three days of water, dry food, and medication, noting the country can recover systems within that timeframe. Luckey shared his own prepper setup but emphasized simple steps like refilling prescriptions early, while his company recently hit a $90 billion valuation building military AI tech.",
+   "updated_at": "2026-11-20T07:44:35.000Z",
+   "url": "https://x.com/i/trending/2123524019542773916"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [
+      "Republican senators re-elect John Thune as leader"
+     ],
+     "organizations": [
+      "Senate GOP"
+     ],
+     "people": [
+      "Donald Trump",
+      "John Thune"
+     ],
+     "places": [
+      "Senate"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "With just weeks left in the 119th Congress, Speaker Mike Johnson is rallying House Republicans to return to Washington and push through key bills before Democrats take over.",
+   "id": "2123261730273083413",
+   "name": "Republicans Face Internal Tensions Over Lame-Duck Agenda",
+   "summary": "Johnson's November 20 letter highlights the House's passage of over 1,000 measures, many blocked by Senate Democrats, and urges members to tackle government funding, the National Defense Authorization Act, and permitting reform before January 3. Frustration targets Senate Majority Leader John Thune for stalling Trump priorities like a $350 billion defense boost and air traffic control fixes, with President Trump and White House officials voicing sharp criticism. Rep. Tim Burchett announced his 2028 Senate run, positioning himself as a fighter for conservative goals amid calls for new leadership, while the House passed only the Preventive Health Savings Act this week.",
+   "updated_at": "2026-11-20T23:31:23.000Z",
+   "url": "https://x.com/i/trending/2123261730273083413"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [
+      "Fort Hood shooting"
+     ],
+     "organizations": [
+      "US Army"
+     ],
+     "people": [
+      "Nidal Malik Hasan"
+     ],
+     "places": [
+      "Fort Hood"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Crime"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "After years on death row, Nidal Malik Hasan faces a U.S. Army firing squad at Fort Hood—the site of his 2009 rampage that killed 13 and wounded 32.",
+   "id": "2123882585462112301",
+   "name": "Army Sets Firing Squad Execution for Fort Hood Shooter on December 3",
+   "summary": "Former Army Major Nidal Malik Hasan, convicted in 2013 for the Fort Hood shooting where he shouted 'Allahu Akbar,' will be executed by firing squad on December 3, the first U.S. military execution since 1961. President Trump approved the order on Defense Secretary Pete Hegseth's recommendation, returning the event to the Texas attack site. Many online voices celebrate the move as long-overdue justice, calling for victims' families to witness it and even suggesting a livestream, with posts like Catturd's plea: 'Can the families of the victims watch? They should be allowed to.'",
+   "updated_at": "2026-11-20T23:40:48.000Z",
+   "url": "https://x.com/i/trending/2123882585462112301"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "White House"
+     ],
+     "people": [],
+     "places": [
+      "Skinwalker Ranch",
+      "Ciudad Juárez"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "News"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "A shadowy figure with wide wings glides over Ciudad Juárez rooftops in shaky clips, prompting wild guesses about a pterodactyl on the loose.",
+   "id": "2123933433860682025",
+   "name": "Blurry Videos Spark Pterodactyl Sightings Near US-Mexico Border",
+   "summary": "Videos from Chihuahua, Mexico, show a large, dark-winged silhouette flying near homes and power lines, drawing comparisons to a 2006-2007 Skinwalker Ranch report of a massive, prehistoric creature described in declassified UFO files. While some speculate about surviving ancient beasts or portals, local officials dismiss the footage as digital fakes, and fact-checkers spot unnatural details like morphing text. Experts point to likely explanations like a great blue heron seen from below, reminding us pterosaurs vanished 66 million years ago with no proof of survivors today.",
+   "updated_at": "2026-11-21T00:21:53.000Z",
+   "url": "https://x.com/i/trending/2123933433860682025"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [
+      "military cooperation agreement signing"
+     ],
+     "organizations": [
+      "U.S. Department of Defense"
+     ],
+     "people": [
+      "Pete Hegseth",
+      "Gustavo Gonzalez Lopez"
+     ],
+     "places": [
+      "Caracas",
+      "Puerto Cabello",
+      "La Guaira"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "In an unannounced trip to Caracas, Secretary Pete Hegseth shook hands with interim President Delcy Rodríguez at the Miraflores palace, signing a deal to rebuild military ties after years of tension.",
+   "id": "2123091221015101793",
+   "name": "US Secretary Hegseth Signs Military Pact with Venezuela in Surprise Caracas Visit",
+   "summary": "The agreement launches joint training, intelligence sharing, and modernization for Venezuelan forces, reviving partnerships severed amid past conflicts with Maduro, who was captured by US forces in January. Hegseth warned narco-terrorists at the US Embassy that their safe haven days are over, promising to hunt them down under a 'Peace Through Strength' approach. Rodríguez welcomed the aid for better equipment and tech to tackle shared threats, marking a shift from prior ties to Russia and China. Hegseth then visited Colombia and Ecuador to boost counter-narcotics and border security.",
+   "updated_at": "2026-11-20T06:10:31.000Z",
+   "url": "https://x.com/i/trending/2123091221015101793"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "Minneapolis-Saint Paul International Airport"
+     ],
+     "people": [
+      "Markwayne Mullin"
+     ],
+     "places": [
+      "Minneapolis-Saint Paul International Airport"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Travelers at Minneapolis-St. Paul International Airport paused in the security line to see a holographic-style display of Homeland Security Secretary Markwayne Mullin thanking President Trump and saying 'God Bless America.'",
+   "id": "2123876268865147337",
+   "name": "Hologram-Style Display of DHS Secretary Mullin Draws Criticism at MSP Airport",
+   "summary": "The display features Mullin assuring passengers that security personnel are not the problem, while expressing gratitude to the president and using patriotic language. Social media users shared images and videos, leading to reactions like Rick Wilson's 'I can't' and comparisons to dystopian fiction such as 1984 or Half-Life 2. Critics called it a waste of taxpayer dollars and inappropriate political messaging at a federal checkpoint, with some noting it's spinning LED strips, not a true hologram. The setup has fueled questions about costs and the role of such messaging in public spaces.",
+   "updated_at": "2026-11-20T20:36:19.000Z",
+   "url": "https://x.com/i/trending/2123876268865147337"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [
+      "Coalition of the Willing meeting"
+     ],
+     "organizations": [
+      "Coalition of the Willing"
+     ],
+     "people": [
+      "Andy Burnham"
+     ],
+     "places": [
+      "Berlin"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Prime Minister Andy Burnham stood firm in Berlin, pledging over 1,000 long-range strike drones to help Ukraine strike back at Russian attacks on its power grid this winter.",
+   "id": "2123520713738838405",
+   "name": "UK Announces £260 Million Drone Aid Package for Ukraine",
+   "summary": "The package, revealed at a Coalition of the Willing meeting on November 19, includes drones that reach over 1,000 kilometers with heavy warheads, plus naval and reconnaissance models, more than 1,000 missiles, and over a dozen short-range air defense radars. Over 80 percent of the £260 million will support British manufacturers and small businesses. Burnham stated the aid helps Ukraine defend critical infrastructure, noting Russia is losing men, ground, and its push to break Ukraine, while reactions range from comedian John Cleese's 'Great news' praise to critics warning of escalation and domestic priorities.",
+   "updated_at": "2026-11-20T11:18:02.000Z",
+   "url": "https://x.com/i/trending/2123520713738838405"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [
+      "Ukrainian drone strike on PJSC Dorogobuzh"
+     ],
+     "organizations": [
+      "PJSC Dorogobuzh",
+      "Acron Group"
+     ],
+     "people": [],
+     "places": [
+      "Dorogobuzh, Smolensk Oblast, Russia"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "News"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Overnight explosions lit up the night sky at Russia's Dorogobuzh chemical plant, with eyewitness videos capturing thick smoke and glowing fires from the key facility.",
+   "id": "2123589746647544204",
+   "name": "Ukrainian Drones Hit Russia's Dorogobuzh Chemical Plant Again",
+   "summary": "Ukrainian attack drones targeted PJSC Dorogobuzh in Smolensk region, a major producer of ammonia, nitric acid, and ammonium nitrate that supplies 11% of Russia's output and supports its explosives for military use. The strike around midnight triggered blasts and fires, confirmed by OSINT reports and geolocated videos showing orange glows and hot spots. This is the second attack on the plant in 2026, after a February hit that killed seven; damage details remain unclear without Russian comment.",
+   "updated_at": "2026-11-20T10:16:37.000Z",
+   "url": "https://x.com/i/trending/2123589746647544204"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [
+      "Iranian Dirty Bomb Plot"
+     ],
+     "organizations": [
+      "Israeli Mossad",
+      "CIA",
+      "New York Times"
+     ],
+     "people": [
+      "Roman Gofman",
+      "John"
+     ],
+     "places": [
+      "Washington, D.C."
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "News",
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "President Trump faces pressure from Israeli officials to strike Iran soon, but he's made it clear he's not rushing into any decision.",
+   "id": "2123428423335112880",
+   "name": "Trump Weighs Military Options on Iran as Israel Urges Quick Action",
+   "summary": "Reports show the U.S. and Israel are eyeing a joint offensive against Iran's rebuilding missile and nuclear sites, with military assets ready if Trump gives the order. Vice President JD Vance stressed preventing a nuclear-armed Iran as the top priority, backing Trump's readiness to act again. Trump has signaled he'll decide after the new year, noting time is on their side, while new intelligence highlights Iran's advances in chemical and biological weapons. Markets eased with lower oil prices amid hopes for de-escalation, though risks of Iranian retaliation linger.",
+   "updated_at": "2026-11-21T02:06:54.000Z",
+   "url": "https://x.com/i/trending/2123428423335112880"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [
+      "Ukraine Starshield Slowdowns"
+     ],
+     "organizations": [
+      "House Intelligence Committee",
+      "SpaceX",
+      "Trump Administration"
+     ],
+     "people": [
+      "Jim Himes",
+      "Elon Musk",
+      "Jay Clayton"
+     ],
+     "places": [
+      "Ukraine"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": [
+      "SPACEX"
+     ]
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics",
+     "Space"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Incoming House Intelligence Chairman Jim Himes fired off a classified letter demanding answers on why SpaceX's Starshield satellites slowed down over Ukraine at critical moments.",
+   "id": "2123787197195161705",
+   "name": "Democrats Threaten to Block SpaceX Funding Over Ukraine Satellite Slowdowns",
+   "summary": "Himes warned he won't approve funds for SpaceX systems unless the company and Trump administration explain repeated service disruptions that hampered Ukraine's fight against Russian drones and battlefield communications. In letters to intelligence officials and Elon Musk, he sought details on October 2026 changes, decision-makers, and control over the military-grade network. SpaceX recently hired Democratic lobbyists amid probes into its Pentagon reliance, possible Chinese ties, and Musk's administration links, as Democrats gear up for oversight with midterm majorities.",
+   "updated_at": "2026-11-21T01:58:36.000Z",
+   "url": "https://x.com/i/trending/2123787197195161705"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "U.S. Air National Guard"
+     ],
+     "people": [
+      "Daithi O'Corrain"
+     ],
+     "places": [
+      "Shannon Airport",
+      "Ireland"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Crime"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Daithi O'Corrain slipped past security at Shannon Airport and spent hours inside a U.S. military C-130H, wielding an axe and tools to wreck its vital systems.",
+   "id": "2123475993814069432",
+   "name": "Irish Man Charged for Axing $60M U.S. Military Plane at Shannon Airport",
+   "summary": "The 48-year-old from Cork faces U.S. charges for destroying the $60 million aircraft on April 11, 2026, by smashing cockpit gauges, cutting wires and hydraulics, puncturing ducts, and tampering with fuel tanks using ball bearings and corrosive gallium. Prosecutors say he planned the breach for months, rendering the plane inoperable. While some online voices praised it as protest against U.S. military presence and support for Israel, others condemned it as dangerous sabotage, with O'Corrain out on bail in Ireland awaiting a January court date.",
+   "updated_at": "2026-11-20T19:06:36.000Z",
+   "url": "https://x.com/i/trending/2123475993814069432"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [
+      "Flight 15"
+     ],
+     "organizations": [
+      "SpaceX"
+     ],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Space"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Dozens of SpaceX workers gathered around the towering Ship 42, beaming with pride after its unprecedented return from orbit right into the launch tower's arms.",
+   "id": "2123819675490664925",
+   "name": "SpaceX Catches First Orbital Starship in Historic Tower Grab",
+   "summary": "On November 13, 2026, Starship's Flight 15 launched from Starbase, Texas, with Ship 42 reaching orbit, deploying 26 Starlink V3 satellites, and circling Earth for over 22 hours before Mechazilla's tower arms caught it precisely on November 14 at 3:21 p.m. CST—the first time an orbital upper stage was recovered this way. Though the Super Heavy booster splashed down in the Gulf due to low propellant, the mission showcased 39 Raptor engines' power and highlighted Starfactory's rapid production of vehicles every two to four weeks. Team members shared their excitement, with one engineer calling it a privilege to work on such history, as SpaceX eyes weekly launches by 2027.",
+   "updated_at": "2026-11-21T01:41:22.000Z",
+   "url": "https://x.com/i/trending/2123819675490664925"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "U.S. Defense Intelligence Agency"
+     ],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "News",
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "A single nuclear blast in orbit could wipe out thousands of satellites, crippling GPS, banking, and communications worldwide. The U.S. Defense Intelligence Agency laid out this stark scenario in its latest report.",
+   "id": "2123859869031919702",
+   "name": "Russia Developing Nuclear-Armed Satellite, DIA Warns of Global Disruption",
+   "summary": "Russia is advancing a satellite that could deploy a nuclear weapon in space, potentially devastating satellites across multiple orbits and disrupting essential services, according to the DIA's 'Challenges to Security in Space 2026' report. A modeled 1-megaton detonation at 500 kilometers altitude would disable 98 percent of low-Earth orbit satellites within a week, with radiation lingering for years. The report also flags Iran, China, and North Korea for threatening space systems through various counterspace activities, despite treaties like the 1967 Outer Space Treaty banning such weapons.",
+   "updated_at": "2026-11-21T01:31:44.000Z",
+   "url": "https://x.com/i/trending/2123859869031919702"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [
+      "Somalia suspends entry for UAE nationals"
+     ],
+     "organizations": [
+      "New York Times",
+      "United Arab Emirates",
+      "Somalia Federal Government"
+     ],
+     "people": [
+      "Hassan Sheikh Mohamud"
+     ],
+     "places": [
+      "Berbera, Somaliland",
+      "Bosaso, Puntland"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Somalia's cabinet gathered in Mogadishu and delivered a stark order: the UAE ambassador must leave within 72 hours. The move stems from accusations of unauthorized deals and support for armed groups.",
+   "id": "2123430990588883206",
+   "name": "Somalia Expels UAE Ambassador Over Sovereignty Claims",
+   "summary": "President Hassan Sheikh Mohamud accused the UAE of signing port and security agreements with Somaliland, Puntland, and Jubaland without federal approval, calling it an open invasion. Somalia recalled its envoy from Abu Dhabi, while the UAE condemned the action as escalatory and reaffirmed its ties with the Somali people. The dispute follows the UAE's January 2026 embassy closure in Mogadishu after canceled bilateral deals, with Somaliland rejecting federal jurisdiction and critics questioning the Somali president's legitimacy since his term expired in May 2026.",
+   "updated_at": "2026-11-20T23:40:50.000Z",
+   "url": "https://x.com/i/trending/2123430990588883206"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "Sky Ecosystem",
+      "Inca Digital",
+      "CoinDesk"
+     ],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Cryptocurrency"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "A massive $77 million debt position tied to Sky founder Rune Christensen has maxed out the stUSDS lending pool, sparking worries about liquidity and risks in the protocol's high-yield product.",
+   "id": "2123232692724519222",
+   "name": "Sky Protocol Faces Scrutiny Over Founder Debt and Illicit Flows",
+   "summary": "The stUSDS pool, offering yields up to 25%, hit 100% utilization with Christensen's rune.eth wallet holding nearly half the $162 million TVL in debt against $185 million SKY collateral—no repayments since May 2025 and liquidations disabled. Separate reports flagged $518 million in PSM transactions linked to illicit actors, including $101.9 million from North Korean sources, though Sky calls it just 0.03% of total volume via third parties. Officials stress USDS remains overcollateralized with $10 billion backing, ample liquidity, and $400 million yearly revenue, while announcing a SKY buyback; community splits on the governance and exposure risks.",
+   "updated_at": "2026-11-20T10:16:50.000Z",
+   "url": "https://x.com/i/trending/2123232692724519222"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "Microsoft",
+      "FBI",
+      "Storm-0940"
+     ],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": [
+      "MSFT"
+     ]
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Technology",
+     "AI"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "For over 10 days, European Commission staff couldn't access payslips or leave requests due to a cyberattack. The breach even triggered an emergency meeting at the highest levels.",
+   "id": "2123348006883807436",
+   "name": "European Commission Disrupted by AI-Powered Cyberattack",
+   "summary": "Attackers used ARTEX, a publicly available AI tool for scanning IT vulnerabilities, to target the Commission's HR systems starting October 22. Officials took applications offline as a precaution, restored most services, and notified affected individuals, though they found no evidence of a broad staff data breach. Technology chief Henna Virkkunen briefed commissioners, and the institution is working with CERT-EU to investigate and bolster security amid rising AI-enabled threats.",
+   "updated_at": "2026-11-20T20:12:23.000Z",
+   "url": "https://x.com/i/trending/2123348006883807436"
+  },
+  {
+   "category": "Entertainment",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "LAIKA",
+      "A24"
+     ],
+     "people": [
+      "Ben Stiller",
+      "Jeremy Allen White",
+      "Louis Garrel",
+      "Harry Lawtey",
+      "Seth Meyerowitz",
+      "Arthur Meyerowitz",
+      "Emmanuel Lubezki",
+      "Ben Shattuck"
+     ],
+     "places": [
+      "Nazi-occupied France"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Movies & TV"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "An American airman shot down over Nazi-occupied France in 1943 faces months evading the Gestapo before a bold escape. Now, that gripping true tale gets the big-screen treatment.",
+   "id": "2123876267329978727",
+   "name": "Louis Garrel and Harry Lawtey Join Jeremy Allen White in Ben Stiller's WWII Thriller 'Airman'",
+   "summary": "Ben Stiller directs and co-writes 'Airman' for LAIKA Live Action and A24, adapting the bestseller 'The Lost Airman' about Arthur Meyerowitz's survival in wartime France. Jeremy Allen White leads, with newcomers Louis Garrel and Harry Lawtey rounding out the cast, backed by Oscar-winning cinematographer Emmanuel Lubezki. Fans are buzzing over White in an A24 war movie and Stiller's return to directing after a decade, as LAIKA steps into live-action with this bold project. No release date yet.",
+   "updated_at": "2026-11-20T20:35:54.000Z",
+   "url": "https://x.com/i/trending/2123876267329978727"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "xAI",
+      "CNN"
+     ],
+     "people": [
+      "Jake Tapper",
+      "Elspeth Reeve"
+     ],
+     "places": [
+      "Texas"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "News"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Imagine a plane droning overhead that never leaves, mixed with a relentless buzz invading your home day and night. That's the reality for families near Mississippi data centers, where construction lights flood yards even after dark.",
+   "id": "2123819678514676223",
+   "name": "Mississippi Residents Endure Data Center Noise, Shift Political Votes",
+   "summary": "In Southaven and nearby communities, constant noise from data centers' generators and round-the-clock construction has disrupted lives, prompting some longtime Republican voters—including Trump supporters—to back Democrats in recent elections. CNN's Elle Reeve visited and captured the unyielding sound on video, described as a high-pitched whine like an old fan. While the facilities promise jobs, residents decry poor local planning, rising utility costs, and a lack of community input, turning opposition into a bipartisan concern echoed in places like New Jersey.",
+   "updated_at": "2026-11-20T16:55:42.000Z",
+   "url": "https://x.com/i/trending/2123819678514676223"
+  },
+  {
+   "category": "Other",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "Archive of Our Own (AO3)"
+     ],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Technology"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Fans lit up social media with cries of 'IT'S BACK!' after AO3 bounced back from a short downtime, sharing memes of anime tears and triumphant returns.",
+   "id": "2123684437925695732",
+   "name": "AO3 Returns Online After Brief Maintenance Outage",
+   "summary": "The Archive of Our Own (AO3) went back online late on November 19 following preventative maintenance that took it offline earlier that day. The official status account noted that icons, work importing, and non-HTML downloads remain disabled to manage load, with users directed to otwstatus.org for updates. This quick recovery followed a longer 17-day outage from a security incident ending November 15, underscoring the site's vital role for millions in fandom communities who shared waves of relief and humor.",
+   "updated_at": "2026-11-20T16:39:37.000Z",
+   "url": "https://x.com/i/trending/2123684437925695732"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "Defence Headquarters"
+     ],
+     "people": [
+      "Michael Onoja"
+     ],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "News",
+     "Crime"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "In a chilling handover captured on video, a man in a white shirt counts out 22 soldiers' uniforms and 50 caps as armed bandits watch closely in a northern Nigerian forest.",
+   "id": "2123443562779906484",
+   "name": "Video Shows Bandits Receiving Military Uniforms in Nigerian Forest",
+   "summary": "The footage, obtained by Sahara Reporters, depicts the open delivery amid Nigeria's ongoing banditry crisis, sparking widespread fears that criminals could impersonate security forces at fake checkpoints. Public concern has surged, with many questioning supply chains ahead of 2027 elections, while the Defence Headquarters firmly denies military involvement and states no thefts from supply vehicles have been reported. This comes weeks after a separate operation recovered 12 AK-47s and freed 10 hostages, which the military described as a deliberate effort to secure weapons.",
+   "updated_at": "2026-11-20T11:12:52.000Z",
+   "url": "https://x.com/i/trending/2123443562779906484"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [
+      "Lavon Affair",
+      "Operation Susannah"
+     ],
+     "organizations": [
+      "Muslim Brotherhood"
+     ],
+     "people": [
+      "Joe Rogan",
+      "Moshe Katsav"
+     ],
+     "places": [
+      "Egypt"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Podcasts"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Joe Rogan let out a long exhale after reading about Israel's 1954 plot to bomb American targets in Egypt. 'That sh*t’s REAL,' he said on his podcast.",
+   "id": "2123501534315004014",
+   "name": "Joe Rogan Reacts to 1954 Israeli False Flag Operation",
+   "summary": "On his show, Rogan learned from guest Greg Anderson about Operation Susannah, where Israeli intelligence recruited Egyptian Jews to plant bombs at U.S. and British sites. The aim was to blame groups like the Muslim Brotherhood and stall British withdrawal from the Suez Canal, but the plan failed after a premature explosion led to arrests. Israel's archives now confirm it as a false flag; the government denied it for 50 years before honoring agents in 2005. The clip has people debating its ties to today's U.S.-Israel alliance, with some calling it ancient history and others seeing echoes in later events like the USS Liberty.",
+   "updated_at": "2026-11-20T05:41:33.000Z",
+   "url": "https://x.com/i/trending/2123501534315004014"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "TrustedSec",
+      "NSA",
+      "CNN"
+     ],
+     "people": [
+      "David Kennedy"
+     ],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Technology",
+     "AI"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "In a live CNN segment, cybersecurity expert David Kennedy described stopping an AI-powered attack that stole data and locked down a system—all in just 14 minutes.",
+   "id": "2123637232607048090",
+   "name": "U.S. Cyber Director Steps Down as AI Breach Hits in 14 Minutes",
+   "summary": "President Trump’s national cyber director Sean Cairncross is stepping down after outages affected banking, air traffic control, Microsoft, and the NSA’s network, though not linked to cyberattacks. Pentagon CIO Kirsten A. Davies steps in as acting director with her technical experience. Kennedy detailed how over 30 AI agents exploited stolen credentials and a two-factor flaw in a real-time breach, highlighting how AI speeds up threats beyond human response times.",
+   "updated_at": "2026-11-21T00:48:26.000Z",
+   "url": "https://x.com/i/trending/2123637232607048090"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [
+      "Taimur Jhagra abduction"
+     ],
+     "organizations": [
+      "Tehreek e Tahafuz e Ayin e Pakistan",
+      "McKinsey"
+     ],
+     "people": [
+      "Taimur Jhagra",
+      "Dr. Mian Saeed"
+     ],
+     "places": [
+      "Peshawar Police Station",
+      "Peshawar"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "News",
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "In the early hours of November 20, masked men entered a Peshawar police station and took former minister Taimur Saleem Jhagra, leaving his family in the dark about his whereabouts.",
+   "id": "2123709470161461518",
+   "name": "PTI Leader Taimur Jhagra Taken by Masked Men from Peshawar Police Station",
+   "summary": "Jhagra, a PTI leader and ex-finance and health minister in Khyber Pakhtunkhwa, had been held under a preventive detention order despite a Peshawar High Court bail grant in a 2023 case. PTI's Zulfi Bukhari reported the 3 a.m. removal from Sharki Police Station, with no updates shared to his family or lawyers. The Insaf Lawyers Forum condemned the detentions of Jhagra, Kamran Bangash, and Irfan Saleem, demanding transparency on orders, locations, and access while warning of rights violations. PTI leaders and supporters have raised alarms over the lack of clarity from authorities.",
+   "updated_at": "2026-11-20T20:49:04.000Z",
+   "url": "https://x.com/i/trending/2123709470161461518"
   }
  ]
 }

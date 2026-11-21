@@ -218,7 +218,7 @@ def main():
     print(json.dumps({k: v["status"] + f" ({v['items']})" for k, v in {**status, **ustatus}.items()}, indent=0))
     return doc
 
-CH = {"go-there-instead": "GTI", "intern-broke-it": "TIBI", "plan-not-panic": "PNP", "silver-paradox": "SP", "chess-blunder-club": "CBC"}
+CH = {"go-there-instead": "GTI", "intern-broke-it": "TIBI", "plan-not-panic": "PNP", "silver-paradox": "SP", "chess-blunder-club": "CBC", "military-unclassified": "MU"}
 def fits_line(f):
     return ", ".join(f"{CH.get(k,k)} {v['score']}" for k, v in sorted(f.items(), key=lambda kv: -kv[1]["score"]) if v["score"] > 0) or "no channel fit"
 

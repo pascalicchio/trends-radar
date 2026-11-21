@@ -1,7 +1,7 @@
 # Grok Bot routine: X snapshot for Trends Radar (needs to be created by the parent bot)
 
 Why: X is only reachable through the `x` MCP connector, which a cron/GitHub Action can't call.
-Schedule: daily at 6:30 AM ET and 6:30 PM ET (about 18 X calls/day; well under the 1000 reads/day limit).
+Schedule: daily at 6:30 AM ET and 6:30 PM ET (about 22 X calls/day; well under the 1000 reads/day limit).
 
 Steps (all on the box, nothing is posted anywhere):
 1. `x.get_trends_by_woeid` with `trend.fields=[trend_name,tweet_count]`, `max_trends=50`, write_to_file=true, for
@@ -9,9 +9,10 @@ Steps (all on the box, nothing is posted anywhere):
 2. `x.search_news` with `max_results=25`, `max_age_hours=24`,
    `news.fields=[name,hook,category,contexts,keywords,updated_at,id]`, write_to_file=true, for queries:
    "United States", "science space technology AI", "weather storm outage",
-   "chess" (Chess Blunder Club / Clube do Vacilo; added 2026-11-18), "travel tourism airlines" (Go There Instead; added 2026-11-18).
+   "chess" (Chess Blunder Club / Clube do Vacilo; added 2026-11-18), "travel tourism airlines" (Go There Instead; added 2026-11-18),
+   "Pentagon military weapons hypersonic" and "UAP AARO declassified Pentagon" (Military Unclassified; added 2026-11-20).
 3. Run:
-   python3 /workspace/trends-radar/scripts/make_snapshot.py x --trends US=<f1> --trends Worldwide=<f2> --trends MX=<f3> --trends GB=<f4> --news <f5> --news <f6> --news <f7> --news <f8> --news <f9>
+   python3 /workspace/trends-radar/scripts/make_snapshot.py x --trends US=<f1> --trends Worldwide=<f2> --trends MX=<f3> --trends GB=<f4> --news <f5> --news <f6> --news <f7> --news <f8> --news <f9> --news <f10> --news <f11>
 4. Run: /workspace/trends-radar/scripts/push_snapshot.sh   (git push via the box's existing gh login; this
    triggers the GitHub Action, which rebuilds everything in about 1 minute)
 5. Optional: `cd /workspace/trends-radar && git pull -q` ~3 minutes later to refresh /workspace/trends-radar/out/ on the box.

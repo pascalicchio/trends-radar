@@ -43,5 +43,16 @@ feeds:
   # --- happened in the last 7 days (item 2) ---
   - {id: spaceflight_news, group: space, kind: snapi, url: "https://api.spaceflightnewsapi.net/v4/articles/?limit=40&ordering=-published_at", recent: true}
   - {id: nasa_news, group: space, kind: rss, url: "https://www.nasa.gov/news-release/feed/", recent: true}
-  - {id: dod_releases, group: defense, kind: rss, url: "https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=9&Site=945&max=20", recent: true}
-  - {id: aaro_news, group: defense, kind: gnews, q: "AARO UAP when:7d", lang: en, recent: true, note: "aaro.mil returns 403; UAP/AARO news via Google News search"}
+  - {id: dod_releases, group: defense, kind: rss, url: "https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=9&Site=945&max=20", recent: true, channels: [military-unclassified]}
+  - {id: aaro_news, group: defense, kind: gnews, q: "AARO UAP when:7d", lang: en, recent: true, channels: [military-unclassified], note: "aaro.mil returns 403; UAP/AARO news via Google News search"}
+
+  # --- military (Military Unclassified) ---
+  - {id: gnews_uap, group: defense, kind: gnews, q: "AARO OR UAP OR \"Pentagon UFO\" OR \"unidentified anomalous\" when:7d", lang: en, channels: [military-unclassified]}
+  - {id: gnews_declassified, group: defense, kind: gnews, q: "declassified (Pentagon OR CIA OR Navy OR \"Air Force\" OR DoD) when:7d", lang: en, channels: [military-unclassified]}
+  - {id: gnews_weapons_tech, group: defense, kind: gnews, q: "hypersonic OR \"stealth bomber\" OR \"B-21\" OR \"F-35\" OR \"directed energy\" OR \"aircraft carrier\" when:7d", lang: en, channels: [military-unclassified]}
+  - {id: gnews_sof, group: defense, kind: gnews, q: "\"special forces\" OR \"Navy SEALs\" OR \"special operations\" OR JSOC when:7d", lang: en, channels: [military-unclassified]}
+  - {id: wiki_military_watch, group: defense, kind: wikiwatch, channels: [military-unclassified],
+     articles: ["Unidentified flying object", "All-domain Anomaly Resolution Office", "Area 51", "Pentagon UFO videos",
+                "Northrop Grumman B-21 Raider", "Lockheed Martin F-35 Lightning II", "Lockheed SR-71 Blackbird", "Skunk Works",
+                "Hypersonic weapon", "United States Navy SEALs", "DARPA", "Stealth aircraft", "Project Blue Book",
+                "Advanced Aerospace Threat Identification Program", "Directed-energy weapon", "Aircraft carrier"]}

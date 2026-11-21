@@ -1,7 +1,7 @@
 # Trends Radar: handoff for Claude Code
 
 Trends Radar is a public, read-only feed of what's hot now and what's coming up in the next 8 weeks, scored against
-the channels (Go There Instead, The Intern Broke It, Plan Not Panic, Silver Paradox, Chess Blunder Club / Clube do Vacilo). Use it to pick the next video topics.
+the channels (Go There Instead, The Intern Broke It, Plan Not Panic, Silver Paradox, Chess Blunder Club / Clube do Vacilo, Military Unclassified). Use it to pick the next video topics.
 It refreshes every 3 hours (GitHub Actions). X trends are refreshed by a Grok Bot routine (see `generated_at` and
 `sources.x.note` for freshness).
 
@@ -60,6 +60,8 @@ Fallback if the Worker is down (same files, straight from the repo):
   `chess-blunder-club`: FIDE, Chess.com news, Lichess blog + top broadcasts, Wikipedia chess-page views (en/pt/es),
   Google News "chess"/"xadrez"/"ajedrez". `go-there-instead`: Google News overtourism/tourist tax/closures, airline
   routes/cancellations, visas/ETIAS, travel news, Christmas markets, Wikivoyage most-read, Wikipedia travel-page views.
+  `military-unclassified`: DoD (war.gov) releases, AARO/UAP news, Google News UAP/declassified/weapons-tech/special-forces,
+  Wikipedia military/UAP page views (B-21, F-35, SR-71, AARO, Area 51, Project Blue Book, etc.).
 - `desk_feeds{factcheck[], oddities[]}`: fact-check (Snopes, AFP Fact Check, PolitiFact, Reuters Fact Check, AFP
   Factual ES) and oddities (Live Science, Smithsonian, Atlas Obscura, Coast to Coast AM). Newest first, last 7 days.
   These items also feed the hot-now clustering.
@@ -68,7 +70,7 @@ Fallback if the Worker is down (same files, straight from the repo):
 - `coming_up[]` (ranked by `likely_heat`, max 4 films): `{name, date, days_until, category, category_tags[], source_url, verified,
    verify_note, hype_now{avg_daily_views_7d, trend_ratio, url}, last_year{peak_daily_views, window, url}, channel_fit,
    best_channel, footage}`
-- `channels[]`: ids `go-there-instead`, `intern-broke-it`, `plan-not-panic`, `silver-paradox`, `chess-blunder-club`
+- `channels[]`: ids `go-there-instead`, `intern-broke-it`, `plan-not-panic`, `silver-paradox`, `chess-blunder-club`, `military-unclassified`
 - Spanish/Portuguese: Google News MX (es) and BR (pt) top stories plus es/pt Wikipedia most-read are in the clustering;
   their regions show as `MX`, `BR`, `es-wiki`, `pt-wiki`.
 
@@ -76,7 +78,7 @@ Fallback if the Worker is down (same files, straight from the repo):
 
 1. Rank is heat only. Don't re-rank by footage. `channel_fit`, `angle_hint`, `paradox_signals` and `footage` are
    there to help you plan, not to filter.
-2. For each channel, start from `channel_picks[channel]` (and `channel_feeds[channel]` for chess/travel), take the hot topics where `channel_fit[channel].score > 0`, plus `coming_up` events within about
+2. For each channel, start from `channel_picks[channel]` (and `channel_feeds[channel]` for chess/travel/military), take the hot topics where `channel_fit[channel].score > 0`, plus `coming_up` events within about
    7 to 21 days (that's lead time to produce). Shorts can go same-day on hot topics.
 3. `angle_hint` comes from a keyword template. Treat it as a starting point and write the real angle yourself.
 4. Footage: the `checked` counts are keyword hits in public archives. Open the URLs
@@ -92,7 +94,7 @@ Fallback if the Worker is down (same files, straight from the repo):
 ## Known gaps (v1.1)
 
 - Reddit: blocked until Reddit approves the API app and REDDIT_CLIENT_ID/SECRET/USERNAME are added as GitHub secrets.
-- X: only as fresh as the Grok Bot X routine (twice a day); X chess/travel news queries are part of that routine.
+- X: only as fresh as the Grok Bot X routine (twice a day); X chess/travel/military news queries are part of that routine.
 - Dedup merges topics that share a Wikipedia article, X trend name, or normalized title. Two different headline
   phrasings of the same story (e.g. "Nationwide Ground Stop" and "FAA Ground Stop") can still show as two topics.
 - Entity typing covers topics with a Wikipedia article or an exact Wikidata label match; others fall back to the

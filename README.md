@@ -1,7 +1,7 @@
 # Trends Radar
 
 Hot-now + coming-up topic radar that feeds Claude Code a daily file for picking video topics
-(Go There Instead, The Intern Broke It, Plan Not Panic, Silver Paradox, Chess Blunder Club / Clube do Vacilo).
+(Go There Instead, The Intern Broke It, Plan Not Panic, Silver Paradox, Chess Blunder Club / Clube do Vacilo, Military Unclassified).
 
 - Dashboard: https://trends-radar.pascalicchio.workers.dev/
 - Exports: `/trends.json`, `/TRENDS.md`, `/latest-grok.md` on the same host (also `out/` in this repo).
