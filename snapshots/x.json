@@ -1,11 +1,16 @@
 {
- "captured_at": "2026-11-21T11:20:28+00:00",
+ "captured_at": "2026-11-21T11:26:38+00:00",
  "trends": {
   "US": [
    {
     "trend_name": "Good Saturday",
     "tweet_count": 25059,
     "url": "https://x.com/search?q=Good%20Saturday"
+   },
+   {
+    "trend_name": "#JanJingJingFanconD1",
+    "tweet_count": 160805,
+    "url": "https://x.com/search?q=%23JanJingJingFanconD1"
    },
    {
     "trend_name": "FSD V15",
@@ -19,7 +24,7 @@
    },
    {
     "trend_name": "Sinaloa",
-    "tweet_count": 38334,
+    "tweet_count": 38590,
     "url": "https://x.com/search?q=Sinaloa"
    },
    {
@@ -33,13 +38,13 @@
     "url": "https://x.com/search?q=Taeyang"
    },
    {
-    "trend_name": "#二十一大",
-    "url": "https://x.com/search?q=%23%E4%BA%8C%E5%8D%81%E4%B8%80%E5%A4%A7"
+    "trend_name": "BIGBANG",
+    "tweet_count": 112154,
+    "url": "https://x.com/search?q=BIGBANG"
    },
    {
-    "trend_name": "BIGBANG",
-    "tweet_count": 111010,
-    "url": "https://x.com/search?q=BIGBANG"
+    "trend_name": "#二十一大",
+    "url": "https://x.com/search?q=%23%E4%BA%8C%E5%8D%81%E4%B8%80%E5%A4%A7"
    },
    {
     "trend_name": "Kessler",
@@ -58,12 +63,12 @@
    },
    {
     "trend_name": "#MAMA2026",
-    "tweet_count": 97407,
+    "tweet_count": 96992,
     "url": "https://x.com/search?q=%23MAMA2026"
    },
    {
     "trend_name": "#lamansiónvip",
-    "tweet_count": 22928,
+    "tweet_count": 22876,
     "url": "https://x.com/search?q=%23lamansi%C3%B3nvip"
    },
    {
@@ -92,23 +97,18 @@
     "url": "https://x.com/search?q=Dioda"
    },
    {
-    "trend_name": "#nsfxtwt",
-    "tweet_count": 4132,
-    "url": "https://x.com/search?q=%23nsfxtwt"
-   },
-   {
     "trend_name": "Vicki",
     "tweet_count": 16062,
     "url": "https://x.com/search?q=Vicki"
    },
    {
     "trend_name": "Kimi",
-    "tweet_count": 49998,
+    "tweet_count": 50099,
     "url": "https://x.com/search?q=Kimi"
    },
    {
     "trend_name": "Ferrari",
-    "tweet_count": 31288,
+    "tweet_count": 31398,
     "url": "https://x.com/search?q=Ferrari"
    },
    {
@@ -117,37 +117,32 @@
     "url": "https://x.com/search?q=Jacks"
    },
    {
-    "trend_name": "Sengun",
-    "tweet_count": 4203,
-    "url": "https://x.com/search?q=Sengun"
-   },
-   {
     "trend_name": "Mark Pope",
-    "tweet_count": 2306,
+    "tweet_count": 2309,
     "url": "https://x.com/search?q=Mark%20Pope"
    },
    {
     "trend_name": "Haymitch",
-    "tweet_count": 65602,
+    "tweet_count": 65702,
     "url": "https://x.com/search?q=Haymitch"
+   },
+   {
+    "trend_name": "Al Qaeda",
+    "tweet_count": 5031,
+    "url": "https://x.com/search?q=Al%20Qaeda"
    },
    {
     "trend_name": "Saint Mary",
     "url": "https://x.com/search?q=Saint%20Mary"
    },
    {
-    "trend_name": "Al Qaeda",
-    "tweet_count": 5008,
-    "url": "https://x.com/search?q=Al%20Qaeda"
-   },
-   {
     "trend_name": "Tamara",
-    "tweet_count": 18467,
+    "tweet_count": 18497,
     "url": "https://x.com/search?q=Tamara"
    },
    {
     "trend_name": "Wyoming",
-    "tweet_count": 3940,
+    "tweet_count": 3929,
     "url": "https://x.com/search?q=Wyoming"
    },
    {
@@ -167,7 +162,7 @@
    },
    {
     "trend_name": "Nuggets",
-    "tweet_count": 8860,
+    "tweet_count": 8864,
     "url": "https://x.com/search?q=Nuggets"
    },
    {
@@ -177,13 +172,18 @@
    },
    {
     "trend_name": "Seth",
-    "tweet_count": 35353,
+    "tweet_count": 35327,
     "url": "https://x.com/search?q=Seth"
    },
    {
     "trend_name": "Chapter 1",
     "tweet_count": 38465,
     "url": "https://x.com/search?q=Chapter%201"
+   },
+   {
+    "trend_name": "Sengun",
+    "tweet_count": 4216,
+    "url": "https://x.com/search?q=Sengun"
    },
    {
     "trend_name": "Seton Hall",
@@ -206,18 +206,13 @@
    },
    {
     "trend_name": "NBA Cup",
-    "tweet_count": 7086,
+    "tweet_count": 7118,
     "url": "https://x.com/search?q=NBA%20Cup"
    },
    {
     "trend_name": "Kings",
-    "tweet_count": 45950,
+    "tweet_count": 45999,
     "url": "https://x.com/search?q=Kings"
-   },
-   {
-    "trend_name": "Franz",
-    "tweet_count": 18257,
-    "url": "https://x.com/search?q=Franz"
    },
    {
     "trend_name": "Ivermectin",
@@ -230,45 +225,50 @@
     "url": "https://x.com/search?q=Jiri"
    },
    {
+    "trend_name": "Franz Wagner",
+    "tweet_count": 2843,
+    "url": "https://x.com/search?q=Franz%20Wagner"
+   },
+   {
+    "trend_name": "#nsfxtwt",
+    "tweet_count": 4135,
+    "url": "https://x.com/search?q=%23nsfxtwt"
+   },
+   {
     "trend_name": "#DBLF2026",
-    "tweet_count": 4228,
+    "tweet_count": 4236,
     "url": "https://x.com/search?q=%23DBLF2026"
    },
    {
     "trend_name": "#OPLive",
-    "tweet_count": 1510,
+    "tweet_count": 1507,
     "url": "https://x.com/search?q=%23OPLive"
    },
    {
     "trend_name": "#dandysworld",
-    "tweet_count": 79077,
+    "tweet_count": 79045,
     "url": "https://x.com/search?q=%23dandysworld"
-   },
-   {
-    "trend_name": "#LasVegasGP",
-    "tweet_count": 42809,
-    "url": "https://x.com/search?q=%23LasVegasGP"
    }
   ],
   "Worldwide": [
    {
-    "trend_name": "#PBBCollab3SecondEviction",
-    "tweet_count": 18235,
-    "url": "https://x.com/search?q=%23PBBCollab3SecondEviction"
-   },
-   {
     "trend_name": "#BOYCOTTPBB",
-    "tweet_count": 22952,
+    "tweet_count": 35436,
     "url": "https://x.com/search?q=%23BOYCOTTPBB"
    },
    {
     "trend_name": "#CANCELPBB",
-    "tweet_count": 17099,
+    "tweet_count": 27564,
     "url": "https://x.com/search?q=%23CANCELPBB"
    },
    {
+    "trend_name": "#PBBCollab3SecondEviction",
+    "tweet_count": 25817,
+    "url": "https://x.com/search?q=%23PBBCollab3SecondEviction"
+   },
+   {
     "trend_name": "#ドッキリGP",
-    "tweet_count": 11147,
+    "tweet_count": 12860,
     "url": "https://x.com/search?q=%23%E3%83%89%E3%83%83%E3%82%AD%E3%83%AAGP"
    },
    {
@@ -277,36 +277,33 @@
     "url": "https://x.com/search?q=%E3%82%A8%E3%83%90%E3%83%BC%E3%82%B9"
    },
    {
-    "trend_name": "#イオンブラックフライデー26",
-    "tweet_count": 12745,
-    "url": "https://x.com/search?q=%23%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%95%E3%83%A9%E3%82%A4%E3%83%87%E3%83%BC26"
-   },
-   {
     "trend_name": "ワイルドカード",
+    "tweet_count": 1063,
     "url": "https://x.com/search?q=%E3%83%AF%E3%82%A4%E3%83%AB%E3%83%89%E3%82%AB%E3%83%BC%E3%83%89"
    },
    {
+    "trend_name": "#イオンブラックフライデー26",
+    "tweet_count": 12767,
+    "url": "https://x.com/search?q=%23%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%95%E3%83%A9%E3%82%A4%E3%83%87%E3%83%BC26"
+   },
+   {
+    "trend_name": "ダブルヒガシ",
+    "tweet_count": 1450,
+    "url": "https://x.com/search?q=%E3%83%80%E3%83%96%E3%83%AB%E3%83%92%E3%82%AC%E3%82%B7"
+   },
+   {
     "trend_name": "ヒーロー名",
-    "tweet_count": 5107,
+    "tweet_count": 5340,
     "url": "https://x.com/search?q=%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E5%90%8D"
    },
    {
     "trend_name": "USMILE X ORM KORNNAPHAT",
-    "tweet_count": 83006,
+    "tweet_count": 86808,
     "url": "https://x.com/search?q=USMILE%20X%20ORM%20KORNNAPHAT"
    },
    {
-    "trend_name": "ダブルヒガシ",
-    "url": "https://x.com/search?q=%E3%83%80%E3%83%96%E3%83%AB%E3%83%92%E3%82%AC%E3%82%B7"
-   },
-   {
-    "trend_name": "JEOLEE SABADOmination",
-    "tweet_count": 23798,
-    "url": "https://x.com/search?q=JEOLEE%20SABADOmination"
-   },
-   {
     "trend_name": "JANJINGJING MAGIC WORLD",
-    "tweet_count": 82622,
+    "tweet_count": 91269,
     "url": "https://x.com/search?q=JANJINGJING%20MAGIC%20WORLD"
    },
    {
@@ -315,14 +312,24 @@
     "url": "https://x.com/search?q=PNB%201ST%20FANMEET%20IN%20MACAU"
    },
    {
+    "trend_name": "JEOLEE SABADOmination",
+    "tweet_count": 23798,
+    "url": "https://x.com/search?q=JEOLEE%20SABADOmination"
+   },
+   {
     "trend_name": "マッサマン",
-    "tweet_count": 5684,
+    "tweet_count": 6015,
     "url": "https://x.com/search?q=%E3%83%9E%E3%83%83%E3%82%B5%E3%83%9E%E3%83%B3"
    },
    {
     "trend_name": "開放骨折",
-    "tweet_count": 4347,
+    "tweet_count": 4483,
     "url": "https://x.com/search?q=%E9%96%8B%E6%94%BE%E9%AA%A8%E6%8A%98"
+   },
+   {
+    "trend_name": "少女仮面",
+    "tweet_count": 2963,
+    "url": "https://x.com/search?q=%E5%B0%91%E5%A5%B3%E4%BB%AE%E9%9D%A2"
    },
    {
     "trend_name": "SATURnight with GEHLEE",
@@ -330,57 +337,36 @@
     "url": "https://x.com/search?q=SATURnight%20with%20GEHLEE"
    },
    {
-    "trend_name": "少女仮面",
-    "tweet_count": 2615,
-    "url": "https://x.com/search?q=%E5%B0%91%E5%A5%B3%E4%BB%AE%E9%9D%A2"
+    "trend_name": "ちゃんぴおんず",
+    "tweet_count": 3043,
+    "url": "https://x.com/search?q=%E3%81%A1%E3%82%83%E3%82%93%E3%81%B4%E3%81%8A%E3%82%93%E3%81%9A"
    },
    {
-    "trend_name": "ブルーインパルス",
-    "tweet_count": 25067,
-    "url": "https://x.com/search?q=%E3%83%96%E3%83%AB%E3%83%BC%E3%82%A4%E3%83%B3%E3%83%91%E3%83%AB%E3%82%B9"
-   },
-   {
-    "trend_name": "清宮フレンズ",
-    "tweet_count": 10105,
-    "url": "https://x.com/search?q=%E6%B8%85%E5%AE%AE%E3%83%95%E3%83%AC%E3%83%B3%E3%82%BA"
-   },
-   {
-    "trend_name": "FORCEBOOK MAFOX HUAWEI EVENT",
-    "tweet_count": 10428,
-    "url": "https://x.com/search?q=FORCEBOOK%20MAFOX%20HUAWEI%20EVENT"
+    "trend_name": "テレーレ",
+    "url": "https://x.com/search?q=%E3%83%86%E3%83%AC%E3%83%BC%E3%83%AC"
    },
    {
     "trend_name": "B/弱点",
-    "tweet_count": 3017,
+    "tweet_count": 3085,
     "url": "https://x.com/search?q=B%2F%E5%BC%B1%E7%82%B9"
    },
    {
-    "trend_name": "多聞くん",
-    "tweet_count": 15540,
-    "url": "https://x.com/search?q=%E5%A4%9A%E8%81%9E%E3%81%8F%E3%82%93"
+    "trend_name": "ケビンス",
+    "url": "https://x.com/search?q=%E3%82%B1%E3%83%93%E3%83%B3%E3%82%B9"
    },
    {
-    "trend_name": "サスペンダー",
-    "url": "https://x.com/search?q=%E3%82%B5%E3%82%B9%E3%83%9A%E3%83%B3%E3%83%80%E3%83%BC"
+    "trend_name": "FORCEBOOK MAFOX HUAWEI EVENT",
+    "tweet_count": 14125,
+    "url": "https://x.com/search?q=FORCEBOOK%20MAFOX%20HUAWEI%20EVENT"
    },
    {
-    "trend_name": "SABADOBEST KA JEO",
-    "tweet_count": 7981,
-    "url": "https://x.com/search?q=SABADOBEST%20KA%20JEO"
+    "trend_name": "オッパショ石",
+    "tweet_count": 2917,
+    "url": "https://x.com/search?q=%E3%82%AA%E3%83%83%E3%83%91%E3%82%B7%E3%83%A7%E7%9F%B3"
    },
    {
-    "trend_name": "PERTHSANTA COFFEE DATE",
-    "tweet_count": 184843,
-    "url": "https://x.com/search?q=PERTHSANTA%20COFFEE%20DATE"
-   },
-   {
-    "trend_name": "PKS Berdampak",
-    "url": "https://x.com/search?q=PKS%20Berdampak"
-   },
-   {
-    "trend_name": "ちゃんぴおんず",
-    "tweet_count": 2734,
-    "url": "https://x.com/search?q=%E3%81%A1%E3%82%83%E3%82%93%E3%81%B4%E3%81%8A%E3%82%93%E3%81%9A"
+    "trend_name": "ジョックロック",
+    "url": "https://x.com/search?q=%E3%82%B8%E3%83%A7%E3%83%83%E3%82%AF%E3%83%AD%E3%83%83%E3%82%AF"
    },
    {
     "trend_name": "GIFFARINE FTF WITH POND",
@@ -388,17 +374,81 @@
     "url": "https://x.com/search?q=GIFFARINE%20FTF%20WITH%20POND"
    },
    {
-    "trend_name": "ケビンス",
-    "url": "https://x.com/search?q=%E3%82%B1%E3%83%93%E3%83%B3%E3%82%B9"
+    "trend_name": "ヤーレンズ",
+    "tweet_count": 1586,
+    "url": "https://x.com/search?q=%E3%83%A4%E3%83%BC%E3%83%AC%E3%83%B3%E3%82%BA"
    },
    {
-    "trend_name": "オッパショ石",
-    "tweet_count": 2770,
-    "url": "https://x.com/search?q=%E3%82%AA%E3%83%83%E3%83%91%E3%82%B7%E3%83%A7%E7%9F%B3"
+    "trend_name": "サスペンダー",
+    "url": "https://x.com/search?q=%E3%82%B5%E3%82%B9%E3%83%9A%E3%83%B3%E3%83%80%E3%83%BC"
    },
    {
-    "trend_name": "ポンポコリン",
-    "url": "https://x.com/search?q=%E3%83%9D%E3%83%B3%E3%83%9D%E3%82%B3%E3%83%AA%E3%83%B3"
+    "trend_name": "ブルーインパルス",
+    "tweet_count": 25339,
+    "url": "https://x.com/search?q=%E3%83%96%E3%83%AB%E3%83%BC%E3%82%A4%E3%83%B3%E3%83%91%E3%83%AB%E3%82%B9"
+   },
+   {
+    "trend_name": "多聞くん",
+    "tweet_count": 15540,
+    "url": "https://x.com/search?q=%E5%A4%9A%E8%81%9E%E3%81%8F%E3%82%93"
+   },
+   {
+    "trend_name": "清宮フレンズ",
+    "tweet_count": 10333,
+    "url": "https://x.com/search?q=%E6%B8%85%E5%AE%AE%E3%83%95%E3%83%AC%E3%83%B3%E3%82%BA"
+   },
+   {
+    "trend_name": "カベポスター",
+    "tweet_count": 2913,
+    "url": "https://x.com/search?q=%E3%82%AB%E3%83%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC"
+   },
+   {
+    "trend_name": "PERTHSANTA COFFEE DATE",
+    "tweet_count": 187915,
+    "url": "https://x.com/search?q=PERTHSANTA%20COFFEE%20DATE"
+   },
+   {
+    "trend_name": "ダブヒガ",
+    "url": "https://x.com/search?q=%E3%83%80%E3%83%96%E3%83%92%E3%82%AC"
+   },
+   {
+    "trend_name": "インテイク",
+    "url": "https://x.com/search?q=%E3%82%A4%E3%83%B3%E3%83%86%E3%82%A4%E3%82%AF"
+   },
+   {
+    "trend_name": "SABADOBEST KA JEO",
+    "tweet_count": 8338,
+    "url": "https://x.com/search?q=SABADOBEST%20KA%20JEO"
+   },
+   {
+    "trend_name": "ジェシカ",
+    "tweet_count": 1997,
+    "url": "https://x.com/search?q=%E3%82%B8%E3%82%A7%E3%82%B7%E3%82%AB"
+   },
+   {
+    "trend_name": "空前メテオ",
+    "tweet_count": 3003,
+    "url": "https://x.com/search?q=%E7%A9%BA%E5%89%8D%E3%83%A1%E3%83%86%E3%82%AA"
+   },
+   {
+    "trend_name": "アインシュタイン",
+    "tweet_count": 1519,
+    "url": "https://x.com/search?q=%E3%82%A2%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3"
+   },
+   {
+    "trend_name": "COOKING SHOW",
+    "tweet_count": 7123,
+    "url": "https://x.com/search?q=COOKING%20SHOW"
+   },
+   {
+    "trend_name": "PHUWIN ADIDAS GOLD LEAF",
+    "tweet_count": 10835,
+    "url": "https://x.com/search?q=PHUWIN%20ADIDAS%20GOLD%20LEAF"
+   },
+   {
+    "trend_name": "ゼロカラン",
+    "tweet_count": 3021,
+    "url": "https://x.com/search?q=%E3%82%BC%E3%83%AD%E3%82%AB%E3%83%A9%E3%83%B3"
    },
    {
     "trend_name": "FonYatirimcisiParasiniAlamadi",
@@ -406,97 +456,47 @@
     "url": "https://x.com/search?q=FonYatirimcisiParasiniAlamadi"
    },
    {
-    "trend_name": "PHUWIN ADIDAS GOLD LEAF",
-    "tweet_count": 9511,
-    "url": "https://x.com/search?q=PHUWIN%20ADIDAS%20GOLD%20LEAF"
+    "trend_name": "ポンポコリン",
+    "url": "https://x.com/search?q=%E3%83%9D%E3%83%B3%E3%83%9D%E3%82%B3%E3%83%AA%E3%83%B3"
    },
    {
-    "trend_name": "カベポスター",
-    "tweet_count": 2692,
-    "url": "https://x.com/search?q=%E3%82%AB%E3%83%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC"
-   },
-   {
-    "trend_name": "ジョックロック",
-    "url": "https://x.com/search?q=%E3%82%B8%E3%83%A7%E3%83%83%E3%82%AF%E3%83%AD%E3%83%83%E3%82%AF"
-   },
-   {
-    "trend_name": "インテイク",
-    "url": "https://x.com/search?q=%E3%82%A4%E3%83%B3%E3%83%86%E3%82%A4%E3%82%AF"
-   },
-   {
-    "trend_name": "COOKING SHOW",
-    "tweet_count": 5728,
-    "url": "https://x.com/search?q=COOKING%20SHOW"
+    "trend_name": "PKS Berdampak",
+    "url": "https://x.com/search?q=PKS%20Berdampak"
    },
    {
     "trend_name": "RISING SUN INNONGSA",
-    "tweet_count": 65273,
+    "tweet_count": 67345,
     "url": "https://x.com/search?q=RISING%20SUN%20INNONGSA"
    },
    {
-    "trend_name": "ダブヒガ",
-    "url": "https://x.com/search?q=%E3%83%80%E3%83%96%E3%83%92%E3%82%AC"
-   },
-   {
-    "trend_name": "空前メテオ",
-    "tweet_count": 2705,
-    "url": "https://x.com/search?q=%E7%A9%BA%E5%89%8D%E3%83%A1%E3%83%86%E3%82%AA"
-   },
-   {
-    "trend_name": "THOMASKONG BA ONGREDIENTS",
-    "tweet_count": 19205,
-    "url": "https://x.com/search?q=THOMASKONG%20BA%20ONGREDIENTS"
+    "trend_name": "ネコニスズ",
+    "url": "https://x.com/search?q=%E3%83%8D%E3%82%B3%E3%83%8B%E3%82%B9%E3%82%BA"
    },
    {
     "trend_name": "ZEE PRUK WITH DRPONG",
-    "tweet_count": 39317,
+    "tweet_count": 41031,
     "url": "https://x.com/search?q=ZEE%20PRUK%20WITH%20DRPONG"
    },
    {
-    "trend_name": "花火の音",
-    "tweet_count": 2331,
-    "url": "https://x.com/search?q=%E8%8A%B1%E7%81%AB%E3%81%AE%E9%9F%B3"
-   },
-   {
-    "trend_name": "Newcastle",
-    "tweet_count": 19395,
-    "url": "https://x.com/search?q=Newcastle"
-   },
-   {
-    "trend_name": "ヤーレンズ",
-    "tweet_count": 1335,
-    "url": "https://x.com/search?q=%E3%83%A4%E3%83%BC%E3%83%AC%E3%83%B3%E3%82%BA"
-   },
-   {
-    "trend_name": "ONLINEVERSE KuliETHAN",
-    "tweet_count": 3165,
-    "url": "https://x.com/search?q=ONLINEVERSE%20KuliETHAN"
-   },
-   {
-    "trend_name": "身長と体重",
-    "tweet_count": 2326,
-    "url": "https://x.com/search?q=%E8%BA%AB%E9%95%B7%E3%81%A8%E4%BD%93%E9%87%8D"
-   },
-   {
-    "trend_name": "CONGRATULATIONS BTS",
-    "tweet_count": 156773,
-    "url": "https://x.com/search?q=CONGRATULATIONS%20BTS"
-   },
-   {
     "trend_name": "A/弱点",
-    "tweet_count": 2815,
+    "tweet_count": 2890,
     "url": "https://x.com/search?q=A%2F%E5%BC%B1%E7%82%B9"
    },
    {
-    "trend_name": "アインシュタイン",
-    "tweet_count": 1222,
-    "url": "https://x.com/search?q=%E3%82%A2%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3"
+    "trend_name": "身長と体重",
+    "tweet_count": 2333,
+    "url": "https://x.com/search?q=%E8%BA%AB%E9%95%B7%E3%81%A8%E4%BD%93%E9%87%8D"
+   },
+   {
+    "trend_name": "Newcastle",
+    "tweet_count": 19645,
+    "url": "https://x.com/search?q=Newcastle"
    }
   ],
   "MX": [
    {
     "trend_name": "Revolución Mexicana",
-    "tweet_count": 17696,
+    "tweet_count": 17728,
     "url": "https://x.com/search?q=Revoluci%C3%B3n%20Mexicana"
    },
    {
@@ -506,12 +506,12 @@
    },
    {
     "trend_name": "Telcel",
-    "tweet_count": 22781,
+    "tweet_count": 22796,
     "url": "https://x.com/search?q=Telcel"
    },
    {
     "trend_name": "#LaGranjaTraicion",
-    "tweet_count": 3004,
+    "tweet_count": 3016,
     "url": "https://x.com/search?q=%23LaGranjaTraicion"
    },
    {
@@ -526,7 +526,7 @@
    },
    {
     "trend_name": "GTA VI",
-    "tweet_count": 443295,
+    "tweet_count": 442204,
     "url": "https://x.com/search?q=GTA%20VI"
    },
    {
@@ -536,7 +536,7 @@
    },
    {
     "trend_name": "army focus on bts",
-    "tweet_count": 8292,
+    "tweet_count": 8293,
     "url": "https://x.com/search?q=army%20focus%20on%20bts"
    },
    {
@@ -546,22 +546,22 @@
    },
    {
     "trend_name": "#LamansionVIP2",
-    "tweet_count": 33416,
+    "tweet_count": 33374,
     "url": "https://x.com/search?q=%23LamansionVIP2"
    },
    {
     "trend_name": "Alessandra",
-    "tweet_count": 27216,
+    "tweet_count": 27275,
     "url": "https://x.com/search?q=Alessandra"
    },
    {
     "trend_name": "Odette",
-    "tweet_count": 16065,
+    "tweet_count": 16148,
     "url": "https://x.com/search?q=Odette"
    },
    {
     "trend_name": "Diana Sánchez Barrios",
-    "tweet_count": 21236,
+    "tweet_count": 21295,
     "url": "https://x.com/search?q=Diana%20S%C3%A1nchez%20Barrios"
    },
    {
@@ -571,22 +571,22 @@
    },
    {
     "trend_name": "Gorillaz",
-    "tweet_count": 5664,
+    "tweet_count": 5684,
     "url": "https://x.com/search?q=Gorillaz"
    },
    {
     "trend_name": "Jason",
-    "tweet_count": 464204,
+    "tweet_count": 463835,
     "url": "https://x.com/search?q=Jason"
    },
    {
     "trend_name": "Lucia",
-    "tweet_count": 364735,
+    "tweet_count": 364398,
     "url": "https://x.com/search?q=Lucia"
    },
    {
     "trend_name": "Cuauhtémoc",
-    "tweet_count": 13272,
+    "tweet_count": 13313,
     "url": "https://x.com/search?q=Cuauht%C3%A9moc"
    },
    {
@@ -600,58 +600,58 @@
     "url": "https://x.com/search?q=fuera%20julio"
    },
    {
-    "trend_name": "GTA 6",
-    "tweet_count": 1137301,
-    "url": "https://x.com/search?q=GTA%206"
-   },
-   {
     "trend_name": "trueno",
     "tweet_count": 1069,
     "url": "https://x.com/search?q=trueno"
    },
    {
+    "trend_name": "GTA 6",
+    "tweet_count": 1135518,
+    "url": "https://x.com/search?q=GTA%206"
+   },
+   {
     "trend_name": "desfile cívico-militar",
-    "tweet_count": 2236,
+    "tweet_count": 2235,
     "url": "https://x.com/search?q=desfile%20c%C3%ADvico-militar"
    },
    {
     "trend_name": "Vadhir Derbez",
-    "tweet_count": 4751,
+    "tweet_count": 4775,
     "url": "https://x.com/search?q=Vadhir%20Derbez"
    },
    {
     "trend_name": "Damon",
-    "tweet_count": 12801,
+    "tweet_count": 12831,
     "url": "https://x.com/search?q=Damon"
    },
    {
     "trend_name": "Atlas",
-    "tweet_count": 28260,
+    "tweet_count": 28251,
     "url": "https://x.com/search?q=Atlas"
    },
    {
     "trend_name": "Xolos",
-    "tweet_count": 1778,
+    "tweet_count": 1777,
     "url": "https://x.com/search?q=Xolos"
    },
    {
     "trend_name": "congreso de la cdmx",
-    "tweet_count": 7408,
+    "tweet_count": 7418,
     "url": "https://x.com/search?q=congreso%20de%20la%20cdmx"
    },
    {
     "trend_name": "Playa del Carmen",
-    "tweet_count": 5037,
+    "tweet_count": 5048,
     "url": "https://x.com/search?q=Playa%20del%20Carmen"
    },
    {
-    "trend_name": "los mochis",
-    "tweet_count": 1653,
-    "url": "https://x.com/search?q=los%20mochis"
+    "trend_name": "Los Mochis",
+    "tweet_count": 1667,
+    "url": "https://x.com/search?q=Los%20Mochis"
    },
    {
     "trend_name": "FORCEBOOK LAG EP4",
-    "tweet_count": 134937,
+    "tweet_count": 133464,
     "url": "https://x.com/search?q=FORCEBOOK%20LAG%20EP4"
    },
    {
@@ -679,7 +679,7 @@
    },
    {
     "trend_name": "Mandy",
-    "tweet_count": 129478,
+    "tweet_count": 129212,
     "url": "https://x.com/search?q=Mandy"
    },
    {
@@ -689,12 +689,12 @@
    },
    {
     "trend_name": "Alcaldesa",
-    "tweet_count": 20899,
+    "tweet_count": 20911,
     "url": "https://x.com/search?q=Alcaldesa"
    },
    {
     "trend_name": "Junín",
-    "tweet_count": 10804,
+    "tweet_count": 10814,
     "url": "https://x.com/search?q=Jun%C3%ADn"
    },
    {
@@ -713,7 +713,7 @@
    },
    {
     "trend_name": "Daniel Jones",
-    "tweet_count": 39099,
+    "tweet_count": 39090,
     "url": "https://x.com/search?q=Daniel%20Jones"
    },
    {
@@ -736,24 +736,24 @@
    },
    {
     "trend_name": "Crespo",
-    "tweet_count": 6849,
+    "tweet_count": 6830,
     "url": "https://x.com/search?q=Crespo"
    }
   ],
   "GB": [
    {
     "trend_name": "Brexit",
-    "tweet_count": 50580,
+    "tweet_count": 50620,
     "url": "https://x.com/search?q=Brexit"
    },
    {
     "trend_name": "Burnham",
-    "tweet_count": 94560,
+    "tweet_count": 94480,
     "url": "https://x.com/search?q=Burnham"
    },
    {
     "trend_name": "Danny Tommo",
-    "tweet_count": 64308,
+    "tweet_count": 64482,
     "url": "https://x.com/search?q=Danny%20Tommo"
    },
    {
@@ -761,29 +761,29 @@
     "url": "https://x.com/search?q=%23FPLCommunity"
    },
    {
-    "trend_name": "MATCH DAY",
-    "tweet_count": 10356,
-    "url": "https://x.com/search?q=MATCH%20DAY"
-   },
-   {
     "trend_name": "#TOTP",
-    "tweet_count": 4335,
+    "tweet_count": 4336,
     "url": "https://x.com/search?q=%23TOTP"
    },
    {
     "trend_name": "Lucia",
-    "tweet_count": 364735,
+    "tweet_count": 364398,
     "url": "https://x.com/search?q=Lucia"
    },
    {
-    "trend_name": "#Caturday",
-    "tweet_count": 1310,
-    "url": "https://x.com/search?q=%23Caturday"
+    "trend_name": "MATCH DAY",
+    "tweet_count": 10398,
+    "url": "https://x.com/search?q=MATCH%20DAY"
    },
    {
     "trend_name": "GTA 6",
-    "tweet_count": 1137301,
+    "tweet_count": 1135518,
     "url": "https://x.com/search?q=GTA%206"
+   },
+   {
+    "trend_name": "#Caturday",
+    "tweet_count": 1341,
+    "url": "https://x.com/search?q=%23Caturday"
    },
    {
     "trend_name": "#GW11",
@@ -791,17 +791,17 @@
    },
    {
     "trend_name": "Makerfield",
-    "tweet_count": 13290,
+    "tweet_count": 13334,
     "url": "https://x.com/search?q=Makerfield"
    },
    {
     "trend_name": "Brussels",
-    "tweet_count": 26080,
+    "tweet_count": 26032,
     "url": "https://x.com/search?q=Brussels"
    },
    {
     "trend_name": "Mariella",
-    "tweet_count": 3116,
+    "tweet_count": 3123,
     "url": "https://x.com/search?q=Mariella"
    },
    {
@@ -811,32 +811,28 @@
    },
    {
     "trend_name": "Ukraine",
-    "tweet_count": 217523,
+    "tweet_count": 217135,
     "url": "https://x.com/search?q=Ukraine"
    },
    {
     "trend_name": "Putin",
-    "tweet_count": 297274,
+    "tweet_count": 296674,
     "url": "https://x.com/search?q=Putin"
    },
    {
     "trend_name": "Harry Brook",
-    "tweet_count": 1323,
+    "tweet_count": 1336,
     "url": "https://x.com/search?q=Harry%20Brook"
    },
    {
-    "trend_name": "GTA VI",
-    "tweet_count": 443295,
-    "url": "https://x.com/search?q=GTA%20VI"
+    "trend_name": "#GTAVI",
+    "tweet_count": 108079,
+    "url": "https://x.com/search?q=%23GTAVI"
    },
    {
     "trend_name": "Daniel Thomas",
-    "tweet_count": 7705,
+    "tweet_count": 7740,
     "url": "https://x.com/search?q=Daniel%20Thomas"
-   },
-   {
-    "trend_name": "#saturdaykitchen",
-    "url": "https://x.com/search?q=%23saturdaykitchen"
    },
    {
     "trend_name": "Van Hecke",
@@ -851,13 +847,8 @@
     "url": "https://x.com/search?q=Jamie%20Overton"
    },
    {
-    "trend_name": "GAME DAY",
-    "tweet_count": 31413,
-    "url": "https://x.com/search?q=GAME%20DAY"
-   },
-   {
     "trend_name": "Farage",
-    "tweet_count": 26172,
+    "tweet_count": 26181,
     "url": "https://x.com/search?q=Farage"
    },
    {
@@ -869,11 +860,6 @@
     "trend_name": "Hank",
     "tweet_count": 14485,
     "url": "https://x.com/search?q=Hank"
-   },
-   {
-    "trend_name": "GAME OFF",
-    "tweet_count": 23621,
-    "url": "https://x.com/search?q=GAME%20OFF"
    },
    {
     "trend_name": "Safe European Home",
@@ -889,6 +875,16 @@
     "url": "https://x.com/search?q=Riemann"
    },
    {
+    "trend_name": "GAME DAY",
+    "tweet_count": 31413,
+    "url": "https://x.com/search?q=GAME%20DAY"
+   },
+   {
+    "trend_name": "GAME OFF",
+    "tweet_count": 23621,
+    "url": "https://x.com/search?q=GAME%20OFF"
+   },
+   {
     "trend_name": "Ali Campbell",
     "url": "https://x.com/search?q=Ali%20Campbell"
    },
@@ -899,27 +895,22 @@
    },
    {
     "trend_name": "Berrada",
-    "tweet_count": 16278,
+    "tweet_count": 16347,
     "url": "https://x.com/search?q=Berrada"
-   },
-   {
-    "trend_name": "Jamaican",
-    "tweet_count": 6444,
-    "url": "https://x.com/search?q=Jamaican"
    },
    {
     "trend_name": "MATCH POSTPONED",
     "url": "https://x.com/search?q=MATCH%20POSTPONED"
    },
    {
-    "trend_name": "Rockstar",
-    "tweet_count": 203503,
-    "url": "https://x.com/search?q=Rockstar"
+    "trend_name": "Ewan",
+    "tweet_count": 11860,
+    "url": "https://x.com/search?q=Ewan"
    },
    {
-    "trend_name": "Ewan",
-    "tweet_count": 11757,
-    "url": "https://x.com/search?q=Ewan"
+    "trend_name": "Rockstar",
+    "tweet_count": 203704,
+    "url": "https://x.com/search?q=Rockstar"
    },
    {
     "trend_name": "Myanmar",
@@ -937,24 +928,24 @@
     "url": "https://x.com/search?q=Black%20Friday"
    },
    {
+    "trend_name": "Jamaican",
+    "tweet_count": 6444,
+    "url": "https://x.com/search?q=Jamaican"
+   },
+   {
     "trend_name": "Camilla",
-    "tweet_count": 9162,
+    "tweet_count": 9187,
     "url": "https://x.com/search?q=Camilla"
    },
    {
     "trend_name": "Starmer",
-    "tweet_count": 7830,
+    "tweet_count": 7833,
     "url": "https://x.com/search?q=Starmer"
    },
    {
-    "trend_name": "Stadlen",
-    "tweet_count": 1053,
-    "url": "https://x.com/search?q=Stadlen"
-   },
-   {
-    "trend_name": "General Election",
-    "tweet_count": 10173,
-    "url": "https://x.com/search?q=General%20Election"
+    "trend_name": "Bridget",
+    "tweet_count": 8279,
+    "url": "https://x.com/search?q=Bridget"
    },
    {
     "trend_name": "Lauren Price",
@@ -962,8 +953,13 @@
    },
    {
     "trend_name": "Barnsley",
-    "tweet_count": 1997,
+    "tweet_count": 1992,
     "url": "https://x.com/search?q=Barnsley"
+   },
+   {
+    "trend_name": "General Election",
+    "tweet_count": 10156,
+    "url": "https://x.com/search?q=General%20Election"
    },
    {
     "trend_name": "Walsall",
@@ -973,6 +969,11 @@
     "trend_name": "Democracy",
     "tweet_count": 67382,
     "url": "https://x.com/search?q=Democracy"
+   },
+   {
+    "trend_name": "Konsa",
+    "tweet_count": 4815,
+    "url": "https://x.com/search?q=Konsa"
    },
    {
     "trend_name": "Concessions £5",
@@ -1041,39 +1042,6 @@
    "summary": "A comparison shows Americans earn $86,977 annually on a purchasing-power basis, 28% more than Canada's $67,901, but work about 113 more hours per year. Canada edges out with lower inflation at 2.1% versus 2.6%, though its fertility rate sits lower at 1.26 compared to the U.S.'s 1.57. Lived experiences split opinions: some praise U.S. opportunities and freedoms, while others favor Canada's healthcare, longer life expectancy, and peaceful vibe, as users debate taxes, housing, and family priorities.",
    "updated_at": "2026-11-21T02:14:44.000Z",
    "url": "https://x.com/i/trending/2123961970479030709"
-  },
-  {
-   "category": "News",
-   "contexts": {
-    "entities": {
-     "events": [],
-     "organizations": [],
-     "people": [],
-     "places": [
-      "United States",
-      "Mexico",
-      "Bolivia",
-      "Canada"
-     ],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Health & Fitness"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "For the first time in over 25 years, measles is spreading unchecked across the U.S., with more than 5,400 cases and 10 deaths this year alone.",
-   "id": "2123819680024715350",
-   "name": "U.S. Loses Measles Elimination Status After 25 Years",
-   "summary": "The Pan American Health Organization announced this week that the U.S. has lost its measles elimination status achieved in 2000, due to continuous transmission for over a year and record cases in 2026, mostly among unvaccinated people. Kindergarten MMR vaccination rates dropped to 92.4 percent, below the 95 percent needed for herd immunity. While some blame falling vaccination rates in undervaccinated communities, others point to immigration from the southern border, fueling a sharp online divide. Officials are launching intensified vaccination drives to regain the status by halting sustained transmission for 12 months.",
-   "updated_at": "2026-11-21T09:52:54.000Z",
-   "url": "https://x.com/i/trending/2123819680024715350"
   },
   {
    "category": "Entertainment",
@@ -1247,6 +1215,38 @@
    "url": "https://x.com/i/trending/2123914553532793211"
   },
   {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [],
+     "people": [],
+     "places": [
+      "United States",
+      "Mexico",
+      "Bolivia"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "News"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "For the first time in over 25 years, measles is spreading unchecked across the U.S., with more than 5,400 cases and 10 deaths this year alone.",
+   "id": "2123819680024715350",
+   "name": "U.S. Loses Measles Elimination Status After 25 Years",
+   "summary": "The Pan American Health Organization announced this week that the U.S. has lost its measles elimination status achieved in 2000, due to continuous transmission for over a year and record cases in 2026, mostly among unvaccinated people. Kindergarten MMR vaccination rates dropped to 92.4 percent, below the 95 percent needed for herd immunity. While some blame falling vaccination rates in undervaccinated communities, others point to immigration from the southern border, fueling a sharp online divide. Officials are launching intensified vaccination drives to regain the status by halting sustained transmission for 12 months.",
+   "updated_at": "2026-11-21T09:52:54.000Z",
+   "url": "https://x.com/i/trending/2123819680024715350"
+  },
+  {
    "category": "Other",
    "contexts": {
     "entities": {
@@ -1336,40 +1336,6 @@
    "summary": "Fox News host Sean Hannity shared a video of the patient, fueling discussions where people compared Canada's 16,499 MAID deaths in 2024—outpacing U.S. gun homicides despite a much smaller population—to top causes of death like wait times for care. Official data shows over 76,000 Canadians have used MAID since 2016, mostly for cancer with foreseeable death, though numbers are stabilizing. While some call the story debunked propaganda without records, others defend MAID as a voluntary choice for those in suffering under strict rules, revealing divides on end-of-life care.",
    "updated_at": "2026-11-21T06:37:34.000Z",
    "url": "https://x.com/i/trending/2124028053730824556"
-  },
-  {
-   "category": "Other",
-   "contexts": {
-    "entities": {
-     "events": [],
-     "organizations": [
-      "X"
-     ],
-     "people": [],
-     "places": [
-      "New York",
-      "California",
-      "New Orleans"
-     ],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Food"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Imagine picking one slice of the world to eat from forever—graphic designer Josh Barzon's map has folks passionately defending their forever favorites.",
-   "id": "2123850739089019347",
-   "name": "Global Food Map Challenge Divides Food Lovers on Best Cuisine Zone",
-   "summary": "Josh Barzon shared a map splitting the globe into zones and asked which cuisine region people would choose for life, sparking hundreds of replies. Zone C leads with soul food, Caribbean, West African, and Hispanic dishes like jerk chicken, yams, and Nigerian flavors, while Zone D tempts with Ethiopian, Indian, Japanese, Chinese, and Thai variety. Zone A gets nods for European classics like French and Italian, but fans highlight deep attachments to these regional tastes that keep the debate alive.",
-   "updated_at": "2026-11-21T11:19:54.000Z",
-   "url": "https://x.com/i/trending/2123850739089019347"
   },
   {
    "category": "News",
@@ -1764,6 +1730,36 @@
    "url": "https://x.com/i/trending/2123891702100328628"
   },
   {
+   "category": "Other",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "X"
+     ],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Food"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Imagine picking one slice of the world to eat from forever—graphic designer Josh Barzon's map has folks passionately defending their forever favorites.",
+   "id": "2123850739089019347",
+   "name": "Global Food Map Challenge Divides Food Lovers on Best Cuisine Zone",
+   "summary": "Josh Barzon shared a map splitting the globe into zones and asked which cuisine region people would choose for life, sparking hundreds of replies. Zone C leads with soul food, Caribbean, West African, and Hispanic dishes like jerk chicken, yams, and Nigerian flavors, while Zone D tempts with Ethiopian, Indian, Japanese, Chinese, and Thai variety. Zone A gets nods for European classics like French and Italian, but fans highlight deep attachments to these regional tastes that keep the debate alive.",
+   "updated_at": "2026-11-21T11:19:54.000Z",
+   "url": "https://x.com/i/trending/2123850739089019347"
+  },
+  {
    "category": "News",
    "contexts": {
     "entities": {
@@ -1899,6 +1895,37 @@
     "entities": {
      "events": [],
      "organizations": [
+      "OpenAI"
+     ],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Technology",
+     "AI"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "OpenAI just unveiled tough new shields to stop rivals from secretly copying its AI smarts, dropping attack success from over 50% to nearly zero in tests.",
+   "id": "2123869673720549464",
+   "name": "OpenAI Bolsters Defenses Against Model Distillation Attacks",
+   "summary": "The company detailed layered protections in models like GPT-6.2 Astra and Sol, using classifiers, API controls, and pattern detection to block extraction of hidden reasoning traces. Internal tests showed dramatic improvements, with success rates falling from 54% to 0.2% on earlier requests, and they've disrupted thousands of suspicious accounts weekly. Reactions split between praise for safety gains and criticism over potential limits on open-source progress, amid U.S.-China AI tensions.",
+   "updated_at": "2026-11-21T11:07:31.000Z",
+   "url": "https://x.com/i/trending/2123869673720549464"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
       "SpaceX",
       "Nvidia",
       "Apollo"
@@ -1992,69 +2019,6 @@
     "entities": {
      "events": [],
      "organizations": [
-      "OpenAI"
-     ],
-     "people": [],
-     "places": [],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Technology",
-     "AI"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "OpenAI just unveiled tough new shields to stop rivals from secretly copying its AI smarts, dropping attack success from over 50% to nearly zero in tests.",
-   "id": "2123869673720549464",
-   "name": "OpenAI Bolsters Defenses Against Model Distillation Attacks",
-   "summary": "The company detailed layered protections in models like GPT-6.2 Astra and Sol, using classifiers, API controls, and pattern detection to block extraction of hidden reasoning traces. Internal tests showed dramatic improvements, with success rates falling from 54% to 0.2% on earlier requests, and they've disrupted thousands of suspicious accounts weekly. Reactions split between praise for safety gains and criticism over potential limits on open-source progress, amid U.S.-China AI tensions.",
-   "updated_at": "2026-11-21T11:07:31.000Z",
-   "url": "https://x.com/i/trending/2123869673720549464"
-  },
-  {
-   "category": "Other",
-   "contexts": {
-    "entities": {
-     "events": [
-      "GPT-6.2 Astra and Sol AI Models release"
-     ],
-     "organizations": [
-      "OpenAI"
-     ],
-     "people": [],
-     "places": [],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Technology"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "OpenAI's new GPT-6.2 Astra drew spot-on floorplans from apartment photos, surpassing human performance on a key 3D understanding test.",
-   "id": "2123337191464357922",
-   "name": "OpenAI's GPT-6.2 Astra Tops 3D Benchmark Over Human Baseline",
-   "summary": "Released on November 17, GPT-6.2 Astra and its affordable sibling Sol aim to deliver high capability at lower costs. Astra scored 62 on the Artificial Analysis Intelligence Index, second to Anthropic’s Claude Fable 5.2, while Sol hit 57 at about 15 percent of prior task costs. Users praise Astra's edges in 3D reasoning, world generation, and character design, though some note mixed coding results and shallower responses in demanding tests.",
-   "updated_at": "2026-11-20T16:39:51.000Z",
-   "url": "https://x.com/i/trending/2123337191464357922"
-  },
-  {
-   "category": "News",
-   "contexts": {
-    "entities": {
-     "events": [],
-     "organizations": [
       "SpaceX",
       "Nvidia"
      ],
@@ -2119,11 +2083,10 @@
     "entities": {
      "events": [],
      "organizations": [
-      "Arcfront",
-      "InterviewBit"
+      "Arcfront AI"
      ],
      "people": [
-      "Anshuman",
+      "Anshuman Bhalla",
       "Naman Bhalla"
      ],
      "places": [],
@@ -2136,52 +2099,16 @@
      "teams": []
     },
     "topics": [
-     "Technology",
-     "AI",
-     "Business & Finance",
-     "Entrepreneurship"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Co-founders Anshuman Singh and Naman Bhalla stepped onto a darkened stage, illuminated by their glowing multicolored arc logo, to reveal a startup already partnering with top AI labs.",
-   "id": "2123863174470643877",
-   "name": "Arcfront Launches with $1B Revenue Run Rate in Under a Year",
-   "summary": "Arcfront specializes in 'Decision Arc Data,' capturing step-by-step expert reasoning from fields like healthcare, finance, and law to train advanced AI models on real-world decisions. The company reports over 300 enterprise partnerships and 1,000 reinforcement learning environments built, achieving a $1 billion annualized revenue run rate faster than any venture investor Gokul Rajaram has seen—while raising under $2 million. Four of the five leading frontier AI labs are customers, though names remain private, highlighting demand for data that bridges AI's benchmark successes to professional tasks.",
-   "updated_at": "2026-11-21T08:13:42.000Z",
-   "url": "https://x.com/i/trending/2123863174470643877"
-  },
-  {
-   "category": "News",
-   "contexts": {
-    "entities": {
-     "events": [
-      "Gemini 4 Neon release"
-     ],
-     "organizations": [
-      "Google"
-     ],
-     "people": [],
-     "places": [],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Technology",
      "AI"
     ]
    },
    "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Developers are buzzing about Gemini 4 Neon just days after launch, with tech creator Theo calling it an incredible model in his video review. Google replied directly: Glad you're liking it, more good things coming.",
-   "id": "2124034629321851339",
-   "name": "Google's Gemini 4 Neon Wins Early Praise for Coding and AI Tasks",
-   "summary": "Gemini 4 Neon, the newest in Google's Gemini 4 family, delivers frontier-level performance in coding, science, and knowledge work at 50–80% lower cost than rivals. It tops benchmarks like Zapier’s AutomationBench with a 56.3% pass rate and ranks high on independent indices for performance versus cost. Users love its 1-million-token context window for complex workflows, prompting many to subscribe to the $100 monthly Ultra tier, though some note real-world results can vary by task.",
-   "updated_at": "2026-11-21T09:21:02.000Z",
-   "url": "https://x.com/i/trending/2124034629321851339"
+   "hook": "Anshuman Singh stepped onto a stage under a glowing rainbow arc to unveil Arcfront, a company tackling why top AI crushes contests but falters in daily jobs like finance management.",
+   "id": "2123863174470643877",
+   "name": "Arcfront Launches with AI Data Bridging Benchmarks and Real-World Judgment",
+   "summary": "Co-founders Anshuman Singh and Naman Bhalla introduced Arcfront, which collects 'Decision Arc Data' from professionals in hospitals, factories, banks, and engineering teams. This data captures how experts evaluate situations, weigh options, revise plans, and reach outcomes, turning it into reinforcement learning environments for AI labs. In under a year, the firm gained four of the five leading frontier AI labs as customers, over 300 enterprise partners, and more than 1,000 RL environments, hitting a reported $1 billion annualized revenue run rate. Community members praised the team's quick execution and focus on practical expertise from its India roots with hires in San Francisco and Bengaluru.",
+   "updated_at": "2026-11-21T11:24:47.000Z",
+   "url": "https://x.com/i/trending/2123863174470643877"
   },
   {
    "category": "Other",
@@ -2356,6 +2283,45 @@
    "category": "News",
    "contexts": {
     "entities": {
+     "events": [],
+     "organizations": [
+      "Google",
+      "Indian Institute of Technology Kharagpur",
+      "IIT Kharagpur"
+     ],
+     "people": [
+      "Sundar Pichai"
+     ],
+     "places": [
+      "IIT Kharagpur"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": [
+      "GOOGL"
+     ]
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Technology",
+     "AI"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Sundar Pichai returned to his alma mater IIT Kharagpur with a special gift: $5 million to boost AI work in areas close to India's heart, like farming and local languages.",
+   "id": "2124100659804868959",
+   "name": "Google Pledges $5 Million to IIT Kharagpur for AI Research",
+   "summary": "The funding, announced during the institute's 75th anniversary celebrations with Prime Minister Narendra Modi present, targets AI research on real-world challenges in Indic languages, materials science, agriculture, and edtech. It also expands training programs and builds campus AI tools to develop talent. Pichai called it a way to accelerate groundbreaking work and create opportunities for students, much like the institute did for him, while supporting Modi's vision for AI to reach all Indians.",
+   "updated_at": "2026-11-21T11:24:30.000Z",
+   "url": "https://x.com/i/trending/2124100659804868959"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
      "events": [
       "RoboColosseum"
      ],
@@ -2424,41 +2390,6 @@
    "contexts": {
     "entities": {
      "events": [],
-     "organizations": [
-      "Anthropic",
-      "MIT",
-      "Clay Mathematics Institute"
-     ],
-     "people": [
-      "Levent Alpöge",
-      "Andrew Sutherland"
-     ],
-     "places": [],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Science"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "After 167 years, two researchers separately claim to have cracked the Riemann Hypothesis—one with AI's help, the other through pure human grit.",
-   "id": "2123789463809835447",
-   "name": "Mathematician Claims AI Proof of Riemann Hypothesis Alongside Human Rival",
-   "summary": "Anthropic's Levent Alpöge says he solved the Riemann Hypothesis and its generalized version using the company's Claude AI over six weeks, releasing verifiable Lean code instead of a traditional paper. Hours later, Stanford postdoc Alessandro Masullo announced a 940-page human-only proof after 12 years of work, reviewed by experts. Both remain unverified, but if confirmed, they would solidify prime number patterns and unlock thousands of math results. Alpöge described Claude 'flying, dancing, and sparkling' in the final push.",
-   "updated_at": "2026-11-21T09:46:16.000Z",
-   "url": "https://x.com/i/trending/2123789463809835447"
-  },
-  {
-   "category": "News",
-   "contexts": {
-    "entities": {
-     "events": [],
      "organizations": [],
      "people": [],
      "places": [],
@@ -2515,6 +2446,38 @@
    "url": "https://x.com/i/trending/2123948816575713360"
   },
   {
+   "category": "Other",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "UNISA",
+      "Turnitin"
+     ],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Technology",
+     "Education"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "A post claiming UNISA degrees have lost their shine due to easy AI cheating sparked a wave of defenses from graduates who know the system's safeguards firsthand.",
+   "id": "2124091472660316650",
+   "name": "Debate Questions Value of UNISA Degrees Amid AI Cheating Concerns",
+   "summary": "Critics argue that tools like ChatGPT make distance learning assignments at UNISA too simple to complete dishonestly, eroding the value of its qualifications. Defenders point to advanced detection like Turnitin's AI flags, proctoring apps, and a zero-tolerance policy that includes suspensions for violations. UNISA, South Africa's largest distance university, promotes ethical AI use while updating guidelines and requiring integrity training, as the talk highlights the need for exams and critical thinking in an AI world.",
+   "updated_at": "2026-11-21T10:48:41.000Z",
+   "url": "https://x.com/i/trending/2124091472660316650"
+  },
+  {
    "category": "News",
    "contexts": {
     "entities": {
@@ -2555,42 +2518,6 @@
    "contexts": {
     "entities": {
      "events": [],
-     "organizations": [
-      "UNISA",
-      "Wits",
-      "Stellenbosch",
-      "UJ",
-      "Harvard"
-     ],
-     "people": [],
-     "places": [],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Technology",
-     "AI",
-     "Education"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "A post claiming UNISA degrees have lost their shine due to easy AI cheating sparked a wave of defenses from graduates who know the system's safeguards firsthand.",
-   "id": "2124091472660316650",
-   "name": "Debate Questions Value of UNISA Degrees Amid AI Cheating Concerns",
-   "summary": "Critics argue that tools like ChatGPT make distance learning assignments at UNISA too simple to complete dishonestly, eroding the value of its qualifications. Defenders point to advanced detection like Turnitin's AI flags, proctoring apps, and a zero-tolerance policy that includes suspensions for violations. UNISA, South Africa's largest distance university, promotes ethical AI use while updating guidelines and requiring integrity training, as the talk highlights the need for exams and critical thinking in an AI world.",
-   "updated_at": "2026-11-21T10:48:41.000Z",
-   "url": "https://x.com/i/trending/2124091472660316650"
-  },
-  {
-   "category": "Other",
-   "contexts": {
-    "entities": {
-     "events": [],
      "organizations": [],
      "people": [],
      "places": [],
@@ -2614,6 +2541,67 @@
    "summary": "Blending 'calculus' with a jab at passive oversight, 'cuckulus' describes researchers using AI to attack unsolved math puzzles amid recent breakthroughs on conjectures like the Riemann hypothesis. Memes show AI leaning in with solutions while humans nod along, poking fun at workflows where machines generate proofs faster than people. The lighthearted trend reflects real debates on credit, creativity, and evolving roles in math, with some joking about résumés listing 'expert at cuckulus.'",
    "updated_at": "2026-11-21T04:15:02.000Z",
    "url": "https://x.com/i/trending/2123992587618898374"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "International Energy Agency"
+     ],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Technology",
+     "AI"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "As AI surges ahead, data centers could soon devour twice today's electricity, raising tough questions about emissions and fairness.",
+   "id": "2123524017324007756",
+   "name": "Data Centers Set to Double Electricity Use by 2030 Amid AI Boom",
+   "summary": "A new International Energy Agency report projects data centers will consume double their current electricity by 2030, with AI driving three-quarters of the growth—adding 350 terawatt-hours yearly, more than Great Britain's total use. Much of this power in the US and China will come from natural gas and coal, boosting emissions 70% even as tech firms pursue renewables. Critics point to the contrast with households cutting energy use, while a Harvard study shows US hyperscale centers already matching Michigan's consumption, mostly from fossil fuels. Policymakers respond with bills to make data centers cover their grid costs, amid debates on whether AI's emissions rise remains a small global fraction.",
+   "updated_at": "2026-11-20T17:02:37.000Z",
+   "url": "https://x.com/i/trending/2123524017324007756"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [],
+     "people": [
+      "Sir Lemmings"
+     ],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "AI"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "A simple chart traces AI's sudden push into math's toughest puzzles, forecasting all seven solved in just 70 days. Online voices mix awe with sharp questions about what's next.",
+   "id": "2123939155835039927",
+   "name": "AI Chart Projects Solving All Millennium Prize Problems by January 2027",
+   "summary": "The Millennium Prize Problems, set by the Clay Mathematics Institute in 2000, offer $1 million each for solutions to seven hard math challenges; only Grigori Perelman's 2002-2003 proof of the Poincaré conjecture counts so far. Recent AI claims include OpenAI's September 2026 proposal for part of the Navier-Stokes problem and Anthropic's Claude-assisted Riemann hypothesis proof this month, both awaiting verification. The circulating graph shows progress jumps and projects full completion by late January 2027, sparking reactions from career pivot tips to doubts about timelines and math's human roots.",
+   "updated_at": "2026-11-21T00:48:20.000Z",
+   "url": "https://x.com/i/trending/2123939155835039927"
   },
   {
    "category": "News",
@@ -2824,41 +2812,6 @@
    "category": "News",
    "contexts": {
     "entities": {
-     "events": [
-      "Severe Cyclonic Storm Akvan"
-     ],
-     "organizations": [
-      "Odisha authorities"
-     ],
-     "people": [],
-     "places": [
-      "Gopalpur",
-      "Odisha"
-     ],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Natural Disasters"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Cyclone Akvan swept ashore near Gopalpur early on November 20, bringing heavy rain and gusty winds—but thanks to swift evacuations, no lives were lost.",
-   "id": "2123265970810560767",
-   "name": "Cyclone Akvan Makes Landfall Near Gopalpur with Minimal Damage",
-   "summary": "The storm crossed the north Andhra Pradesh and south Odisha coasts packing winds of 70-80 kmph with gusts to 90 kmph, weakening rapidly after landfall around 11:20 a.m. IST into a deep depression. Heavy rains hit Ganjam district hardest, with Patrapur logging 209 mm in 24 hours, causing waterlogging in Berhampur, while winds reached Bhubaneswar. Odisha authorities evacuated over 372,000 people to shelters across 20 districts, sparing the region major damage; Andhra Pradesh saw only moderate rain in northern coastal areas.",
-   "updated_at": "2026-11-20T17:40:05.000Z",
-   "url": "https://x.com/i/trending/2123265970810560767"
-  },
-  {
-   "category": "News",
-   "contexts": {
-    "entities": {
      "events": [],
      "organizations": [],
      "people": [],
@@ -3022,42 +2975,6 @@
    "url": "https://x.com/i/trending/2124072561784852662"
   },
   {
-   "category": "News",
-   "contexts": {
-    "entities": {
-     "events": [
-      "Flooding in Brevard County"
-     ],
-     "organizations": [
-      "Starlink",
-      "United Way Cocoa"
-     ],
-     "people": [],
-     "places": [
-      "Brevard County, Florida",
-      "Cocoa Beach"
-     ],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Natural Disasters"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "After back-to-back deluges dumped over 35 inches of rain on Florida's Space Coast, Starlink stepped in with free internet for those hit hardest by the floods.",
-   "id": "2123981704981557564",
-   "name": "Starlink Offers Free Service to Flood-Hit Brevard County Residents",
-   "summary": "Starlink is providing free residential service through December 20 to new and existing customers in Brevard County, home to Cocoa Beach and communities near Kennedy Space Center, following two heavy rain events this month that caused record river levels, hundreds of water rescues, and widespread damage. SpaceX also delivered food, terminals to first responders in Cocoa Beach, and supported United Way relief funding, with VP Kiko Dontchev affirming their commitment to Space Coast neighbors. Local leaders like Congressman Mike Haridopolos praised the aid, part of Starlink's pattern of at least 16 similar offers since late 2024 for disasters including hurricanes and wildfires.",
-   "updated_at": "2026-11-21T03:34:56.000Z",
-   "url": "https://x.com/i/trending/2123981704981557564"
-  },
-  {
    "category": "Other",
    "contexts": {
     "entities": {
@@ -3162,6 +3079,38 @@
    "contexts": {
     "entities": {
      "events": [],
+     "organizations": [],
+     "people": [],
+     "places": [
+      "Ikeja",
+      "Abia State",
+      "Nigeria"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "News"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "On Friday, Nigeria's national grid supplied just 948 megawatts to 220 million people—a stark reminder of the country's deepening electricity woes amid a midday disturbance.",
+   "id": "2123900450923565365",
+   "name": "Nigeria's Power Grid Drops to 948 MW for 220 Million People",
+   "summary": "Real-time data showed distribution companies receiving tiny shares, with Ikeja at 133 MW, Eko at 132 MW, and others as low as 28 MW for Kaduna. A grid disturbance tripped transmission lines around 12:34 p.m., causing load losses but not a full collapse; lines were restored by 2:49 p.m. Allocations later recovered above 3,000 MW, yet the episode highlighted ongoing gas shortages, transmission problems, and frustration over unfulfilled promises for reliable power.",
+   "updated_at": "2026-11-21T09:17:26.000Z",
+   "url": "https://x.com/i/trending/2123900450923565365"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
      "organizations": [
       "Archive of Our Own",
       "AO3 Status",
@@ -3227,37 +3176,6 @@
    "summary": "Thousands waited in long lines Friday night for the R&B Tour concert with Chris Brown and Usher, but a nationwide Ticketmaster outage prevented many from loading their tickets, forcing them to the box office. The issue, building for days, delayed the show's start amid growing crowds and fan complaints of error messages and failed logins. Service restored later that evening, and fans with tickets already in their digital wallets entered without trouble. It underscored persistent challenges with digital ticketing at big events.",
    "updated_at": "2026-11-21T09:08:42.000Z",
    "url": "https://x.com/i/trending/2123548019849306500"
-  },
-  {
-   "category": "News",
-   "contexts": {
-    "entities": {
-     "events": [],
-     "organizations": [],
-     "people": [],
-     "places": [
-      "Ikeja",
-      "Kaduna"
-     ],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "News"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "On Friday, Nigeria's national grid supplied just 948 megawatts to 220 million people—a stark reminder of the country's deepening electricity woes amid a midday disturbance.",
-   "id": "2123900450923565365",
-   "name": "Nigeria's Power Grid Drops to 948 MW for 220 Million People",
-   "summary": "Real-time data showed distribution companies receiving tiny shares, with Ikeja at 133 MW, Eko at 132 MW, and others as low as 28 MW for Kaduna. A grid disturbance tripped transmission lines around 12:34 p.m., causing load losses but not a full collapse; lines were restored by 2:49 p.m. Allocations later recovered above 3,000 MW, yet the episode highlighted ongoing gas shortages, transmission problems, and frustration over unfulfilled promises for reliable power.",
-   "updated_at": "2026-11-21T09:17:26.000Z",
-   "url": "https://x.com/i/trending/2123900450923565365"
   },
   {
    "category": "News",
@@ -3361,38 +3279,6 @@
     "entities": {
      "events": [],
      "organizations": [
-      "National Security Agency",
-      "NBC",
-      "CNN"
-     ],
-     "people": [],
-     "places": [],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Technology"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Routine software updates at the NSA turned into a multi-day headache, sending some employees home while others juggled backups to keep critical work going.",
-   "id": "2123959829668499850",
-   "name": "NSA's Classified Network Outage Lasts Four Days After Routine Patch",
-   "summary": "The agency's main internal network, NSANet, went down for nearly four days starting from routine PHP vulnerability patches, with Director of National Intelligence Jay Clayton confirming no cyberattack was involved. Employees at a key Georgia facility faced access limits but used workarounds, while mission-critical intelligence operations stayed online thanks to redundancies. The system fully restored by November 20, allowing staff to return on staggered schedules to ease the load.",
-   "updated_at": "2026-11-21T02:07:41.000Z",
-   "url": "https://x.com/i/trending/2123959829668499850"
-  },
-  {
-   "category": "News",
-   "contexts": {
-    "entities": {
-     "events": [],
-     "organizations": [
       "X"
      ],
      "people": [],
@@ -3461,6 +3347,104 @@
    "url": "https://x.com/i/trending/2123850737088331780"
   },
   {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Health & Fitness"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "People are shivering indoors at 71 degrees, battling chills and fatigue from an unusually early flu season that's derailing holiday plans.",
+   "id": "2123911542118989942",
+   "name": "Early Flu Wave Hits Hard This November",
+   "summary": "Flu activity surged faster than normal this November, with the CDC reporting high levels in seven states like California, Louisiana, and Texas, alongside 2.6 million illnesses, 36,000 hospitalizations, and 2,100 deaths so far. H1N1 dominates, starting in the West during late summer and spreading amid temperature swings and dry air that aids virus transmission. Users share stories of intense symptoms like sudden fevers and body aches, even while taking meds or bundling up, as experts urge vaccinations ahead of Thanksgiving gatherings.",
+   "updated_at": "2026-11-20T22:57:06.000Z",
+   "url": "https://x.com/i/trending/2123911542118989942"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "National Oceanic and Atmospheric Administration",
+      "National Weather Service"
+     ],
+     "people": [
+      "Daniel Lurie"
+     ],
+     "places": [
+      "San Francisco",
+      "Embarcadero",
+      "Marina Blvd"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Natural Disasters"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Mayor Daniel Lurie urged residents to treat this seriously: tides could top 9 feet, smashing the 1983 record, with flooding like nothing in city history.",
+   "id": "2123970145257148794",
+   "name": "San Francisco Braces for Historic High Tides and Rain Next Week",
+   "summary": "From Monday through Thursday, coastal flood warnings cover San Francisco and San Pablo Bay shorelines, expecting up to 3 feet of inundation, road closures, and beach access limits from king tides boosted by El Niño. Mayor Lurie activated the Emergency Operations Center, advised stocking supplies this weekend, and skipping non-essential travel midweek. Officials recommend moving items from low areas, avoiding floodwaters, and using sandbags as crews prepare to protect homes and businesses.",
+   "updated_at": "2026-11-21T10:25:16.000Z",
+   "url": "https://x.com/i/trending/2123970145257148794"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [
+      "Operation Global Blackout"
+     ],
+     "organizations": [
+      "Israeli Channel 14",
+      "Anonymous"
+     ],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "News"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "A mysterious hooded figure in a Guy Fawkes mask stares out from a video, urging viewers to 'Prepare Yourselves' for a looming global blackout as recent U.S. tech glitches fuel worries.",
+   "id": "2123538864065085561",
+   "name": "Hooded Figure's Guy Fawkes Video Warns of Global Blackout Amid U.S. Outages",
+   "summary": "The clip, featuring scrolling code and glowing text, gained millions of views after sharing by Israel's Channel 14, echoing old unverified 'Operation Global Blackout' claims that established Anonymous accounts have denied as fake. It surfaced alongside real disruptions like a Microsoft bug halting Outlook and Teams, an FAA ground stop from a router failure, and glitches at JPMorgan Chase, United Airlines, and the NSA—all blamed on software issues, not attacks. President Trump called the incidents 'individual events' and urged people to relax, even as shoppers stocked up on generators, water, and canned goods at Walmart and Costco.",
+   "updated_at": "2026-11-21T01:57:48.000Z",
+   "url": "https://x.com/i/trending/2123538864065085561"
+  },
+  {
    "category": "Other",
    "contexts": {
     "entities": {
@@ -3484,44 +3468,6 @@
    "summary": "In a popular video from Nigeria, a woman outmaneuvers her male rival in draughts, known locally as 'draft,' with forward-thinking plays that force responses turns ahead. Viewers call her a 'winch'—witch in local slang—for her sharp foresight, comparing her style to master player Dada Ijogbon's intricate setups on the 10x10 board. Fans celebrate her skill, debate if she'd crush at chess, and call for matchups against tougher foes amid the game's community banter and deep cultural roots.",
    "updated_at": "2026-11-20T19:18:30.000Z",
    "url": "https://x.com/i/trending/2123222846910701657"
-  },
-  {
-   "category": "Sports",
-   "contexts": {
-    "entities": {
-     "events": [
-      "2026 Total Chess Championship Pilot"
-     ],
-     "organizations": [
-      "Total Chess"
-     ],
-     "people": [
-      "Alireza Firouzja",
-      "Anish Giri",
-      "Fabiano Caruana"
-     ],
-     "places": [
-      "Budapest, Hungary"
-     ],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Sports"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Alireza Firouzja stared down Anish Giri in a nail-biting Armageddon decider, holding firm with black to claim the title after a stunning comeback.",
-   "id": "2123443560842244381",
-   "name": "Firouzja Wins Inaugural Total Chess World Championship Pilot in Budapest",
-   "summary": "The French grandmaster overcame Giri's early 11-9 lead with a 12-8 surge on day two, forcing the tiebreaker in the two-day final that mixed blitz, rapid, and fast classic games. Firouzja pocketed $80,000 and a spot in the 2027 tour, with Giri taking second and Fabiano Caruana third. Both players praised the grueling format—Giri noted playing 48 games—while Firouzja said it suited his style and hoped it stays for the full series.",
-   "updated_at": "2026-11-21T05:11:09.000Z",
-   "url": "https://x.com/i/trending/2123443560842244381"
   },
   {
    "category": "Sports",
@@ -3560,6 +3506,44 @@
    "summary": "In the Total Chess World Championship Tour Pilot in Budapest, five-time world champion Magnus Carlsen forfeited two rapid games against Vladislav Artemiev on November 19, earning his opponent eight points and trailing 3-9 before the fast classic. Carlsen rallied to win that decisive game, securing an 11-9 match victory and preserving his live rating above 2800 at 2804.0 for the first time in 17 years. The move drew criticism from players like Fabiano Caruana and Viswanathan Anand for undermining the pilot's multi-format structure, though Carlsen cited fatigue and a focus on longer games.",
    "updated_at": "2026-11-20T23:30:23.000Z",
    "url": "https://x.com/i/trending/2123475993021272482"
+  },
+  {
+   "category": "Sports",
+   "contexts": {
+    "entities": {
+     "events": [
+      "Total Chess World Championship Tour Pilot 2026"
+     ],
+     "organizations": [
+      "Total Chess World Championship Tour"
+     ],
+     "people": [
+      "Alireza Firouzja",
+      "Anish Giri",
+      "Fabiano Caruana"
+     ],
+     "places": [
+      "Budapest"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Sports"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Trailing after day one, Alireza Firouzja staged a stunning comeback, clinching the title with a draw as Black in the Armageddon decider against Anish Giri.",
+   "id": "2123443560842244381",
+   "name": "Firouzja Wins Total Chess Pilot Championship in Dramatic Armageddon Finish",
+   "summary": "The French grandmaster beat Giri in Budapest's Total Chess World Championship Tour Pilot from November 10-20, forcing the tiebreaker after Giri's 11-9 day-one win and Firouzja's 12-8 response on day two. The 35-move Armageddon draw handed Firouzja the $80,000 prize and a 2027 tour spot, with Giri second and Fabiano Caruana third. Firouzja noted both players deserved the win and praised the format that suited his style, while Giri mentioned playing 48 grueling games.",
+   "updated_at": "2026-11-21T11:24:38.000Z",
+   "url": "https://x.com/i/trending/2123443560842244381"
   },
   {
    "category": "Sports",
@@ -3799,6 +3783,38 @@
    "summary": "The seven-track 'SUIATSU' mini album, Stray Kids' first Japanese release in a year and a half, features all original songs including the title track 'SUIATSU,' 'TEMPLE,' 'Lonely Night,' and 'LAST TAKE.' Han Jisung wrote lyrics solo for 'Lonely Night' and 'LAST TAKE,' sparking excitement for more 'Hanpop' moments, while the medley showcases the group's self-production and emotional depth. Physical editions offer photobooks, zines with handwritten messages, and solo member covers, with fans looping previews and calling it another standout project.",
    "updated_at": "2026-11-20T21:48:28.000Z",
    "url": "https://x.com/i/trending/2123768991525057009"
+  },
+  {
+   "category": "Other",
+   "contexts": {
+    "entities": {
+     "events": [
+      "ScreenshotSaturday"
+     ],
+     "organizations": [
+      "Steam"
+     ],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Gaming"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "A lone glass of water sits on a wooden table, city rooftops glowing through the window—it's a simple title screen from 2084 that captures everything worth fighting for in one developer's game.",
+   "id": "2124100659783856612",
+   "name": "Indie Devs Share Work-in-Progress Screenshots in Weekly Ritual",
+   "summary": "On November 21, 2026, indie developers posted #ScreenshotSaturday glimpses of their projects, from pixel-art platformers with death counters to detailed music room UIs and zeppelin shooters launching on Steam. Solo creators and small teams shared Steam links, asked for wishlists and feedback, while others pledged to repost favorites and highlight exciting visuals. This weekly tradition offers low-pressure exposure, helping isolated devs connect with players and fellow makers through mutual support and discovery.",
+   "updated_at": "2026-11-21T11:24:35.000Z",
+   "url": "https://x.com/i/trending/2124100659783856612"
   },
   {
    "category": "Other",
@@ -4131,6 +4147,50 @@
    "url": "https://x.com/i/trending/2123841087810719885"
   },
   {
+   "category": "Entertainment",
+   "contexts": {
+    "entities": {
+     "events": [
+      "The DICEcovery in Taipei"
+     ],
+     "organizations": [
+      "DICE Group"
+     ],
+     "people": [
+      "Cheese Chayapol",
+      "Jay Kansopon",
+      "Maddoc Davies",
+      "APO Wachirakon",
+      "Alex Buckland",
+      "Min Thanakrit",
+      "Jisang Akira",
+      "Obo Aphinat"
+     ],
+     "places": [
+      "HANA SPACE"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Music",
+     "Concerts"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Fans lit up with joy as Dew and Tee's Tokyo fan meeting tickets vanished in seconds, one shouting in excitement, 'Sold out already!!! Amazing!!! Super popular!!! 👏👏👏'.",
+   "id": "2124069449712164880",
+   "name": "Dew and Tee Tickets Sell Out Instantly in Tokyo",
+   "summary": "General admission tickets for Dew JSU and Tee VTP's fan meeting at GMMTV FANDAY 41 in Tokyo's New Pier Hall on February 14, 2027, sold out right after sales opened on November 21 for 5,500 yen. Meanwhile, DICE's fancon 'The DICEcovery in TPE' kicks off today at 4 p.m. in Taipei's HANA SPACE, following their quick sell-out in October amid their Asia tour. Both events showcase the duo's sleek suits and the group's edgy styles, drawing fans across the region for intimate interactions and high-energy shows.",
+   "updated_at": "2026-11-21T09:20:21.000Z",
+   "url": "https://x.com/i/trending/2124069449712164880"
+  },
+  {
    "category": "Other",
    "contexts": {
     "entities": {
@@ -4187,83 +4247,6 @@
    "summary": "In a direct message to GTA 6 players, Beck praises their persistence in facing repeated failures with a reset button, contrasting it to real life's public setbacks without easy do-overs. He urges them to pick one real-world goal and commit publicly before the week ends, while advising parents to bond over the game instead of criticizing it. Launched November 19, 2026, on PlayStation 5 and Xbox Series X|S, GTA 6 has drawn huge excitement, and Beck's empathetic take has earned widespread praise for treating young men as capable humans rather than lecturing them.",
    "updated_at": "2026-11-21T07:31:00.000Z",
    "url": "https://x.com/i/trending/2123994138693525621"
-  },
-  {
-   "category": "Entertainment",
-   "contexts": {
-    "entities": {
-     "events": [
-      "Ongredients Ddalgi House photocall and pop-up store event"
-     ],
-     "organizations": [
-      "SEVENTEEN",
-      "Ongredients"
-     ],
-     "people": [
-      "S.COUPS",
-      "Choi Seungcheol"
-     ],
-     "places": [
-      "Ongredients Ddalgi House"
-     ],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "K-pop"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "S.COUPS stepped out at Seoul's strawberry-themed pop-up, waving to fans with a fresh short haircut that turned heads right away.",
-   "id": "2123679349530390605",
-   "name": "S.COUPS Debuts Short Haircut at Ongredients Ddalgi House Pop-Up",
-   "summary": "The SEVENTEEN leader, Ongredients' ambassador, visited the Ddalgi House event in Seongsu wearing a dark denim jacket, smiling and posing during a photocall amid pink decor and giveaways. Fans shared videos and photos praising how the clean, sharp style suits him perfectly, with comments like 'it suits him so much' flooding online. His playful interactions added charm to the mid-November promotion, highlighting his natural charisma and boosting excitement for the brand's gentle skincare campaigns.",
-   "updated_at": "2026-11-20T13:11:27.000Z",
-   "url": "https://x.com/i/trending/2123679349530390605"
-  },
-  {
-   "category": "Sports",
-   "contexts": {
-    "entities": {
-     "events": [
-      "ATP Finals"
-     ],
-     "organizations": [
-      "ATP"
-     ],
-     "people": [
-      "Carlos Alcaraz",
-      "Ben Shelton",
-      "Alexander Zverev",
-      "Daniil Medvedev"
-     ],
-     "places": [
-      "Turin"
-     ],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Tennis"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Carlos Alcaraz powered through a perfect group stage, strapping his hamstring but dropping just five games to seal his spot. Now bettors see him dominating Ben Shelton again, just like their Paris final two weeks back.",
-   "id": "2124064805980102906",
-   "name": "Alcaraz Heavy Favorite Over Shelton in ATP Finals Semifinal",
-   "summary": "Alcaraz enters Saturday's Nitto ATP Finals semifinal in Turin as the clear favorite against Shelton, fresh off a 6-4, 6-1 win over Cobolli and 12 straight victories overall. The Spaniard leads Shelton 4-1 head-to-head, though the American's 18% ace rate could test him on the fast indoor courts. In the evening, undefeated Alexander Zverev faces Daniil Medvedev, with Zverev's consistency drawing bets to cover sets. With defending champion Jannik Sinner out injured, Alcaraz chases his first ATP Finals title at Inalpi Arena.",
-   "updated_at": "2026-11-21T09:02:13.000Z",
-   "url": "https://x.com/i/trending/2124064805980102906"
   },
   {
    "category": "News",
@@ -4487,6 +4470,40 @@
    "category": "News",
    "contexts": {
     "entities": {
+     "events": [
+      "Air Niugini Flight PX019 emergency landing"
+     ],
+     "organizations": [
+      "Air Niugini"
+     ],
+     "people": [],
+     "places": [
+      "Davao International Airport"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Aviation"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "In the dark early hours, 146 passengers and crew slid down emergency chutes onto the runway, hearts racing but unharmed after a mid-flight engine scare.",
+   "id": "2124028050543124600",
+   "name": "Air Niugini Flight Makes Safe Emergency Landing in Davao After Engine Fire Alert",
+   "summary": "Air Niugini Flight PX019 from Hong Kong to Port Moresby diverted to Davao International Airport in the Philippines around 12:08 a.m. local time when pilots spotted a fire indication on the right engine and shut it down per protocol. The Boeing 767 landed safely, and everyone evacuated without injury; firefighters cooled overheated brakes on four damaged tires. The airline is providing hotel stays and rebooking for passengers, while an investigation probes the engine warning, underscoring effective safety measures.",
+   "updated_at": "2026-11-21T09:08:15.000Z",
+   "url": "https://x.com/i/trending/2124028050543124600"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
      "events": [],
      "organizations": [
       "Southwest Airlines"
@@ -4560,14 +4577,18 @@
    "contexts": {
     "entities": {
      "events": [
-      "Air Niugini Flight PX019 emergency landing"
+      "Flydubai Tel Aviv-Bound Flight Hijacking Attempt"
      ],
      "organizations": [
-      "Air Niugini"
+      "FBI",
+      "DHS",
+      "TSA",
+      "Al Qaeda",
+      "Flydubai"
      ],
      "people": [],
      "places": [
-      "Davao International Airport"
+      "Tel Aviv"
      ],
      "products": []
     },
@@ -4578,16 +4599,17 @@
      "teams": []
     },
     "topics": [
-     "Aviation"
+     "News",
+     "Crime"
     ]
    },
    "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "In the dark early hours, 146 passengers and crew slid down emergency chutes onto the runway, hearts racing but unharmed after a mid-flight engine scare.",
-   "id": "2124028050543124600",
-   "name": "Air Niugini Flight Makes Safe Emergency Landing in Davao After Engine Fire Alert",
-   "summary": "Air Niugini Flight PX019 from Hong Kong to Port Moresby diverted to Davao International Airport in the Philippines around 12:08 a.m. local time when pilots spotted a fire indication on the right engine and shut it down per protocol. The Boeing 767 landed safely, and everyone evacuated without injury; firefighters cooled overheated brakes on four damaged tires. The airline is providing hotel stays and rebooking for passengers, while an investigation probes the engine warning, underscoring effective safety measures.",
-   "updated_at": "2026-11-21T09:08:15.000Z",
-   "url": "https://x.com/i/trending/2124028050543124600"
+   "hook": "Just days before Thanksgiving's travel rush, security agencies warned airlines about Al Qaeda messages praising a recent axe attack on a flight.",
+   "id": "2123965962550669775",
+   "name": "US Officials Alert Airlines to Al Qaeda Hijacking Calls",
+   "summary": "The FBI, DHS, and TSA sent a joint report to airlines, cargo carriers, and airports on Thursday, highlighting Al Qaeda affiliates' propaganda that praises September's attempted hijacking of a Tel Aviv-bound Flydubai flight and urges similar attacks on US, Israeli, and Jewish targets. The bulletin lists red flags like suspicious questions about operations or unusual luggage interest, but officials stress there are no known credible threats—it's a routine preventive measure. With about 6 million expected on domestic flights next week, the alert reminds workers of longstanding aviation risks and urges quick reporting of concerns.",
+   "updated_at": "2026-11-21T09:27:19.000Z",
+   "url": "https://x.com/i/trending/2123965962550669775"
   },
   {
    "category": "News",
@@ -4652,45 +4674,6 @@
    "summary": "Travel + Leisure magazine picked India as the 2027 Destination of the Year for its cultural diversity, wildlife, heritage sites, wellness tourism, and expanding hospitality. The feature urges explorers to discover spots like Lakshadweep islands, Panna National Park tigers, Chettinad's history, Udaipur palaces, Jodhpur, Khajuraho, Meghalaya caves, and Nagaland’s Hornbill Festival. Anand Mahindra sees it as a call for better visas and infrastructure, while reactions blend national pride with talks on boosting visitor numbers beyond Albania's 2025 tally.",
    "updated_at": "2026-11-20T13:20:33.000Z",
    "url": "https://x.com/i/trending/2123251078070165797"
-  },
-  {
-   "category": "News",
-   "contexts": {
-    "entities": {
-     "events": [
-      "Flydubai Hijacking Attempt"
-     ],
-     "organizations": [
-      "FBI",
-      "DHS",
-      "TSA",
-      "Al Qaeda",
-      "Flydubai"
-     ],
-     "people": [],
-     "places": [
-      "United States"
-     ],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "News",
-     "Crime"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Just days before Thanksgiving's travel rush, security agencies warned airlines about Al Qaeda messages praising a recent axe attack on a flight.",
-   "id": "2123965962550669775",
-   "name": "US Officials Alert Airlines to Al Qaeda Hijacking Calls",
-   "summary": "The FBI, DHS, and TSA sent a joint report to airlines, cargo carriers, and airports on Thursday, highlighting Al Qaeda affiliates' propaganda that praises September's attempted hijacking of a Tel Aviv-bound Flydubai flight and urges similar attacks on US, Israeli, and Jewish targets. The bulletin lists red flags like suspicious questions about operations or unusual luggage interest, but officials stress there are no known credible threats—it's a routine preventive measure. With about 6 million expected on domestic flights next week, the alert reminds workers of longstanding aviation risks and urges quick reporting of concerns.",
-   "updated_at": "2026-11-21T09:27:19.000Z",
-   "url": "https://x.com/i/trending/2123965962550669775"
   },
   {
    "category": "Entertainment",
@@ -4775,41 +4758,6 @@
    "url": "https://x.com/i/trending/2123627626669457873"
   },
   {
-   "category": "News",
-   "contexts": {
-    "entities": {
-     "events": [
-      "43rd Extraordinary Session of the ICAO Assembly"
-     ],
-     "organizations": [
-      "International Civil Aviation Organization",
-      "ICAO Council"
-     ],
-     "people": [],
-     "places": [
-      "Montreal, Canada"
-     ],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Aviation"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Ethiopian delegates flashed thumbs-up from their desk in Montreal, their pride lighting up the room after securing a key voice in global aviation.",
-   "id": "2124041221035442514",
-   "name": "Ethiopia Wins Seat on ICAO Council with 133 Votes",
-   "summary": "Ethiopia earned one of four new seats on the ICAO Council during a special assembly in Montreal on November 20, tying Türkiye at 133 votes while running as Africa's only candidate with African Union support. The council sets worldwide standards for aviation safety, security, and efficiency, giving Ethiopia influence through 2028. Officials hailed it as a proud milestone, celebrating the country's longstanding role in aviation and recent infrastructure gains amid toasts and shared photos.",
-   "updated_at": "2026-11-21T09:52:27.000Z",
-   "url": "https://x.com/i/trending/2124041221035442514"
-  },
-  {
    "category": "Entertainment",
    "contexts": {
     "entities": {
@@ -4883,6 +4831,38 @@
    "summary": "BTS kicked off three shows at Kaohsiung National Stadium on November 19, with the city glowing purple from fan billboards and LED videos. Jimin commanded the stage with powerful vocals and choreography, as fans shared close-ups praising how he naturally pulls focus. Jungkook matched the energy in group numbers, showing easy chemistry with Jimin, and later posted a casual Instagram vlog of exploring the city, apologizing for the phone quality. These moments highlight their talents and bond, with the tour heading to more Asian and Australian dates plus global theater screenings.",
    "updated_at": "2026-11-21T06:24:12.000Z",
    "url": "https://x.com/i/trending/2123720986788864087"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "Nigerian Ministry of Aviation"
+     ],
+     "people": [],
+     "places": [
+      "Nigeria"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Aviation"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "At Lagos airport, Minister Festus Keyamo unveiled vPASS, a new system tying passengers' faces to their National ID numbers for smoother, safer domestic travel.",
+   "id": "2123850737579151688",
+   "name": "Nigeria Launches Biometric vPASS for Domestic Flights",
+   "summary": "The Airport Passenger Verification System requires Nigerians to link their NIN to facial scans via a mobile app, cutting queues and stopping fake tickets on domestic flights starting January 1, 2027. Airlines must integrate by December 31, 2026, or face boarding bans, while foreigners use passports instead. Discussions note the airline grace period, raise questions on non-Nigerian access and rollout speed, and highlight the initial launch at Lagos and Abuja terminals.",
+   "updated_at": "2026-11-20T18:53:37.000Z",
+   "url": "https://x.com/i/trending/2123850737579151688"
   },
   {
    "category": "News",
@@ -5019,6 +4999,41 @@
    "url": "https://x.com/i/trending/2123985169027838265"
   },
   {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [
+      "43rd Extraordinary Session of the ICAO Assembly"
+     ],
+     "organizations": [
+      "International Civil Aviation Organization",
+      "ICAO Council"
+     ],
+     "people": [],
+     "places": [
+      "Canada"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Aviation"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Ethiopian delegates flashed thumbs-up from their desk in Montreal, their pride lighting up the room after securing a key voice in global aviation.",
+   "id": "2124041221035442514",
+   "name": "Ethiopia Wins Seat on ICAO Council with 133 Votes",
+   "summary": "Ethiopia earned one of four new seats on the ICAO Council during a special assembly in Montreal on November 20, tying Türkiye at 133 votes while running as Africa's only candidate with African Union support. The council sets worldwide standards for aviation safety, security, and efficiency, giving Ethiopia influence through 2028. Officials hailed it as a proud milestone, celebrating the country's longstanding role in aviation and recent infrastructure gains amid toasts and shared photos.",
+   "updated_at": "2026-11-21T09:52:27.000Z",
+   "url": "https://x.com/i/trending/2124041221035442514"
+  },
+  {
    "category": "Entertainment",
    "contexts": {
     "entities": {
@@ -5092,38 +5107,6 @@
    "url": "https://x.com/i/trending/2123816882449059944"
   },
   {
-   "category": "News",
-   "contexts": {
-    "entities": {
-     "events": [],
-     "organizations": [],
-     "people": [],
-     "places": [
-      "Noida International Airport",
-      "Jewar",
-      "Delhi Airport"
-     ],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "News"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "A passenger stepped into the vast, silent check-in halls of Noida International Airport at night, feeling like he had booked the whole place just for himself on his first flight.",
-   "id": "2123751086590992441",
-   "name": "Empty Terminals at Noida Airport Stir Empty Debate",
-   "summary": "Videos of deserted terminals at the new Noida International Airport near Jewar have drawn attention to its quiet start since passenger operations began in mid-June 2026. The facility, built with ₹11,282 crore for Phase 1 including government land costs, now handles about 35 daily flights and saw 55,890 passengers in September after a July peak of 76,000. Critics highlight its 70 km distance from Delhi, limited public transport, and high fares, while supporters note its cargo focus and plans to grow from 12 million to 70 million annual passengers over time.",
-   "updated_at": "2026-11-20T12:17:21.000Z",
-   "url": "https://x.com/i/trending/2123751086590992441"
-  },
-  {
    "category": "Entertainment",
    "contexts": {
     "entities": {
@@ -5136,11 +5119,12 @@
      "people": [
       "Namtan Tipnaree",
       "Film Rachanun",
-      "Namping Napatsakorn",
-      "Alek Teeradetch"
+      "Alek Teeradetch",
+      "Namping Napatsakorn"
      ],
      "places": [
-      "Marina Bay Sands Event Plaza, Singapore"
+      "Marina Bay Sands Event Plaza",
+      "Singapore"
      ],
      "products": []
     },
@@ -5202,6 +5186,39 @@
    "category": "News",
    "contexts": {
     "entities": {
+     "events": [],
+     "organizations": [
+      "Rafael",
+      "Raytheon"
+     ],
+     "people": [],
+     "places": [
+      "Israel"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "News"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "After Iranian barrages strained supplies this year, Israel quickly upgraded its David's Sling system to handle more threats without burning through pricier interceptors.",
+   "id": "2123736571082068197",
+   "name": "Israel Upgrades David's Sling to Counter Iranian Missiles at Lower Cost",
+   "summary": "The enhancements expand David's Sling's range and let it intercept a wider variety of Iranian ballistic missiles, with each Stunner costing about $1 million compared to $3 million for Arrow 3 or over $4 million for U.S. Patriots. A senior Israeli Air Force official said the system can now withstand weeks of sustained attacks, fitting between short-range Iron Dome and long-range Arrow in the multilayered defenses co-developed with RTX. The upgrades, turned around in days from combat data, cut costs dramatically—stopping 1,700 missiles would cost $1.7 billion versus nearly $7 billion with Patriots—strengthening Israel's posture against Iran's stockpile of at least 1,700 missiles produced at 50 per month.",
+   "updated_at": "2026-11-20T14:16:52.000Z",
+   "url": "https://x.com/i/trending/2123736571082068197"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
      "events": [
       "Bagheera AT1 demonstration"
      ],
@@ -5213,7 +5230,8 @@
      ],
      "people": [],
      "places": [
-      "Pokhran Field Firing Ranges, Rajasthan"
+      "Pokhran Field Firing Ranges",
+      "Rajasthan"
      ],
      "products": []
     },
@@ -5317,15 +5335,11 @@
    "contexts": {
     "entities": {
      "events": [],
-     "organizations": [
-      "U.S. Army",
-      "Iowa Army Ammunition Plant"
-     ],
-     "people": [
-      "Kim Reynolds"
-     ],
+     "organizations": [],
+     "people": [],
      "places": [
-      "Middletown, Iowa"
+      "Navarre",
+      "Tyndall Air Force Base"
      ],
      "products": []
     },
@@ -5336,16 +5350,54 @@
      "teams": []
     },
     "topics": [
-     "News"
+     "News",
+     "Natural Disasters"
     ]
    },
    "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Residents near Middletown, Iowa, breathed a sigh of relief when a federal court stepped in just hours before massive blasts that could have spread toxic lead dust for miles.",
-   "id": "2123885582405566815",
-   "name": "Appeals Court Halts Army's Plan to Detonate Unstable Explosives in Iowa",
-   "summary": "The U.S. Army planned controlled detonations of nearly five tons of degraded lead azide explosives at the Iowa Army Ammunition Plant, discovered in March 2026 and deemed too unstable to move. Environmental groups like the Iowa Environmental Council and Sierra Club sued over risks of lead dust contaminating air, farmland, homes, and water across Iowa, Illinois, and Missouri, prompting the U.S. Court of Appeals for the Eighth Circuit to issue an indefinite stay on November 19. Governor Kim Reynolds activated the State Emergency Operations Center to monitor the situation, while the Army insists prompt action is needed to prevent an uncontrolled explosion, and the case awaits further court review.",
-   "updated_at": "2026-11-21T11:19:30.000Z",
-   "url": "https://x.com/i/trending/2123885582405566815"
+   "hook": "Homes rattled with three powerful booms in under an hour, leaving residents from Navarre to Tyndall Air Force Base wondering what caused the deep rumblings.",
+   "id": "2123911534783123809",
+   "name": "Mysterious Booms Shake Florida Panhandle Homes Near Air Force Bases",
+   "summary": "Loud explosions and vibrations hit communities across Florida's Panhandle this week, with reports clustering near military bases like Tyndall, Eglin, and Hurlburt Field. Locals described wall-shaking noises akin to massive blasts, while online chatter mixed worry, jokes about tin foil hats, and practical explanations tied to routine training like explosive demolitions and munitions tests. Hurlburt announced similar exercises for November 24, noting weather could amplify the sounds, and past events trace back to Eglin—highlighting how standard operations often explain these recurring disturbances.",
+   "updated_at": "2026-11-21T01:30:57.000Z",
+   "url": "https://x.com/i/trending/2123911534783123809"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [
+      "F-16CM emergency declaration"
+     ],
+     "organizations": [
+      "U.S. Air Force"
+     ],
+     "people": [],
+     "places": [
+      "Strait of Hormuz",
+      "Al Dhafra Air Base",
+      "Abu Dhabi",
+      "United Arab Emirates"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Aviation"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "A U.S. Air Force F-16 suddenly dropped from 32,000 feet while crossing the tense Strait of Hormuz, signaling a general emergency before touching down safely at a UAE base.",
+   "id": "2123900446259466375",
+   "name": "U.S. F-16 Declares Emergency Near Strait of Hormuz, Lands Safely in UAE",
+   "summary": "On November 20, 2026, the F-16CM with registration 87-0355 squawked the 7700 distress code, showed erratic speed and altitude changes, and descended nearly 28,000 feet to land at Al Dhafra Air Base. Social media posts linked the incident to unverified reports of an Iranian surface-to-air missile near Qeshm Island amid regional tensions following U.S. strikes on Iranian sites. The 7700 code indicates general distress from possible mechanical, medical, or other issues, with no U.S. military confirmation on the cause or any hostile action.",
+   "updated_at": "2026-11-21T01:05:15.000Z",
+   "url": "https://x.com/i/trending/2123900446259466375"
   },
   {
    "category": "News",
@@ -5390,6 +5442,77 @@
    "category": "News",
    "contexts": {
     "entities": {
+     "events": [
+      "detonation of lead azide explosives"
+     ],
+     "organizations": [
+      "U.S. Army",
+      "U.S. Eighth Circuit Court of Appeals"
+     ],
+     "people": [
+      "Kim Reynolds"
+     ],
+     "places": [
+      "Iowa Army Ammunition Plant",
+      "Middletown, Iowa"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "News"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Residents near Middletown, Iowa, breathed a sigh of relief when a federal court stepped in just hours before massive blasts that could have spread toxic lead dust for miles.",
+   "id": "2123885582405566815",
+   "name": "Appeals Court Halts Army's Plan to Detonate Unstable Explosives in Iowa",
+   "summary": "The U.S. Army planned controlled detonations of nearly five tons of degraded lead azide explosives at the Iowa Army Ammunition Plant, discovered in March 2026 and deemed too unstable to move. Environmental groups like the Iowa Environmental Council and Sierra Club sued over risks of lead dust contaminating air, farmland, homes, and water across Iowa, Illinois, and Missouri, prompting the U.S. Court of Appeals for the Eighth Circuit to issue an indefinite stay on November 19. Governor Kim Reynolds activated the State Emergency Operations Center to monitor the situation, while the Army insists prompt action is needed to prevent an uncontrolled explosion, and the case awaits further court review.",
+   "updated_at": "2026-11-21T11:19:30.000Z",
+   "url": "https://x.com/i/trending/2123885582405566815"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "Trump administration",
+      "Pentagon"
+     ],
+     "people": [
+      "John Thune"
+     ],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "President Trump's team and frustrated Republican voters are calling out Senate Majority Leader John Thune for delays on a major defense boost, warning that adversaries like China and Russia won't wait.",
+   "id": "2123972005943034217",
+   "name": "Thune Faces Backlash Over Stalled $350 Billion Pentagon Funding",
+   "summary": "A senior administration official criticized Thune and Senate Republicans for sidelining a $350 billion Pentagon funding package amid internal disputes over Medicaid reforms, risking military readiness as Democrats prepare to take the Senate in January. Trump has pushed for the one-time increase to fix equipment shortages and munitions strained by conflicts, but some GOP members see the figure as too ambitious and worry about amendment battles. Thune is now eyeing a bipartisan approach while Trump supporters online demand leadership changes, highlighting failures to pass key agenda items like military funding.",
+   "updated_at": "2026-11-21T04:01:17.000Z",
+   "url": "https://x.com/i/trending/2123972005943034217"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
      "events": [],
      "organizations": [
       "United States Department of Defense",
@@ -5428,47 +5551,6 @@
     "entities": {
      "events": [],
      "organizations": [
-      "SpaceX",
-      "U.S. Department of Defense"
-     ],
-     "people": [
-      "Volodymyr Zelenskyy",
-      "Elon Musk",
-      "Palmer Luckey"
-     ],
-     "places": [
-      "Russian-occupied Ukrainian territory"
-     ],
-     "products": []
-    },
-    "finance": {
-     "tickers": [
-      "SPCE"
-     ]
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "News",
-     "Politics",
-     "Space"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Ukrainian soldiers on the front lines faced frustrating slowdowns in their Starshield satellite service amid Russian attacks. Now a top Democrat is demanding answers from Elon Musk and intelligence leaders.",
-   "id": "2123787197195161705",
-   "name": "Democrat Warns of Funding Cuts Over Starshield Slowdowns in Ukraine",
-   "summary": "Incoming House Intelligence Committee Chairman Jim Himes sent classified letters to Director of National Intelligence Jay Clayton and Musk, questioning who ordered recent restrictions on Ukraine's military-grade Starshield service and warning that Congress may withhold funding without clear explanations. Starshield, SpaceX's defense version of Starlink, supports Ukrainian communications and drone operations, but speed limits reportedly hampered its use. Himes stressed that the committee cannot fund systems the government does not fully control, amid broader concerns over oversight of private firms handling sensitive military tech. SpaceX has hired Democratic lobbyists, while Musk has requested a meeting and publicly distanced himself from strict party lines.",
-   "updated_at": "2026-11-21T11:00:21.000Z",
-   "url": "https://x.com/i/trending/2123787197195161705"
-  },
-  {
-   "category": "News",
-   "contexts": {
-    "entities": {
-     "events": [],
-     "organizations": [
       "Anthropic",
       "Department of Defense"
      ],
@@ -5498,6 +5580,45 @@
    "summary": "Pentagon technology chief Emil Michael told CNBC that Anthropic poses a risk because its terms ban uses like weapons development, clashing with military needs. This reinforced an existing designation limiting the company's defense work, causing shares to fall from near $90 to the low $83s before a partial rebound around $87. The slide followed Anthropic's record $81.3 billion IPO at $83 per share, which had surged 17% on debut to close at $97.17, highlighting how Washington policy signals can quickly sway AI investor sentiment.",
    "updated_at": "2026-11-20T22:01:26.000Z",
    "url": "https://x.com/i/trending/2123828731856711977"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "House Intelligence Committee",
+      "SpaceX",
+      "Ukrainian military"
+     ],
+     "people": [
+      "Jim Himes",
+      "Jay Clayton",
+      "Elon Musk"
+     ],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": [
+      "SPACEX"
+     ]
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics",
+     "Space"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Ukrainian soldiers on the front lines faced frustrating slowdowns in their Starshield satellite service amid Russian attacks. Now a top Democrat is demanding answers from Elon Musk and intelligence leaders.",
+   "id": "2123787197195161705",
+   "name": "Democrat Warns of Funding Cuts Over Starshield Slowdowns in Ukraine",
+   "summary": "Incoming House Intelligence Committee Chairman Jim Himes sent classified letters to Director of National Intelligence Jay Clayton and Musk, questioning who ordered recent restrictions on Ukraine's military-grade Starshield service and warning that Congress may withhold funding without clear explanations. Starshield, SpaceX's defense version of Starlink, supports Ukrainian communications and drone operations, but speed limits reportedly hampered its use. Himes stressed that the committee cannot fund systems the government does not fully control, amid broader concerns over oversight of private firms handling sensitive military tech. SpaceX has hired Democratic lobbyists, while Musk has requested a meeting and publicly distanced himself from strict party lines.",
+   "updated_at": "2026-11-21T11:00:21.000Z",
+   "url": "https://x.com/i/trending/2123787197195161705"
   },
   {
    "category": "News",
@@ -5606,6 +5727,47 @@
    "category": "News",
    "contexts": {
     "entities": {
+     "events": [
+      "Iranian Dirty Bomb Plot"
+     ],
+     "organizations": [
+      "Israeli Mossad",
+      "CIA",
+      "New York Times"
+     ],
+     "people": [
+      "Roman Gofman",
+      "John",
+      "Trump"
+     ],
+     "places": [
+      "Washington, D.C."
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "News",
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "President Trump signals readiness for fresh action as Israel warns of Iran's quick missile and nuclear rebuilds. Tensions rise with intelligence on chemical threats and plots against U.S. officials.",
+   "id": "2123428423335112880",
+   "name": "U.S. and Israel Weigh New Strikes on Iran's Nuclear Program",
+   "summary": "U.S. and Israeli officials consider military strikes within days to counter Iran's rapid advances in ballistic missiles, underground nuclear sites, and alleged chemical and biological weapons. Trump affirmed he would act again to prevent a nuclear-armed Iran, standing by prior strikes from February, while Vice President Vance stressed the stakes of state-sponsored terrorism. Amid cautions like Piers Morgan's plea to hold back and questions over intelligence reliability, oil prices have fallen, easing inflation pressures, as military assets stay ready in the region.",
+   "updated_at": "2026-11-21T03:18:56.000Z",
+   "url": "https://x.com/i/trending/2123428423335112880"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
      "events": [],
      "organizations": [
       "U.S. Air National Guard"
@@ -5641,10 +5803,13 @@
    "category": "News",
    "contexts": {
     "entities": {
-     "events": [],
+     "events": [
+      "downing of 58th US MQ-9 Drone",
+      "downing of 19th US MQ-1 Drone"
+     ],
      "organizations": [
       "Islamic Revolutionary Guard Corps",
-      "United States"
+      "US military"
      ],
      "people": [],
      "places": [
@@ -5714,16 +5879,15 @@
    "category": "News",
    "contexts": {
     "entities": {
-     "events": [],
+     "events": [
+      "Starship Flight 15"
+     ],
      "organizations": [
-      "Hamas",
-      "Houthis"
+      "SpaceX"
      ],
-     "people": [
-      "Josh Shapiro"
-     ],
+     "people": [],
      "places": [
-      "Pennsylvania"
+      "Starbase"
      ],
      "products": []
     },
@@ -5734,16 +5898,51 @@
      "teams": []
     },
     "topics": [
+     "Space"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "The SpaceX production team stood together around Ship 42, ready for a launch that would mark a turning point in reusability. Their photo captures the human effort fueling Starship's rapid rise.",
+   "id": "2123819675490664925",
+   "name": "SpaceX Team Gathers Before Historic Starship Flight 15 Milestone",
+   "summary": "On November 13, Flight 15 launched from Starbase, Texas, with Ship 42 reaching orbit, deploying 26 Starlink V3 satellites, and becoming the first upper stage caught by the launch tower’s arms the next day. The Super Heavy booster ended in a Gulf of Mexico splashdown after an automated abort. Inside Starfactory, teams now build one upper stage every two weeks and a booster every four, with Ship 44 and Booster 24 prepping for Flight 17, signaling a shift to routine operations.",
+   "updated_at": "2026-11-21T04:30:01.000Z",
+   "url": "https://x.com/i/trending/2123819675490664925"
+  },
+  {
+   "category": "News",
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "US Defense Intelligence Agency",
+      "Russia",
+      "China",
+      "Iran",
+      "North Korea"
+     ],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "News",
      "Politics"
     ]
    },
    "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Pennsylvania Governor Josh Shapiro made a clear case on PBS NewsHour: Israel needs weapons to defend against Hamas, Houthis, and Iran, as it bolsters U.S. security.",
-   "id": "2124095945033879723",
-   "name": "Shapiro Backs Israel's Defensive Weapons on PBS NewsHour",
-   "summary": "In the interview with Amna Nawaz, Shapiro stressed that providing these defensive arms serves America's national interests, while also calling to end decades of broader U.S. military aid to Israel. The comments, shared widely by accounts like Mario Nawfal and Clash Report, drew mixed responses—Mehdi Hasan questioned its appeal for Shapiro's 2028 prospects, Eylon Levy praised the security angle, and others debated its impact on Democratic voters. Fresh off reelection and following an Atlantic Council speech, Shapiro's stance underscores tensions in party views on U.S.-Israel ties ahead of the presidential cycle.",
-   "updated_at": "2026-11-21T11:07:45.000Z",
-   "url": "https://x.com/i/trending/2124095945033879723"
+   "hook": "A single nuclear blast in orbit could wipe out thousands of satellites, crippling GPS, banking, and communications worldwide. The U.S. Defense Intelligence Agency laid out this stark scenario in its latest report.",
+   "id": "2123859869031919702",
+   "name": "Russia Developing Nuclear-Armed Satellite, DIA Warns of Global Disruption",
+   "summary": "Russia is advancing a satellite that could deploy a nuclear weapon in space, potentially devastating satellites across multiple orbits and disrupting essential services, according to the DIA's 'Challenges to Security in Space 2026' report. A modeled 1-megaton detonation at 500 kilometers altitude would disable 98 percent of low-Earth orbit satellites within a week, with radiation lingering for years. The report also flags Iran, China, and North Korea for threatening space systems through various counterspace activities, despite treaties like the 1967 Outer Space Treaty banning such weapons.",
+   "updated_at": "2026-11-21T01:31:44.000Z",
+   "url": "https://x.com/i/trending/2123859869031919702"
   },
   {
    "category": "News",
@@ -5852,203 +6051,6 @@
    "summary": "On November 19, former astronaut Senator Mark Kelly shared how Shuttle teams tested systems and planned for failures, linking it to his AI safety ideas. Many responded with photos of the 1986 Challenger explosion—73 seconds after launch due to a faulty O-ring—and the 2003 Columbia breakup from wing damage, which together took 14 lives across 135 missions. Phil Metzger, a Shuttle program veteran, noted pressures and constraints that led to repeated flaws, warning history could repeat. The back-and-forth underscores divided views on applying those lessons to AI.",
    "updated_at": "2026-11-20T16:54:46.000Z",
    "url": "https://x.com/i/trending/2123674252800905251"
-  },
-  {
-   "category": "News",
-   "contexts": {
-    "entities": {
-     "events": [
-      "Iran War"
-     ],
-     "organizations": [
-      "House Democrats"
-     ],
-     "people": [
-      "Hakeem Jeffries",
-      "Chuck Schumer"
-     ],
-     "places": [],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Politics"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Hakeem Jeffries called the Iran war 'reckless' and costly for families, but drew fire when he wouldn't commit to cutting its funding.",
-   "id": "2123888897629294899",
-   "name": "Hakeem Jeffries Faces Backlash for Rejecting Defunding Iran War",
-   "summary": "In a Tuesday interview at The Atlantic Summit, House Speaker nominee Jeffries declined to back defunding U.S. operations in the Gulf, opting instead for a war powers resolution despite his earlier pledge to end the conflict. Critics from Democratic circles and online blasted the stance, arguing it misses a chance to leverage the December funding deadline before Democrats take full House control in January. House Democrats marked 265 days since Trump launched the war, tying its tens of billions in costs and higher gas prices to voter frustrations that influenced recent elections.",
-   "updated_at": "2026-11-20T21:26:26.000Z",
-   "url": "https://x.com/i/trending/2123888897629294899"
-  },
-  {
-   "category": "Other",
-   "contexts": {
-    "entities": {
-     "events": [],
-     "organizations": [
-      "Arrowhead Game Studios"
-     ],
-     "people": [],
-     "places": [],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Gaming"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Juggling remotes and detonators mid-fight just got a lot easier for Helldivers, thanks to a new Combat Belt feature arriving early December.",
-   "id": "2123831473698640336",
-   "name": "Helldivers 2 Combat Belt Eases Stratagem Swapping in Update 8.0",
-   "summary": "The Combat Belt lets players quickly switch between remotes, detonators, and throwables while holding support weapons, freeing up hands and backpack space for stratagems like the MS-11 Solo Silo and B/MD C4 Pack. Part of Update 8.0, it comes alongside tweaks like using packs with two-handed weapons and SEAF help for bunkers. Fans are divided: some hail it as a 'goated feature' that boosts underused loadouts, while others call it overkill that dilutes the 'expendable' Helldiver vibe and worry about balance shifts. Footage hints at Mega Factories settings, sparking talk of automaton content.",
-   "updated_at": "2026-11-20T23:50:57.000Z",
-   "url": "https://x.com/i/trending/2123831473698640336"
-  },
-  {
-   "category": "Other",
-   "contexts": {
-    "entities": {
-     "events": [],
-     "organizations": [],
-     "people": [],
-     "places": [],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Health & Fitness"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Researchers followed 22 young vapers for a year and found their lung function dropped noticeably, with heavier users hit hardest.",
-   "id": "2123805461975580936",
-   "name": "Study Links Vaping to Lasting Lung Damage in Young Users",
-   "summary": "The pilot study in Tobacco Control measured a significant FEV1 decline of about 100 milliliters on average, up to 240 for daily heavy users, raising concerns for future COPD risk. Though limited by small size and no control group, it builds on evidence of vaping's harm to developing lungs. Online reactions leaned sarcastic, with quips like 'good thing I smoke cigarettes' and eye-rolls at inhaling vaporized chemicals.",
-   "updated_at": "2026-11-20T19:33:01.000Z",
-   "url": "https://x.com/i/trending/2123805461975580936"
-  },
-  {
-   "category": "News",
-   "contexts": {
-    "entities": {
-     "events": [
-      "UN Talks on Regulating Lethal Autonomous Weapons Systems"
-     ],
-     "organizations": [
-      "United Nations"
-     ],
-     "people": [],
-     "places": [
-      "Geneva"
-     ],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "News",
-     "Politics"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "After five grueling days in Geneva, negotiators wrapped up past 4 a.m. with a compromise to keep discussing rules for lethal autonomous weapons.",
-   "id": "2124063467309052048",
-   "name": "Nations Agree to Extend Killer Robot Talks Until 2028",
-   "summary": "Around 100 countries pushed for strong restrictions on systems that target with little human oversight, but major powers like the U.S., Russia, and Israel blocked a binding treaty. The deal under the UN's Convention on Certain Conventional Weapons sets expert talks for new rules by 2028, leaving open if they'll be legally enforceable. Human rights groups voiced disappointment over the delay, citing risks from tech advancing faster than diplomacy amid conflicts in Ukraine, Sudan, and the Middle East. Swiss chair Julien Thoeni called it a key win for multilateral efforts after over a decade of discussions.",
-   "updated_at": "2026-11-21T08:56:07.000Z",
-   "url": "https://x.com/i/trending/2124063467309052048"
-  },
-  {
-   "category": "News",
-   "contexts": {
-    "entities": {
-     "events": [],
-     "organizations": [],
-     "people": [],
-     "places": [
-      "Navarre",
-      "Tyndall Air Force Base"
-     ],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "News",
-     "Natural Disasters"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Homes rattled with three powerful booms in under an hour, leaving residents from Navarre to Tyndall Air Force Base wondering what caused the deep rumblings.",
-   "id": "2123911534783123809",
-   "name": "Mysterious Booms Shake Florida Panhandle Homes Near Air Force Bases",
-   "summary": "Loud explosions and vibrations hit communities across Florida's Panhandle this week, with reports clustering near military bases like Tyndall, Eglin, and Hurlburt Field. Locals described wall-shaking noises akin to massive blasts, while online chatter mixed worry, jokes about tin foil hats, and practical explanations tied to routine training like explosive demolitions and munitions tests. Hurlburt announced similar exercises for November 24, noting weather could amplify the sounds, and past events trace back to Eglin—highlighting how standard operations often explain these recurring disturbances.",
-   "updated_at": "2026-11-21T01:30:57.000Z",
-   "url": "https://x.com/i/trending/2123911534783123809"
-  },
-  {
-   "category": "News",
-   "contexts": {
-    "entities": {
-     "events": [
-      "F-16CM emergency declaration"
-     ],
-     "organizations": [
-      "U.S. Air Force"
-     ],
-     "people": [],
-     "places": [
-      "Strait of Hormuz",
-      "Al Dhafra Air Base",
-      "Abu Dhabi",
-      "United Arab Emirates"
-     ],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Aviation"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "A U.S. Air Force F-16 suddenly dropped from 32,000 feet while crossing the tense Strait of Hormuz, signaling a general emergency before touching down safely at a UAE base.",
-   "id": "2123900446259466375",
-   "name": "U.S. F-16 Declares Emergency Near Strait of Hormuz, Lands Safely in UAE",
-   "summary": "On November 20, 2026, the F-16CM with registration 87-0355 squawked the 7700 distress code, showed erratic speed and altitude changes, and descended nearly 28,000 feet to land at Al Dhafra Air Base. Social media posts linked the incident to unverified reports of an Iranian surface-to-air missile near Qeshm Island amid regional tensions following U.S. strikes on Iranian sites. The 7700 code indicates general distress from possible mechanical, medical, or other issues, with no U.S. military confirmation on the cause or any hostile action.",
-   "updated_at": "2026-11-21T01:05:15.000Z",
-   "url": "https://x.com/i/trending/2123900446259466375"
   },
   {
    "category": "News",
@@ -6204,108 +6206,6 @@
    "category": "News",
    "contexts": {
     "entities": {
-     "events": [
-      "Operation Sindoor"
-     ],
-     "organizations": [
-      "Indian Air Force",
-      "FlightGlobal",
-      "Pakistan Air Force"
-     ],
-     "people": [],
-     "places": [],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Aviation"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "A British publication's new directory lists just 32 active Rafale jets for India, down from 35, stirring old questions from the 2025 India-Pakistan clash.",
-   "id": "2123492108053160354",
-   "name": "FlightGlobal Cuts IAF Rafale Count to 32 Amid Sindoor Debate",
-   "summary": "FlightGlobal updated its World Air Forces directory using Cirium data, reducing the Indian Air Force's active Rafales from 35 to 32 without details on the change. India procured 36 jets originally, and the Defence Ministry rejected the figures as unofficial, citing a recent tender for maintenance on all 36. The revision has fueled speculation on social media about losses in Operation Sindoor, with voices like Prashant Bhushan questioning if Pakistan downed three, while others call the publication biased and retired IAF leaders dismiss it as false.",
-   "updated_at": "2026-11-21T10:25:12.000Z",
-   "url": "https://x.com/i/trending/2123492108053160354"
-  },
-  {
-   "category": "News",
-   "contexts": {
-    "entities": {
-     "events": [],
-     "organizations": [
-      "Trump administration",
-      "Pentagon"
-     ],
-     "people": [
-      "John Thune"
-     ],
-     "places": [],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Politics"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "President Trump's team and frustrated Republican voters are calling out Senate Majority Leader John Thune for delays on a major defense boost, warning that adversaries like China and Russia won't wait.",
-   "id": "2123972005943034217",
-   "name": "Thune Faces Backlash Over Stalled $350 Billion Pentagon Funding",
-   "summary": "A senior administration official criticized Thune and Senate Republicans for sidelining a $350 billion Pentagon funding package amid internal disputes over Medicaid reforms, risking military readiness as Democrats prepare to take the Senate in January. Trump has pushed for the one-time increase to fix equipment shortages and munitions strained by conflicts, but some GOP members see the figure as too ambitious and worry about amendment battles. Thune is now eyeing a bipartisan approach while Trump supporters online demand leadership changes, highlighting failures to pass key agenda items like military funding.",
-   "updated_at": "2026-11-21T04:01:17.000Z",
-   "url": "https://x.com/i/trending/2123972005943034217"
-  },
-  {
-   "category": "Other",
-   "contexts": {
-    "entities": {
-     "events": [],
-     "organizations": [
-      "U.S. Department of War"
-     ],
-     "people": [
-      "Jordan Crowder"
-     ],
-     "places": [
-      "Mexico",
-      "Utah"
-     ],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Memes"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "A shadowy, winged figure glides silently over Ciudad Juárez at dusk, stirring echoes of a prehistoric beast from newly released government records.",
-   "id": "2123933433860682025",
-   "name": "Pterodactyl Sightings Link Ciudad Juárez Videos to Declassified UFO Files",
-   "summary": "Videos from Ciudad Juárez near the US-Mexico border show a large, dark-winged creature flying past power lines, prompting claims it resembles a living pterodactyl. Mexican UFO researcher Jaime Maussan spotlighted the clips, which gained attention after White House-released UFO files revealed a 2010 report of a similar 12-foot-wingspan 'pterodactyl' sighted near Utah’s Skinwalker Ranch in 2006 or 2007. Skeptics attribute the footage to misidentified birds like herons, poor lighting, or possible editing, while local officials dismiss it as digital entertainment. The story blends curiosity with humor, keeping talks of unexplained aerial sights alive.",
-   "updated_at": "2026-11-21T03:25:28.000Z",
-   "url": "https://x.com/i/trending/2123933433860682025"
-  },
-  {
-   "category": "News",
-   "contexts": {
-    "entities": {
      "events": [],
      "organizations": [
       "Defence Headquarters"
@@ -6433,40 +6333,6 @@
    "summary": "Jason Lowery, an astronautical engineer and author of the 'Softwar' thesis, publicly offered his expertise to leverage Bitcoin's proof-of-work network for national security. He argues it imposes real energy costs on digital actions, deterring threats from autonomous AI far better than copyable software. Lowery has advised the military before, including at U.S. Indo-Pacific Command, and his proposal draws support amid growing fears of agentic superintelligence, though practical hurdles like scaling remain.",
    "updated_at": "2026-11-20T22:00:01.000Z",
    "url": "https://x.com/i/trending/2123897561367093706"
-  },
-  {
-   "category": "News",
-   "contexts": {
-    "entities": {
-     "events": [],
-     "organizations": [
-      "TrustedSec",
-      "CNN"
-     ],
-     "people": [
-      "David Kennedy"
-     ],
-     "places": [],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Technology",
-     "AI"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "In a live CNN segment, cybersecurity expert David Kennedy described stopping an AI-powered attack that stole data and locked down a system—all in just 14 minutes.",
-   "id": "2123637232607048090",
-   "name": "U.S. Cyber Director Steps Down as AI Breach Hits in 14 Minutes",
-   "summary": "President Trump’s national cyber director Sean Cairncross is stepping down after outages affected banking, air traffic control, Microsoft, and the NSA’s network, though not linked to cyberattacks. Pentagon CIO Kirsten A. Davies steps in as acting director with her technical experience. Kennedy detailed how over 30 AI agents exploited stolen credentials and a two-factor flaw in a real-time breach, highlighting how AI speeds up threats beyond human response times.",
-   "updated_at": "2026-11-21T00:48:26.000Z",
-   "url": "https://x.com/i/trending/2123637232607048090"
   },
   {
    "category": "Sports",
