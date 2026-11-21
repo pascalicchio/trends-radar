@@ -205,6 +205,31 @@
    "items": 9,
    "note": "aaro.mil returns 403; UAP/AARO news via Google News search"
   },
+  "feed:gnews_uap": {
+   "status": "ok",
+   "items": 33,
+   "note": ""
+  },
+  "feed:gnews_declassified": {
+   "status": "ok",
+   "items": 10,
+   "note": ""
+  },
+  "feed:gnews_weapons_tech": {
+   "status": "ok",
+   "items": 40,
+   "note": ""
+  },
+  "feed:gnews_sof": {
+   "status": "ok",
+   "items": 40,
+   "note": ""
+  },
+  "feed:wiki_military_watch": {
+   "status": "ok",
+   "items": 16,
+   "note": ""
+  },
   "wikidata_entity_typing": {
    "status": "ok",
    "items": 134,
@@ -273,6 +298,11 @@
    "id": "chess-blunder-club",
    "name": "Chess Blunder Club / Clube do Vacilo",
    "format": "chess blunder/trap shorts (EN Chess Blunder Club + PT sister channel Clube do Vacilo; PT performs better)"
+  },
+  {
+   "id": "military-unclassified",
+   "name": "Military Unclassified",
+   "format": "military engineering explainers plus declassified Pentagon/Navy/CIA UAP records and secret military technology (long-form + Shorts)"
   }
  ],
  "top5_candidates": [
@@ -337,12 +367,11 @@
    ],
    "regions": [
     "BR",
-    "GB",
-    "MX"
+    "GB"
    ],
    "broad_appeal": {
     "n_sources": 5,
-    "n_regions": 3
+    "n_regions": 2
    },
    "entity": {
     "qid": "Q116758847",
@@ -352,7 +381,8 @@
     "url": "https://www.wikidata.org/wiki/Q116758847"
    },
    "paradox_signals": [
-    "how"
+    "how",
+    "lost"
    ],
    "best_channel": "intern-broke-it",
    "channel_fit": {
@@ -381,13 +411,17 @@
     "plan-not-panic": {
      "score": 0,
      "strong": [],
-     "weak": [],
+     "weak": [
+      "supply"
+     ],
      "angle_hint": null
     },
     "silver-paradox": {
      "score": 0,
      "strong": [],
-     "weak": [],
+     "weak": [
+      "lost"
+     ],
      "angle_hint": null
     },
     "chess-blunder-club": {
@@ -395,6 +429,17 @@
      "strong": [],
      "weak": [],
      "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [
+      "pentagon"
+     ],
+     "weak": [
+      "intelligence"
+     ],
+     "angle_hint": null,
+     "note": "only one strong keyword, and only in headlines"
     }
    },
    "links": [
@@ -561,6 +606,12 @@
      "angle_hint": null
     },
     "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "military-unclassified": {
      "score": 0,
      "strong": [],
      "weak": [],
@@ -745,6 +796,12 @@
      "weak": [],
      "angle_hint": null,
      "note": "only one strong keyword, and only in headlines"
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
     }
    },
    "links": [
@@ -922,6 +979,12 @@
      "weak": [],
      "angle_hint": null,
      "note": "only one strong keyword, and only in headlines"
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
     }
    },
    "links": [
@@ -1098,6 +1161,12 @@
      "weak": [],
      "angle_hint": null,
      "note": "only one strong keyword, and only in headlines"
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
     }
    },
    "links": [
@@ -1361,7 +1430,9 @@
     "matched_via": "wikidata search 'Ukraine' -> Ukraine",
     "url": "https://www.wikidata.org/wiki/Q212"
    },
-   "paradox_signals": [],
+   "paradox_signals": [
+    "why"
+   ],
    "best_channel": "go-there-instead",
    "channel_fit": {
     "go-there-instead": {
@@ -1385,11 +1456,14 @@
     },
     "plan-not-panic": {
      "score": 0,
-     "strong": [],
+     "strong": [
+      "power grid"
+     ],
      "weak": [
       "winter"
      ],
-     "angle_hint": null
+     "angle_hint": null,
+     "note": "only one strong keyword, and only in headlines"
     },
     "silver-paradox": {
      "score": 0,
@@ -1401,6 +1475,19 @@
      "score": 0,
      "strong": [],
      "weak": [],
+     "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [
+      "classified",
+      "drone",
+      "drones",
+      "intelligence",
+      "satellite",
+      "troops"
+     ],
      "angle_hint": null
     }
    },
@@ -1416,6 +1503,12 @@
      "title": "Incoming House chair threatens SpaceX funding over Ukraine controversy",
      "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
      "metric": "spaceflight_news #2, 4h old, Arstechnica"
+    },
+    {
+     "source": "factcheck",
+     "title": "Fact Check: New York pro-Israel ad ‘bumping’ Ukraine message is fake",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcl8yd2hrSWdnc1JCbUN1SENNU1VUYllRMms0NnlmUU43MWUtbGNOVnBzZkxWMG1JVW1LT29YMjRsUm0xbkpDVnVEbnFzdmt0SXFvSXZzTEFDUjlFQy10T2hBa2V3c3pXUFpIZTZHTU81aWhOMFh1ZnUzdHFIeW10Q1VNcTlJcVNjamhWMlJZVGxIMTRTQlNoY1p6dFF5MWlwejNV?oc=5",
+     "metric": "reuters_factcheck #19, Reuters"
     },
     {
      "source": "googlenews",
@@ -1752,6 +1845,12 @@
      "weak": [],
      "angle_hint": null,
      "note": "only one strong keyword, and only in headlines"
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
     }
    },
    "links": [
@@ -2064,6 +2163,151 @@
      "strong": [],
      "weak": [],
      "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    }
+   },
+   "links": [
+    {
+     "source": "x",
+     "title": "Myanmar",
+     "url": "https://x.com/search?q=Myanmar",
+     "metric": "X trend GB #29, 44,026 posts"
+    },
+    {
+     "source": "googlenews",
+     "title": "Quiénes son los rohinyás, la \"minoría más perseguida del mundo\" por la que Myanmar fue condenado por genocidio",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OYjlNWVBoVnZEX1dEdlNVTlAyVHYzem4zNHRJbEJGN0RhcDM4cWZqTlk0RUJMaVJsdzlxeUtIY29hRE5WMnFzTGYyUFBYWm80OExLdmd1SjdWT0tQ0gFiQVVfeXFMUFVOQm9rMmpRU203WWVFR0dXWEpEb1VPSkFsNHpxSEhwa3l3NkN5emNtMHg2Y19OQ1BhcmhUcnFxZjdabjJEWXhoWVFYeDhhNlNlUmd1elB4SHZQWFRPcWRsVVE?oc=5",
+     "metric": "gnews_es #14, BBC"
+    },
+    {
+     "source": "factcheck",
+     "title": "Manipulated video falsely linked to conflict in western Myanmar",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pVjVzMVFsMGJabWdSQXRLYTZvTlZRSndrbUk5bWNPaHFhcE05SE0yR21uR1Z3TlJRbjRZOHBrME9SRGlSTlVsbVN5Z3VpdnJFUGtxV1ZKSEI?oc=5",
+     "metric": "afp_factcheck #16, AFP Fact Check"
+    }
+   ],
+   "keys": [
+    "myanmar"
+   ],
+   "related_topics": [],
+   "footage": {
+    "query": "Myanmar",
+    "checked": [
+     {
+      "source": "Wikimedia Commons (video)",
+      "hits": 3785,
+      "url": "https://commons.wikimedia.org/w/index.php?search=Myanmar%20filetype%3Avideo&ns6=1",
+      "examples": [
+       "https://commons.wikimedia.org/wiki/File:CCTV_Footage_of_Myanmar_(Burmese)_Soldier_dying_near_Muse,_Shan_State.webm",
+       "https://commons.wikimedia.org/wiki/File:Rebels_raiding_a_Myanmar_(Burmese)_Junta_Militia_post_in_Muse,_Shan_State.webm"
+      ],
+      "license_hint": "per-file license (mostly CC BY / CC BY-SA / public domain): check the file page and credit as required"
+     },
+     {
+      "source": "Internet Archive (movies)",
+      "hits": 1108,
+      "url": "https://archive.org/search?query=title%3A%28Myanmar%29&and[]=mediatype%3A%22movies%22",
+      "examples": [
+       "https://archive.org/details/siv_Unreached_Peoples_The_Tribes_of_Myanmar_Burma_The_Long_Neck_Padaung",
+       "https://archive.org/details/fernOST_5_Von-Myanmar-nach-Bangkok"
+      ],
+      "license_hint": "mixed: many public domain or CC, but uploads can be copyrighted; check each item's license/rights field"
+     },
+     {
+      "source": "NASA Image & Video Library (video)",
+      "hits": 0,
+      "url": "https://images.nasa.gov/search?q=Myanmar&page=1&media=video",
+      "examples": [],
+      "license_hint": "generally not copyrighted (US gov); no NASA endorsement implied; third-party content and logos excepted"
+     },
+     {
+      "source": "Library of Congress (film & video)",
+      "error": "Expecting value: line 1 column 1 (char 0)",
+      "license_hint": "varies: many items 'no known restrictions', others rights-restricted; check each item's Rights & Access"
+     }
+    ],
+    "to_verify": [
+     "DVIDS (US military public-domain video): https://www.dvidshub.net/search/?q=Myanmar&filter%5Btype%5D=video (API needs a key; not auto-checked)",
+     "National Archives (NARA) catalog: https://catalog.archives.gov/search?q=Myanmar&typeOfMaterials=Moving%20Images (API needs a key; not auto-checked)",
+     "YouTube Creative Commons filter (search the topic, Filters > Creative Commons)",
+     "News-agency licensing (AP/Reuters/Storyful) or official channel/press-kit footage"
+    ],
+    "confidence": "high",
+    "note": "Counts are keyword matches in public archives, not a relevance check; open the links before planning an episode. 'none-found' means stills-only risk for long-form."
+   }
+  },
+  {
+   "rank": 11,
+   "topic": "Rockstar Games",
+   "heat": 79.1,
+   "status": "steady",
+   "velocity": 0.5,
+   "first_seen": "2026-11-18T23:25:39+00:00",
+   "days_trending": 3,
+   "heat_yesterday": 81.5,
+   "why_hot": "3 source(s): googlenews, wikipedia, x; Wikipedia views 3.0x vs prior 4-day avg; 112,864 views, 3.0x vs prior 4-day avg; X trend GB #30, 192,758 posts; Top #19, 5 outlets in cluster",
+   "sources": [
+    "googlenews",
+    "wikipedia",
+    "x"
+   ],
+   "regions": [
+    "GB"
+   ],
+   "broad_appeal": {
+    "n_sources": 3,
+    "n_regions": 1
+   },
+   "entity": {
+    "qid": "Q94912",
+    "type": "other",
+    "description": "American video game publisher",
+    "matched_via": "wikipedia article",
+    "url": "https://www.wikidata.org/wiki/Q94912"
+   },
+   "paradox_signals": [],
+   "best_channel": null,
+   "channel_fit": {
+    "go-there-instead": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "intern-broke-it": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "plan-not-panic": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "silver-paradox": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
     }
    },
    "links": [
@@ -2203,6 +2447,12 @@
      "angle_hint": null
     },
     "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "military-unclassified": {
      "score": 0,
      "strong": [],
      "weak": [],
@@ -2496,6 +2746,12 @@
      "strong": [],
      "weak": [],
      "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
     }
    },
    "links": [
@@ -2522,7 +2778,6 @@
     "lucia",
     "lucia caminos"
    ],
-   "related_topics": [],
    "footage": {
     "query": "Lucia Caminos",
     "checked": [
@@ -2970,6 +3225,12 @@
      "strong": [],
      "weak": [],
      "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
     }
    },
    "links": [
@@ -3168,6 +3429,12 @@
      "strong": [],
      "weak": [],
      "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
     }
    },
    "links": [
@@ -3249,6 +3516,12 @@
      "angle_hint": null
     },
     "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "military-unclassified": {
      "score": 0,
      "strong": [],
      "weak": [],
@@ -3701,8 +3974,8 @@
    "heat": 51.3,
    "status": "new",
    "velocity": 0.6,
-   "first_seen": null,
-   "days_trending": 0,
+   "first_seen": "2026-11-20T23:26:37+00:00",
+   "days_trending": 1,
    "heat_yesterday": null,
    "why_hot": "2 source(s): googlenews, x; trending in 2 regions (US, Worldwide); X trend US #4, 7,906 posts; Sports #11, 5 outlets in cluster",
    "sources": [
@@ -3752,6 +4025,12 @@
      "angle_hint": null
     },
     "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "military-unclassified": {
      "score": 0,
      "strong": [],
      "weak": [],
@@ -4022,6 +4301,12 @@
      "strong": [],
      "weak": [],
      "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
     }
    },
    "links": [
@@ -4053,7 +4338,11 @@
    "keys": [
     "robert pattinson"
    ],
-   "related_topics": []
+   "related_topics": [
+    "Dodgers",
+    "Bobby Miller",
+    "Twins"
+   ]
   },
   {
    "rank": 30,
@@ -4117,6 +4406,12 @@
      "strong": [],
      "weak": [],
      "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
     }
    },
    "links": [
@@ -4161,7 +4456,7 @@
   {
    "rank": 31,
    "topic": "Revolución mexicana",
-   "heat": 47.4,
+   "heat": 47.9,
    "status": "steady",
    "velocity": 0.6,
    "first_seen": "2026-11-18T23:25:39+00:00",
@@ -4216,6 +4511,12 @@
      "angle_hint": null
     },
     "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "military-unclassified": {
      "score": 0,
      "strong": [],
      "weak": [],
@@ -4297,6 +4598,12 @@
      "angle_hint": null
     },
     "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "military-unclassified": {
      "score": 0,
      "strong": [],
      "weak": [],
@@ -4386,6 +4693,12 @@
      "weak": [],
      "angle_hint": null,
      "note": "only one strong keyword, and only in headlines"
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
     }
    },
    "links": [
@@ -4682,8 +4995,8 @@
    "heat": 43.6,
    "status": "new",
    "velocity": 0.0,
-   "first_seen": null,
-   "days_trending": 0,
+   "first_seen": "2026-11-20T23:26:37+00:00",
+   "days_trending": 1,
    "heat_yesterday": null,
    "why_hot": "2 source(s): googlenews, youtube; Technology #11, 5 outlets in cluster; YouTube most popular US/overall #9: 2,472,093 views, 1h old, Kai Cenat Live",
    "sources": [
@@ -4814,6 +5127,12 @@
      "strong": [],
      "weak": [],
      "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
     }
    },
    "links": [
@@ -4868,15 +5187,26 @@
    "channel_fit": {
     "go-there-instead": {
      "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
+     "strong": [
+      "travel"
+     ],
+     "weak": [
+      "booking"
+     ],
+     "angle_hint": null,
+     "note": "only one strong keyword, and only in headlines"
     },
     "intern-broke-it": {
      "score": 0,
-     "strong": [],
-     "weak": [],
-     "angle_hint": null
+     "strong": [
+      "claude",
+      "anthropic"
+     ],
+     "weak": [
+      "tech"
+     ],
+     "angle_hint": null,
+     "note": "gated: entity type 'sports_heuristic' not a fit for this channel"
     },
     "plan-not-panic": {
      "score": 0,
@@ -4891,6 +5221,12 @@
      "angle_hint": null
     },
     "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "military-unclassified": {
      "score": 0,
      "strong": [],
      "weak": [],
@@ -5074,6 +5410,12 @@
      "strong": [],
      "weak": [],
      "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
     }
    },
    "best_channel": null,
@@ -5175,6 +5517,12 @@
      "angle_hint": null
     },
     "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "military-unclassified": {
      "score": 0,
      "strong": [],
      "weak": [],
@@ -5283,6 +5631,12 @@
      "angle_hint": null
     },
     "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "military-unclassified": {
      "score": 0,
      "strong": [],
      "weak": [],
@@ -5400,6 +5754,12 @@
      "strong": [],
      "weak": [],
      "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
     }
    },
    "best_channel": null,
@@ -5501,6 +5861,12 @@
      "angle_hint": null
     },
     "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "military-unclassified": {
      "score": 0,
      "strong": [],
      "weak": [],
@@ -5609,6 +5975,12 @@
      "strong": [],
      "weak": [],
      "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
     }
    },
    "best_channel": null,
@@ -5706,6 +6078,12 @@
      "angle_hint": null
     },
     "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "military-unclassified": {
      "score": 0,
      "strong": [],
      "weak": [],
@@ -5820,6 +6198,12 @@
      "angle_hint": null
     },
     "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "military-unclassified": {
      "score": 0,
      "strong": [],
      "weak": [],
@@ -5939,6 +6323,12 @@
      "strong": [],
      "weak": [],
      "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
     }
    },
    "best_channel": null,
@@ -6054,6 +6444,12 @@
      "angle_hint": null
     },
     "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "military-unclassified": {
      "score": 0,
      "strong": [],
      "weak": [],
@@ -6184,6 +6580,12 @@
      ],
      "weak": [],
      "angle_hint": "Trap of the day: the opening trap from World Chess Championship 2026 (Gukesh vs Sindarov, Geneva): Game 1, explained in 30s (post EN + PT 'armadilha do dia')"
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
     }
    },
    "best_channel": "chess-blunder-club",
@@ -6286,6 +6688,12 @@
      "angle_hint": null
     },
     "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "military-unclassified": {
      "score": 0,
      "strong": [],
      "weak": [],
@@ -6420,6 +6828,12 @@
      ],
      "weak": [],
      "angle_hint": "Trap of the day: the opening trap from World Chess Championship 2026: final scheduled classical game (tiebreaks Dec 12 if needed), explained in 30s (post EN + PT 'armadilha do dia')"
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
     }
    },
    "best_channel": "chess-blunder-club",
@@ -6519,6 +6933,12 @@
      "strong": [],
      "weak": [],
      "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
     }
    },
    "best_channel": null,
@@ -6613,6 +7033,12 @@
      "angle_hint": null
     },
     "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "military-unclassified": {
      "score": 0,
      "strong": [],
      "weak": [],
@@ -6728,6 +7154,12 @@
      "strong": [],
      "weak": [],
      "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
     }
    },
    "best_channel": null
@@ -6795,6 +7227,12 @@
      "angle_hint": null
     },
     "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "military-unclassified": {
      "score": 0,
      "strong": [],
      "weak": [],
@@ -6869,6 +7307,12 @@
      "strong": [],
      "weak": [],
      "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
     }
    },
    "best_channel": null
@@ -6925,6 +7369,12 @@
      "angle_hint": null
     },
     "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "military-unclassified": {
      "score": 0,
      "strong": [],
      "weak": [],
@@ -7003,6 +7453,12 @@
      "strong": [],
      "weak": [],
      "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
     }
    },
    "best_channel": "plan-not-panic"
@@ -7077,6 +7533,12 @@
      "strong": [],
      "weak": [],
      "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
     }
    },
    "best_channel": null
@@ -7137,6 +7599,14 @@
      "strong": [],
      "weak": [],
      "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [
+      "troops"
+     ],
+     "angle_hint": null
     }
    },
    "best_channel": null
@@ -7196,6 +7666,14 @@
      "score": 0,
      "strong": [],
      "weak": [],
+     "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [
+      "army"
+     ],
      "angle_hint": null
     }
    },
@@ -7264,6 +7742,12 @@
      "strong": [],
      "weak": [],
      "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
     }
    },
    "best_channel": null
@@ -7320,6 +7804,12 @@
      "angle_hint": null
     },
     "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "military-unclassified": {
      "score": 0,
      "strong": [],
      "weak": [],
@@ -7384,6 +7874,12 @@
      "strong": [],
      "weak": [],
      "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
     }
    },
    "best_channel": null
@@ -7444,6 +7940,14 @@
      "strong": [],
      "weak": [],
      "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [
+      "troops"
+     ],
+     "angle_hint": null
     }
    },
    "best_channel": null
@@ -7500,6 +8004,12 @@
      "angle_hint": null
     },
     "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "military-unclassified": {
      "score": 0,
      "strong": [],
      "weak": [],
@@ -7566,6 +8076,12 @@
       "opening"
      ],
      "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
     }
    },
    "best_channel": null
@@ -7624,6 +8140,12 @@
      "angle_hint": null
     },
     "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "military-unclassified": {
      "score": 0,
      "strong": [],
      "weak": [],
@@ -7690,6 +8212,12 @@
      "strong": [],
      "weak": [],
      "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
     }
    },
    "best_channel": null
@@ -7746,6 +8274,12 @@
      "angle_hint": null
     },
     "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "military-unclassified": {
      "score": 0,
      "strong": [],
      "weak": [],
@@ -7810,6 +8344,14 @@
      "strong": [],
      "weak": [],
      "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [
+      "weapons"
+     ],
+     "angle_hint": null
     }
    },
    "best_channel": null
@@ -7866,6 +8408,12 @@
      "angle_hint": null
     },
     "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "military-unclassified": {
      "score": 0,
      "strong": [],
      "weak": [],
@@ -7930,6 +8478,12 @@
      "strong": [],
      "weak": [],
      "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
     }
    },
    "best_channel": null
@@ -7986,6 +8540,12 @@
      "angle_hint": null
     },
     "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "military-unclassified": {
      "score": 0,
      "strong": [],
      "weak": [],
@@ -8052,6 +8612,12 @@
      "strong": [],
      "weak": [],
      "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
     }
    },
    "best_channel": null
@@ -8113,6 +8679,14 @@
      "strong": [],
      "weak": [],
      "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 0,
+     "strong": [],
+     "weak": [
+      "nuclear"
+     ],
+     "angle_hint": null
     }
    },
    "best_channel": null
@@ -8169,6 +8743,12 @@
      "angle_hint": null
     },
     "chess-blunder-club": {
+     "score": 0,
+     "strong": [],
+     "weak": [],
+     "angle_hint": null
+    },
+    "military-unclassified": {
      "score": 0,
      "strong": [],
      "weak": [],
@@ -8233,9 +8813,17 @@
      "strong": [],
      "weak": [],
      "angle_hint": null
+    },
+    "military-unclassified": {
+     "score": 45,
+     "strong": [
+      "cia"
+     ],
+     "weak": [],
+     "angle_hint": "Military Unclassified take: the tech, the files, and what 75th anniversary: The left-wing Japanese novelist Wataru Kaji disappeared, leading to a government inquiry in which CIA involvement was investigated. still isn't telling us"
     }
    },
-   "best_channel": null
+   "best_channel": "military-unclassified"
   }
  ],
  "channel_picks": {
@@ -8505,7 +9093,7 @@
    {
     "rank": 206,
     "topic": "Total Chess Pilot",
-    "heat": 17.0,
+    "heat": 16.7,
     "fit": 90,
     "strong": [
      "chess",
@@ -8559,6 +9147,72 @@
     ],
     "angle_hint": "Trap of the day: the opening trap from World Chess Championship, explained in 30s (post EN + PT 'armadilha do dia')",
     "url": "https://en.wikipedia.org/wiki/World_Chess_Championship_2026"
+   }
+  ],
+  "military-unclassified": [
+   {
+    "rank": 65,
+    "topic": "Middle East",
+    "heat": 30.7,
+    "fit": 100,
+    "strong": [
+     "uap",
+     "ufo",
+     "aircraft carrier"
+    ],
+    "angle_hint": "Declassified files on Middle East: what the Pentagon, Navy, or CIA actually released, and what is still withheld",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSjdOZjd5dTVtc3lfMVo3OVRvWWpZWjRrQ0cteE16VE9YeHFkTzBkdlVzb2xKZG4zQ1lOZVhVMUZTUTVtcHVFaWl4SDdSX1dGSEUxNnJqLXVCRHdwMWVVUzVoVFNkbW9uMEgzTDk5ZnJhWnNwUWJ1MjlKdXl0cXRURUJqT21MV3hoWTRDUk55Q2JWLTFVZ3k4N1k1SGNMbnBDbGJfMVpFVVFEZ2hqNGc5U2tnVS1mQUQ0UE5Rc2NPcFdIYmxHd1pUZTg2cklHWU9RRlQ5alV30gHbAUFVX3lxTE5iaUpzSGItT3lnTHNwbzRLb010dlpLaUs3ZUtvRTR2Smd2c1VYTGlmamVweTNHQnZZeWdTWFMxSGc1MERTQnc1ZmRFVXFDeXZ6dElNZnVSOVFySUJ0emJaYkdralB6NGJkcXFpTU5fLUtzUWtsRklmSFkyS24zd0UzV3dpemktWENsWjJYTFNhaHZyd3pZVDZQY2xuS3FRQUNrRlpCOEJMd3JHbU1JemFibU9xZWQyWGliMVljRW9FUHV4b1RoeEFpRmlxRF92NzhZeXoyVzhtVXgzcw?oc=5"
+   },
+   {
+    "rank": 71,
+    "topic": "Air Force",
+    "heat": 28.8,
+    "fit": 98,
+    "strong": [
+     "ufo",
+     "special operations",
+     "air force base"
+    ],
+    "angle_hint": "Declassified files on Air Force: what the Pentagon, Navy, or CIA actually released, and what is still withheld",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLVRYczd5dnZUSUhhNmtjbGNUc05pUkYwSkc3b0ZvU0xRZVNkc0RQQWJ6VG4yVzRkRzViNFpUczVoMXY4SDBuQVVPSDBkYVVXQTV0V2xYR3Rpb0gyUlZ4Yk1HT2NmZHBjR2ZtbHdzU3podm12UlhCLWVNekpfRndRRGV4TEtNSFNSOEsyQmdPbHJ2U1VHaF9XTjRSZWdUSnV2OWlBZQ?oc=5"
+   },
+   {
+    "rank": 77,
+    "topic": "Pentagon Releases Eighth Batch",
+    "heat": 27.8,
+    "fit": 90,
+    "strong": [
+     "military",
+     "pentagon",
+     "uap",
+     "ufo",
+     "declassified",
+     "cia"
+    ],
+    "angle_hint": "Declassified files on Pentagon Releases Eighth Batch: what the Pentagon, Navy, or CIA actually released, and what is still withheld",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORjNxM0ZST2JRVGlVRHpkR1NISWk4OHA2SVkwMzZzZVNPVENTWmNBUl9xd21jb2JWUmhMb05TOWlNSzB5UlFGcGI4am1pcTJ5OVVTaFphYlJrQ0xXVXFoX2dDa2dNRWt2cGhqTGFhMHhzc2t5Q2gwM3h3cUFDNXRtSnE0amE1XzNWOHVneUdR?oc=5"
+   },
+   {
+    "rank": 348,
+    "topic": "Fact Check: Images depicting capture of US ‘Delta Force’ troops in Iran are-AI generated",
+    "heat": 14.3,
+    "fit": 53,
+    "strong": [
+     "delta force"
+    ],
+    "angle_hint": "The declassified story of Fact Check: Images depicting capture of US ‘Delta Force’ troops in Iran are-AI generated: what was acknowledged, and what stayed secret",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSkxhS05PYWpmSGR1TENwcUFVZU45c2FnSmk5Mmc3SGFTWTVfMzlLZWU5XzlKblJrQnhpckZBSDJ4aWpBOER5dmJDcVdpVjR1SlpZTzRMZ3lTVU5vTDFrNk1tLXJFSXcxZG9MSDlJWmxqOWxWWm9YQmxONUo5NGdFS3d3ekdnaEJTV0JTalhNOFhnVDEtMkNxR3kyV3l3dG96ZkdMVVZqTWVEQlZ3UGFrbkxDWXgyQQ?oc=5"
+   },
+   {
+    "rank": 467,
+    "topic": "Russian missiles land in Poland, as Europe held military drills nearby. NATO calls it a violation",
+    "heat": 11.8,
+    "fit": 53,
+    "strong": [
+     "military"
+    ],
+    "angle_hint": "Military Unclassified take: the tech, the files, and what Russian missiles land in Poland, as Europe held military drills nearby. NATO calls it a violation still isn't telling us",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXhFLWVHeVA2TTIyRTRBRklRM29NQlpLTkNSbkdUYlNWVTNLek1BNG52cDFJRjNNVGNxNW04V3RDTEJPNGtDZ1R6WXE5TVV3SDJhQkFDRVFEMXZaTF92aWhZdS1xS1A0QnR2dE9selFRNGJYclZkRmdKUlJrWjB3VGxzTFE3aVBjYWJCUXhsM0Q1Sk5qR1U3TFlIekxkUE43MUNNenk2bw?oc=5"
    }
   ]
  },

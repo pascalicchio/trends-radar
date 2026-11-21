@@ -98,6 +98,19 @@ Machine-readable: https://trends-radar.pascalicchio.workers.dev/trends.json · D
 - [Ajedrez](https://es.wikipedia.org/wiki/Ajedrez) (wiki_chess_watch #9, 543 views, 0.9x vs prior-days avg)
 - [Scholar's mate](https://en.wikipedia.org/wiki/Scholar's_mate) (wiki_chess_watch #10, 308 views, 1.0x vs prior-days avg)
 
+### Niche feed: military-unclassified
+
+- [Lockheed Martin F-35 Lightning II](https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II) (wiki_military_watch #1, 3,585 views, 0.9x vs prior-days avg)
+- [Area 51](https://en.wikipedia.org/wiki/Area_51) (wiki_military_watch #2, 3,450 views, 1.0x vs prior-days avg)
+- [Lockheed SR-71 Blackbird](https://en.wikipedia.org/wiki/Lockheed_SR-71_Blackbird) (wiki_military_watch #3, 2,495 views, 0.8x vs prior-days avg)
+- [United States Navy SEALs](https://en.wikipedia.org/wiki/United_States_Navy_SEALs) (wiki_military_watch #4, 1,694 views, 0.9x vs prior-days avg)
+- [Northrop Grumman B-21 Raider](https://en.wikipedia.org/wiki/Northrop_Grumman_B-21_Raider) (wiki_military_watch #5, 1,668 views, 0.7x vs prior-days avg)
+- [Aircraft carrier](https://en.wikipedia.org/wiki/Aircraft_carrier) (wiki_military_watch #6, 1,218 views, 0.8x vs prior-days avg)
+- [DARPA](https://en.wikipedia.org/wiki/DARPA) (wiki_military_watch #7, 984 views, 1.0x vs prior-days avg)
+- [Skunk Works](https://en.wikipedia.org/wiki/Skunk_Works) (wiki_military_watch #8, 876 views, 0.9x vs prior-days avg)
+- [Unidentified flying object](https://en.wikipedia.org/wiki/Unidentified_flying_object) (wiki_military_watch #9, 769 views, 0.8x vs prior-days avg)
+- [Directed-energy weapon](https://en.wikipedia.org/wiki/Directed-energy_weapon) (wiki_military_watch #10, 448 views, 1.0x vs prior-days avg)
+
 ## Happened in the last 7 days (space, NASA, DoD, AARO)
 
 - 2026-11-20 [Curiosity Spots Drifting Twilight Clouds](https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/) (spaceflight_news)
