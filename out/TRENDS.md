@@ -1,4 +1,4 @@
-# Trends Radar: 2026-11-22 06:19 PM ET
+# Trends Radar: 2026-11-22 08:39 PM ET
 
 Machine-readable: https://trends-radar.pascalicchio.workers.dev/trends.json · Dashboard: https://trends-radar.pascalicchio.workers.dev/
 
@@ -8,10 +8,10 @@ Machine-readable: https://trends-radar.pascalicchio.workers.dev/trends.json · D
 
 - **hackernews**: ok (60 items)
 - **wikipedia**: ok (40 items) - most-read for 2026-11-21Z
-- **googlenews**: ok (246 items)
+- **googlenews**: ok (219 items) - HEALTH: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVlZUS0FBUAE?hl=en-US&gl=US&ceid=US:en
 - **googletrends**: ok (30 items)
 - **reddit**: blocked (0 items) - Waiting for REDDIT_CLIENT_ID + REDDIT_CLIENT_SECRET (Reddit API access needs approval under the Responsible Builder Policy). Anonymous JSON/RSS returns 403 from the box, Cloudflare and GitHub Actions.
-- **x**: ok (357 items) - snapshot captured 2026-11-22T23:19:41+00:00 (0h ago)
+- **x**: ok (357 items) - snapshot captured 2026-11-22T23:19:41+00:00 (2h ago)
 - **youtube**: ok (98 items) - US/education: notFound
 - **feed:snopes**: ok (20 items)
 - **feed:afp_factcheck**: ok (40 items) - factcheck.afp.com RSS returns 403; read via Google News site: search
@@ -22,7 +22,7 @@ Machine-readable: https://trends-radar.pascalicchio.workers.dev/trends.json · D
 - **feed:smithsonian**: ok (10 items)
 - **feed:atlasobscura**: ok (27 items)
 - **feed:coasttocoast**: ok (40 items) - coasttocoastam.com RSS is malformed; read via Google News site: search
-- **feed:gnews_es**: ok (31 items)
+- **feed:gnews_es**: ok (30 items)
 - **feed:gnews_pt**: ok (34 items)
 - **feed:wiki_es**: ok (40 items)
 - **feed:wiki_pt**: ok (40 items)
@@ -32,12 +32,12 @@ Machine-readable: https://trends-radar.pascalicchio.workers.dev/trends.json · D
 - **feed:lichess_broadcasts**: ok (25 items)
 - **feed:wiki_chess_watch**: ok (13 items)
 - **feed:gnews_chess_en**: ok (40 items)
-- **feed:gnews_xadrez_pt**: ok (38 items)
+- **feed:gnews_xadrez_pt**: ok (35 items)
 - **feed:gnews_ajedrez_es**: ok (40 items)
 - **feed:gnews_overtourism**: ok (40 items)
 - **feed:gnews_airlines**: ok (40 items)
-- **feed:gnews_visa**: ok (33 items)
-- **feed:gnews_travel_news**: ok (30 items)
+- **feed:gnews_visa**: ok (34 items)
+- **feed:gnews_travel_news**: ok (31 items)
 - **feed:gnews_christmas_markets**: ok (40 items)
 - **feed:wiki_travel_watch**: ok (8 items)
 - **feed:wikivoyage_top**: ok (40 items)
@@ -46,11 +46,11 @@ Machine-readable: https://trends-radar.pascalicchio.workers.dev/trends.json · D
 - **feed:dod_releases**: ok (20 items)
 - **feed:aaro_news**: ok (8 items) - aaro.mil returns 403; UAP/AARO news via Google News search
 - **feed:gnews_uap**: ok (40 items)
-- **feed:gnews_declassified**: ok (17 items)
+- **feed:gnews_declassified**: ok (19 items)
 - **feed:gnews_weapons_tech**: ok (40 items)
 - **feed:gnews_sof**: ok (40 items)
 - **feed:wiki_military_watch**: ok (16 items)
-- **wikidata_entity_typing**: ok (175 items) - 200 Wikimedia API calls, 0 failed
+- **wikidata_entity_typing**: ok (178 items) - 204 Wikimedia API calls, 0 failed
 - **curated**: ok (13 items)
 - **nager_holidays**: ok (3 items)
 - **hebcal**: ok (1 items)
@@ -63,20 +63,19 @@ Machine-readable: https://trends-radar.pascalicchio.workers.dev/trends.json · D
 
 1. **Riemann hypothesis** (heat 100.0) - best fit: intern-broke-it; footage: high
    - angle hint: Skit: the intern lets the AI handle Riemann hypothesis... what could go wrong
-2. **El Chapo Isidro** (heat 83.6) - best fit: none; footage: none-found
-3. **Grand Theft Auto VI** (heat 72.4) - best fit: none; footage: medium
-4. **Thanksgiving** (heat 70.9) - best fit: plan-not-panic; footage: high
-   - angle hint: Calm 60-second checklist: what Thanksgiving means for your home and the 3 things to do before it hits
-5. **Liverpool** (heat 70.9) - best fit: none; footage: high
+2. **Brasil** (heat 94.0) - best fit: none; footage: high
+3. **49Ers** (heat 86.6) - best fit: none; footage: medium
+4. **El Chapo Isidro** (heat 74.5) - best fit: none; footage: none-found
+5. **Eagles** (heat 73.4) - best fit: none; footage: high
 
 ## Channel picks (top 5 by heat with channel fit)
 
-**Go There Instead** (`go-there-instead`): #4 [Thanksgiving](https://x.com/search?q=Thanksgiving) (heat 70.9, fit 90); #38 [South Korea](https://en.wikivoyage.org/wiki/South_Korea) (heat 40.9, fit 90); #56 [Ukrainian American](https://news.google.com/rss/articles/CBMilgFBVV95cUxPc2ZpMkZ3bUdURWVXdmMzYVlDaTdzNDlzdl82SFNhY1BpT0lrVkpUUkwxT0N0VDdvUEU4N3VDWVEwTE1UR0ZEcHZKOTBvSzFlSktYdFpoZzNwWnlQOXh4RGJBWHdqYVpucm5XVjJmclc0RVdUaHVXSnRKY3NEeU5MMGwwYnUtd2huY3RER0ZMUC1OZ0VXZHc?oc=5) (heat 29.9, fit 90); #72 [State Department](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdWhNTG8yeENZNURLd0oxN29RMG5sTmxZelhUQ0FuT1hTZzgyN0k1R054SVptWmdJUV84dmpTZ0d5ZzVvZUxXcHBxUlNWc0tzZ2poZXVvV0o4TFRleVZLQ3VzUWdXcDlISUtCZ2V0bXJranhGdzJJVGtuMWIyVXN2U1llM3hJTUZQR3I0Uzk0Z0JEVlFIbm96eFRkd0tLNEhEeFlTSTdLeXJWZERLYktpczJzdlBvREZyUDh0ZzlkMnZKX3JxY2w0dGtsNVprZ0xBeEE?oc=5) (heat 27.8, fit 90); #101 [Saudi Arabia](https://en.wikivoyage.org/wiki/Saudi_Arabia) (heat 24.3, fit 90)
-**The Intern Broke It** (`intern-broke-it`): #1 [Riemann hypothesis](https://news.ycombinator.com/item?id=50574968) (heat 100.0, fit 90); #62 [Trump Administration Approved](https://news.google.com/rss/articles/CBMimgFBVV95cUxQbVVwT0ViR3ViS1pxSEY1U01ybWJkT05wLTVwcGRHVXhVWlRFc0IwUGhYNjlISU9GZXJyT0NldmhFbk1XdDRXa3ZlS0xud1cwYUdqUzZxbUFiOW8zNElHd2FfdFFMWi03aWlqRG1GNWRsLTdldzJKSi11X3N6dS1KakR1NFQxbG04bGUzcTZfamZVaEMtZWdkQXFR?oc=5) (heat 29.4, fit 90); #71 [AI Agents](https://news.ycombinator.com/item?id=50593481) (heat 27.9, fit 98); #74 [Local AI](https://news.ycombinator.com/item?id=50603845) (heat 27.5, fit 53); #85 [AI Safety](https://x.com/i/trending/2124555482450846020) (heat 26.2, fit 90)
-**Plan Not Panic** (`plan-not-panic`): #4 [Thanksgiving](https://x.com/search?q=Thanksgiving) (heat 70.9, fit 100); #224 [Fact Check: Mass blackout warning attributed online to Britain's National Grid is fake](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWlRlODhOb1h4YzVOcEZrb0VlWU1jUHI3VEE1VHFNMkU2WkxyRUV2OHlHdHJmUHNOQ3k0cmtrbnYta09FeEpfX0ZXaFR4QVY5SjRVaEtOdVhyLUlWenVTZzZtY2Vic3VRaWZEZzFIX1JXQVc0LWpSWGdGUFhQMzhrTXpfNFB6R2tfdGZYZTlhY2k2Rjl1VVNfVlNrbFJqTWxfeHF3eU1ZOFpJbTgzUmFiQ3pJQlZpa3Z2?oc=5) (heat 17.5, fit 45); #259 [Child who tested positive for measles has died, Virginia health officials report](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZEFXUmh6U2J2VXZhM2tlal9RYW50R3lFVC1ESVBNQmE0RUR4QnpsbW9RVG00T1FOQkN3MU1reDhUN0pMOU4zYUo3enZubWNvOUg5WEFweHRvZ0FUSmdfLXdDYm1vYy03VFJqaXdGS2M5SkpveGNkRFEzVWM0Y096YnU4SWpGS3JJZVBrM0hFNEo2X1oxbTdIMS1nMGk2VXRXdmtEMVZtMGlrSV9yUFoyUDg4TjRRb2FK?oc=5) (heat 16.6, fit 45); #272 [How misinformation helped measles make its comeback](https://news.google.com/rss/articles/CBMihAFBVV95cUxOaWJCQVRkTHpCa0R4c2toSUFmRXpVVDlEdXdLWnREYXhHbE5IbDcyLTNJVWIybHZIQUZjRHpFT240dTkwVS1uNjNxMXBWeDNOenBFemVmbnZGUEMtNTdTM2tmN2hzRXdRaTNldExmWlViSWtlZzdzcjlpY1RrMDlHczZpRXI?oc=5) (heat 16.3, fit 45); #345 [Bay Area airports, coast under extreme flood threat; residents told to avoid travel](https://news.google.com/rss/articles/CBMizgFBVV95cUxOMDg1WWRFdTlXYklueE0zX2lxUFJwRDg1RmJMWFdFZXpwRXlkQzhBWFNuVG1yd09UdFN0b1NZcUh2dzBHbVdpSEdDamU2X0E3dU1wZ0w2NC02aWZNU1lCaDdubkVNdXNEYTRQN1FSaVhJM04tZFppSTctOG4zXzNYbmJva2NYaXlaVmc4WXBLZ1ZoWU1NUW9iSnZBWHFHclBkd2UyVHYtZm94aXd6M2NhQ0hUNzhvODNHejBqSVdGRF9abHRIakhrV0ZUMlZ0Zw?oc=5) (heat 14.7, fit 45)
-**Silver Paradox** (`silver-paradox`): #33 [Middle East](https://news.google.com/rss/articles/CBMilgFBVV95cUxOeGJHa2xiR2o5Q0Q3Um9QaTl5enEtV01GckowVkdlVXZnZHhWNnZmNXNOMmE4VXNIeFJweWpwQTNHYjV4eEx1WG5QSDR0aHNWOHVkb1RBSmp5bU9NMWR5S0NNQ1Q2dl91bWdzak9LTklkaktTLWo1aVVhMmJXZnkzUE1UNTVlN25hOHZRbm5uWEZ5NTl4N3c?oc=5) (heat 45.6, fit 98); #104 [UFO Files](https://news.google.com/rss/articles/CBMickFVX3lxTE1jbU95MHJXOEd0WUxGSG1BYUtaUXItQUZ6cm5SMmMxUlBZVGhMc3JkeEJfVjhKYXFOdk4xaWtCVzlmUTY1dGQ0MU1lT0FIcHRwZERiT1gzVlh4VG12R0c2UzBWbGNtVGFKbURHcmNNdHBZd9IBd0FVX3lxTE1ISUdSaW9fMkFOMHJ5RjZkLWlUUTJFeWlIUUV1RTBaM1dkVXpCdkRtdDhsbXBvalBIWWpyQ2d3Z3ZJdV9UdWFNUjNYN0RNczk1TVpiYjJDcFpDbUhOcXNJZWpXNnVtdUFVb3RiWW9pT3FXQzA4OUs0?oc=5) (heat 24.0, fit 98); #306 [The iPhone Battery Conspiracy](https://www.youtube.com/watch?v=grBaH7LMnEY) (heat 15.6, fit 45); #518 [Visulahti Wax Museum in Mikkeli, Finland](https://www.atlasobscura.com/places/visulahti-wax-museum) (heat 11.3, fit 45); #560 [City Island Nautical Museum in The Bronx, New York](https://www.atlasobscura.com/places/city-island-nautical-museum) (heat 10.9, fit 45)
-**Chess Blunder Club / Clube do Vacilo** (`chess-blunder-club`): #124 [World Championship Match](https://news.google.com/rss/articles/CBMikAFBVV95cUxNcXR3R0J0bFE1cFhkTXdtM0ZBeW55eFQ4d1hrSmNUMHdGSjVNU0xaQjZzVkpTV0tfQzNQZVpqVGczem05YVBOZUdxaGlxNGk1bXlrdlVCekNpM3BfcDJCQ1FvNm5SMGJKRmt2dHgycl9VdFVtRXhuOS1YZ0hWNzJEMTd2T3I0TFdwYjNHaTZ4VGQ?oc=5) (heat 21.2, fit 90); #520 [World Chess Championship](https://en.wikipedia.org/wiki/World_Chess_Championship_2026) (heat 11.2, fit 90); #521 [Magnus Carlsen](https://en.wikipedia.org/wiki/Magnus_Carlsen) (heat 11.2, fit 90); #537 [Gukesh Dommaraju](https://en.wikipedia.org/wiki/Gukesh_Dommaraju) (heat 11.1, fit 45); #538 [Chess](https://en.wikipedia.org/wiki/Chess) (heat 11.1, fit 45)
-**Military Unclassified** (`military-unclassified`): #33 [Middle East](https://news.google.com/rss/articles/CBMilgFBVV95cUxOeGJHa2xiR2o5Q0Q3Um9QaTl5enEtV01GckowVkdlVXZnZHhWNnZmNXNOMmE4VXNIeFJweWpwQTNHYjV4eEx1WG5QSDR0aHNWOHVkb1RBSmp5bU9NMWR5S0NNQ1Q2dl91bWdzak9LTklkaktTLWo1aVVhMmJXZnkzUE1UNTVlN25hOHZRbm5uWEZ5NTl4N3c?oc=5) (heat 45.6, fit 100); #95 [Pentagon Releases Eighth Batch](https://news.google.com/rss/articles/CBMijgFBVV95cUxORjNxM0ZST2JRVGlVRHpkR1NISWk4OHA2SVkwMzZzZVNPVENTWmNBUl9xd21jb2JWUmhMb05TOWlNSzB5UlFGcGI4am1pcTJ5OVVTaFphYlJrQ0xXVXFoX2dDa2dNRWt2cGhqTGFhMHhzc2t5Q2gwM3h3cUFDNXRtSnE0amE1XzNWOHVneUdR?oc=5) (heat 24.9, fit 90); #96 [Strait of Hormuz](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQm96RExBbGw0OERZX1lMWGxhczRYS00yOXR6Rlg0XzJ0VHk2bEhZVHVFNmFRYllVUjZvZUhqYzFQSnNULTNhRjNhcE5IOXFNQmFOU2RlZlRZYWxrUnVZbWJrWGEyQWF6T1Z4MUUweHVKTmsyNnMtSS1KeHhxeWdoUWlZYU03eUR0X242RVdjNUp5dnU1R3hXRmNwOV94Nkx5UGtySXZMVnV2QQ?oc=5) (heat 24.8, fit 98); #104 [UFO Files](https://news.google.com/rss/articles/CBMickFVX3lxTE1jbU95MHJXOEd0WUxGSG1BYUtaUXItQUZ6cm5SMmMxUlBZVGhMc3JkeEJfVjhKYXFOdk4xaWtCVzlmUTY1dGQ0MU1lT0FIcHRwZERiT1gzVlh4VG12R0c2UzBWbGNtVGFKbURHcmNNdHBZd9IBd0FVX3lxTE1ISUdSaW9fMkFOMHJ5RjZkLWlUUTJFeWlIUUV1RTBaM1dkVXpCdkRtdDhsbXBvalBIWWpyQ2d3Z3ZJdV9UdWFNUjNYN0RNczk1TVpiYjJDcFpDbUhOcXNJZWpXNnVtdUFVb3RiWW9pT3FXQzA4OUs0?oc=5) (heat 24.0, fit 100); #170 [Polícia francesa denuncia saudações nazistas e distribuição de 'Mein Kampf' em escola de oficiais](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNU3VwczJuRkZqRlQtNTFLejBHT0RMVGFHb1k4VXl0RzFrenZxTS1QODZiLVU4ZVJPMjVLeU1FYnhrZFNrc0RaNG8tV1ZuczB6WjhrdHk1SHlScEJ4c1Q1aF9zekhPV2tRTnpEU2Jwc3lVU21yTldiV3hLa25LdmdtSDE4dVBSXzk0ZHN3ZWM2VlVYVWd6MnNVMkdDc1lkNlF3TkZKR2VrcXJOaGV3N24wQmpmSUZDYUM1LVNEUHRReDUxYXhCeDV4eHNEU1B0bmJIc28zYkxmTXZLMFRadXVSakotVW4zTno2VEhoVEZzVGxpWDN1?oc=5) (heat 19.0, fit 45)
+**Go There Instead** (`go-there-instead`): #8 [Thanksgiving](https://x.com/search?q=Thanksgiving) (heat 69.9, fit 90); #9 [South Korea](https://en.wikivoyage.org/wiki/South_Korea) (heat 69.0, fit 90); #70 [State Department](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdWhNTG8yeENZNURLd0oxN29RMG5sTmxZelhUQ0FuT1hTZzgyN0k1R054SVptWmdJUV84dmpTZ0d5ZzVvZUxXcHBxUlNWc0tzZ2poZXVvV0o4TFRleVZLQ3VzUWdXcDlISUtCZ2V0bXJranhGdzJJVGtuMWIyVXN2U1llM3hJTUZQR3I0Uzk0Z0JEVlFIbm96eFRkd0tLNEhEeFlTSTdLeXJWZERLYktpczJzdlBvREZyUDh0ZzlkMnZKX3JxY2w0dGtsNVprZ0xBeEE?oc=5) (heat 28.0, fit 90); #93 [Saudi Arabia](https://en.wikivoyage.org/wiki/Saudi_Arabia) (heat 24.4, fit 90); #105 [Sri Lanka](https://news.google.com/rss/articles/CBMiUEFVX3lxTE90bUhBYS1scXZaSjdMZDNBeVphRENSaldRal9BWXZCWm1lMHQ1ck9QMkg1THFma2xLTERYX1lZTzBqWFVpTFJUQnVvc2ZjSUFm?oc=5) (heat 22.4, fit 90)
+**The Intern Broke It** (`intern-broke-it`): #1 [Riemann hypothesis](https://news.ycombinator.com/item?id=50574968) (heat 100.0, fit 90); #17 [San Francisco](https://news.ycombinator.com/item?id=50603589) (heat 57.4, fit 90); #47 [Black Hole](https://news.google.com/rss/articles/CBMib0FVX3lxTE15dnJIemlDSWJUeldNVXV2RmRrUmpYOUxZM2JtcEdtVGlLa2NlSWZUaVFNbGVjVEZ5WXUxRVd1cnB0ckxJNnZWbnBtNXN2QVZJQ1k4UGoyYkd1RVdOS09qMy1qSHVYRDNLamUxdjVqUQ?oc=5) (heat 36.8, fit 90); #50 [AI Chips](https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ0w1SkRVbmd2cF9NcmxBeHYyeTdIdjQwR3c0VG5KT0g1UHlxRm15S1B4ZE1KbUVXOHhlMXhuS1VOeEFnd3VkQmNES2ZpekFDbERtQzFJUVNYXzJHZ0VvdDlUZFVQTWsxOUlJeWRGQnI4ZElsMTc3eklnUDRBcEFmLXF4Z3o?oc=5) (heat 34.3, fit 90); #73 [Local AI](https://news.ycombinator.com/item?id=50603845) (heat 27.5, fit 53)
+**Plan Not Panic** (`plan-not-panic`): #8 [Thanksgiving](https://x.com/search?q=Thanksgiving) (heat 69.9, fit 100); #140 [Não foi tornado: meteorologistas explicam 'supercélula' e microexplosão que devastaram cidade no RS](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRWtUYUZabnB2WXZUcklVYzQ1dTJvcjlaWWwzZGhHcG5RVDFoNkNmM2ZZTWQtMWZGYUR2RVQtTVkzV0k3ejhhMGk5c2RscW42eXN5NVpwWDVMOGtFTEJwazJ4djhrV1VBanFmQm9VNldBSDcxTlVEM25xQnhaMDRjN3VBOHduNEc3eS1vdXRITm4yUEJSRjBNajJqRXlDNkNCN1l2dFVhYkY5eWxRa1ZXd052RXpkbG0zN0xBWVNRbkQ3NVY5MkstR2FHaDRZZEg2SERVbmhaMVpuZDdZRERUYm40NGx1VjVS0gH3AUFVX3lxTE1YMS13cFBISjhGLU1zOGZlYXQzVzc1eXE4WmhNUmhjTnJaTWdRbnJUaVZCbFU3Y1FweUIwWFV4UFBjS0Q4SnN0MlBaTDE3eEQ3ejFGTndpRE1nVVUxTXJSUFhjaVlJSmdrZURfcURpVGtkVGJOczZlUTFrTzZqZXg1bjhVOE5rLWZ2aDh0dEtCaFhrZktxNVdaZ2RrUlI1bjFEUG5ubWI2Mlc5NnFERGY5TWFBbDk4TlRsSkpKcDVtSXNsaDZoYmExT1piRmRrcVNNYXcyNHp1X2RHSU9qS3J1VUtBcXNHZHBGd0xDU2dYX0dSRzQxRkE?oc=5) (heat 20.0, fit 45); #217 [Fact Check: Mass blackout warning attributed online to Britain's National Grid is fake](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWlRlODhOb1h4YzVOcEZrb0VlWU1jUHI3VEE1VHFNMkU2WkxyRUV2OHlHdHJmUHNOQ3k0cmtrbnYta09FeEpfX0ZXaFR4QVY5SjRVaEtOdVhyLUlWenVTZzZtY2Vic3VRaWZEZzFIX1JXQVc0LWpSWGdGUFhQMzhrTXpfNFB6R2tfdGZYZTlhY2k2Rjl1VVNfVlNrbFJqTWxfeHF3eU1ZOFpJbTgzUmFiQ3pJQlZpa3Z2?oc=5) (heat 17.5, fit 45); #419 [Measles threat downplayed in posts misrepresenting vaccine safety](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UbE4zWUJ6OE9IcHozVzA5WXJPT2wwMXVkYjRaUDlzSUVBUEpSS25FNHBFRmdxVzFCOWhVdGREV3hwNXpLSVVMeVp5NHE2UFZjalRnUjNXVlQ?oc=5) (heat 12.9, fit 45); #434 [There is no evidence a nationwide blackout is expected Nov. 17. Online claims are unfounded](https://news.google.com/rss/articles/CBMimgFBVV95cUxOdWJHM0tpdTU2Nk9rX1VCelBTVFQ5SFFuZ2RXYXNPMXctdlc4cjAyQVBsN1V1M01FMVI5NTlOdVB0ejVqZnRkYm0xelg4YmJlN01DRlZjczYyZks2TEtzOXh2TVltal9WdElDem1qZGphUzZuNG5wX0E2RUQyOGROOVVqb0hJdWYtUkM0NEFkZUJiUFdEUlktdnRn?oc=5) (heat 12.6, fit 45)
+**Silver Paradox** (`silver-paradox`): #34 [Middle East](https://news.google.com/rss/articles/CBMilgFBVV95cUxOeGJHa2xiR2o5Q0Q3Um9QaTl5enEtV01GckowVkdlVXZnZHhWNnZmNXNOMmE4VXNIeFJweWpwQTNHYjV4eEx1WG5QSDR0aHNWOHVkb1RBSmp5bU9NMWR5S0NNQ1Q2dl91bWdzak9LTklkaktTLWo1aVVhMmJXZnkzUE1UNTVlN25hOHZRbm5uWEZ5NTl4N3c?oc=5) (heat 45.3, fit 90); #98 [UFO Files](https://news.google.com/rss/articles/CBMickFVX3lxTE1jbU95MHJXOEd0WUxGSG1BYUtaUXItQUZ6cm5SMmMxUlBZVGhMc3JkeEJfVjhKYXFOdk4xaWtCVzlmUTY1dGQ0MU1lT0FIcHRwZERiT1gzVlh4VG12R0c2UzBWbGNtVGFKbURHcmNNdHBZd9IBd0FVX3lxTE1ISUdSaW9fMkFOMHJ5RjZkLWlUUTJFeWlIUUV1RTBaM1dkVXpCdkRtdDhsbXBvalBIWWpyQ2d3Z3ZJdV9UdWFNUjNYN0RNczk1TVpiYjJDcFpDbUhOcXNJZWpXNnVtdUFVb3RiWW9pT3FXQzA4OUs0?oc=5) (heat 24.0, fit 98); #288 [The iPhone Battery Conspiracy](https://www.youtube.com/watch?v=grBaH7LMnEY) (heat 15.8, fit 45); #495 [Visulahti Wax Museum in Mikkeli, Finland](https://www.atlasobscura.com/places/visulahti-wax-museum) (heat 11.3, fit 45); #535 [Bizarre 'Vampire Camel' Discovered in Museum Fossils Collected Decades Ago](https://news.google.com/rss/articles/CBMiowFBVV95cUxORDRYYkNMc0JUVlAxYndycEhxTmtqbXZYS1oxZ3l6Vno2ampjVXFFZnpXcFNGT3NZV214YkxZR3E3WktRUWF5eDFWbWU5cUJLbWVwTmhWcTZFR2VLc3lEM004RE5tQ0ZicGU2VWNIQnZDSnlud0hYSkRWeXMzYWxnZ2EwQ3NKT1IzYWlZTDlMbHlyR1VJd0Z2TDl1ekx2Q2YtSGFr?oc=5) (heat 10.9, fit 53)
+**Chess Blunder Club / Clube do Vacilo** (`chess-blunder-club`): #155 [World Championship Match](https://www.fide.com/world-championship-match-2026-opens-in-geneva-at-a-historic-venue/) (heat 19.3, fit 90); #498 [World Chess Championship](https://en.wikipedia.org/wiki/World_Chess_Championship_2026) (heat 11.2, fit 90); #499 [Magnus Carlsen](https://en.wikipedia.org/wiki/Magnus_Carlsen) (heat 11.2, fit 90); #514 [Gukesh Dommaraju](https://en.wikipedia.org/wiki/Gukesh_Dommaraju) (heat 11.1, fit 45); #515 [Chess](https://en.wikipedia.org/wiki/Chess) (heat 11.1, fit 45)
+**Military Unclassified** (`military-unclassified`): #34 [Middle East](https://news.google.com/rss/articles/CBMilgFBVV95cUxOeGJHa2xiR2o5Q0Q3Um9QaTl5enEtV01GckowVkdlVXZnZHhWNnZmNXNOMmE4VXNIeFJweWpwQTNHYjV4eEx1WG5QSDR0aHNWOHVkb1RBSmp5bU9NMWR5S0NNQ1Q2dl91bWdzak9LTklkaktTLWo1aVVhMmJXZnkzUE1UNTVlN25hOHZRbm5uWEZ5NTl4N3c?oc=5) (heat 45.3, fit 98); #92 [Pentagon Releases Eighth Batch](https://news.google.com/rss/articles/CBMijgFBVV95cUxORjNxM0ZST2JRVGlVRHpkR1NISWk4OHA2SVkwMzZzZVNPVENTWmNBUl9xd21jb2JWUmhMb05TOWlNSzB5UlFGcGI4am1pcTJ5OVVTaFphYlJrQ0xXVXFoX2dDa2dNRWt2cGhqTGFhMHhzc2t5Q2gwM3h3cUFDNXRtSnE0amE1XzNWOHVneUdR?oc=5) (heat 24.4, fit 90); #98 [UFO Files](https://news.google.com/rss/articles/CBMickFVX3lxTE1jbU95MHJXOEd0WUxGSG1BYUtaUXItQUZ6cm5SMmMxUlBZVGhMc3JkeEJfVjhKYXFOdk4xaWtCVzlmUTY1dGQ0MU1lT0FIcHRwZERiT1gzVlh4VG12R0c2UzBWbGNtVGFKbURHcmNNdHBZd9IBd0FVX3lxTE1ISUdSaW9fMkFOMHJ5RjZkLWlUUTJFeWlIUUV1RTBaM1dkVXpCdkRtdDhsbXBvalBIWWpyQ2d3Z3ZJdV9UdWFNUjNYN0RNczk1TVpiYjJDcFpDbUhOcXNJZWpXNnVtdUFVb3RiWW9pT3FXQzA4OUs0?oc=5) (heat 24.0, fit 100); #167 [Polícia francesa denuncia saudações nazistas e distribuição de 'Mein Kampf' em escola de oficiais](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNU3VwczJuRkZqRlQtNTFLejBHT0RMVGFHb1k4VXl0RzFrenZxTS1QODZiLVU4ZVJPMjVLeU1FYnhrZFNrc0RaNG8tV1ZuczB6WjhrdHk1SHlScEJ4c1Q1aF9zekhPV2tRTnpEU2Jwc3lVU21yTldiV3hLa25LdmdtSDE4dVBSXzk0ZHN3ZWM2VlVYVWd6MnNVMkdDc1lkNlF3TkZKR2VrcXJOaGV3N24wQmpmSUZDYUM1LVNEUHRReDUxYXhCeDV4eHNEU1B0bmJIc28zYkxmTXZLMFRadXVSakotVW4zTno2VEhoVEZzVGxpWDN1?oc=5) (heat 19.0, fit 45); #181 [San Diego](https://news.google.com/rss/articles/CBMimwFBVV95cUxNMUIwSkw3ZnRybElVQ0NDb3hIY2RSZVVXMnlFQ25MRFppLTRSaXJwczVfWEVJS3RpbmVFdEdzaUUyYzhsbjdPT3liM0w0SENvVmkxbnpuMy13ZnRRcUxraEo5eGZQZHo5eGFQOU5CRTNoVzd6SUhOZEJEeHM4NVZNbnZvSUNVNjg2NzVPZFVURFZBRmcxLVZUYnVDOA?oc=5) (heat 18.4, fit 98)
 
 ### Niche feed: go-there-instead
 
@@ -142,6 +141,7 @@ Machine-readable: https://trends-radar.pascalicchio.workers.dev/trends.json · D
 
 ## Desk: factcheck
 
+- [Does new Etsy policy allow AI training on artists' work?](https://www.snopes.com/news/2026/11/23/etsy-ai-policy-artists/) (snopes)
 - [25 rumors about hacks and cyberattacks, fact-checked](https://www.snopes.com/collections/coverage-hacking-cyberattacks/) (snopes)
 - [Did US join Russia in abstaining from vote on UN resolution to protect women and girls?](https://www.snopes.com/fact-check/us-russia-un-womens-rights-resolution/) (snopes)
 - [Did Elon Musk once describe himself as 'dark, gothic MAGA'?](https://www.snopes.com/fact-check/elon-musk-dark-gothic-maga/) (snopes)
@@ -153,7 +153,6 @@ Machine-readable: https://trends-radar.pascalicchio.workers.dev/trends.json · D
 - [Can the 'pink salt trick' help with weight loss?](https://www.snopes.com/fact-check/pink-salt-weight-loss-trick/) (snopes)
 - [Did Trump say planes will have to 'fly a little bit slower'?](https://www.snopes.com/fact-check/trump-planes-fly-little-slower/) (snopes)
 - [6 stories about Transportation Secretary Sean Duffy](https://www.snopes.com/collections/transportation-sean-duffy-fact-check/) (snopes)
-- [Did Trump ally order Russian flag to be displayed in Atlanta? What we know](https://www.snopes.com/news/2026/11/19/trump-ally-russian-flag-atlanta/) (snopes)
 
 ## Desk: oddities
 
@@ -173,146 +172,148 @@ Machine-readable: https://trends-radar.pascalicchio.workers.dev/trends.json · D
 ## Hot now
 
 ### 1. Riemann hypothesis  (heat 100.0, steady)
-- Why: 4 source(s): googlenews, hackernews, oddities, wikipedia; Wikipedia views 5.2x vs prior 4-day avg; 388,288 views, 5.2x vs prior 4-day avg; Business #16, 5 outlets in cluster; 2905 pts, 2085 comments, 57h old
+- Why: 4 source(s): googlenews, hackernews, oddities, wikipedia; Wikipedia views 5.2x vs prior 4-day avg; 388,288 views, 5.2x vs prior 4-day avg; Business #16, 5 outlets in cluster; 2907 pts, 2088 comments, 59h old
 - Fit: TIBI 90
 - Angle hint (intern-broke-it): Skit: the intern lets the AI handle Riemann hypothesis... what could go wrong
 - Footage (info only): high - Wikimedia Commons (video): 142; Internet Archive (movies): 6; NASA Image & Video Library (video): 0; Library of Congress (film & video): 0
-- Links: [hackernews](https://news.ycombinator.com/item?id=50574968) · [wikipedia](https://en.wikipedia.org/wiki/Riemann_hypothesis) · [hackernews](https://news.ycombinator.com/item?id=50589618) · [hackernews](https://news.ycombinator.com/item?id=50604742) · [oddities](https://www.livescience.com/physics-mathematics/mathematics/ai-is-forcing-us-to-rethink-what-mathematical-expertise-means-opinion)
+- Links: [hackernews](https://news.ycombinator.com/item?id=50574968) · [wikipedia](https://en.wikipedia.org/wiki/Riemann_hypothesis) · [hackernews](https://news.ycombinator.com/item?id=50589618) · [oddities](https://www.livescience.com/physics-mathematics/mathematics/ai-is-forcing-us-to-rethink-what-mathematical-expertise-means-opinion) · [googlenews](https://news.google.com/rss/articles/CBMiekFVX3lxTE5JR1c5X2dZenJPXzBPcWhjYmxTRk1mMmtQZ0h0elM2UWpDdkxPSFd0aUs2WmpKbG83OVhYUGlBWjJ1Ul9waEl1WlExWmZaZmZ6dmlEUEdDdkZiN2FPTm5TRXI4VVpJYmk2U2xTdkdWSWJpczUwdks1clV3?oc=5)
 
-### 2. El Chapo Isidro  (heat 83.6, steady)
-- Why: 3 source(s): defense, googlenews, wikipedia; Wikipedia views 243.2x vs prior 4-day avg; trending in 2 regions (MX, es-wiki); wiki_es #1, 61,950 views, 243.2x vs prior-days avg; gnews_es #1, EL PAÍS
+### 2. Brasil  (heat 94.0, steady)
+- Why: 4 source(s): chess, factcheck, googlenews, wikipedia; Wikipedia views 0.9x vs prior 4-day avg; trending in 2 regions (BR, pt-wiki); wiki_pt #22, 3,032 views, 0.9x vs prior-days avg; gnews_pt #15, UOL Economia
+- Fit: no channel fit
+- Footage (info only): high - Wikimedia Commons (video): 16292; Internet Archive (movies): 5902; NASA Image & Video Library (video): 0; Library of Congress (film & video): err
+- Links: [googlenews](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNm9rYld0STd2NTIzWEVEOHVISEFCVjhCbFEwZm9iMlBGclp6VkNoQ0ptNm9Wd2NUOWFIYXBVcldZY19mVGszSTF3N1d0LUx0WnJmMm4tMjY4UDhoa3ZyRll2TmRva3ZtNFlqY181Z2NHVWpSX2MydU1IS3dyVUsyWEZBWlJPa1lId0xGR1pYajBFWjc3Z21zc09QSnk5TnFOOE5TM1Q5cFhSSnVzWGZVNW1fZmMydVU3S0V1Q3FZMWpiWjJudVRvdFZMQjVqVTViYnNjN2xEY0g?oc=5) · [factcheck](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NUk50azZLdW1renRsUm10R2lFTXhfeHNZX2gtU200d1E5MGNDQlZtZ0UyR0JhR0lKaVdoOVFEcjg4SmNsT2FxNzVoX0dBM0JIak1BUnFn?oc=5) · [googlenews](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZzRTT0pqSUxlbk1TODM3bENiTFJNeTBvbUY3cm83ci01Z3doUWNvZDhCYTh3ODZuVlJWVmM0RjQzNTkzYXV4NWxaaVMxNldYTFJTcTZ2b21uZXRmTHdWeE9XX0VLUklMYmtNU0NRVHRjWkJUX1hRU1JBTlNLcTk0N1NfYkh3ZVV3WmRnOVRnSkF2ejNzSGRxNDdHRUx5V3Q4SDV5ZlpibVp1UQ?oc=5) · [chess](https://news.google.com/rss/articles/CBMidkFVX3lxTE9hNW9rdjFMeWc1ZmQtUG9pdEMwNEhYX1ExSHRmWTBEWl9HUjRaTVJjRUluYm9FVFFRdDJvNC1NbFZMYVNzVkFIRXUtNnBjaWV1V2NubTVwalIzR0lPVEs0LXVyVld6ZmZGZlFZZExFd0t2aEdVX3c?oc=5) · [chess](https://news.google.com/rss/articles/CBMihAFBVV95cUxPU19TYzMyN1dUbVY4RWU3dUNGOU1SczJ3YWJ2TmJLbGN0WFFqcWdFMjBYYTEyN1poZTQwVGYwaG9tWHRvMEtERXdycXhYRThjd3c3NDl4YnBRM2V6eGZSX0U4NkFuU0dtV3laN05kZDR6dGtkUmlMaUp6QXBqQ0NfQUhURzI?oc=5)
+
+### 3. 49Ers  (heat 86.6, rising)
+- Why: 3 source(s): googlenews, googletrends, x; trending in 2 regions (GB, MX); GB: 500+ searches; X trend MX #20, 16,161 posts; Sports #4, 5 outlets in cluster
+- Fit: no channel fit
+- Footage (info only): medium - Wikimedia Commons (video): 0; Internet Archive (movies): 251; NASA Image & Video Library (video): 0; Library of Congress (film & video): err
+- Links: [x](https://x.com/search?q=49ers) · [googlenews](https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0NFS3ozVktYV2tvR0o4d09HZ1dhRFRNWlU3Y1F6QmpacXlQYzFmcTBIZEpoeGVpRHVnbFpIODlaYU9yalotczBkUkh0YkhQQjZUSEJYZDRTbmo2UDNocDVrZEtJaDJNRVRjYk8xQXJUVGR6SEZJZWplR0Q2QkFnLVJPWlZVWnJDNGVXTk9zV3JoVEtSWXBvMDdHX2NZWlV6NUtCMEhza3RHWHdi?oc=5) · [googletrends](https://trends.google.com/trends/explore?geo=GB&q=49ers%20vs%20vikings)
+
+### 4. El Chapo Isidro  (heat 74.5, steady)
+- Why: 3 source(s): defense, googlenews, wikipedia; Wikipedia views 243.2x vs prior 4-day avg; wiki_es #1, 61,950 views, 243.2x vs prior-days avg; Nation #14, 5 outlets in cluster
 - Fit: no channel fit
 - Footage (info only): none-found - Wikimedia Commons (video): 0; Internet Archive (movies): 0; NASA Image & Video Library (video): 0; Library of Congress (film & video): err
-- Links: [googlenews](https://news.google.com/rss/articles/CBMisgFBVV95cUxOZFIxQ1ctQjZqNGZQUDIyVm9kLTRSbHFLdDl2WUFGNkJPWXNLbnJrWVJmTFZxUG9Xc3RiZVpUTVNmekZpak9iTEVDZ2FXSlFtTWdsb29CQnEtZVcxM3JyS0czZnd0dVdlTXBBV28zT3ZrVXVNbU1yU3lJQ3VKOTBlbkREYWF5SUpTS3dDTDBmSE5MZDVGdUtBRUZrUmQ5bEs2VU9SZWlEa0ZNTkpBXzNHV1JR0gHGAUFVX3lxTE5vRjJzWUZIdzBubjN6dS16YTFsUm5uZXVwV1lxblJybmpiTEhJWnlsa2N0Mkh4cHIwZUNQay1fQzhVTkJmUTNja05lX3ItcHFlSmhzRHZDLUFJeWRxc2ctbEEtMXZKQzhiZnZqb1M4dHNWcHR4eVV0SDZocXZ2QmNyUWVoSXhyQ2xQb21iNmM4TlF6UTNzZmVqTzlFRmtCM2hvOGZxTzdDLW9xd3lCRXQ0b2FJV0FrMW5HbzhmS0Ztc193M25xQQ?oc=5) · [wikipedia](https://es.wikipedia.org/wiki/El_Chapo_Isidro) · [defense](https://news.google.com/rss/articles/CBMitgFBVV95cUxQQnJSMERqdENGQlNBMVRtemJ1STE4WmRsM0ZKcjA3NFdJdHBaakV5RjNrZ3Y0RXVRb25kZHFfeHk0RDlUSXFSOWdxNzJ2RFNXSU4wbUhEMllVN0pqODh2Z2FLemZkYWduZlZMUldMclhZUi0wUTJteFNpbWY5Z2k5aU1lYjB0VWJUellfbzZEX2NvRk1qZE9SbERnUE9lU3VrT3VfTkZ3MXRpRHdsbVo2UFU3QUpKUQ?oc=5) · [defense](https://news.google.com/rss/articles/CBMikgFBVV95cUxNVlo1Mkh5RlJSeTlGekNOS0REOVh5ZDVsOEpub0xDWUlnVWFwUE55OEFlczNQb01JdlpHTDZoMUFPOGY1NnIzbHpsek85NDViQ2lQMjBfcWI3aUhOWDNaT1I5a3pGUE81NXYyTnBsaFpZLWZWd0hCVkU4S3BPTldYYk03ZU1Fc1FZV1VoZFhmeW11QdIBkgFBVV95cUxNM0lja0h2ZjM4bVpuai0zbmFTN0IzelFzYmdsOEFQSC1DbEhYXzBRNFR6Rnd2NFN6OTQwRHNTZUVNRTA2NUk3Z0I1cndLVmJsc3lSSHluSElKeUhkM1hPOVZRZk9Hc1hFOVRub1JhSHhhcGZEOTNUSDNSM2ZlZ1ZwNG9XamktRlFmVVJXQ2dQOHRPdw?oc=5) · [defense](https://news.google.com/rss/articles/CBMib0FVX3lxTE8ydE05LXNnbU5vWHkxMHN2dnpTZlhJOTA2TG42azVLcmRzYUw1TGpITkkwS0dOcldZVjA3N2d1c1I5Z3NDaDZ2NFdHQTRGNkpiLW9LYzBHTmN2OFRaZ2t3NzF4TlJmVjZIZjZJTGR2OA?oc=5)
+- Links: [wikipedia](https://es.wikipedia.org/wiki/El_Chapo_Isidro) · [googlenews](https://news.google.com/rss/articles/CBMipwFBVV95cUxNSFNBS19DVHhxWHNtRmtoR2J0SXFjSkRGUUJtRFExdTktN2pLLTFmaGFpWGVxU1hLOEtMWEdrMFJaNjZpaUljaFExb2t4UWpTXzlBaTFYckNuclNpbXpaZXQ3aU9fc1paU0NBTWJaZDlOQW0wbE10d1FpS2lZT3JXSWZVdnNEOUJQNUhYMjdOMFVLTmVFY2tJV0ZVYVdscnY5bVVtOTEzSdIBrAFBVV95cUxNdjhYQlRZTXVTR0JPZ25pRExrMGpidTFOUmJZMDJuTGhGRE4xVW9McjdiVlZVNXRYUW13OHctRjdKcW9mX2lkbzYteUpHTHJlX2NCNEp1Wi1laXhxVGF6dzU5bUxCUnFKRjBkSnk0NWRPYnotdTVoNDd1UUdZbXFiendPX2VMT09DdW1FMHRENHd0VndhRG9zX1JaUHQyZEN2M012cXowVk9iVEhC?oc=5) · [defense](https://news.google.com/rss/articles/CBMitgFBVV95cUxQQnJSMERqdENGQlNBMVRtemJ1STE4WmRsM0ZKcjA3NFdJdHBaakV5RjNrZ3Y0RXVRb25kZHFfeHk0RDlUSXFSOWdxNzJ2RFNXSU4wbUhEMllVN0pqODh2Z2FLemZkYWduZlZMUldMclhZUi0wUTJteFNpbWY5Z2k5aU1lYjB0VWJUellfbzZEX2NvRk1qZE9SbERnUE9lU3VrT3VfTkZ3MXRpRHdsbVo2UFU3QUpKUQ?oc=5) · [defense](https://news.google.com/rss/articles/CBMib0FVX3lxTE8ydE05LXNnbU5vWHkxMHN2dnpTZlhJOTA2TG42azVLcmRzYUw1TGpITkkwS0dOcldZVjA3N2d1c1I5Z3NDaDZ2NFdHQTRGNkpiLW9LYzBHTmN2OFRaZ2t3NzF4TlJmVjZIZjZJTGR2OA?oc=5)
 
-### 3. Grand Theft Auto VI  (heat 72.4, steady)
-- Why: 3 source(s): googlenews, wikipedia, youtube; Wikipedia views 0.8x vs prior 4-day avg; Wikipedia views 0.7x vs prior 4-day avg; 393,338 views, 0.8x vs prior 4-day avg; Technology #26, 5 outlets in cluster; YouTube most popular US/overall #40: 300,235 views, 8h old, theRadBrad
+### 5. Eagles  (heat 73.4, steady)
+- Why: 3 source(s): googlenews, oddities, x; trending in 3 regions (MX, US, Worldwide); X trend US #7, 37,250 posts; Sports #8, 5 outlets in cluster
 - Fit: no channel fit
-- Footage (info only): medium - Wikimedia Commons (video): 0; Internet Archive (movies): 105; NASA Image & Video Library (video): 0; Library of Congress (film & video): 0
-- Links: [wikipedia](https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI) · [wikipedia](https://es.wikipedia.org/wiki/Grand_Theft_Auto_VI) · [youtube](https://www.youtube.com/watch?v=VFXleoAq6VA) · [youtube](https://www.youtube.com/watch?v=etycvxXlTSc) · [googlenews](https://news.google.com/rss/articles/CBMihgFBVV95cUxOa0tMT2pTVXYxN01hUVNzbEdhOWk3MFNKbzFsYXRjYVJpc1V5SVRWTXBXZkxhQVl0aGhVcTFGNWRrTWZhVjdlemRoaHFRT2I3ZHVocjlFdWxnZTh0eUNCTFZyZXhpQUt4cFFXZUw1WFZqSG41aTlMSEFtNzBNZUc3Vl9KU19KZw?oc=5)
+- Footage (info only): high - Wikimedia Commons (video): 4778; Internet Archive (movies): 1919; NASA Image & Video Library (video): 9; Library of Congress (film & video): 794
+- Links: [x](https://x.com/search?q=Eagles) · [x](https://x.com/search?q=Eagles) · [x](https://x.com/search?q=Eagles) · [googlenews](https://news.google.com/rss/articles/CBMivwFBVV95cUxPR3ZYNGYyYVI2bmRuT1hIbWFLTzVJbWFfOTVZZmppa1JyWjJRdGhEeEJSbWxRZXpSTHdrbFpGeHp2MGVzZW91MmJGeGd6aGREajFubjdzUkIzRXdSZTVhbEtkUDlTelBHVENoMGFOVGt6MGRSZlRRWUhyTFRlSWV2SjlhQk1WUTE4NlByMkRyNmc3YjVaVkszdFA1N2Q2SVU2YTd5UjhablI2Qk1YaFd6VmZVcG9FdkxkZ0RtU0E5b9IBxwFBVV95cUxNNkdTaUZzMndMOFZlLU1PdkZSb0JId2F3ODBmekZpNUlKYm5MSmFZa0RsLWhxSW9iQkhtellBRmVSVnl1TTBvOWpKeDZYZndtNEpnUzFCY1ZXeXhqUm5oUE1xZnRHeFgzZklZRVZ5WmJ1blZWS2ZIeC1CbmdlTFpXYnBDZWE1clZSc1hZWVlTekRfSDU4Y0oyelZRSzRYQ2VqNXdrR3ZQajY2RHRMMVY2WkwzMVlZS0lJRWJLVzgyQzNqdnpyYzRj?oc=5) · [googlenews](https://news.google.com/rss/articles/CBMieEFVX3lxTFBmOVBYVEVuV0lmc3FCSUd5WlBrXzBKN2xjcVBqT3cxSU0xNkRodE51c0U5UzU3Q3ZqUl9MMkJfZ3J5b01NRm1SMEdPcW9oMl8wX1dBcjRUU09ndVpDTG5jeXJLakg3dEJ5QnZqRTFqWlhpQWRLdGtDYw?oc=5)
 
-### 4. Thanksgiving  (heat 70.9, steady)
-- Why: 3 source(s): googlenews, travel, x; X trend Worldwide #35, 92,606 posts; Top #4, 5 outlets in cluster
-- Fit: PNP 100, GTI 90
-- Angle hint (plan-not-panic): Calm 60-second checklist: what Thanksgiving means for your home and the 3 things to do before it hits
-- Footage (info only): high - Wikimedia Commons (video): 185; Internet Archive (movies): 5278; NASA Image & Video Library (video): 13; Library of Congress (film & video): 553
-- Links: [x](https://x.com/search?q=Thanksgiving) · [googlenews](https://news.google.com/rss/articles/CBMirwFBVV95cUxQMnd2bkdQRzJ0WTFVcENtU2lrOXJMTnVDUlIwMXBDVlpfOVl1ZlplZkpteEU0RHBvRWoyMG1IblE3M0wwRG5MMjBURnItbGlQd25ibG1WcHJ5d3ZiWnRRNFZ6ZzR6S2s1LWdyeEJiV25pRlFaUTBENXE5MWR1MU1Fc0pGN0FHU0JQazV2dk9rVEN0cFNfNTFMcDZkbmgyNWdDb0tnV1RycmZ1aWVpX2o4?oc=5) · [travel](https://news.google.com/rss/articles/CBMiekFVX3lxTE5lZTAtbDBjV0U4UkJSanMyTjRLbGhnXzBDMFBDQm9uYU1JSUphYTlhRjF2Ym5IUjctV2pVWlRnbTEzVGxKZHYzNlhoVTltaHBVd2dyS2w5SG8xZTh1MkpTQ2RheG1Sa0FOMlVhR3RmZHFac1l1SEF4ZjFB0gF_QVVfeXFMTURlaGpHYTFCUXhnM0dWUVd1U1R1cWNfQ21uS0VaYjdGTkNRVGxOQUc5Tm96YkhfR0NBYWc2UVl5VUtOcVF0Nnp4WXk2bHpBSnZHTDJINHVoVldQMkd4SUtVaHFBMmZRTkJodERXcHBUMVp5LXk5VndEV1hKejUwOA?oc=5) · [googlenews](https://news.google.com/rss/articles/CBMivgJBVV95cUxPeVp0UG5Wd2dNZnJDM3VPWUVFTWxzR2dacDRWaS1TRU5adGNsWng2ZG9Ld1FQOU1iTVFINW4wdVI2c2xlZE5ZUENBYVhpb01QUEhaZWF3VUw1Yzl0aUtPMTRsZFRLRndOY3N2VkFETm5LS2c1d3JFSm9MampDQko5d1lzV3NzYVhaQmozUUNnTldwQzBoOFA3RU51dXRsSU9qYmpVNVY2UktmUjYzTUtIeGVTNXFZSnBjUFFoVXFYZkxEbUoySVFXTlkxblNscHQteU9zSEZiVkNiQzRJdXFBTG5nOVNFY2lTVFgxdjNNRUE5RmpNN3k3TDhfdjA1QnVtcmc0eUdOdkswcnZRWW02YnE2Y2RIb1VxR0E0TEU0WUZwVjdLbFhIWktKWWdSWjhxN1BFdGNIODFGRFEtRFE?oc=5) · [travel](https://news.google.com/rss/articles/CBMiggFBVV95cUxNTHR6RUtRZHM4VW45bXYwZnJBb1lBNjQwZGNMYTFUNmczSHROU0FEbHNvVWhuY0kxOW13RkJQRFpOZWYyeWxiN1JzUjdlZWkzZFhmN3hEVHUtVDJ4dmkzbUhBeGVwSEJFdzd5YUtaMnpIZ0VRb1BfcWhVRko2VlJFQmNn?oc=5)
-
-### 5. Liverpool  (heat 70.9, rising)
-- Why: 3 source(s): googlenews, travel, x; trending in 3 regions (GB, MX, Worldwide); X trend Worldwide #40, 212,547 posts; Sports #11, 5 outlets in cluster
+### 6. Liverpool  (heat 73.2, rising)
+- Why: 3 source(s): googlenews, travel, x; trending in 3 regions (GB, MX, Worldwide); X trend Worldwide #40, 212,547 posts; Sports #13, 5 outlets in cluster
 - Fit: no channel fit
-- Footage (info only): high - Wikimedia Commons (video): 280; Internet Archive (movies): 1668; NASA Image & Video Library (video): 0; Library of Congress (film & video): 168
-- Links: [x](https://x.com/search?q=Liverpool) · [x](https://x.com/search?q=Liverpool) · [x](https://x.com/search?q=Liverpool) · [googlenews](https://news.google.com/rss/articles/CBMioAFBVV95cUxObnFhNmg3OTVndEhrV0VNWjV2LVNINzZyUVZ0SmtoaWFJb2dqT0RINHVaLUtpNnRobmZ0dkl6em00dmpqcFowYWpMdUdfWUp3cnpSMFdBUDN6VGlCOUhuX1k5Z1hZNnZDTVo3Z3VMWl9NZFl0YVI1QUJ5c2I0aHlMQkxGQUllcldKeG03RmdUWXNna1BORUVBNE9rWHdvcDhZ?oc=5) · [x](https://x.com/i/trending/2124558154092491249)
+- Footage (info only): high - Wikimedia Commons (video): 280; Internet Archive (movies): 1669; NASA Image & Video Library (video): 0; Library of Congress (film & video): 168
+- Links: [x](https://x.com/search?q=Liverpool) · [x](https://x.com/search?q=Liverpool) · [x](https://x.com/search?q=Liverpool) · [googlenews](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYVZ0TFlHTHdrMzFfT0gxWW0ybTI0QlZvUjlyclVSSFJPRHhiQnBxX2ZNbVRQbzdoR1RTSHdyQ0N4ZVA1eWNjZkwyNVFkeHNIb1JScGJUVzlZZW90UGtXTFlsT1ZnVk1qRXpVaGY4MkFBUkkwZUNqQ2tiaUtFUklianA4U3dYZElMcG5BYzRKdFhteHVUZmt0ckQteURRQVhwTS1udWx0ZVM2bWJteUFvcWg5c1IxQkNsZWFFUnJqbUt2eG5BNFVaVTFBOFBTdU9za3R0M0Nfcw?oc=5) · [x](https://x.com/i/trending/2124558154092491249)
 
-### 6. Carlos Alcaraz  (heat 70.8, rising)
-- Why: 3 source(s): googlenews, wikipedia, x; Wikipedia views 3.9x vs prior 4-day avg; trending in 2 regions (MX, es-wiki); wiki_es #24, 8,132 views, 3.9x vs prior-days avg; X trend MX #46, 41,195 posts; Top #29, 5 outlets in cluster
+### 7. Carlos Alcaraz  (heat 70.1, steady)
+- Why: 3 source(s): googlenews, wikipedia, x; Wikipedia views 3.9x vs prior 4-day avg; trending in 2 regions (MX, es-wiki); wiki_es #24, 8,132 views, 3.9x vs prior-days avg; X trend MX #46, 41,195 posts; Top #30, 5 outlets in cluster
 - Fit: no channel fit
 - Footage (info only): high - Wikimedia Commons (video): 58; Internet Archive (movies): 8; NASA Image & Video Library (video): 0; Library of Congress (film & video): 0
 - Links: [x](https://x.com/search?q=Alcaraz) · [wikipedia](https://es.wikipedia.org/wiki/Carlos_Alcaraz) · [googlenews](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSDFXZDRoT3RaQnpUYnZQLWlkYk95MVJpR1RCQzZHdEhEcFQxQkFMZG1pakdlV0JNTFZ0LTRjbjFabkZJd3hzTVk1WG4tUUM3QzlXQ2E3b3dzaHV3cWl3OENqVHVqT3ZwSklfQlFKSGtEdXItZV9sMTg5OC13YU40YVoyOWh4QUR4TjdYbzYxOFFRZURGSlZqejEzWmMtZ052QUc0Vkp2QkFKU00?oc=5)
 
-### 7. Eagles  (heat 69.5, new)
-- Why: 3 source(s): googlenews, oddities, x; trending in 3 regions (MX, US, Worldwide); X trend US #7, 37,250 posts; Sports #17, 5 outlets in cluster
-- Fit: no channel fit
-- Footage (info only): high - Wikimedia Commons (video): 4778; Internet Archive (movies): 1920; NASA Image & Video Library (video): 9; Library of Congress (film & video): err
-- Links: [x](https://x.com/search?q=Eagles) · [x](https://x.com/search?q=Eagles) · [x](https://x.com/search?q=Eagles) · [googlenews](https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZajE4aVp3elZaMUFEOUFid19yLVJPQUhsUTZSU0tydDMzRDhvQUxFemRXNjJWNHlKR1FlbXUwVkM1NmR6bk5DdzNWbHRKUHFOWDRZNmppYzVFeGFCZjJpN3JpWTliUGFXbkJjRmRUVGtaSHZsalNmcw?oc=5) · [oddities](https://www.livescience.com/archaeology/human-evolution/eagles-hunt-baboons-weighing-up-to-60-pounds-raising-questions-about-whether-birds-of-prey-hunted-ancient-humans)
+### 8. Thanksgiving  (heat 69.9, steady)
+- Why: 3 source(s): googlenews, travel, x; X trend Worldwide #35, 92,606 posts; Top #6, 5 outlets in cluster
+- Fit: PNP 100, GTI 90
+- Angle hint (plan-not-panic): Calm 60-second checklist: what Thanksgiving means for your home and the 3 things to do before it hits
+- Footage (info only): high - Wikimedia Commons (video): 185; Internet Archive (movies): 5278; NASA Image & Video Library (video): 13; Library of Congress (film & video): 553
+- Links: [x](https://x.com/search?q=Thanksgiving) · [googlenews](https://news.google.com/rss/articles/CBMipAFBVV95cUxOdTN5SDFFYmdfeHRkclBXRE5VWUM1TUdDQ2dUbXliQkxlMHJieEhlMGZQaHZIbWFVMW5PYUc5b2NOWGFRZVE3QzFDTUVtV1ozMnZycnBjLXA5b01DNUp0LXBLZkd4NVlaRFlVV2NtOENLb25OODBybGoxZUZIOS1ITnhnaU1XbzEtbGRPMnJNOTRNM2pxeE05a21pSnhIU21sY3NXMdIBqgFBVV95cUxQaktNalpqQ2xmYkJYZEl4a205NTRING51eHpsQ0J5ZGsxamZSTGJkVk8wb1c2TGltSUZTbVctenEwLXlpeXJTNmNWWklqa25DTzQ3SzBTY2ZjTHgxVmZRMnZrOWhQNXkxMll5UnZhYVc0Qkx2TnpybDFlblptMlhHNFBjM0dhVXpiOE5TUWtvdXBRdTU0NzNHSzk5emZTeERvNUszd3QxMmlhdw?oc=5) · [googlenews](https://news.google.com/rss/articles/CBMitAFBVV95cUxQTHRNUWtqWXhKbGxBajNFRURkQlFvYjkwd2pqa2pWWGNpenBnSzlmQkRoLV9BeEx5dDVrdkdlZTJOMmJ5c2gteTJja0VINFZJb3pLX2Nka3lYRksteVM1amZURmEwdWo2MkVwbmNWU04yQ1hXa1pqbmItUXk5NFA1bmJOMU1iTGFnSlhLV1AtLWx3X2FFZ1VIOEJhaER1bnFIS0wzSnhEMkdCdjNMY2poTU1KVUU?oc=5) · [googlenews](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMVZHV1ltWXRUMFBvVGo0bF9YWWZhSWJFQzNQYTFDRzl5Z1ltZmg2elhPVUZPdjVTUFZyTEY5cHFMcmlTa3pEZDBRblZYNjJFbU9zb2NWc01qb0ZPVkRSdWNXT01jUzZYdUhxQkRodDZxeGlwY0cyclpiZkxsWE1senpuUEZORXFBZ0RQSlVEcmZUcVpwR040SF9zMHB2YjA?oc=5) · [travel](https://news.google.com/rss/articles/CBMiekFVX3lxTE5lZTAtbDBjV0U4UkJSanMyTjRLbGhnXzBDMFBDQm9uYU1JSUphYTlhRjF2Ym5IUjctV2pVWlRnbTEzVGxKZHYzNlhoVTltaHBVd2dyS2w5SG8xZTh1MkpTQ2RheG1Sa0FOMlVhR3RmZHFac1l1SEF4ZjFB0gF_QVVfeXFMTURlaGpHYTFCUXhnM0dWUVd1U1R1cWNfQ21uS0VaYjdGTkNRVGxOQUc5Tm96YkhfR0NBYWc2UVl5VUtOcVF0Nnp4WXk2bHpBSnZHTDJINHVoVldQMkd4SUtVaHFBMmZRTkJodERXcHBUMVp5LXk5VndEV1hKejUwOA?oc=5)
 
-### 8. The Body (TV series)  (heat 66.7, rising)
-- Why: 3 source(s): googlenews, hackernews, wikipedia; Wikipedia views 0.9x vs prior 4-day avg; 109,819 views, 0.9x vs prior 4-day avg; Science #10, 3 outlets in cluster; 397 pts, 159 comments, 49h old
-- Fit: no channel fit
-- Footage (info only): high - Wikimedia Commons (video): 4442; Internet Archive (movies): 4; NASA Image & Video Library (video): 1; Library of Congress (film & video): err
-- Links: [wikipedia](https://en.wikipedia.org/wiki/The_Body_(TV_series)) · [hackernews](https://news.ycombinator.com/item?id=50583028) · [googlenews](https://news.google.com/rss/articles/CBMitgFBVV95cUxPSmJ6LTF4MXJzUTRJS3Y5a2xJSDdBd0VMdzJwdUhrOU9ZUFN1NjNUQXdrX3lCMks4cU5WMVRRNU4wdmx2d2tIUDZVZEJxYU5KdWs3bk5QVnM4MUxDbzZiMXlsSTNzZjRTZDAybEE0NUt4NWtwT1Z0bHNMRlhSS2p2Y1M0VU5yZm9TQnJZQUNXRUR3eDhrdEQxQ0VyWV96YVI1cWtGMWljZkJEQ1B3dXE0ZlZIdUNjQQ?oc=5)
+### 9. South Korea  (heat 69.0, rising)
+- Why: 4 source(s): factcheck, googlenews, travel, x; X news story (Entertainment); World #24, 5 outlets in cluster
+- Fit: GTI 90
+- Angle hint (go-there-instead): Travel news in 30s: what South Korea means for your trip, and the smarter place or route to pick instead
+- Footage (info only): high - Wikimedia Commons (video): 2323; Internet Archive (movies): 937; NASA Image & Video Library (video): 2; Library of Congress (film & video): 2597
+- Links: [travel](https://en.wikivoyage.org/wiki/South_Korea) · [travel](https://news.google.com/rss/articles/CBMiowFBVV95cUxPSFhJRTNlRUNXV19oUXpIWExVVlFxdGs4RFI4SHpEWXRsVEd4MWdSRUhpNE9qOGxuYWhxci10dnViUlgxNVJNb3FpcGpXSkV3Z1lKZzNpV2FTaHRYQXo1ZkVmTU5Ta0JsWjFYRkR4OHgzTEQyLXV1NXJyZ1VKU0o3dGR3WmxOdlYxV0gyaV9sUlZmaDlSUzZvVTJGRXpfblA1RERB?oc=5) · [googlenews](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfVEg2UGN4N0ZwMVN0UGZLbUwxTnNiY1RsS010dkxVblNQeEFhWUotR1QzRUM4dUszQ1g4bzNzSnhfLTdYZEQyeXlSSDdMdi1EVk5PU1lSa0RaNUU?oc=5) · [x](https://x.com/i/trending/2124641555361522055) · [factcheck](https://www.snopes.com/fact-check/trader-joes-everything-bagel-seasoning-morphine/)
 
-### 9. Martinez  (heat 66.1, new)
+### 10. Grand Theft Auto VI  (heat 67.6, cooling)
+- Why: 3 source(s): googlenews, wikipedia, youtube; Wikipedia views 0.8x vs prior 4-day avg; Wikipedia views 0.7x vs prior 4-day avg; 393,338 views, 0.8x vs prior 4-day avg; Technology #22, 1 outlets in cluster; YouTube most popular US/overall #41: 361,117 views, 11h old, theRadBrad
+- Fit: no channel fit
+- Footage (info only): medium - Wikimedia Commons (video): 0; Internet Archive (movies): 105; NASA Image & Video Library (video): 0; Library of Congress (film & video): err
+- Links: [wikipedia](https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI) · [youtube](https://www.youtube.com/watch?v=VFXleoAq6VA) · [wikipedia](https://es.wikipedia.org/wiki/Grand_Theft_Auto_VI) · [youtube](https://www.youtube.com/watch?v=etycvxXlTSc) · [wikipedia](https://pt.wikipedia.org/wiki/Grand_Theft_Auto_VI)
+
+### 11. Martinez  (heat 66.2, steady)
 - Why: 3 source(s): chess, factcheck, x; X trend GB #46, 144,441 posts
 - Fit: no channel fit
 - Footage (info only): high - Wikimedia Commons (video): 837; Internet Archive (movies): 1337; NASA Image & Video Library (video): 7; Library of Congress (film & video): err
 - Links: [x](https://x.com/search?q=Martinez) · [factcheck](https://news.google.com/rss/articles/CBMirAFBVV95cUxQcTFXb0lCRFJrZkE5TVdFT1BCVjBFRXBnVDZmZ19KTDN0VXd6NWdCOXVuM1NZdGxEaEg4MjVUY2FodkFWU2JsU3l6eTVXV1Zycl9ZRVJfOGlFajRGTW51X0lUNXotYTFDejJBa3d3TG5YSDEtN2Q4OXc3U1ViSnFPdlhYLTdHcEZLcE1rR1pxeDE5OFZzRUdUbTRqZllYZUJsSFJuNXVWYXRDbHlj?oc=5) · [chess](https://www.chess.com/news/view/9z-wins-3rd-straight-chess-club-showdown)
 
-### 10. Brasil  (heat 64.4, steady)
-- Why: 3 source(s): chess, googlenews, wikipedia; Wikipedia views 0.9x vs prior 4-day avg; trending in 2 regions (BR, pt-wiki); wiki_pt #22, 3,032 views, 0.9x vs prior-days avg; gnews_pt #24, O GLOBO
+### 12. Chivas  (heat 65.9, steady)
+- Why: 3 source(s): googlenews, googletrends, x; MX: 2000+ searches; X trend MX #1, 14,978 posts; gnews_es #27, TUDN
 - Fit: no channel fit
-- Footage (info only): high - Wikimedia Commons (video): 16296; Internet Archive (movies): 5902; NASA Image & Video Library (video): 0; Library of Congress (film & video): err
-- Links: [googlenews](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdGlVNks3R1BBM3M4aWpobmlZcmJ5TEVydnVER0RpSXpHaUlfT1o5Wlh2NXlQSFN6bUw2alpGQ0p5QXp1NDcwdWdmU2FMUmpBMWlIM3NfSTNVcVFsRkZhdWFDX3N5dzNFbTJTQU9Kc3ZydFlJeFA2THJtNDdRQlZ5ajU3S1IzQTBFSTRQWWV0bTRESmJxbHQ5cjA4ZnNoXzMwQ19KRHBBa2hmeFpTUGxvbnlJWUdNTlZ3WUtHVUFfU3hhTU5qcUw5NUFGRXdjcFFRaldaRXln0gHkAUFVX3lxTFBUNzFlZlNLWXlNT1VVa0wtcF9uWTFYRDFPQlBNZXVsYUlyTlN6WEJxUEhwdkVGMU5QS3Rod21FOWNaeS1DZG11b09JRDJqUUtSbm9xMTl3dG0xdHQ2WnZYZGlVTUZJNERNQVJJWTJhV2pRUWlDbko1UTFPUnU4LXZZYThFcWFMczlpM3RJeVZNOW9HT1dYVTd2VjJSb2pycjRWZDhoanpoRGhUMW93bUxOUmJwb3pjUElTSzVxalRvM21uMk1zVk1OR1h3akVJN19Dc1hlbkY1RkRnOGY1MmhaSldDUA?oc=5) · [chess](https://news.google.com/rss/articles/CBMidkFVX3lxTE9hNW9rdjFMeWc1ZmQtUG9pdEMwNEhYX1ExSHRmWTBEWl9HUjRaTVJjRUluYm9FVFFRdDJvNC1NbFZMYVNzVkFIRXUtNnBjaWV1V2NubTVwalIzR0lPVEs0LXVyVld6ZmZGZlFZZExFd0t2aEdVX3c?oc=5) · [chess](https://news.google.com/rss/articles/CBMihAFBVV95cUxPU19TYzMyN1dUbVY4RWU3dUNGOU1SczJ3YWJ2TmJLbGN0WFFqcWdFMjBYYTEyN1poZTQwVGYwaG9tWHRvMEtERXdycXhYRThjd3c3NDl4YnBRM2V6eGZSX0U4NkFuU0dtV3laN05kZDR6dGtkUmlMaUp6QXBqQ0NfQUhURzI?oc=5) · [wikipedia](https://pt.wikipedia.org/wiki/Brasil)
+- Footage (info only): high - Wikimedia Commons (video): 252; Internet Archive (movies): 17; NASA Image & Video Library (video): 0; Library of Congress (film & video): err
+- Links: [googletrends](https://trends.google.com/trends/explore?geo=MX&q=chivas%20de%20guadalajara%20vs%20cruz%20azul%20standings) · [x](https://x.com/search?q=Chivas) · [googlenews](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYlBHeEZReVJHaHN0Wkx6MXFJR1FnbloteTAxam1rUEw3Q3B3d3ZRZHlSOXhFR3NPS2FCeEtMSUR4WHctLWZ5dmczQUFiY0pRdUZLWVY4STNRRi1KaXE4dGt4NENCTTV1U3hoalRXMkREY1BOWkgxcmRSZXpxUkt6OU1ybmg4dmZ3d2gwQ3Y0WGx2MHZZbEpGY2Jnc2JEVEY5ZGxhZFlfb2d3Z05FdWlQM3B6ODlqSm1xQU4zcDFzclY5cDA2Z1ZvaQ?oc=5)
 
-### 11. #Raiders  (heat 62.3, new)
-- Why: 3 source(s): defense, googlenews, x; trending in 2 regions (MX, US); X trend MX #19, 18,635 posts; Entertainment #29, 5 outlets in cluster
+### 13. Iran War  (heat 64.3, steady)
+- Why: 4 source(s): defense, factcheck, googlenews, x; X news story (Politics); World #13, 1 outlets in cluster
+- Fit: no channel fit
+- Footage (info only): high - Wikimedia Commons (video): 173; Internet Archive (movies): 3166; NASA Image & Video Library (video): 0; Library of Congress (film & video): err
+- Links: [defense](https://news.google.com/rss/articles/CBMipgFBVV95cUxOekNWa01sbE41N2kxU1B3dU1mVkpSN0JxWEZ3T2NTUUt2dEFFV182d1dnaGVpV1A5SUFyNTRXNEE5Rk9qYWRRNXExeW04VGxoYUJJc05IT2hmZXY0M2g5c3FkdFlDN05SNUZZYXBwSDVsREs2RU1nSThFaHJlYnNjQzB6akJIQ2V3RHl3bXltN3NRTS1CclVMOXlqb1F3djQwWTNUVlp3?oc=5) · [defense](https://news.google.com/rss/articles/CBMiogFBVV95cUxNYmZiWEcxLU9Xck9JR2h3VDIwa1VETmRCam5zQm1BWmhNcGhZS0pBdi1BZGRZLXhZT3VmUG5wYld2N1gydV8teDVFc0UtNVljakJ5Q1JNRkRUb0dqRDRfX0p4QVBGdkZRaWd3Y1J6aFdZWlZhVGt5LWxzcG9mRHVPYnBXZFFrSXVqYXkxd081YzdlNTN1T05yVTgwZUIzSUhQQWc?oc=5) · [factcheck](https://news.google.com/rss/articles/CBMigAFBVV95cUxQUTlYR1cwWWNiTXpvck50Z0VNT1BDRnB4cmpZeG9hUWt6SUhha2ExZ2VRMXN0UXRhNTdiR2VNbFd2ei1ZYzFQWTBJVGY5QTlzdGNkQWlDMjJ1TlZCR05qZTNWa0oyLUtYZ25kVFZBQmRhVllhMFN1bV9vbC1qT2F3Vg?oc=5) · [x](https://x.com/i/trending/2124541280625549508) · [googlenews](https://news.google.com/rss/articles/CBMihAFBVV95cUxNNzJ5Mkk0bVR3U0FIeVVxV0xfNVJSSVVGbE0xMmlEdGFmUE02bXV3TDRsZlVMZ080Ump0eFpnNjJkcHRpUmItSWN6V2x0YV9CODRSV0JKSWZHZEttMlhpazkwMTZCOW05d3RwbnpkTUV6NDg2QlU1RzFtbkM3TUk2SExmemU?oc=5)
+
+### 14. #Raiders  (heat 63.1, steady)
+- Why: 3 source(s): defense, googlenews, x; trending in 2 regions (MX, US); X trend MX #19, 18,635 posts; Sports #22, 5 outlets in cluster
 - Fit: no channel fit
 - Footage (info only): high - Wikimedia Commons (video): 27; Internet Archive (movies): 2981; NASA Image & Video Library (video): 0; Library of Congress (film & video): err
-- Links: [x](https://x.com/search?q=Raiders) · [x](https://x.com/search?q=%23Raiders) · [defense](https://news.google.com/rss/articles/CBMilAFBVV95cUxQaHFRQ3RpbEEtWTlDZHdQTDNiZVBiNzBOY1ZMbElTNDc5QVlCVTRCRG9YNGF1NDlPeXE2bHFoOXpKNDU4LUV0RkhGRlRmdG1kTWJraFlDZ0RYOVM3dmFHSlpXd1lLWlpTc0hidDdHQmlDOWFoQXBwX2FXSWE2b2JLYUE4NUhxVkVtcmN4TlpfeGpUZllu?oc=5) · [googlenews](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUXlhaWwwUjczUklnYk95Wl9IOGItVzZmaHFzVmowVm8xV0FOeVVSWVBSQ2FSajh3TDVnWmNPeTBxYWctYzFoWk9tSGMzNnJSUUIxWlFkc2pWWXpWNVQ0RlhsdmFFbUZkTFBUVW1vSFYzdFdvWWFZX3lEUUkyQnI5SUk4NnByY2otUVlUc0RjcnVzUUdtWXhSTHRJR3pIYnNCWVZKOEJQMUxsa19zS2c?oc=5)
+- Links: [x](https://x.com/search?q=Raiders) · [x](https://x.com/search?q=%23Raiders) · [googlenews](https://news.google.com/rss/articles/CBMitAFBVV95cUxPTXFkMmhSVTFPYzdmejN5RnpmY0FuZldWc0NfMzE0NkpWdGRPMG5nMklkbXJCVi15VndGVU1pSTAzS0FmcW1lMUtUN2p2bFNUUDZkb2JPanFiQ1NkWlNwemMwelN6QmkteXBuako1M3lNQU93WEdBc29oREJ4SmFiSHF1SzRIeUVNVVBuRWwzOWxubUkxWlltbENqMVE4dWJnRFY3RldfejVTN3BHTWJlZlQwNG4?oc=5) · [googlenews](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUXlhaWwwUjczUklnYk95Wl9IOGItVzZmaHFzVmowVm8xV0FOeVVSWVBSQ2FSajh3TDVnWmNPeTBxYWctYzFoWk9tSGMzNnJSUUIxWlFkc2pWWXpWNVQ0RlhsdmFFbUZkTFBUVW1vSFYzdFdvWWFZX3lEUUkyQnI5SUk4NnByY2otUVlUc0RjcnVzUUdtWXhSTHRJR3pIYnNCWVZKOEJQMUxsa19zS2c?oc=5) · [defense](https://news.google.com/rss/articles/CBMilAFBVV95cUxQaHFRQ3RpbEEtWTlDZHdQTDNiZVBiNzBOY1ZMbElTNDc5QVlCVTRCRG9YNGF1NDlPeXE2bHFoOXpKNDU4LUV0RkhGRlRmdG1kTWJraFlDZ0RYOVM3dmFHSlpXd1lLWlpTc0hidDdHQmlDOWFoQXBwX2FXSWE2b2JLYUE4NUhxVkVtcmN4TlpfeGpUZllu?oc=5)
 
-### 12. Mets  (heat 58.1, steady)
+### 15. Steelers  (heat 63.1, rising)
+- Why: 2 source(s): googlenews, x; trending in 4 regions (GB, MX, US, Worldwide); X trend US #2, 44,952 posts; Sports #6, 5 outlets in cluster
+- Fit: no channel fit
+- Footage (info only): high - Wikimedia Commons (video): 356; Internet Archive (movies): 230; NASA Image & Video Library (video): 3; Library of Congress (film & video): err
+- Links: [x](https://x.com/search?q=Steelers) · [x](https://x.com/search?q=Steelers) · [x](https://x.com/search?q=Steelers) · [x](https://x.com/search?q=Steelers) · [googlenews](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcTlsWVpwOUt2TUxVT08yeTBFNkx6d3piRUNlOUQtZm82RTVwM3lWTlZqeWdJNlIybWVEWHFwdkdHTFBuOFV1anh6Y0tNVVJUczJHRmt6eDByYVdIVS1pb0ctNGVuM1dRdlctSmRxWTl0NTRXSjFVdDdDTDF6dUp0UklKOTBjTDBuTmxtVUpRYnBucWZsQUI5OG0wS0JRT0pRS2pEaVhGOVZhbWJwVHpPY1BUOFhKZF9D?oc=5)
+
+### 16. Mets  (heat 57.8, steady)
 - Why: 2 source(s): googlenews, x; trending in 2 regions (US, Worldwide); X trend US #1, 32,724 posts; Sports #1, 5 outlets in cluster
 - Fit: no channel fit
-- Footage (info only): high - Wikimedia Commons (video): 7484; Internet Archive (movies): 361; NASA Image & Video Library (video): 18; Library of Congress (film & video): err
-- Links: [x](https://x.com/search?q=Mets) · [x](https://x.com/search?q=Mets) · [googlenews](https://news.google.com/rss/articles/CBMiggFBVV95cUxNZkxKa3FYMXRLWk11WXVUX01ONkxiVGZ6cnAwQXNfUEFaV2dyTVdLMGtHYV9yWG5feDA5Y0dtNjFadHI1WmdQUlhJSVJ0NGdhOW5QR3E4ZC1YTVg5amxCVFBPbVVzZVdITmd4VEI3WmJoUnBGbGItc2R3bWMxcU9LczRR?oc=5) · [googlenews](https://news.google.com/rss/articles/CBMiggFBVV95cUxNZkxKa3FYMXRLWk11WXVUX01ONkxiVGZ6cnAwQXNfUEFaV2dyTVdLMGtHYV9yWG5feDA5Y0dtNjFadHI1WmdQUlhJSVJ0NGdhOW5QR3E4ZC1YTVg5amxCVFBPbVVzZVdITmd4VEI3WmJoUnBGbGItc2R3bWMxcU9LczRR?oc=5)
+- Links: [x](https://x.com/search?q=Mets) · [x](https://x.com/search?q=Mets) · [googlenews](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TVFgzbG9pbXI2TFpEY0ZXMng3SExBOFlXX0Y0OExEZWp4dmNLMU84UzE0MjgtU20zLWZobm5ZZVVHTGhqN1VtRG52MUFCaU9QNGkzbWFxTUkybUtlX1AzVw?oc=5) · [googlenews](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TVFgzbG9pbXI2TFpEY0ZXMng3SExBOFlXX0Y0OExEZWp4dmNLMU84UzE0MjgtU20zLWZobm5ZZVVHTGhqN1VtRG52MUFCaU9QNGkzbWFxTUkybUtlX1AzVw?oc=5)
 
-### 13. Broncos  (heat 57.8, new)
-- Why: 2 source(s): googlenews, x; trending in 3 regions (MX, US, Worldwide); X trend US #13, 38,091 posts; Sports #5, 5 outlets in cluster
-- Fit: no channel fit
-- Footage (info only): high - Wikimedia Commons (video): 20; Internet Archive (movies): 255; NASA Image & Video Library (video): 0; Library of Congress (film & video): err
-- Links: [x](https://x.com/search?q=Broncos) · [x](https://x.com/search?q=Broncos) · [x](https://x.com/search?q=Broncos) · [googlenews](https://news.google.com/rss/articles/CBMikwFBVV95cUxQYTl4XzZoM3NxaG5raTlnemhKM2xYSDlpTUt5cERCeVlJQ2FFME5rczRsRk5DMFFnTWpHX3paMmFWRzhUeWtDelpJd1VMUlhCbV9VM2N5LUp3eUhqbE5zUndTcGxvbVZLQU93SEIxTURRc3hRUktFMTJUZHp5MFZxeUthbHNkTG0zdXVkcWxHcjJWa00?oc=5)
+### 17. San Francisco  (heat 57.4, rising)
+- Why: 3 source(s): googlenews, hackernews, x; X news story (Natural Disasters); Top #18, 5 outlets in cluster; 138 pts, 55 comments, 5h old
+- Fit: TIBI 90
+- Angle hint (intern-broke-it): Skit: the intern pushed one tiny change and caused San Francisco
+- Links: [hackernews](https://news.ycombinator.com/item?id=50603589) · [googlenews](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uX24yRlJuUGQzV2xNVzd4Rmt3b0oxbl8zajhpSEUzdUczX1JZSXNrVHNXOVBGT1ZGVnROODJITUZoMUxMNDk1MmVPQWtzaGVja0dXQjRoTU9HTFE?oc=5) · [x](https://x.com/i/trending/2123970145257148794)
 
-### 14. Giants  (heat 56.8, new)
-- Why: 2 source(s): googlenews, x; trending in 2 regions (GB, US); X trend US #3, 33,143 posts; Sports #6, 5 outlets in cluster
+### 18. Giants  (heat 57.2, steady)
+- Why: 2 source(s): googlenews, x; trending in 2 regions (GB, US); X trend US #3, 33,143 posts; Sports #5, 5 outlets in cluster
 - Fit: no channel fit
-- Footage (info only): high - Wikimedia Commons (video): 876; Internet Archive (movies): 1445; NASA Image & Video Library (video): 76; Library of Congress (film & video): err
-- Links: [x](https://x.com/search?q=Giants) · [x](https://x.com/search?q=Giants) · [googlenews](https://news.google.com/rss/articles/CBMizAFBVV95cUxPTGZWcnNVUnZxaV9xWFlRd3pjRU94bm9TSFVicml2NVBYNFVvWWtRN3RDaVFVZXRiTUZuQ0poUXV3STBEd3FsWWUwaFNRNHBWRHJFblNWU0FVX2VtNVFxTkZDeDhtcnAzLU9RWGpyLUFEWDBUZDBOY01KUF9NakR3bVhkRC1XcVM0VGs5UHBPSHAtSnBYVXMzcTY1b3dyTzZCRHZaY1R2ZXBtb04tdGhoSFlmZk5jQ2RlWnVrVUhZY0VKdHhKcmJBak5YQVI?oc=5)
+- Links: [x](https://x.com/search?q=Giants) · [x](https://x.com/search?q=Giants) · [googlenews](https://news.google.com/rss/articles/CBMiugFBVV95cUxNSWJSQzUxOF9oRnppS3pzMmZsMm9mQm5ITTlCT2pWU1pjNkRBS01CQzJ1QWZXVmtBWWx1RmlWN1N3dkFkLWVNWS1xOS00VUVFT212cHdpYlA5N3Y3NTRHYmM3eUpsT0R2YlZBQjlSeDc3bmR3LUJUVVFIVkFCYmZ3WEpRd0FFakVrQkJid2oydFVZWWZTcjFVOEw5a3BfTEpWMzJOSXpPcmpjWFZWR3RUQ3RzUnpZN2t4VHc?oc=5)
 
-### 15. Titans  (heat 55.1, new)
-- Why: 2 source(s): googlenews, x; trending in 3 regions (MX, US, Worldwide); X trend US #20, 27,487 posts; Sports #8, 5 outlets in cluster
+### 19. Lista de campeões do Campeonato Brasileiro de Futebol  (heat 57.1, rising)
+- Why: 2 source(s): googlenews, wikipedia; Wikipedia views 5.2x vs prior 4-day avg; Wikipedia views 4.5x vs prior 4-day avg; wiki_pt #1, 13,561 views, 5.2x vs prior-days avg; gnews_pt #27, ge
 - Fit: no channel fit
-- Footage (info only): high - Wikimedia Commons (video): 159; Internet Archive (movies): 1756; NASA Image & Video Library (video): 21; Library of Congress (film & video): err
+- Links: [googlenews](https://news.google.com/rss/articles/CBMimAFBVV95cUxNNmFKRjM0UGU4US1rM1Q1Ym5OTjN6aUR2UTFwR1ZiblNOblR1YmEyX01EWGwtbmtXNWJQV2pvQXRHTnJuc2lyQXp4Ql8zTGhQVFh6dmpCRFlMSWNQUURvYnBXcnRqelYxTWxrQUhKR1UxQmVURW1JamlwbDc0aXdodzU2YjFZVTU0dnRtS1VVakRxTFVwUy01Qw?oc=5) · [wikipedia](https://pt.wikipedia.org/wiki/Lista_de_campe%C3%B5es_do_Campeonato_Brasileiro_de_Futebol) · [wikipedia](https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol) · [wikipedia](https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2026_-_S%C3%A9rie_A)
+
+### 20. Titans  (heat 54.1, steady)
+- Why: 2 source(s): googlenews, x; trending in 3 regions (MX, US, Worldwide); X trend US #20, 27,487 posts; Sports #10, 5 outlets in cluster
+- Fit: no channel fit
 - Links: [x](https://x.com/search?q=Titans) · [x](https://x.com/search?q=Titans) · [x](https://x.com/search?q=Titans) · [googlenews](https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ0dvdUpJUFJsTEs5N3NIUFFTZFlCMEtaR3FSaXptUWZmNEd1OVBMdFJSb3g0UE15UGlzaUl4b3JSdUVuaGRHM21tbndTcXowd3h3LVZoa0Jrek9YbUVuTWNuNUpmRmFvZ1phbkFCYlRDNmgwdk9oQUF5V3E0Nmg2WVJNVjE3TTd6bllDUDFRcnJyeHBNVk9sMnRSV2FhV19EcWJ6MWJoYnZOaGcxSjdUeXJvMA?oc=5)
 
-### 16. Tupanciretã  (heat 54.3, steady)
-- Why: 2 source(s): googlenews, wikipedia; Wikipedia views 1.8x vs prior 4-day avg; trending in 2 regions (BR, pt-wiki); wiki_pt #2, 13,216 views, 1.8x vs prior-days avg; gnews_pt #3, G1
-- Fit: no channel fit
-- Links: [googlenews](https://news.google.com/rss/articles/CBMilwFBVV95cUxORlRKRUVYaGloUlM1OGhkNTNWMmJBNGRqUkRoZVRxNE93bTFtS0VralhzS01ablBWTE54Vi11V2hOQzJsd0pTSzFCWXFTOXZFMFB1NllpRGNSY2xteEU4Zm12OFB5ZlFoLWVsUmRFeHZ3ODNZMUxzVXB0MVdaWFBLMVBocDdIVTNBTzdLOW9wdDN0dV95VGVZ0gGmAUFVX3lxTE52S0d0WjZaSkVWTEp4aV9FcVBEc1VITUhQRS0xdWJDMUF3NkkzVmgzeWF4cGNiMmwwc19mUFFTc1lIaVEyMzgzeDkyQTRELUloQ3F1UXlFYXdoTGU0M3VGa2FDcUJRR3RZYXN1bjdWTzktelU2aERnblVJbEdxYWcxYzI0X3N6cTVlZ25TNGp0cldDRDBUWnJNd3lzWFh4NEw5V2cwMWc?oc=5) · [wikipedia](https://pt.wikipedia.org/wiki/Tupanciret%C3%A3)
-
-### 17. Chivas  (heat 53.9, new)
-- Why: 3 source(s): googlenews, googletrends, x; MX: 500+ searches; X trend MX #1, 14,978 posts; gnews_es #27, Chivas
-- Fit: no channel fit
-- Links: [x](https://x.com/search?q=Chivas) · [googletrends](https://trends.google.com/trends/explore?geo=MX&q=posiciones%20de%20chivas%20contra%20club%20de%20f%C3%BAtbol%20cruz%20azul) · [googlenews](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMHVNaGQ0cWtQRzZZX3d3Y3BhY0lZWFlrejZoSmVZR2h1Y0ZERnp0VkxtYW1pdUtmRFFXZUtQWGh0b0FVeEdVUWJ4UXZWUHY0MjJTYzA5bHU2V0syQXpqd3NyRWtEcXdEdUhJd29jbTh0UlZ1b2Q5Vk1BeklqcGlGQmNXZ2ViNU1YN05MMmYxeXdwenRyRmJqU0lZVFFobzlQUDRNSi0yOFhIMGNwZzNuSm5FMHNkSmhjWmxJN1NVRzZuYnlrYmFiZVRBSFJURjh2SGc?oc=5)
-
-### 18. Mariella Frostrup  (heat 52.5, rising)
+### 21. Mariella Frostrup  (heat 52.5, steady)
 - Why: 2 source(s): wikipedia, x; Wikipedia views 1.1x vs prior 4-day avg; trending in 2 regions (GB, Worldwide); 63,411 views, 1.1x vs prior 4-day avg; X trend Worldwide #30, 5,659 posts
 - Fit: no channel fit
 - Links: [wikipedia](https://en.wikipedia.org/wiki/Mariella_Frostrup) · [x](https://x.com/search?q=Mariella) · [x](https://x.com/search?q=Mariella)
 
-### 19. River  (heat 52.5, new)
-- Why: 2 source(s): googletrends, x; trending in 2 regions (MX, Worldwide); MX: 500+ searches; X trend Worldwide #43, 117,260 posts
-- Fit: no channel fit
-- Links: [x](https://x.com/search?q=River) · [googletrends](https://trends.google.com/trends/explore?geo=MX&q=river)
-
-### 20. Grand Theft Auto  (heat 50.2, steady)
-- Why: 2 source(s): googlenews, wikipedia; Wikipedia views 0.9x vs prior 4-day avg; Wikipedia views 0.9x vs prior 4-day avg; 103,318 views, 0.9x vs prior 4-day avg; Technology #19, 5 outlets in cluster
+### 22. Grand Theft Auto  (heat 51.5, steady)
+- Why: 2 source(s): googlenews, wikipedia; Wikipedia views 0.9x vs prior 4-day avg; Wikipedia views 0.9x vs prior 4-day avg; 103,318 views, 0.9x vs prior 4-day avg; Technology #16, 5 outlets in cluster
 - Fit: no channel fit
 - Links: [wikipedia](https://en.wikipedia.org/wiki/Grand_Theft_Auto) · [wikipedia](https://en.wikipedia.org/wiki/Grand_Theft_Auto_V) · [googlenews](https://news.google.com/rss/articles/CBMifkFVX3lxTFBCckFoOGhwWmJaRmM2blVNbHA4Qkx2M0RqbS1NME1NTVNxcVplNWVSa3kxZjRva3Njby1iT29lTTlwQzdqeTlFVWpSSDIxdVhMZ2NOd3FRMllaRmVpNG8tY3RtQUhtdTk0MEs4TmE3OV9iV3NhM1BCNVpSYTNtZw?oc=5) · [wikipedia](https://es.wikipedia.org/wiki/Grand_Theft_Auto) · [wikipedia](https://pt.wikipedia.org/wiki/Grand_Theft_Auto)
 
-### 21. Bears  (heat 49.6, new)
-- Why: 2 source(s): googlenews, x; trending in 2 regions (US, Worldwide); X trend US #14, 43,035 posts; Sports #24, 5 outlets in cluster
-- Fit: no channel fit
-- Links: [x](https://x.com/search?q=Bears) · [x](https://x.com/search?q=Bears) · [googlenews](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMUczNklXRFZFMGNpdkNoZW1tV0xJVW5kOFhlT1BuTnNyakVveHF3SXJhYlh3NVREYXFnOXZianJsSXdEU0htLWlYaWZaaTV0aWJVcG1USk5TQk9aX1UzTHJhSWhVNzQxNzVQcUl6Vnd6SF9ZdTJlRThzTGdTZDUwVUtLY2J4RGdUc0ZYQTVna0tfUGxMakhsdVdyS3NIM25zV3N1a2Y5NUZEVEM0djREMlVaVkpGOWZ2dVBYSG9Wc1QwampXUlJVYW9GemFrX0NvREtCZ0pB?oc=5)
-
-### 22. León XIV  (heat 48.8, steady)
-- Why: 2 source(s): factcheck, googlenews; gnews_es #14, Vatican News
+### 23. León XIV  (heat 49.3, steady)
+- Why: 2 source(s): factcheck, googlenews; gnews_es #12, Vatican News
 - Fit: no channel fit
 - Links: [factcheck](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hbGtZc2lVa05DakFBNi1LOVJTVHdfSERjRUtlcmxuRU1uZUtXTkVSZkhrdE1JQ3oyTURrZnhKa0ZXQkZNRF9UUUhvcXdJbklrMFRLR0pR?oc=5) · [googlenews](https://news.google.com/rss/articles/CBMisgFBVV95cUxOMFpOZ1pfQ2dIY1ZjRHZoeF8tZ3hlWDAzbkFlMktuYnJrRmRPaGh4cnprZEF0LVd2QWEzaWQyVW9uSGVhUjR5Z3lCWm82YjBnaTNIaE1yOXBwbkpSMmFzV0pyU0R0UlZSNHJZV1BZTFFWWjdfVlRvLS1VVENETnlVVDJPcUkwalJtZ1pEVENkUGo4YkhwSjhvWElRUng5WFFyQ1Y4Z2ZNalVOamYxckJHY25B?oc=5)
 
-### 23. Miley Cyrus  (heat 48.2, steady)
-- Why: 2 source(s): googlenews, x; X trend MX #43, 20,678 posts; gnews_es #23, TV Azteca
+### 24. Metcalf  (heat 49.1, new)
+- Why: 2 source(s): googlenews, x; trending in 3 regions (MX, US, Worldwide); X trend MX #16, 22,659 posts; Sports #20, 5 outlets in cluster
 - Fit: no channel fit
-- Links: [googlenews](https://news.google.com/rss/articles/CBMivwFBVV95cUxPZWtBUk9rVE5pMmlvSW5vM2xRcmlzdE5MVkI0enZRNWVjR3MxbUprSE9iek9ZbmZBTWtZNG9jVjFHSXV2VXV1QXJzcnJzZDR4eXJUSl95a2xVQzBRSURqSEktQzc5cFhpZ3gteUwzZjdWUHVZX0tIcndmUnBJRnhWRFVfTzVKYUU1S0FtUEw1Q0Vzbm1lV2FxMy1TVmRSSDhrVzRPNkZQdGROYzRMTDRMVTdteGlVNzdqc2swSVR4WQ?oc=5) · [x](https://x.com/search?q=Miley%20Cyrus) · [googlenews](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRjlPeFFGQS04U0djOU9zZnFFMThXWnNwZUFMeXJDakMtaGlrVmhvZ203eUlXLVJ2aU1tR3NISDBqTGoyVlItb2ZvWU1VUjZHa3pFSmJMc2tEUGJYQUtmcFNmeF9EZXctUEZja2dCM2VrNXRBM3pDTGF1XzdmaDlmeTBOTlNRUHRaT0R3WVBya2RxZ0ZVTTBfcEtFSWRPV05pX0d5QXNsRlFXQQ?oc=5)
+- Links: [x](https://x.com/search?q=Metcalf) · [x](https://x.com/search?q=DK%20Metcalf) · [x](https://x.com/search?q=DK%20Metcalf) · [googlenews](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV08yYl91Zm9UZ293TURZUllZcE83bks2THZ6dEhzNE1Balc5NWl6bXJOWVc0UkpDWmtDSXg4eGZaaXFYY2xSdkkxNUNua3ZQRTRiSUhlM0pfdDJYZmRqZU4tYjJsWDhmY0dLeUt3OTBPMzVUSTl1TmZRUm5aajNiWmFyVTYxRmNhMHJabDZpNzdQQ0hqa3REdW02VkgyYzkxcGJzZTBHeUxobHF6T2pjTHhqamx3UEUydzdj?oc=5)
 
-### 24. Elon Musk  (heat 48.0, steady)
-- Why: 3 source(s): factcheck, googlenews, x; X news story (Technology, Space); Nation #29, 5 outlets in cluster
+### 25. Seattle  (heat 48.4, steady)
+- Why: 2 source(s): googlenews, x; X trend MX #28, 40,374 posts; Top #5, 5 outlets in cluster
 - Fit: no channel fit
-- Links: [factcheck](https://www.snopes.com/fact-check/elon-musk-dark-gothic-maga/) · [x](https://x.com/i/trending/2124233785906765837) · [googlenews](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWElwNnd4QTdUTEZMWjVXVnMzSGhnMTN0cUU0RUJpV2syVlhoR2tIRWJtQUV4ZHdVN1FWa1M0NFRHaURnU2VlTk5zbThXeC1FVmk0dGtlN2xWRWtTR1BjbGZadzl2YW5EdUR3TFFxS19Eb1ItTWdQVW40emg0Xzl4OHNscGJjSkpvamNr?oc=5)
-
-### 25. Inteligencia Artificial  (heat 47.9, steady)
-- Why: 2 source(s): factcheck, googlenews; gnews_pt #9, G1
-- Fit: no channel fit
-- Links: [googlenews](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNdE4wUDBLemdyQTFQT2dVVFlBZVg0b3NhZ0VZQTJxZzlGckNfUVlfQUFXVkZKQi16ZUg2VjN6Y29pb0RvU0pHWTRYczN4ZUIxMlBSZ1FicVhibmVaRnVMVnBHQTgzcUxFTWdFNjhXcUNVM0JzQWh4U3ZRMXNCMllTRkZHUDJ3NUpJTGZiYnJJaGRNbHNwTDRVZFVhZkRreExReDdkMWh4cjJ6VDJYcFJ3aG1XMDFLbmxrZVBjTm1iNHFCMzNiUHlGTmJfcFhsaDZfQ3BRbGR0b0I1S09FNWtUdm1nNklYcUJ5c3RTZFUxME1QRUdxMFB0M1l1WdIBigJBVV95cUxQZUNnOXhRUVB1OGVESXJZSmo1eXZsdDl3RjlybTd1ZzA5VW9QTGY4eTloa3A3V3VmWWVYNk94UmY0NW1UMklqTXJVbDZ6OU9RWFBubHM1NC0yN3Izdy1HTUt1aFF4R3dhWU95RlJRVGxUclR4YnpvVWZYcm9ENW1xTjFjRXE2QnVfempXbDBCUEQxeFVEbWxrckdsYTV6N0RZNWxubHVFQVdveXRLYk40Sl9nSnV6TzlUTkg3U0l0dzQyaDBLRkltTUc5YWZWcEc4Y1lLZEx3WGx5UDlWTllINWR5M2d4ZWFGcmZVZWg1SksySFBkQThGX0tLcDJWS2hJNFZLZU5XR1FQQQ?oc=5) · [factcheck](https://news.google.com/rss/articles/CBMiVkFVX3lxTE0ybTJBM0hCMTcwbWlBZjVHV2drSC1rbG9lM2hWZ1ZaR0RENGFaOXdKMEVwSUFLeDJJenNubFhxYU5LNF8tMHNrVUU5dXJsWFlGQzBHb3FB?oc=5)
+- Links: [x](https://x.com/search?q=Seattle) · [googlenews](https://news.google.com/rss/articles/CBMihwFBVV95cUxNN2NwVjlxOUYwd0F4QTVvSG16YzZ0cXYyR2p6MF9rWGdJeDlCcDZWZG1kMERsOFh4YzdYMlUzdzV0Y1F5bHUxOGFJWmktV3B3cnpfWC1WcWJfZ3NRaGlRZUpLY1pVdEViVnNwUXhsdUt2eDBORVVpeVFUYUozU3VNR3F0UFFCV00?oc=5) · [googlenews](https://news.google.com/rss/articles/CBMirAFBVV95cUxOdklTVlJacjRWYmN1QU9lRzlNMGkxSF9sRmI1U0RkQmRzbmxCQUFNVmhZZ3lBLURINFlhSVVrWGFxc3BxbVhUZzFJOGRoc1RoaHRuWnZkdUZsa3JmNUtxSGtZYWdxQ0RndTN5dkhIUXNmTF9NcGVFMXB5dFlWLWJpcUs1dHdDZG1sVHFBWTJ6STlwYnZ4Snp1RjVJZmlxejlTZ3FmX1AyVVFaMkhY?oc=5)
 
 ## Coming up (next 8 weeks)
 
@@ -321,22 +322,22 @@ Machine-readable: https://trends-radar.pascalicchio.workers.dev/trends.json · D
 - **2026-11-25** (3d) **Film release: The Further Mis-Adventures of Cliff Booth** - likely heat 84.2; film; Wikipedia 26793/day (x2.59); fit: no channel fit; footage: low; verified: True; [source](https://en.wikipedia.org/wiki/List_of_American_films_of_2026)
 - **2026-11-27** (5d) **Black Friday** - likely heat 83.4; shopping; Wikipedia 8218/day (x2.3); last year peak 82814/day; fit: no channel fit; footage: high; verified: True; [source](https://en.wikipedia.org/wiki/Black_Friday_(shopping))
 - **2026-12-25** (33d) **Film release: Artificial** - likely heat 80.2; film; Wikipedia 12581/day (x3.48); fit: no channel fit; footage: medium; verified: True; [source](https://en.wikipedia.org/wiki/List_of_American_films_of_2026)
-- **2026-12-04** (12d) **Film release: Behemoth!** - likely heat 75.3; film; Wikipedia 7730/day (x2.29); fit: no channel fit; footage: high; verified: True; [source](https://en.wikipedia.org/wiki/List_of_American_films_of_2026)
 - **2026-11-25** (3d) **Film release: Focker-in-Law** - likely heat 74.8; film; Wikipedia 18335/day (x1.83); fit: no channel fit; footage: low; verified: True; [source](https://en.wikipedia.org/wiki/List_of_American_films_of_2026)
+- **2026-12-18** (26d) **Film release: Avengers: Doomsday** - likely heat 72.4; film; Wikipedia 45494/day (x1.44); fit: no channel fit; footage: medium; verified: True; [source](https://en.wikipedia.org/wiki/List_of_American_films_of_2026)
 - **2026-11-30** (8d) **Cyber Monday** - likely heat 71.6; shopping; Wikipedia 728/day (x2.03); last year peak 12096/day; fit: no channel fit; footage: high; verified: True; [source](https://en.wikipedia.org/wiki/Cyber_Monday)
 - **2026-12-25** (33d) **Christmas Day (US federal holiday)** - likely heat 70.9; holiday; Wikipedia 3625/day (x1.44); last year peak 94674/day; fit: no channel fit; footage: high; verified: True; [source](https://date.nager.at/api/v3/PublicHolidays/2026/US)
-- **2027-01-01** (40d) **New Year's Day (US federal holiday)** - likely heat 69.3; holiday; Wikipedia 313/day (x1.04); last year peak 225008/day; fit: no channel fit; footage: high; verified: True; [source](https://date.nager.at/api/v3/PublicHolidays/2027/US)
 - **2026-11-24** (2d) **World Chess Championship 2026 (Gukesh vs Sindarov, Geneva): Game 1** - likely heat 68.6; sports; Wikipedia 3272/day (x2.03); last year peak 1233/day; fit: CBC 90; footage: none-found; verified: True; [source](https://www.fide.com/salesforce-fide-world-championship-match-2026-schedule-format-and-prize-fund-confirmed/)
 - **2026-12-11** (19d) **World Chess Championship 2026: final scheduled classical game (tiebreaks Dec 12 if needed)** - likely heat 67.5; sports; Wikipedia 3272/day (x2.03); last year peak 1557/day; fit: CBC 90; footage: none-found; verified: True; [source](https://www.fide.com/salesforce-fide-world-championship-match-2026-schedule-format-and-prize-fund-confirmed/)
 - **2026-12-04** (12d) **Chanukah begins** - likely heat 64.6; holiday; Wikipedia 2127/day (x1.58); last year peak 7270/day; fit: no channel fit; footage: high; verified: True; [source](https://www.hebcal.com/hebcal?v=1&cfg=json&maj=on&min=off&mod=off&nx=off&year=2026&month=x&ss=off&mf=off&c=off&geo=none&s=off)
 - **2026-12-06** (14d) **College Football Playoff final rankings / bracket release** - likely heat 63.3; sports; last year peak 18597/day; fit: no channel fit; footage: none-found; verified: True; [source](https://en.wikipedia.org/wiki/2026%E2%80%9327_College_Football_Playoff)
 - **2026-12-10** (18d) **Nobel Prize award ceremonies (Stockholm & Oslo)** - likely heat 63.3; awards; Wikipedia 1315/day (x0.71); last year peak 22652/day; fit: no channel fit; footage: high; verified: True; [source](https://en.wikipedia.org/wiki/Nobel_Prize)
-- **2026-12-31** (39d) **New Year's Eve (Times Square ball drop, worldwide celebrations)** - likely heat 62.8; holiday; Wikipedia 181/day (x1.11); last year peak 46850/day; fit: no channel fit; verified: True; [source](https://en.wikipedia.org/wiki/Times_Square_Ball)
+- **2026-12-31** (39d) **New Year's Eve (Times Square ball drop, worldwide celebrations)** - likely heat 62.8; holiday; Wikipedia 181/day (x1.11); last year peak 46850/day; fit: no channel fit; footage: high; verified: True; [source](https://en.wikipedia.org/wiki/Times_Square_Ball)
 - **2026-12-14** (22d) **Geminid meteor shower peak** - likely heat 62.4; astronomy; Wikipedia 119/day (x1.46); last year peak 8810/day; fit: no channel fit; verified: True; [source](https://en.wikipedia.org/wiki/Geminids)
 - **2026-11-30** (8d) **Atlantic hurricane season officially ends** - likely heat 57.9; seasonal; Wikipedia 2829/day (x0.68); last year peak 5964/day; fit: PNP 61; verified: True; [source](https://en.wikipedia.org/wiki/2026_Atlantic_hurricane_season)
-- **2026-12-21** (29d) **Solstice (winter begins, N. Hemisphere) 20:50 UTC** - likely heat 57.8; astronomy; Wikipedia 92/day (x1.16); last year peak 8885/day; fit: no channel fit; verified: True; [source](https://aa.usno.navy.mil/api/seasons?year=2026)
 - **2027-01-10** (49d) **NFL regular season ends** - likely heat 52.8; sports; Wikipedia 4643/day (x1.11); last year peak 3987/day; fit: no channel fit; verified: True; [source](https://en.wikipedia.org/wiki/2026_NFL_season)
 - **2027-01-16** (55d) **NFL playoffs begin** - likely heat 51.3; sports; Wikipedia 4643/day (x1.11); last year peak 5596/day; fit: no channel fit; verified: True; [source](https://en.wikipedia.org/wiki/2026_NFL_season)
+- **2027-01-01** (40d) **New Year's Day (US federal holiday)** - likely heat 41.4; holiday; Wikipedia 313/day (x1.04); fit: no channel fit; verified: True; [source](https://date.nager.at/api/v3/PublicHolidays/2027/US)
+- **2026-12-21** (29d) **Solstice (winter begins, N. Hemisphere) 20:50 UTC** - likely heat 39.5; astronomy; Wikipedia 92/day (x1.16); fit: no channel fit; verified: True; [source](https://aa.usno.navy.mil/api/seasons?year=2026)
 - **2026-11-22** (0d) **Rocket launch: Falcon 9 Block 5 | NROL-136** - likely heat 20.0; launch; fit: no channel fit; verified: True; [source](https://ll.thespacedevs.com/2.2.0/launch/951a341f-236b-42fe-a667-4ab2fcf36eac/)
 - **2026-11-23** (1d) **Rocket launch: Ariane 64 Block 2 | Amazon Leo (LE-04)** - likely heat 20.0; launch; fit: no channel fit; verified: True; [source](https://ll.thespacedevs.com/2.2.0/launch/7bdc412b-c965-4517-a131-f57a01189803/)
 - **2026-11-24** (2d) **Rocket launch: Soyuz 2.1b | Progress MS-36 (97P)** - likely heat 20.0; launch; fit: no channel fit; verified: True; [source](https://ll.thespacedevs.com/2.2.0/launch/8dd5de11-831b-445f-86f0-bffefe0550d9/)
