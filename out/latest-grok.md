@@ -1,6 +1,6 @@
-# X trends + cross-source radar: 2026-11-27 06:24 AM ET
+# X trends + cross-source radar: 2026-11-27 07:09 AM ET
 
-Source: Trends Radar (https://trends-radar.pascalicchio.workers.dev/). X status: ok - snapshot captured 2026-11-27T11:21:41+00:00 (0h ago)
+Source: Trends Radar (https://trends-radar.pascalicchio.workers.dev/). X status: ok - snapshot captured 2026-11-27T11:21:41+00:00 (1h ago)
 
 ## X trends: US
 
@@ -139,28 +139,28 @@ Source: Trends Radar (https://trends-radar.pascalicchio.workers.dev/). X status:
 
 ## Rising international
 
-- **Duran Duran** (heat 100.0; regions: GB, es-wiki, pt-wiki) - 4 source(s): googlenews, wikipedia, x, youtube; Wikipedia views 9.3x vs prior 4-day avg; Wikipedia views 14.8x vs prior 4-day avg; 164,045 views, 9.3x vs prior 4-day avg; X trend GB #15, 48,890 posts; Entertainment #21, 5 outlets in cluster
+- **Duran Duran** (heat 100.0; regions: GB, es-wiki, pt-wiki) - 4 source(s): googlenews, wikipedia, x, youtube; Wikipedia views 9.3x vs prior 4-day avg; Wikipedia views 14.8x vs prior 4-day avg; 164,045 views, 9.3x vs prior 4-day avg; X trend GB #15, 48,890 posts; Entertainment #24, 5 outlets in cluster
 - **Grand Theft Auto VI** (heat 94.0; regions: BR, MX, pt-wiki) - 4 source(s): googlenews, wikipedia, x, youtube; Wikipedia views 0.5x vs prior 4-day avg; Wikipedia views 0.5x vs prior 4-day avg; 123,574 views, 0.5x vs prior 4-day avg; X news story (Other); gnews_pt #21, Omelete
-- **Joe Milton** (heat 86.7; regions: GB, MX, US) - 3 source(s): factcheck, wikipedia, x; Wikipedia views 8.2x vs prior 4-day avg; trending in 3 regions (GB, MX, US); 75,672 views, 8.2x vs prior 4-day avg; X trend US #20, 111,589 posts
+- **Joe Milton** (heat 86.7; regions: GB, MX) - 3 source(s): googlenews, wikipedia, x; Wikipedia views 8.2x vs prior 4-day avg; trending in 2 regions (GB, MX); 75,672 views, 8.2x vs prior 4-day avg; X trend MX #43, 83,704 posts; Sports #6, 5 outlets in cluster
 - **Ada Colau** (heat 86.7; regions: Worldwide, es-wiki) - 3 source(s): factcheck, wikipedia, x; Wikipedia views 11.6x vs prior 4-day avg; trending in 2 regions (Worldwide, es-wiki); wiki_es #1, 89,586 views, 11.6x vs prior-days avg; X trend Worldwide #50, 351,717 posts
 - **Día de Acción de Gracias** (heat 86.7; regions: MX, es-wiki) - 3 source(s): googlenews, wikipedia, x; Wikipedia views 5.4x vs prior 4-day avg; trending in 2 regions (MX, es-wiki); wiki_es #3, 41,595 views, 5.4x vs prior-days avg; X trend MX #19, 16,781 posts; gnews_es #14, Reforma
-- **América** (heat 79.2; regions: MX) - 4 source(s): googlenews, oddities, travel, x; X trend MX #28, 412,761 posts; gnews_es #29, Televisa
-- **Irán** (heat 78.0; regions: MX) - 5 source(s): defense, factcheck, googlenews, googletrends, x; MX: 100+ searches; X news story (News); Top #6, 5 outlets in cluster
-- **Bills** (heat 74.2; regions: MX, US) - 3 source(s): factcheck, googlenews, x; trending in 2 regions (MX, US); X trend US #6, 136,784 posts; Sports #1, 5 outlets in cluster
-- **León** (heat 71.7; regions: MX) - 3 source(s): factcheck, googlenews, x; X trend MX #38, 138,706 posts; gnews_es #24, El Sol de México
-- **Test** (heat 70.8; regions: MX) - 4 source(s): defense, googletrends, oddities, x; MX: 100+ searches; X news story (News)
-- **Brasil** (heat 66.8; regions: BR, pt-wiki) - 3 source(s): chess, googlenews, wikipedia; Wikipedia views 1.0x vs prior 4-day avg; trending in 2 regions (BR, pt-wiki); wiki_pt #12, 3,255 views, 1.0x vs prior-days avg; gnews_pt #1, G1
+- **Irán** (heat 83.5; regions: MX) - 5 source(s): defense, factcheck, googlenews, googletrends, x; MX: 200+ searches; X news story (News); Top #4, 5 outlets in cluster
+- **América** (heat 78.8; regions: MX) - 4 source(s): googlenews, oddities, travel, x; X trend MX #28, 412,761 posts; gnews_es #30, Televisa
 - **Andy Taylor (guitarist)** (heat 66.7; regions: GB, es-wiki, pt-wiki) - 2 source(s): wikipedia, x; Wikipedia views 9.3x vs prior 4-day avg; Wikipedia views 17.7x vs prior 4-day avg; 318,400 views, 9.3x vs prior 4-day avg; X trend GB #21, 15,482 posts
+- **Thanksgiving** (heat 66.7; regions: GB, MX) - 2 source(s): wikipedia, x; Wikipedia views 4.3x vs prior 4-day avg; Wikipedia views 3.5x vs prior 4-day avg; 101,703 views, 4.3x vs prior 4-day avg; X trend MX #1, 3,173,061 posts
+- **Jerry** (heat 57.9; regions: MX, US) - 2 source(s): googlenews, x; trending in 2 regions (MX, US); X trend US #15, 83,674 posts; Sports #7, 5 outlets in cluster
+- **Francisco Aguirre Gómez** (heat 57.4; regions: MX, es-wiki) - 2 source(s): wikipedia, x; Wikipedia views 12.7x vs prior 4-day avg; trending in 2 regions (MX, es-wiki); wiki_es #12, 20,367 views, 12.7x vs prior-days avg; X trend MX #15, 13,885 posts
+- **Ximena Santaolalla** (heat 56.3; regions: MX, es-wiki) - 2 source(s): wikipedia, x; Wikipedia views 5.6x vs prior 4-day avg; trending in 2 regions (MX, es-wiki); wiki_es #23, 8,618 views, 5.6x vs prior-days avg; X trend MX #5, 22,883 posts
 
 ## Cross-source top 5 (by heat)
 
-1. **Duran Duran** (heat 100.0, 4 sources) - 4 source(s): googlenews, wikipedia, x, youtube; Wikipedia views 9.3x vs prior 4-day avg; Wikipedia views 14.8x vs prior 4-day avg; 164,045 views, 9.3x vs prior 4-day avg; X trend GB #15, 48,890 posts; Entertainment #21, 5 outlets in cluster
+1. **Duran Duran** (heat 100.0, 4 sources) - 4 source(s): googlenews, wikipedia, x, youtube; Wikipedia views 9.3x vs prior 4-day avg; Wikipedia views 14.8x vs prior 4-day avg; 164,045 views, 9.3x vs prior 4-day avg; X trend GB #15, 48,890 posts; Entertainment #24, 5 outlets in cluster
    - [wikipedia](https://en.wikipedia.org/wiki/Duran_Duran) · [x](https://x.com/search?q=Duran) · [wikipedia](https://es.wikipedia.org/wiki/Duran_Duran) · [youtube](https://www.youtube.com/watch?v=luyrXq0v-Wo)
 2. **Grand Theft Auto VI** (heat 94.0, 4 sources) - 4 source(s): googlenews, wikipedia, x, youtube; Wikipedia views 0.5x vs prior 4-day avg; Wikipedia views 0.5x vs prior 4-day avg; 123,574 views, 0.5x vs prior 4-day avg; X news story (Other); gnews_pt #21, Omelete
    - [wikipedia](https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI) · [googlenews](https://news.google.com/rss/articles/CBMisAFBVV95cUxQZDN5SEgxVUtGanUzMkVGQlRTWDc5d292bTNuUVNTZkxvVS1LREtJc2o5VF9IenphaTM0X3Z0RVhEZVNLQzAyTGlxRW9laVUtVkwwQ2MzZVQxSkdxajdmTENGQlVrV1NzWkxlQmt0YVo0Z3ZnSW5GWGNvcmRFbWZTbE5wV2h6R3hfcmlHN1JyejRQTUt6Y3dGZ1RjN2NPa2tkOHAxWTRCZ1MwalJ6LVhlSg?oc=5) · [googlenews](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNc1NlUEIxSnF2dGlKZ3RDZWVrYUxRQXI3SUZaRHREcFF4VG02TFl4MnU4RkZnVF9pQTM4X1EyUTRsbnBUWjV6X1k5LWRTTl9YU3ZWd1Y4TTNXRWhmTmNEQ3d5aVc1SzA4RkxWdVFoTnhDc0V6WUZKQkxEdzdYUmpRU3JobFJ5V0E5bEJYSjVNNEJPR3FMek9JeWVMNEN1cTBSRnBWSWI0ZWIzTU9zRWlaMUxQWmw2WVhWUG93eUNUZGhmWmxHYTBfMkM1MmR5c3JxMFVySW9XV2JrWmJoZVNKOF9fLXpoRWNDOEE?oc=5) · [googlenews](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdDY4NTI2ZHdGNUxiZVFpOGlTOEFkb3ZpMGhBaUpXYm16WXpielEwWnc2VXpuWUpUaC10THF1QmRTRGhrNThXc0RocHl4Z0xOUDBvblgxeG1UZmNRNVZkNnJicGlNa1RtZFlPZ2tXVll1ekthQXJWWTBpbE5fdlZIR2N1Sjc2WDlCNGFiYzJhbEhnTFoyVjFJYjlfZmN2WnZadDkyeEhxbkRQUFZzanNuUzhVT25icWNaSmlLVExRa0Voa3MzVW9WOUFSSFFETXVXTklLaEJaOW45Y3U4LW5kNmVjZ1JTWEdrUWZ1czM0UjVUZldaNGl1aQ?oc=5)
-3. **Joe Milton** (heat 86.7, 3 sources) - 3 source(s): factcheck, wikipedia, x; Wikipedia views 8.2x vs prior 4-day avg; trending in 3 regions (GB, MX, US); 75,672 views, 8.2x vs prior 4-day avg; X trend US #20, 111,589 posts
-   - [x](https://x.com/search?q=Milton) · [x](https://x.com/search?q=Joe%20Milton) · [x](https://x.com/search?q=Joe%20Milton) · [wikipedia](https://en.wikipedia.org/wiki/Joe_Milton)
+3. **Joe Milton** (heat 86.7, 3 sources) - 3 source(s): googlenews, wikipedia, x; Wikipedia views 8.2x vs prior 4-day avg; trending in 2 regions (GB, MX); 75,672 views, 8.2x vs prior 4-day avg; X trend MX #43, 83,704 posts; Sports #6, 5 outlets in cluster
+   - [x](https://x.com/search?q=Joe%20Milton) · [x](https://x.com/search?q=Joe%20Milton) · [wikipedia](https://en.wikipedia.org/wiki/Joe_Milton) · [googlenews](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZVR1WV9STXFBUTBXc3FLR0hPVG9VOTNtZ2xtbWp1RTV0WDhWZjMwcWdtc3FyaFVQTUZ6NG1zbE85VEdKTGtZMlJnZWZzODZwdWlzUXhLSWxNUHpIRzZPWUFoTG5udUZwNWZxUDI3UjlmX3h0M3hEY1JxSFNwdENQVHRKT3BWRnZUMEp6VUdFT1FqR2VKeDZJQ2tBaHdfQ1BIc094a3lBV3VSb0ZfclpkUWlFUWs4eGUzdFB0V2ZsRWc?oc=5)
 4. **Ada Colau** (heat 86.7, 3 sources) - 3 source(s): factcheck, wikipedia, x; Wikipedia views 11.6x vs prior 4-day avg; trending in 2 regions (Worldwide, es-wiki); wiki_es #1, 89,586 views, 11.6x vs prior-days avg; X trend Worldwide #50, 351,717 posts
-   - [x](https://x.com/search?q=Colau) · [wikipedia](https://es.wikipedia.org/wiki/Ada_Colau) · [factcheck](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CZHlSZS14NHQwaklHU1Q2czB4dGp5SG9kS2lOS0MxeUljbEl5SWVuRG1rb1Y3Z29mU2hhRXl3ekFrZ0t3elhKNnVwX05IM1NMdEV6aFdR?oc=5)
+   - [x](https://x.com/search?q=Colau) · [factcheck](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CZHlSZS14NHQwaklHU1Q2czB4dGp5SG9kS2lOS0MxeUljbEl5SWVuRG1rb1Y3Z29mU2hhRXl3ekFrZ0t3elhKNnVwX05IM1NMdEV6aFdR?oc=5) · [wikipedia](https://es.wikipedia.org/wiki/Ada_Colau)
 5. **Día de Acción de Gracias** (heat 86.7, 3 sources) - 3 source(s): googlenews, wikipedia, x; Wikipedia views 5.4x vs prior 4-day avg; trending in 2 regions (MX, es-wiki); wiki_es #3, 41,595 views, 5.4x vs prior-days avg; X trend MX #19, 16,781 posts; gnews_es #14, Reforma
    - [googlenews](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRUpPNFBOOUh0Ny1fTGxSVFFWWTRzU0p0WVFBYU9UQk4wV3hSemxib1dsWWtBeVd3TGFxbTk3eEc0alRQZEhCcC1HVnIxU2RNVWx5NU4yS1FONTNrUVR3NE1XOE90M2hWQkx4d2NhLXlHRE13VG5NRGZHTm1pYndIV29DQVNWS0hVdDNmWXdia2tia1VRMFd3?oc=5) · [x](https://x.com/search?q=D%C3%ADa%20de%20Acci%C3%B3n%20de%20Gracias) · [wikipedia](https://es.wikipedia.org/wiki/D%C3%ADa_de_Acci%C3%B3n_de_Gracias)
